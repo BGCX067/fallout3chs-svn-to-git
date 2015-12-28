@@ -1,0 +1,2591 @@
+------------------- CONT ( GenericSafe01 ) -------------------
+
+--- FULL , ITEM_ID: 28014 ---
+保险箱\0
+
+
+------------------- CONT ( GenericSafeFloor01 ) -------------------
+
+--- FULL , ITEM_ID: 28024 ---
+地板上的保险箱\0
+
+
+------------------- CONT ( GenericSafeWall01 ) -------------------
+
+--- FULL , ITEM_ID: 28034 ---
+墙上的保险箱\0
+
+
+------------------- CONT ( GoreBagContainer01 ) -------------------
+
+--- FULL , ITEM_ID: 28044 ---
+网兜\0
+
+
+------------------- CONT ( GoreBagContainer02 ) -------------------
+
+--- FULL , ITEM_ID: 28054 ---
+网兜\0
+
+------------------- CONT ( HD00MegatonMerchantContainer ) -------------------
+
+--- FULL , ITEM_ID: 28064 ---
+锁柜\0
+
+
+------------------- CONT ( HD00MegatonMerchantContainerThemes ) -------------------
+
+--- FULL , ITEM_ID: 28076 ---
+锁柜\0
+
+
+------------------- CONT ( HD00TenpennyMerchantContainer ) -------------------
+
+--- FULL , ITEM_ID: 28083 ---
+锁柜\0
+
+
+------------------- CONT ( HD00TenpennyMerchantContainerThemes ) -------------------
+
+--- FULL , ITEM_ID: 28095 ---
+锁柜\0
+
+
+------------------- CONT ( HD01NukaVendingMachineClean ) -------------------
+
+--- FULL , ITEM_ID: 28102 ---
+原始的自动售货机\0
+
+
+------------------- CONT ( HD02NukaVendingMachineClean ) -------------------
+
+--- FULL , ITEM_ID: 28113 ---
+原始的自动售货机\0
+
+
+
+------------------- CONT ( HollowRockContainer ) -------------------
+
+--- FULL , ITEM_ID: 28124 ---
+中空的岩石\0 空心石头\0
+
+
+------------------- CONT ( HomeModel ) -------------------
+
+--- FULL , ITEM_ID: 28138 ---
+家用模特\0
+
+
+------------------- CONT ( HotelDesk01 ) -------------------
+
+--- FULL , ITEM_ID: 28150 ---
+书桌\0 
+
+
+------------------- CONT ( HotelDesk01Empty ) -------------------
+
+--- FULL , ITEM_ID: 28161 ---
+书桌\0 
+
+------------------- CONT ( HotelWardrobe01 ) -------------------
+
+--- FULL , ITEM_ID: 28170 ---
+衣橱\0
+
+
+------------------- CONT ( HotelWardrobe01Empty ) -------------------
+
+--- FULL , ITEM_ID: 28182 ---
+衣橱\0
+
+
+------------------- CONT ( HubrisComics03DeskOfficeMetal ) -------------------
+
+--- FULL , ITEM_ID: 28191 ---
+书桌\0 
+
+
+------------------- CONT ( IvStandEmptyPacket01 ) -------------------
+
+--- FULL , ITEM_ID: 28203 ---
+四号摊位\0  IV号摊位\0
+
+
+------------------- CONT ( Lawnmower ) -------------------
+
+--- FULL , ITEM_ID: 28213 ---
+割草机\0
+
+
+------------------- CONT ( LenfantSteamerTrunk01 ) -------------------
+
+--- FULL , ITEM_ID: 28223 ---
+行李箱\0
+
+
+------------------- CONT ( LiquorCabinet ) -------------------
+
+--- FULL , ITEM_ID: 28236 ---
+暗格\0
+
+
+------------------- CONT ( LOBEnterpriseCEODesk ) -------------------
+
+--- FULL , ITEM_ID: 28247 ---
+LOB在线教育公司首席执行官写字台\0  LOB实业公司CEO办公桌\0?
+
+
+------------------- CONT ( LOBEZhuRongBriefcase ) -------------------
+
+--- FULL , ITEM_ID: 28258 ---
+L. O. B. Enterprises Secure-Case\0
+LOB在线教育公司保险箱\0?
+
+
+
+------------------- CONT ( Locker01Empty ) -------------------
+
+--- FULL , ITEM_ID: 28270 ---
+锁柜\0
+
+------------------- CONT ( Locker01Factory ) -------------------
+
+--- FULL , ITEM_ID: 28277 ---
+锁柜\0
+
+------------------- CONT ( Locker01Hospital ) -------------------
+
+--- FULL , ITEM_ID: 28287 ---
+锁柜\0
+
+------------------- CONT ( Locker01Kitchen ) -------------------
+
+--- FULL , ITEM_ID: 28297 ---
+锁柜\0
+
+------------------- CONT ( Locker01Library ) -------------------
+
+--- FULL , ITEM_ID: 28307 ---
+锁柜\0
+
+------------------- CONT ( Locker01Metro ) -------------------
+
+--- FULL , ITEM_ID: 28317 ---
+锁柜\0
+
+------------------- CONT ( Locker01Military ) -------------------
+
+--- FULL , ITEM_ID: 28327 ---
+锁柜\0
+
+------------------- CONT ( Locker01Office ) -------------------
+
+--- FULL , ITEM_ID: 28337 ---
+锁柜\0
+
+------------------- CONT ( Locker01School ) -------------------
+
+--- FULL , ITEM_ID: 28347 ---
+锁柜\0
+
+------------------- CONT ( LockerCabinet02 ) -------------------
+
+--- FULL , ITEM_ID: 28357 ---
+暗格\0
+
+
+
+------------------- CONT ( LockerEnclave01 ) -------------------
+
+--- FULL , ITEM_ID: 28364 ---
+锁柜\0
+
+
+------------------- CONT ( LockerEnclave01Empty ) -------------------
+
+--- FULL , ITEM_ID: 28372 ---
+锁柜\0
+
+
+------------------- CONT ( LockerEnclave01RavenRock ) -------------------
+
+--- FULL , ITEM_ID: 28379 ---
+锁柜\0
+
+
+------------------- CONT ( LockerVault01Empty ) -------------------
+
+--- FULL , ITEM_ID: 28388 ---
+锁柜\0
+
+
+------------------- CONT ( LockerVault01Hospital ) -------------------
+
+--- FULL , ITEM_ID: 28395 ---
+锁柜\0
+
+------------------- CONT ( LockerVault01Kitchen ) -------------------
+
+--- FULL , ITEM_ID: 28405 ---
+锁柜\0
+
+------------------- CONT ( LockerVault01Library ) -------------------
+
+--- FULL , ITEM_ID: 28415 ---
+锁柜\0
+
+------------------- CONT ( LockerVault01Military ) -------------------
+
+--- FULL , ITEM_ID: 28425 ---
+锁柜\0
+
+------------------- CONT ( LockerVault01Office ) -------------------
+
+--- FULL , ITEM_ID: 28435 ---
+锁柜\0
+
+------------------- CONT ( LockerVault01School ) -------------------
+
+--- FULL , ITEM_ID: 28445 ---
+锁柜\0
+
+------------------- CONT ( LockerVault01Stimpacks ) -------------------
+
+--- FULL , ITEM_ID: 28456 ---
+锁柜\0
+
+------------------- CONT ( LockerVaultR01Empty ) -------------------
+
+--- FULL , ITEM_ID: 28465 ---
+锁柜\0
+
+------------------- CONT ( LockerVaultR01Factory ) -------------------
+
+--- FULL , ITEM_ID: 28472 ---
+锁柜\0
+
+------------------- CONT ( LockerVaultR01Hospital ) -------------------
+
+--- FULL , ITEM_ID: 28482 ---
+锁柜\0
+
+------------------- CONT ( LockerVaultR01Kitchen ) -------------------
+
+--- FULL , ITEM_ID: 28492 ---
+锁柜\0
+
+------------------- CONT ( LockerVaultR01Library ) -------------------
+
+--- FULL , ITEM_ID: 28502 ---
+锁柜\0
+
+------------------- CONT ( LockerVaultR01Military ) -------------------
+
+--- FULL , ITEM_ID: 28512 ---
+锁柜\0
+
+------------------- CONT ( LockerVaultR01Office ) -------------------
+
+--- FULL , ITEM_ID: 28522 ---
+锁柜\0
+
+------------------- CONT ( LockerVaultR01School ) -------------------
+
+--- FULL , ITEM_ID: 28532 ---
+锁柜\0
+
+------------------- CONT ( LockerVaultUniqueVictoryRifle ) -------------------
+
+--- FULL , ITEM_ID: 28542 ---
+锁柜\0
+
+------------------- CONT ( LootAmmoBox10mm ) -------------------
+
+--- FULL , ITEM_ID: 28553 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBox10mmEnclave ) -------------------
+
+--- FULL , ITEM_ID: 28561 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBox10mmLock ) -------------------
+
+--- FULL , ITEM_ID: 28569 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBox308Calliber ) -------------------
+
+--- FULL , ITEM_ID: 28577 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBox308CalliberLock ) -------------------
+
+--- FULL , ITEM_ID: 28585 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBox32Calliber ) -------------------
+
+--- FULL , ITEM_ID: 28593 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBox32CalliberLock ) -------------------
+
+--- FULL , ITEM_ID: 28601 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBox44Magnum ) -------------------
+
+--- FULL , ITEM_ID: 28609 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBox44MagnumLock ) -------------------
+
+--- FULL , ITEM_ID: 28617 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBox556mm ) -------------------
+
+--- FULL , ITEM_ID: 28625 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBox556mmLock ) -------------------
+
+--- FULL , ITEM_ID: 28633 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBox5mm ) -------------------
+
+--- FULL , ITEM_ID: 28641 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBox5mmBig ) -------------------
+
+--- FULL , ITEM_ID: 28649 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBox5mmBigLock ) -------------------
+
+--- FULL , ITEM_ID: 28657 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBox5mmLock ) -------------------
+
+--- FULL , ITEM_ID: 28665 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxAlienPowerCells ) -------------------
+
+--- FULL , ITEM_ID: 28673 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxBulletsRND ) -------------------
+
+--- FULL , ITEM_ID: 28681 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxBulletsRNDLock ) -------------------
+
+--- FULL , ITEM_ID: 28689 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxElectronChargePacks ) -------------------
+
+--- FULL , ITEM_ID: 28697 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxElectronChargePacksEnclave ) -------------------
+
+--- FULL , ITEM_ID: 28705 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxElectronChargePacksLock ) -------------------
+
+--- FULL , ITEM_ID: 28713 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxFlamerFuel ) -------------------
+
+--- FULL , ITEM_ID: 28721 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxFlamerFuelLock ) -------------------
+
+--- FULL , ITEM_ID: 28729 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxGeneric ) -------------------
+
+--- FULL , ITEM_ID: 28737 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxGenericLock ) -------------------
+
+--- FULL , ITEM_ID: 28745 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxMicroFusionCells ) -------------------
+
+--- FULL , ITEM_ID: 28753 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxMicroFusionCellsEnclave ) -------------------
+
+--- FULL , ITEM_ID: 28761 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxMicroFusionCellsLock ) -------------------
+
+--- FULL , ITEM_ID: 28769 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxMissiles ) -------------------
+
+--- FULL , ITEM_ID: 28777 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxMissilesEnclave ) -------------------
+
+--- FULL , ITEM_ID: 28785 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxMissilesLock ) -------------------
+
+--- FULL , ITEM_ID: 28793 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxPowerCellsRND ) -------------------
+
+--- FULL , ITEM_ID: 28801 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxPowerCellsRNDLock ) -------------------
+
+--- FULL , ITEM_ID: 28809 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxShotgunShells ) -------------------
+
+--- FULL , ITEM_ID: 28817 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxShotgunShellsLock ) -------------------
+
+--- FULL , ITEM_ID: 28825 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxSmallEnergyCells ) -------------------
+
+--- FULL , ITEM_ID: 28833 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxSmallEnergyCellsEnclave ) -------------------
+
+--- FULL , ITEM_ID: 28841 ---
+弹药箱\0
+
+
+------------------- CONT ( LootAmmoBoxSmallEnergyCellsLock ) -------------------
+
+--- FULL , ITEM_ID: 28849 ---
+弹药箱\0
+
+
+------------------- CONT ( LootArmorCombatArmor ) -------------------
+
+--- FULL , ITEM_ID: 28857 ---
+装甲箱\0  
+
+
+------------------- CONT ( LootArmorEnclaveArmor ) -------------------
+
+--- FULL , ITEM_ID: 28868 ---
+装甲箱\0 
+
+------------------- CONT ( LootArmorEnclaveArmorEnclave ) -------------------
+
+--- FULL , ITEM_ID: 28880 ---
+装甲箱\0 
+
+------------------- CONT ( LootArmorLeatherArmor ) -------------------
+
+--- FULL , ITEM_ID: 28890 ---
+装甲箱\0  
+
+------------------- CONT ( LootArmorMetalArmor ) -------------------
+
+--- FULL , ITEM_ID: 28900 ---
+装甲箱\0 
+
+------------------- CONT ( LootArmorMilitaryRND ) -------------------
+
+--- FULL , ITEM_ID: 28911 ---
+装甲箱\0 
+
+------------------- CONT ( LootArmorPowerArmor ) -------------------
+
+--- FULL , ITEM_ID: 28922 ---
+装甲箱\0 
+
+------------------- CONT ( LootArmorRadiationSuit ) -------------------
+
+--- FULL , ITEM_ID: 28934 ---
+Radiation Suit\0
+辐射服衣箱\0?
+
+
+------------------- CONT ( LootArmorRadiationSuitAdv ) -------------------
+
+--- FULL , ITEM_ID: 28944 ---
+辐射服衣箱\0
+
+------------------- CONT ( LootArmorRadiationSuitRND ) -------------------
+
+--- FULL , ITEM_ID: 28954 ---
+辐射服衣箱\0
+
+------------------- CONT ( LootArmorRaider ) -------------------
+
+--- FULL , ITEM_ID: 28964 ---
+装甲箱\0  
+
+------------------- CONT ( LootArmorReconArmor ) -------------------
+
+--- FULL , ITEM_ID: 28974 ---
+装甲箱\0  
+
+------------------- CONT ( LootArmorVaultSecurity ) -------------------
+
+--- FULL , ITEM_ID: 28985 ---
+装甲箱\0  
+
+------------------- CONT ( LootBag ) -------------------
+
+--- FULL , ITEM_ID: 28996 ---
+食品小摊\0
+
+
+------------------- CONT ( LootCashRegister ) -------------------
+
+--- FULL , ITEM_ID: 29015 ---
+收银机\0
+
+
+------------------- CONT ( LootDrugKit ) -------------------
+
+--- FULL , ITEM_ID: 29026 ---
+急救箱\0
+
+
+------------------- CONT ( LootDrugKitLock ) -------------------
+
+--- FULL , ITEM_ID: 29038 ---
+急救箱\0
+
+------------------- CONT ( LootFirstAidKit ) -------------------
+
+--- FULL , ITEM_ID: 29050 ---
+急救箱\0
+
+------------------- CONT ( LootFirstAidKitEnclave ) -------------------
+
+--- FULL , ITEM_ID: 29062 ---
+急救箱\0
+
+------------------- CONT ( LootFirstAidKitLock ) -------------------
+
+--- FULL , ITEM_ID: 29075 ---
+急救箱\0
+
+------------------- CONT ( LootFootlocker01HouseholdLock ) -------------------
+
+--- FULL , ITEM_ID: 29087 ---
+军用小提箱\0
+
+
+------------------- CONT ( LootFootlockerFactoryLock ) -------------------
+
+--- FULL , ITEM_ID: 29099 ---
+私人军用小提箱\0
+
+
+
+------------------- CONT ( LootFootlockerHouseholdLock ) -------------------
+
+--- FULL , ITEM_ID: 29111 ---
+私人军用小提箱\0
+
+------------------- CONT ( LootFootlockerMilitaryLock ) -------------------
+
+--- FULL , ITEM_ID: 29123 ---
+私人军用小提箱\0
+
+
+------------------- CONT ( LootFootlockerOfficeLock ) -------------------
+
+--- FULL , ITEM_ID: 29136 ---
+私人军用小提箱\0
+
+------------------- CONT ( LootGrenadeFrag ) -------------------
+
+--- FULL , ITEM_ID: 29148 ---
+手雷存放箱\0
+
+
+
+------------------- CONT ( LootGrenadePlasma ) -------------------
+
+--- FULL , ITEM_ID: 29157 ---
+手雷存放箱\0
+
+------------------- CONT ( LootGrenadePlasmaEnclave ) -------------------
+
+--- FULL , ITEM_ID: 29167 ---
+手雷存放箱\0
+
+------------------- CONT ( LootGrenadePulse ) -------------------
+
+--- FULL , ITEM_ID: 29177 ---
+手雷存放箱\0
+
+------------------- CONT ( LootGrenadePulseEnclave ) -------------------
+
+--- FULL , ITEM_ID: 29187 ---
+手雷存放箱\0
+
+------------------- CONT ( LootGrenadeRND ) -------------------
+
+--- FULL , ITEM_ID: 29197 ---
+手雷存放箱\0
+
+------------------- CONT ( LootGun10mmPistol ) -------------------
+
+--- FULL , ITEM_ID: 29205 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGun10mmSubmachineGun ) -------------------
+
+--- FULL , ITEM_ID: 29215 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGun32CaliberPistol ) -------------------
+
+--- FULL , ITEM_ID: 29225 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGunAssaultRifle ) -------------------
+
+--- FULL , ITEM_ID: 29235 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGunCabinetMetalAEmpty ) -------------------
+
+--- FULL , ITEM_ID: 29245 ---
+枪支存放暗格\0
+
+------------------- CONT ( LootGunCabinetMetalAPistolLaser ) -------------------
+
+--- FULL , ITEM_ID: 29252 ---
+枪支存放暗格\0
+
+------------------- CONT ( LootGunCabinetMetalAPistolsAll ) -------------------
+
+--- FULL , ITEM_ID: 29261 ---
+枪支存放暗格\0
+
+------------------- CONT ( LootGunCabinetMetalAPistolsGunpowder ) -------------------
+
+--- FULL , ITEM_ID: 29269 ---
+枪支存放暗格\0
+
+------------------- CONT ( LootGunCabinetMetalARiflesAll ) -------------------
+
+--- FULL , ITEM_ID: 29277 ---
+枪支存放暗格\0
+
+------------------- CONT ( LootGunCabinetMetalARiflesGunpowder ) -------------------
+
+--- FULL , ITEM_ID: 29285 ---
+枪支存放暗格\0
+
+------------------- CONT ( LootGunCabinetMetalBPistolLaser ) -------------------
+
+--- FULL , ITEM_ID: 29293 ---
+枪支存放暗格\0
+
+------------------- CONT ( LootGunCabinetMetalBPistolsAll ) -------------------
+
+--- FULL , ITEM_ID: 29302 ---
+枪支存放暗格\0
+
+------------------- CONT ( LootGunCabinetMetalBPistolsGunpowder ) -------------------
+
+--- FULL , ITEM_ID: 29310 ---
+枪支存放暗格\0
+
+------------------- CONT ( LootGunCabinetMetalBRiflesAll ) -------------------
+
+--- FULL , ITEM_ID: 29318 ---
+枪支存放暗格\0
+
+------------------- CONT ( LootGunCabinetMetalBRiflesGunpowder ) -------------------
+
+--- FULL , ITEM_ID: 29326 ---
+枪支存放暗格\0
+
+------------------- CONT ( LootGunCabinetMetalPistolLaser ) -------------------
+
+--- FULL , ITEM_ID: 29334 ---
+暗格\0
+
+
+------------------- CONT ( LootGunCabinetMetalRifleLaser ) -------------------
+
+--- FULL , ITEM_ID: 29342 ---
+暗格\0
+
+
+------------------- CONT ( LootGunCabinetWoodEmpty ) -------------------
+
+--- FULL , ITEM_ID: 29351 ---
+暗格\0
+
+
+------------------- CONT ( LootGunCabinetWoodPistolLaser ) -------------------
+
+--- FULL , ITEM_ID: 29358 ---
+暗格\0
+
+
+------------------- CONT ( LootGunCabinetWoodPistolsAll ) -------------------
+
+--- FULL , ITEM_ID: 29367 ---
+暗格\0
+
+
+------------------- CONT ( LootGunCabinetWoodPistolsGunpowder ) -------------------
+
+--- FULL , ITEM_ID: 29375 ---
+暗格\0
+
+
+------------------- CONT ( LootGunCabinetWoodRifleLaser ) -------------------
+
+--- FULL , ITEM_ID: 29383 ---
+暗格\0
+
+
+------------------- CONT ( LootGunCabinetWoodRiflesAll ) -------------------
+
+--- FULL , ITEM_ID: 29392 ---
+暗格\0
+
+
+------------------- CONT ( LootGunCabinetWoodRiflesGunpowder ) -------------------
+
+--- FULL , ITEM_ID: 29400 ---
+暗格\0
+
+
+------------------- CONT ( LootGunCaseChineseAssaultRifle ) -------------------
+
+--- FULL , ITEM_ID: 29408 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGunCaseChinesePistol ) -------------------
+
+--- FULL , ITEM_ID: 29416 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGunCaseFlamer ) -------------------
+
+--- FULL , ITEM_ID: 29426 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGunCaseGatlingLaser ) -------------------
+
+--- FULL , ITEM_ID: 29434 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGunCaseGatlingLaserEnclave ) -------------------
+
+--- FULL , ITEM_ID: 29442 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGunCaseHuntingRifle ) -------------------
+
+--- FULL , ITEM_ID: 29450 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGunCaseLaserPistol ) -------------------
+
+--- FULL , ITEM_ID: 29458 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGunCaseLaserRifle ) -------------------
+
+--- FULL , ITEM_ID: 29468 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGunCaseMiniGun ) -------------------
+
+--- FULL , ITEM_ID: 29476 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGunCaseMissileLauncher ) -------------------
+
+--- FULL , ITEM_ID: 29484 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGunCasePlasmaPistolEnclave ) -------------------
+
+--- FULL , ITEM_ID: 29492 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGunCasePlasmaRifleEnclave ) -------------------
+
+--- FULL , ITEM_ID: 29500 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGunCaseRiflesGunpowder ) -------------------
+
+--- FULL , ITEM_ID: 29508 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGunCaseScoped44Magnum ) -------------------
+
+--- FULL , ITEM_ID: 29516 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGunCaseShotgunCombat ) -------------------
+
+--- FULL , ITEM_ID: 29526 ---
+枪支存放箱\0
+
+------------------- CONT ( LootGunCaseSniperRifle ) -------------------
+
+--- FULL , ITEM_ID: 29534 ---
+枪支存放箱\0
+
+------------------- CONT ( LootMineFrag ) -------------------
+
+--- FULL , ITEM_ID: 29542 ---
+地雷存放箱\0
+
+
+------------------- CONT ( LootMineFragLOCK ) -------------------
+
+--- FULL , ITEM_ID: 29551 ---
+地雷存放箱\0
+
+------------------- CONT ( LootMinePlasma ) -------------------
+
+--- FULL , ITEM_ID: 29560 ---
+地雷存放箱\0
+
+------------------- CONT ( LootMinePlasmaEnclave ) -------------------
+
+--- FULL , ITEM_ID: 29569 ---
+地雷存放箱\0
+
+------------------- CONT ( LootMinePulse ) -------------------
+
+--- FULL , ITEM_ID: 29578 ---
+地雷存放箱\0
+
+------------------- CONT ( LootMineRND ) -------------------
+
+--- FULL , ITEM_ID: 29587 ---
+地雷存放箱\0
+
+------------------- CONT ( LootSafeDrugDealer ) -------------------
+
+--- FULL , ITEM_ID: 29595 ---
+保险箱\0
+
+------------------- CONT ( LootSafeFactory ) -------------------
+
+--- FULL , ITEM_ID: 29609 ---
+保险箱\0
+
+------------------- CONT ( LootSafeFloorFactory ) -------------------
+
+--- FULL , ITEM_ID: 29622 ---
+保险箱\0
+
+------------------- CONT ( LootSafeFloorHospital ) -------------------
+
+--- FULL , ITEM_ID: 29635 ---
+保险箱\0
+
+------------------- CONT ( LootSafeFloorHousehold ) -------------------
+
+--- FULL , ITEM_ID: 29647 ---
+保险箱\0
+
+------------------- CONT ( LootSafeFloorMilitary ) -------------------
+
+--- FULL , ITEM_ID: 29660 ---
+保险箱\0
+
+------------------- CONT ( LootSafeFloorOffice ) -------------------
+
+--- FULL , ITEM_ID: 29674 ---
+保险箱\0
+
+------------------- CONT ( LootSafeHospital ) -------------------
+
+--- FULL , ITEM_ID: 29687 ---
+保险箱\0
+
+------------------- CONT ( LootSafeHousehold ) -------------------
+
+--- FULL , ITEM_ID: 29700 ---
+保险箱\0
+
+------------------- CONT ( LootSafeMilitary ) -------------------
+
+--- FULL , ITEM_ID: 29714 ---
+保险箱\0
+
+------------------- CONT ( LootSafeNukaQuantum ) -------------------
+
+--- FULL , ITEM_ID: 29728 ---
+保险箱\0
+
+------------------- CONT ( LootSafeOffice ) -------------------
+
+--- FULL , ITEM_ID: 29736 ---
+保险箱\0
+
+------------------- CONT ( LootSafeSpringvaleHouse ) -------------------
+
+--- FULL , ITEM_ID: 29749 ---
+保险箱\0
+
+------------------- CONT ( LootSafeWallEmpty ) -------------------
+
+--- FULL , ITEM_ID: 29763 ---
+保险箱\0
+
+------------------- CONT ( LootSafeWallFactory ) -------------------
+
+--- FULL , ITEM_ID: 29770 ---
+保险箱\0
+
+------------------- CONT ( LootSafeWallHospital ) -------------------
+
+--- FULL , ITEM_ID: 29783 ---
+保险箱\0
+
+------------------- CONT ( LootSafeWallHousehold ) -------------------
+
+--- FULL , ITEM_ID: 29795 ---
+保险箱\0
+
+------------------- CONT ( LootSafeWallMilitary ) -------------------
+
+--- FULL , ITEM_ID: 29808 ---
+保险箱\0
+
+------------------- CONT ( LootSafeWallOffice ) -------------------
+
+--- FULL , ITEM_ID: 29821 ---
+保险箱\0
+
+------------------- CONT ( lootUrbanGarbageCan ) -------------------
+
+--- FULL , ITEM_ID: 29834 ---
+垃圾箱\0
+
+------------------- CONT ( MailboxClean ) -------------------
+
+--- FULL , ITEM_ID: 29845 ---
+邮箱\0
+
+------------------- CONT ( MailboxDestroyed ) -------------------
+
+--- FULL , ITEM_ID: 29856 ---
+邮箱\0
+
+------------------- CONT ( MailboxDestroyedSmallGuns ) -------------------
+
+--- FULL , ITEM_ID: 29868 ---
+邮箱\0
+
+------------------- CONT ( MailboxDestroyedUnarmed ) -------------------
+
+--- FULL , ITEM_ID: 29879 ---
+邮箱\0
+
+------------------- CONT ( MailboxNeighborlyLetter ) -------------------
+
+--- FULL , ITEM_ID: 29890 ---
+邮箱\0
+
+------------------- CONT ( MailboxVault101 ) -------------------
+
+--- FULL , ITEM_ID: 29902 ---
+邮箱\0
+
+------------------- CONT ( MailboxVault101AcceptanceLetter ) -------------------
+
+--- FULL , ITEM_ID: 29912 ---
+邮箱\0
+
+------------------- CONT ( MailDropbox01New ) -------------------
+
+--- FULL , ITEM_ID: 29922 ---
+邮筒\0
+
+
+------------------- CONT ( MegatonBrassLanternSafe ) -------------------
+
+--- FULL , ITEM_ID: 29931 ---
+安装在地板上的保险箱\0
+
+
+------------------- CONT ( MegatonColinsCabinet ) -------------------
+
+--- FULL , ITEM_ID: 29939 ---
+暗格\0
+
+
+------------------- CONT ( MetalBin01 ) -------------------
+
+--- FULL , ITEM_ID: 29947 ---
+小仓\0
+
+
+------------------- CONT ( MetalBox01Commercial ) -------------------
+
+--- FULL , ITEM_ID: 29957 ---
+金属盒\0 
+
+
+
+------------------- CONT ( MetalBox01Empty ) -------------------
+
+--- FULL , ITEM_ID: 29968 ---
+金属盒\0 
+------------------- CONT ( MetalBox01Factory ) -------------------
+
+--- FULL , ITEM_ID: 29977 ---
+金属盒\0 
+
+------------------- CONT ( MetalBox01Hospital ) -------------------
+
+--- FULL , ITEM_ID: 29988 ---
+金属盒\0 
+
+------------------- CONT ( MetalBox01Household ) -------------------
+
+--- FULL , ITEM_ID: 29999 ---
+金属盒\0 
+
+------------------- CONT ( MetalBox01Library ) -------------------
+
+--- FULL , ITEM_ID: 30010 ---
+金属盒\0
+
+------------------- CONT ( MetalBox01Metro ) -------------------
+
+--- FULL , ITEM_ID: 30021 ---
+金属盒\0 
+
+------------------- CONT ( MetalBox01Military ) -------------------
+
+--- FULL , ITEM_ID: 30032 ---
+金属盒\0 
+
+------------------- CONT ( MetalBox01Office ) -------------------
+
+--- FULL , ITEM_ID: 30043 ---
+金属盒\0 
+
+------------------- CONT ( MetalBox01OfficeVault ) -------------------
+
+--- FULL , ITEM_ID: 30054 ---
+金属盒\0 
+
+------------------- CONT ( MetalBox01School ) -------------------
+
+--- FULL , ITEM_ID: 30065 ---
+金属盒\0 
+
+------------------- CONT ( MetalBox02Empty ) -------------------
+
+--- FULL , ITEM_ID: 30076 ---
+小盒子\0
+
+------------------- CONT ( MirelurkEggClutchCont01 ) -------------------
+
+--- FULL , ITEM_ID: 30085 ---
+蟹人孵蛋巢穴\0 蟹人巢穴\0 ?
+
+
+
+------------------- CONT ( MirelurkEggClutchCont01a ) -------------------
+
+--- FULL , ITEM_ID: 30097 ---
+蟹人孵蛋巢穴\0 蟹人巢穴\0 
+
+
+------------------- CONT ( MirelurkEggClutchCont02 ) -------------------
+
+--- FULL , ITEM_ID: 30109 ---
+蟹人孵蛋巢穴\0 蟹人巢穴\0 
+
+------------------- CONT ( MirelurkEggClutchCont02a ) -------------------
+
+--- FULL , ITEM_ID: 30121 ---
+蟹人孵蛋巢穴\0 蟹人巢穴\0 
+
+------------------- CONT ( MirelurkEggClutchCont03 ) -------------------
+
+--- FULL , ITEM_ID: 30133 ---
+蟹人孵蛋巢穴\0 蟹人巢穴\0 
+
+------------------- CONT ( MirelurkEggClutchCont03a ) -------------------
+
+--- FULL , ITEM_ID: 30145 ---
+蟹人孵蛋巢穴\0 蟹人巢穴\0 
+
+------------------- CONT ( MirelurkEggClutchContEmpty01 ) -------------------
+
+--- FULL , ITEM_ID: 30157 ---
+蟹人孵蛋巢穴\0 蟹人巢穴\0 
+
+------------------- CONT ( MirelurkEggClutchContEmpty01a ) -------------------
+
+--- FULL , ITEM_ID: 30166 ---
+蟹人孵蛋巢穴\0 蟹人巢穴\0 
+
+------------------- CONT ( MirelurkEggClutchContEmpty02 ) -------------------
+
+--- FULL , ITEM_ID: 30175 ---
+蟹人孵蛋巢穴\0 蟹人巢穴\0 
+
+------------------- CONT ( MirelurkEggClutchContEmpty02a ) -------------------
+
+--- FULL , ITEM_ID: 30184 ---
+蟹人孵蛋巢穴\0 蟹人巢穴\0 
+
+------------------- CONT ( MirelurkEggClutchContEmpty03 ) -------------------
+
+--- FULL , ITEM_ID: 30193 ---
+蟹人孵蛋巢穴\0 蟹人巢穴\0 
+
+------------------- CONT ( MirelurkEggClutchContEmpty03a ) -------------------
+
+--- FULL , ITEM_ID: 30202 ---
+蟹人孵蛋巢穴\0 蟹人巢穴\0 
+
+------------------- CONT ( MirelurkEggCont ) -------------------
+
+--- FULL , ITEM_ID: 30211 ---
+蟹人蛋\0
+
+------------------- CONT ( MQ01MoriartyFilingCabinet ) -------------------
+
+--- FULL , ITEM_ID: 30223 ---
+暗格\0
+
+------------------- CONT ( MQ02MuseumGunLocker ) -------------------
+
+--- FULL , ITEM_ID: 30235 ---
+枪支存放暗格\0
+
+------------------- CONT ( MQ02SecurityOfficeSafe ) -------------------
+
+--- FULL , ITEM_ID: 30246 ---
+办公室防护保险箱\0 ？
+
+
+------------------- CONT ( MQ04MabelOven ) -------------------
+
+--- FULL , ITEM_ID: 30256 ---
+烤箱\0
+
+
+------------------- CONT ( MQ04PlayerContainer ) -------------------
+
+--- FULL , ITEM_ID: 30266 ---
+金属盒\0
+
+------------------- CONT ( MQ04SimpsonDresser ) -------------------
+
+--- FULL , ITEM_ID: 30276 ---
+梳妆台\0 橱柜\0
+
+
+------------------- CONT ( MQ08Vault87LootSafeEngineer ) -------------------
+
+--- FULL , ITEM_ID: 30284 ---
+保险箱\0
+
+
+------------------- CONT ( MQ08Vault87LootSafeHospital ) -------------------
+
+--- FULL , ITEM_ID: 30295 ---
+保险箱\0
+
+
+------------------- CONT ( MQ09PlayerContainer ) -------------------
+
+--- FULL , ITEM_ID: 30306 ---
+锁柜\0
+
+
+------------------- CONT ( MS03FoodRefrigerator ) -------------------
+
+--- FULL , ITEM_ID: 30314 ---
+食物储存箱\0
+
+
+------------------- CONT ( MS03MedicineKit ) -------------------
+
+--- FULL , ITEM_ID: 30325 ---
+医疗药剂\0
+
+
+------------------- CONT ( MS03MirelurkEggClutchCont01a ) -------------------
+
+--- FULL , ITEM_ID: 30339 ---
+蟹人卵囊\0
+
+------------------- CONT ( MS03MirelurkEggClutchCont02a ) -------------------
+
+--- FULL , ITEM_ID: 30352 ---
+蟹人卵囊\0
+
+------------------- CONT ( MS03MirelurkEggClutchCont03a ) -------------------
+
+--- FULL , ITEM_ID: 30365 ---
+蟹人卵囊\0
+
+------------------- CONT ( MS04BrandiceFootlocker ) -------------------
+
+--- FULL , ITEM_ID: 30378 ---
+William Brandice的军用小提箱\0
+
+------------------- CONT ( MS04BrandiceToolbox ) -------------------
+
+--- FULL , ITEM_ID: 30387 ---
+工具箱\0
+
+------------------- CONT ( MS04CaHDumpster ) -------------------
+
+--- FULL , ITEM_ID: 30395 ---
+垃圾箱\0
+
+------------------- CONT ( MS04GradysFirehoseBox ) -------------------
+
+--- FULL , ITEM_ID: 30405 ---
+Grady's的消防栓柜\0
+
+
+------------------- CONT ( MS04LeskosSafe ) -------------------
+
+--- FULL , ITEM_ID: 30414 ---
+保险箱\0
+
+
+------------------- CONT ( MS04LootSafeMarigold01 ) -------------------
+
+--- FULL , ITEM_ID: 30427 ---
+Grady's保险箱\0
+
+------------------- CONT ( MS05NukaColaVendingMachineClean ) -------------------
+
+--- FULL , ITEM_ID: 30436 ---
+原始的自动售货机\0
+
+------------------- CONT ( MS05NukaFridge ) -------------------
+
+--- FULL , ITEM_ID: 30445 ---
+古老的核子可乐冰箱\0
+
+------------------- CONT ( MS05ResearchSafe ) -------------------
+
+--- FULL , ITEM_ID: 30455 ---
+保险箱\0
+
+
+------------------- CONT ( MS09FootlockerSpecial ) -------------------
+
+--- FULL , ITEM_ID: 30464 ---
+军用小提箱\0
+
+
+------------------- CONT ( MS09VancesSafe ) -------------------
+
+--- FULL , ITEM_ID: 30471 ---
+保险箱\0
+
+
+------------------- CONT ( MS09VanceSwordCloset ) -------------------
+
+--- FULL , ITEM_ID: 30481 ---
+剑阁\0  剑匣\0
+
+------------------- CONT ( MS12AttackFreeformTenpennyAnthonyTrunk ) -------------------
+
+--- FULL , ITEM_ID: 30492 ---
+保险箱\0
+
+------------------- CONT ( MS12AttackFreeformTenpennyLydiaTrunk ) -------------------
+
+--- FULL , ITEM_ID: 30500 ---
+保险箱\0
+
+------------------- CONT ( MS12AttackVendorContainerLydiaMontenegro ) -------------------
+
+--- FULL , ITEM_ID: 30508 ---
+香格里拉精品店存货清单\0  Boutique La Chic 财务帐单\0??
+
+
+------------------- CONT ( MS12TenpennyAttackVendorContainerAnthonyLing ) -------------------
+
+--- FULL , ITEM_ID: 30516 ---
+新都市服装存货清单\0
+
+------------------- CONT ( MS12TenpennyAttackVendorContainerDoctorBanfield ) -------------------
+
+--- FULL , ITEM_ID: 30524 ---
+医疗用品\0
+
+------------------- CONT ( MS12TenpennyVendorContainerShakes ) -------------------
+
+--- FULL , ITEM_ID: 30532 ---
+联邦党人休闲酒吧\0??
+
+------------------- CONT ( MS14MorphineKit ) -------------------
+
+--- FULL , ITEM_ID: 30540 ---
+急救箱\0
+
+------------------- CONT ( MS15AdminLootSafe ) -------------------
+
+--- FULL , ITEM_ID: 30548 ---
+保险箱\0
+
+
+------------------- CONT ( MS15BillOfRightsSafe ) -------------------
+
+--- FULL , ITEM_ID: 30558 ---
+档案安全保险箱\0
+
+
+------------------- CONT ( MS15ButtonSupplyDesk01 ) -------------------
+
+--- FULL , ITEM_ID: 30566 ---
+Button's 商店柜台\0
+
+------------------- CONT ( MS15ButtonWardrobe01 ) -------------------
+
+--- FULL , ITEM_ID: 30577 ---
+Button's商店衣橱\0？
+
+------------------- CONT ( MS15DeclarationWallSafe ) -------------------
+
+--- FULL , ITEM_ID: 30588 ---
+档案安全保险箱\0
+
+------------------- CONT ( MS15InkStorageBox ) -------------------
+
+--- FULL , ITEM_ID: 30596 ---
+修复用品\0 ？
+
+------------------- CONT ( MS15MagnaCartaSafe ) -------------------
+
+--- FULL , ITEM_ID: 30610 ---
+档案安全保险箱\0
+
+------------------- CONT ( MS16Vault101WeaponLocker01 ) -------------------
+
+--- FULL , ITEM_ID: 30618 ---
+武器存放锁柜\0
+
+------------------- CONT ( MS17AmmoBox ) -------------------
+
+--- FULL , ITEM_ID: 30627 ---
+弹药箱\0
+
+------------------- CONT ( MS17ShopkeepersSafe ) -------------------
+
+--- FULL , ITEM_ID: 30643 ---
+保险箱\0
+
+------------------- CONT ( MS18FootlockerFood ) -------------------
+
+--- FULL , ITEM_ID: 30657 ---
+军用小提箱\0
+
+------------------- CONT ( MS18LootSafeWallHospital ) -------------------
+
+--- FULL , ITEM_ID: 30667 ---
+保险箱\0
+
+------------------- CONT ( MS18OLHMedsCase01 ) -------------------
+
+--- FULL , ITEM_ID: 30679 ---
+OLH1号药箱\0
+
+
+------------------- CONT ( MS18OLHMedsCase02 ) -------------------
+
+--- FULL , ITEM_ID: 30689 ---
+OLH2号药箱\0
+
+------------------- CONT ( MS18OLHMedsCase03 ) -------------------
+
+--- FULL , ITEM_ID: 30699 ---
+OLH3号药箱\0
+
+------------------- CONT ( MS18StatesmanSafe ) -------------------
+
+--- FULL , ITEM_ID: 30709 ---
+政客旅馆门房保险柜\0
+
+------------------- CONT ( MS18TheosAmmoBox ) -------------------
+
+--- FULL , ITEM_ID: 30716 ---
+Theo's 弹药箱\0
+
+------------------- CONT ( MuseumTechCustodianDesk01 ) -------------------
+
+--- FULL , ITEM_ID: 30730 ---
+书桌\0
+
+
+------------------- CONT ( NukaColaPlant01FilingCabinet ) -------------------
+
+--- FULL , ITEM_ID: 30743 ---
+档案柜\0
+
+
+------------------- CONT ( NukaFridge ) -------------------
+
+--- FULL , ITEM_ID: 30755 ---
+核子可乐冰箱\0
+
+------------------- CONT ( NukaVendingMachine ) -------------------
+
+--- FULL , ITEM_ID: 30761 ---
+自动售货机\0
+
+------------------- CONT ( NukaVendingMachineClean ) -------------------
+
+--- FULL , ITEM_ID: 30774 ---
+原始的自动售货机\0
+
+------------------- CONT ( OasisSack01 ) -------------------
+
+--- FULL , ITEM_ID: 30787 ---
+麻袋\0
+
+------------------- CONT ( OvenRangeClean01 ) -------------------
+
+--- FULL , ITEM_ID: 30799 ---
+烤箱\0
+
+------------------- CONT ( OvenRangeDirty01 ) -------------------
+
+--- FULL , ITEM_ID: 30808 ---
+烤箱\0
+
+------------------- CONT ( PFallsEulogySafe ) -------------------
+
+--- FULL , ITEM_ID: 30817 ---
+保险箱\0
+
+------------------- CONT ( POISuicideBox ) -------------------
+
+--- FULL , ITEM_ID: 30830 ---
+小盒子\0
+
+------------------- CONT ( PS05ToolboxContainer ) -------------------
+
+--- FULL , ITEM_ID: 30842 ---
+技工工具箱\0
+
+------------------- CONT ( RCFootlockerAddict100 ) -------------------
+
+--- FULL , ITEM_ID: 30851 ---
+军用小提箱\0
+
+------------------- CONT ( RCFootlockerFactory100 ) -------------------
+
+--- FULL , ITEM_ID: 30864 ---
+军用小提箱\0
+
+------------------- CONT ( RCFootlockerHousehold100 ) -------------------
+
+--- FULL , ITEM_ID: 30876 ---
+军用小提箱\0
+
+------------------- CONT ( RCFootlockerHouseholdAlcoholic100 ) -------------------
+
+--- FULL , ITEM_ID: 30888 ---
+军用小提箱\0
+
+------------------- CONT ( RCFootlockerLibrary100 ) -------------------
+
+--- FULL , ITEM_ID: 30901 ---
+军用小提箱\0
+
+------------------- CONT ( RCFootlockerMilitary100 ) -------------------
+
+--- FULL , ITEM_ID: 30912 ---
+军用小提箱\0
+
+------------------- CONT ( RCFootlockerSchool100 ) -------------------
+
+--- FULL , ITEM_ID: 30925 ---
+军用小提箱\0
+
+------------------- CONT ( RCPauliesFilingCabinet ) -------------------
+
+--- FULL , ITEM_ID: 30936 ---	
+档案柜\0
+
+------------------- CONT ( RCSecurityFoodContainer ) -------------------
+
+--- FULL , ITEM_ID: 30948 ---
+暗格\0
+
+------------------- CONT ( RefrigeratorMirelurk ) -------------------
+
+--- FULL , ITEM_ID: 30959 ---
+冰箱\0
+
+------------------- CONT ( RefrigeratorWithFood ) -------------------
+
+--- FULL , ITEM_ID: 30968 ---
+冰箱\0
+
+------------------- CONT ( RefrigeratorWithLiquor ) -------------------
+
+--- FULL , ITEM_ID: 30977 ---
+冰箱\0
+
+------------------- CONT ( RepDaveDaveSafe ) -------------------
+
+--- FULL , ITEM_ID: 30986 ---
+保险箱\0
+
+------------------- CONT ( RepublicOfDaveShawnaVendor ) -------------------
+
+--- FULL , ITEM_ID: 30999 ---
+梳妆台\0
+
+------------------- CONT ( RHSFootLocker ) -------------------
+
+--- FULL , ITEM_ID: 31009 ---
+军用小提箱\0
+
+------------------- CONT ( RHSGarbageCan ) -------------------
+
+--- FULL , ITEM_ID: 31021 ---
+垃圾箱\0
+
+------------------- CONT ( RHSLibraryOfficeDesk ) -------------------
+
+--- FULL , ITEM_ID: 31032 ---
+书桌\0
+
+------------------- CONT ( SafeCitadelMedical ) -------------------
+
+--- FULL , ITEM_ID: 31042 ---
+药物储藏柜\0
+
+------------------- CONT ( SafeElderLyons ) -------------------
+
+--- FULL , ITEM_ID: 31054 ---
+安装在墙上的保险箱\0
+
+------------------- CONT ( ScavengerBarnFootlocker ) -------------------
+
+--- FULL , ITEM_ID: 31066 ---
+私人军用小提箱\0
+
+------------------- CONT ( SchoolDesk01 ) -------------------
+
+--- FULL , ITEM_ID: 31077 ---
+学校书桌\0
+
+------------------- CONT ( SchoolDeskRuined01 ) -------------------
+
+--- FULL , ITEM_ID: 31087 ---
+废弃的学校书桌\0
+
+------------------- CONT ( SDMMetalBox01Commercial ) -------------------
+
+--- FULL , ITEM_ID: 31097 ---
+金属盒\0
+
+------------------- CONT ( ShalebridgeCompostHeap ) -------------------
+
+--- FULL , ITEM_ID: 31109 ---
+火蚁堆肥堆\0
+
+------------------- CONT ( SteamerTrunk01 ) -------------------
+
+--- FULL , ITEM_ID: 31119 ---
+行李箱\0
+
+------------------- CONT ( SubDresser01 ) -------------------
+
+--- FULL , ITEM_ID: 31128 ---
+梳妆台\0
+
+------------------- CONT ( SuitCase02 ) -------------------
+
+--- FULL , ITEM_ID: 31137 ---
+手提箱\0
+
+------------------- CONT ( ToolboxContainer ) -------------------
+
+--- FULL , ITEM_ID: 31148 ---
+工具箱\0
+
+------------------- CONT ( ToolboxContainerVault ) -------------------
+
+--- FULL , ITEM_ID: 31156 ---
+工具箱\0
+
+------------------- CONT ( ToolCabinet ) -------------------
+
+--- FULL , ITEM_ID: 31164 ---
+工具柜\0
+
+------------------- CONT ( ToolCabinetMetal ) -------------------
+
+--- FULL , ITEM_ID: 31172 ---
+工具柜\0
+
+------------------- CONT ( ToxicDumpLocker ) -------------------
+
+--- FULL , ITEM_ID: 31180 ---
+锁柜\0
+
+------------------- CONT ( UnderworldCarolSafe ) -------------------
+
+--- FULL , ITEM_ID: 31190 ---
+保险箱\0
+
+
+------------------- CONT ( UnderworldChopShopSafe ) -------------------
+
+--- FULL , ITEM_ID: 31200 ---
+保险箱\0
+
+
+------------------- CONT ( UnderworldTulipSafe ) -------------------
+
+--- FULL , ITEM_ID: 31212 ---
+保险箱\0
+
+
+------------------- CONT ( V101aFirstAidKit ) -------------------
+
+--- FULL , ITEM_ID: 31222 ---
+急救箱\0
+
+------------------- CONT ( Vault101Dresser ) -------------------
+
+--- FULL , ITEM_ID: 31229 ---
+梳妆台\0
+
+------------------- CONT ( Vault101FramedQuote ) -------------------
+
+--- FULL , ITEM_ID: 31240 ---
+画框\0
+
+------------------- CONT ( Vault101WeaponLocker01 ) -------------------
+
+--- FULL , ITEM_ID: 31252 ---
+武器存放锁柜\0
+
+------------------- CONT ( Vault101WeaponLocker02 ) -------------------
+
+--- FULL , ITEM_ID: 31260 ---
+武器存放锁柜\0
+
+------------------- CONT ( VDresser01 ) -------------------
+
+--- FULL , ITEM_ID: 31268 ---
+梳妆台\0
+
+------------------- CONT ( VendorCaravanCrazyWolfgang ) -------------------
+
+--- FULL , ITEM_ID: 31279 ---
+票据储存箱\0
+
+------------------- CONT ( VendorCaravanCrazyWolfgangLocal ) -------------------
+
+--- FULL , ITEM_ID: 31291 ---
+Crazy Wolfgang's本地库存清单\0?
+
+------------------- CONT ( VendorCaravanCrow ) -------------------
+
+--- FULL , ITEM_ID: 31301 ---
+票据储存箱\0
+
+------------------- CONT ( VendorCaravanCrowLocal ) -------------------
+
+--- FULL , ITEM_ID: 31311 ---
+Crow's 本地库存清单\0?
+
+------------------- CONT ( VendorCaravanDocHoff ) -------------------
+
+--- FULL , ITEM_ID: 31321 ---
+票据储存箱\0
+
+
+------------------- CONT ( VendorCaravanDocHoffLocal ) -------------------
+
+--- FULL , ITEM_ID: 31331 ---
+Doc Hoff's 本地库存清单\0?
+
+------------------- CONT ( VendorCaravanLuckyHarith ) -------------------
+
+--- FULL , ITEM_ID: 31339 ---
+票据储存箱\0
+
+------------------- CONT ( VendorCaravanLuckyHarithLocal ) -------------------
+
+--- FULL , ITEM_ID: 31349 ---
+Lucky Harith's本地库存清单\0?
+
+------------------- CONT ( VendorChestBuriedBrassLantern ) -------------------
+
+--- FULL , ITEM_ID: 31357 ---
+票据储存箱\0
+
+------------------- CONT ( VendorChestBuriedEclair ) -------------------
+
+--- FULL , ITEM_ID: 31368 ---
+票据储存箱\0
+
+------------------- CONT ( VendorChestBuriedGob ) -------------------
+
+--- FULL , ITEM_ID: 31379 ---
+票据储存箱\0
+
+------------------- CONT ( VendorContainerAhzrukhal ) -------------------
+
+--- FULL , ITEM_ID: 31389 ---
+9号循环冷却器\0
+------------------- CONT ( VendorContainerAnthonyLing ) -------------------
+
+--- FULL , ITEM_ID: 31397 ---
+新都市服装库存清单\0?
+
+------------------- CONT ( VendorContainerBannon ) -------------------
+
+--- FULL , ITEM_ID: 31405 ---
+波托马克服装库存清单\0?
+
+------------------- CONT ( VendorContainerBelleBonny ) -------------------
+
+--- FULL , ITEM_ID: 31413 ---
+Muddy Rudder补给箱\0 Muddy Rudder杂货店\0？
+
+------------------- CONT ( VendorContainerBessieLynn ) -------------------
+
+--- FULL , ITEM_ID: 31421 ---
+新都市服装库存清单\0?
+
+
+------------------- CONT ( VendorContainerBrassLantern ) -------------------
+
+--- FULL , ITEM_ID: 31429 ---
+Brass Lantern冷气机\0？？？
+
+------------------- CONT ( VendorContainerCantelli ) -------------------
+
+--- FULL , ITEM_ID: 31437 ---
+快速修复清单\0？？？
+
+------------------- CONT ( VendorContainerChiefGustavo ) -------------------
+
+--- FULL , ITEM_ID: 31446 ---
+10便士塔城装备存放锁柜\0
+
+------------------- CONT ( VendorContainerCutter ) -------------------
+
+--- FULL , ITEM_ID: 31454 ---
+医疗用品\0
+
+------------------- CONT ( VendorContainerCutterChems ) -------------------
+
+--- FULL , ITEM_ID: 31462 ---
+化学药剂\0
+
+------------------- CONT ( VendorContainerDocChurch ) -------------------
+
+--- FULL , ITEM_ID: 31469 ---
+临床医学补给箱\0 医疗服务\0？？
+
+------------------- CONT ( VendorContainerDoctorBanfield ) -------------------
+
+--- FULL , ITEM_ID: 31477 ---
+医疗用品\0
+
+------------------- CONT ( VendorContainerDoctorBarrows ) -------------------
+
+--- FULL , ITEM_ID: 31485 ---
+医疗用品\0
+
+------------------- CONT ( VendorContainerDoctorPreston ) -------------------
+
+--- FULL , ITEM_ID: 31493 ---
+临床医学补给箱\0 医疗服务\0？？？
+
+------------------- CONT ( VendorContainerEclair ) -------------------
+
+--- FULL , ITEM_ID: 31501 ---
+Eclair's冷气机\0
+
+------------------- CONT ( VendorContainerFFER05LootBox ) -------------------
+
+--- FULL , ITEM_ID: 31509 ---
+婆罗门\0
+
+------------------- CONT ( VendorContainerFFER06NPC1 ) -------------------
+
+--- FULL , ITEM_ID: 31518 ---
+自动售货柜机\0
+
+------------------- CONT ( VendorContainerFFER15LootBox ) -------------------
+
+--- FULL , ITEM_ID: 31526 ---
+婆罗门\0
+
+
+------------------- CONT ( VendorContainerFFER54NPC1 ) -------------------
+
+--- FULL , ITEM_ID: 31535 ---
+自动售货柜机\0
+
+------------------- CONT ( VendorContainerFFER73LootBox ) -------------------
+
+--- FULL , ITEM_ID: 31543 ---
+婆罗门\0
+
+------------------- CONT ( VendorContainerFlakAndShrapnel ) -------------------
+
+--- FULL , ITEM_ID: 31552 ---
+Flak 'N Shrapnel's行李箱\0
+
+------------------- CONT ( VendorContainerGob ) -------------------
+
+--- FULL , ITEM_ID: 31563 ---
+雅座冷气机\0
+
+------------------- CONT ( VendorContainerGrandmaSparkle ) -------------------
+
+--- FULL , ITEM_ID: 31571 ---
+爷爷的冷气机\0
+
+------------------- CONT ( VendorContainerGreta ) -------------------
+
+--- FULL , ITEM_ID: 31579 ---
+Carol's 寓所冷气机\0
+
+------------------- CONT ( VendorContainerJoePorter ) -------------------
+
+--- FULL , ITEM_ID: 31587 ---
+Joe Porter's 保险箱\0
+
+------------------- CONT ( VendorContainerKnickKnack ) -------------------
+
+--- FULL , ITEM_ID: 31595 ---
+Knick Knick's清单\0
+
+------------------- CONT ( VendorContainerKnightSergeantDurga ) -------------------
+
+--- FULL , ITEM_ID: 31604 ---	
+城堡实验室装备存放锁柜\0
+
+------------------- CONT ( VendorContainerLeoStahlDrugs ) -------------------
+
+--- FULL , ITEM_ID: 31612 ---
+上锁的书桌\0
+
+------------------- CONT ( VendorContainerLvlHunter ) -------------------
+
+--- FULL , ITEM_ID: 31621 ---
+自动售货柜机\0
+
+------------------- CONT ( VendorContainerLvlScavenger ) -------------------
+
+--- FULL , ITEM_ID: 31629 ---
+自动售货柜机\0
+
+------------------- CONT ( VendorContainerLydiaMontenegro ) -------------------
+
+--- FULL , ITEM_ID: 31637 ---	
+香格里拉时尚精品店库存清单\0  Boutique La Chic库存清单\0??
+
+------------------- CONT ( VendorContainerMargaretPrimrose ) -------------------
+
+--- FULL , ITEM_ID: 31646 ---
+Caf\e9h Beau Monde Cooler\0
+？？？
+
+------------------- CONT ( VendorContainerMichaelMasters ) -------------------
+
+--- FULL , ITEM_ID: 31654 ---
+香格里拉时尚精品店库存清单\0 Boutique La Chic库存清单\0 ??
+
+------------------- CONT ( VendorContainerMoiraBrown ) -------------------
+
+--- FULL , ITEM_ID: 31663 ---
+Craterside 杂货店\0?
+
+------------------- CONT ( VendorContainerPronto ) -------------------
+
+--- FULL , ITEM_ID: 31675 ---
+锁住保险库存清单\0  Lock and Load库存清单\0??
+
+------------------- CONT ( VendorContainerRed ) -------------------
+
+--- FULL , ITEM_ID: 31683 ---
+辐射临床医学服务\0 Red's 医疗服务\0？？？
+
+------------------- CONT ( VendorContainerSeagraveHolmes ) -------------------
+
+--- FULL , ITEM_ID: 31691 ---
+Rivet City杂货店的行李皮箱\0?
+
+------------------- CONT ( VendorContainerShakes ) -------------------
+
+--- FULL , ITEM_ID: 31699 ---
+联邦党人休闲酒吧\0？？
+
+------------------- CONT ( VendorContainerSmilingJack ) -------------------
+
+--- FULL , ITEM_ID: 31709 ---
+Smiling Jack's锁柜\0
+
+------------------- CONT ( VendorContainerStaley ) -------------------
+
+--- FULL , ITEM_ID: 31717 ---
+Gary's Galley Trunk\0
+？？？
+
+------------------- CONT ( VendorContainerSydney ) -------------------
+
+--- FULL , ITEM_ID: 31725 ---
+Sydney's弹药箱\0
+
+------------------- CONT ( VendorContainerTheFamilyKarl ) -------------------
+
+--- FULL , ITEM_ID: 31733 ---
+Karl's清单\0
+
+------------------- CONT ( VendorContainerTulip ) -------------------
+
+--- FULL , ITEM_ID: 31741 ---
+地下更衣柜\0
+
+------------------- CONT ( VendorContainerVeraWeatherly ) -------------------
+
+--- FULL , ITEM_ID: 31750 ---
+The Weatherly 旅馆旅行箱\0
+
+------------------- CONT ( AndaleFridge ) -------------------
+
+--- FULL , ITEM_ID: 31758 ---
+冰箱\0
+
+------------------- CONT ( AndaleSmithsHouseRefrigerator ) -------------------
+
+--- FULL , ITEM_ID: 31766 ---
+冰箱\0
+
+------------------- CONT ( AndaleStove ) -------------------
+
+--- FULL , ITEM_ID: 31775 ---
+烤箱\0
+
+------------------- CONT ( AntEggClutchCont01 ) -------------------
+
+--- FULL , ITEM_ID: 31784 ---
+火蚁孵蛋巢穴\0 火蚁窝\0？？？
+
+------------------- CONT ( AntEggClutchCont01a ) -------------------
+
+--- FULL , ITEM_ID: 31794 ---
+火蚁孵蛋巢穴\0 火蚁窝\0
+
+------------------- CONT ( AntEggClutchCont02 ) -------------------
+
+--- FULL , ITEM_ID: 31804 ---
+火蚁孵蛋巢穴\0 火蚁窝\0
+
+------------------- CONT ( AntEggClutchCont02a ) -------------------
+
+--- FULL , ITEM_ID: 31814 ---
+火蚁孵蛋巢穴\0 火蚁窝\0
+
+------------------- CONT ( AntEggClutchCont03 ) -------------------
+
+--- FULL , ITEM_ID: 31824 ---
+火蚁孵蛋巢穴\0 火蚁窝\0
+
+------------------- CONT ( AntEggClutchCont03a ) -------------------
+
+--- FULL , ITEM_ID: 31834 ---
+火蚁孵蛋巢穴\0 火蚁窝\0
+
+------------------- CONT ( AntRefusePile01aCONT ) -------------------
+
+--- FULL , ITEM_ID: 31844 ---
+蚁居垃圾堆\0？？？
+
+------------------- CONT ( AntRefusePile01CONT ) -------------------
+
+--- FULL , ITEM_ID: 31854 ---
+蚁居垃圾堆\0
+
+------------------- CONT ( AntRefusePile02aCONT ) -------------------
+
+--- FULL , ITEM_ID: 31864 ---
+蚁居垃圾堆\0
+
+------------------- CONT ( AntRefusePile02CONT ) -------------------
+
+--- FULL , ITEM_ID: 31874 ---
+蚁居垃圾堆\0
+
+------------------- CONT ( AntRefusePile04aCONT ) -------------------
+
+--- FULL , ITEM_ID: 31884 ---
+蚁居垃圾堆\0
+
+------------------- CONT ( AntRefusePile04CONT ) -------------------
+
+--- FULL , ITEM_ID: 31894 ---
+蚁居垃圾堆\0
+
+------------------- CONT ( AntRefusePile05aCONT ) -------------------
+
+--- FULL , ITEM_ID: 31904 ---
+蚁居垃圾堆\0
+
+------------------- CONT ( AntRefusePile05CONT ) -------------------
+
+--- FULL , ITEM_ID: 31914 ---
+蚁居垃圾堆\0
+
+------------------- CONT ( AWMSafeFloor ) -------------------
+
+--- FULL , ITEM_ID: 31924 ---
+安装在地板上的保险箱\0
+
+------------------- CONT ( AWMSecretStashFridge ) -------------------
+
+--- FULL , ITEM_ID: 31935 ---
+冰箱\0
+
+------------------- CONT ( BelleBonnyBox ) -------------------
+
+--- FULL , ITEM_ID: 31945 ---
+Belle's藏匿处\0
+
+------------------- CONT ( BurialMound01Cont ) -------------------
+
+--- FULL , ITEM_ID: 31955 ---
+坟墓\0
+
+------------------- CONT ( BurialMound02Cont ) -------------------
+
+--- FULL , ITEM_ID: 31964 ---
+坟墓\0
+
+------------------- CONT ( BurialMound03Cont ) -------------------
+
+--- FULL , ITEM_ID: 31973 ---
+坟墓\0
+
+------------------- CONT ( CashRegisterEmpty ) -------------------
+
+--- FULL , ITEM_ID: 31982 ---
+收银机\0
+
+------------------- CONT ( CashRegisterFunctional ) -------------------
+
+--- FULL , ITEM_ID: 31991 ---
+收银机\0
+
+------------------- CONT ( CG04AmataDresser ) -------------------
+
+--- FULL , ITEM_ID: 32002 ---
+梳妆台\0
+
+------------------- CONT ( CG04FirstAidKit ) -------------------
+
+--- FULL , ITEM_ID: 32014 ---
+急救箱\0
+
+------------------- CONT ( CG04OverseerDresser ) -------------------
+
+--- FULL , ITEM_ID: 32023 ---
+梳妆台\0
+
+------------------- CONT ( CG04OverseersDesk ) -------------------
+
+--- FULL , ITEM_ID: 32036 ---
+锁柜\0
+
+------------------- CONT ( CG04PlayerDresser ) -------------------
+
+--- FULL , ITEM_ID: 32048 ---
+梳妆台\0
+
+------------------- CONT ( CitDurgaMerchantContainer ) -------------------
+
+--- FULL , ITEM_ID: 32063 ---
+锁柜\0
+
+------------------- CONT ( CrateShippingFactory ) -------------------
+
+--- FULL , ITEM_ID: 32070 ---
+条板箱\0
+
+------------------- CONT ( CrateShippingHospital ) -------------------
+
+--- FULL , ITEM_ID: 32080 ---
+条板箱\0
+
+------------------- CONT ( CrateShippingMilitary ) -------------------
+
+--- FULL , ITEM_ID: 32090 ---
+条板箱\0
+
+------------------- CONT ( CrateShippingOffice ) -------------------
+
+--- FULL , ITEM_ID: 32100 ---
+条板箱\0
+
+------------------- CONT ( CrateShippingSchool ) -------------------
+
+--- FULL , ITEM_ID: 32110 ---
+条板箱\0
+
+------------------- CONT ( CurioCabinet ) -------------------
+
+--- FULL , ITEM_ID: 32120 ---
+暗格\0
+
+------------------- CONT ( DashwoodSafe ) -------------------
+
+--- FULL , ITEM_ID: 32128 ---
+Dashwood's保险箱\0
+
+------------------- CONT ( DashwoodSafeAttack ) -------------------
+
+--- FULL , ITEM_ID: 32143 ---
+Dashwood's保险箱\0
+
+------------------- CONT ( DaveBallotBox ) -------------------
+
+--- FULL , ITEM_ID: 32151 ---
+投票箱\0
+
+------------------- CONT ( DClawFootlocker01 ) -------------------
+
+--- FULL , ITEM_ID: 32159 ---
+军用小提箱\0
+
+------------------- CONT ( DeskFuturistic ) -------------------
+
+--- FULL , ITEM_ID: 32178 ---
+书桌\0
+
+------------------- CONT ( DeskOfficeCornerMetal ) -------------------
+
+--- FULL , ITEM_ID: 32189 ---
+书桌\0
+
+------------------- CONT ( DeskOfficeMetal ) -------------------
+
+--- FULL , ITEM_ID: 32200 ---
+书桌\0
+
+------------------- CONT ( DeskOfficeMetalMetro ) -------------------
+
+--- FULL , ITEM_ID: 32211 ---
+书桌\0
+
+------------------- CONT ( DeskOfficeWooden ) -------------------
+
+--- FULL , ITEM_ID: 32223 ---
+书桌\0
+
+------------------- CONT ( DeskWoodTop01Container ) -------------------
+
+--- FULL , ITEM_ID: 32236 ---
+书桌\0
+
+------------------- CONT ( DeskWoodTop01Vault ) -------------------
+
+--- FULL , ITEM_ID: 32249 ---
+书桌\0
+
+------------------- CONT ( DeskWoodTopR01Container ) -------------------
+
+--- FULL , ITEM_ID: 32261 ---
+书桌\0
+
+------------------- CONT ( DeskWoodTopR01Empty ) -------------------
+
+--- FULL , ITEM_ID: 32274 ---
+书桌\0
+
+------------------- CONT ( DonationBox ) -------------------
+
+--- FULL , ITEM_ID: 32283 ---
+捐赠箱\0
+
+------------------- CONT ( DresserAbandoned ) -------------------
+
+--- FULL , ITEM_ID: 32293 ---
+梳妆台\0
+
+------------------- CONT ( DukovsLiquorCabinet ) -------------------
+
+--- FULL , ITEM_ID: 32302 ---
+暗格
+
+------------------- CONT ( Dumpster02 ) -------------------
+
+--- FULL , ITEM_ID: 32311 ---	
+垃圾箱\0
+
+------------------- CONT ( EMillsFoundryDeskOfficeMetal ) -------------------
+
+--- FULL , ITEM_ID: 32319 ---
+书桌\0
+
+------------------- CONT ( EnclaveCrateContainer01 ) -------------------
+
+--- FULL , ITEM_ID: 32331 ---
+英克雷的条板箱\0
+
+------------------- CONT ( EnclaveCratePersonals ) -------------------
+
+--- FULL , ITEM_ID: 32341 ---
+英克雷军用小提箱\0
+
+------------------- CONT ( EvergreenMillsBoss01Cabinet ) -------------------
+
+--- FULL , ITEM_ID: 32351 ---
+暗格
+
+------------------- CONT ( EvergreenMillsGuardLocker ) -------------------
+
+--- FULL , ITEM_ID: 32360 ---
+锁柜\0
+
+------------------- CONT ( FFDCzDCint16aSafe ) -------------------
+
+--- FULL , ITEM_ID: 32373 ---
+保险箱\0
+
+
+------------------- CONT ( FFEC10EnclaveCrateContainer01 ) -------------------
+
+--- FULL , ITEM_ID: 32388 ---
+英克雷储藏箱\0
+
+------------------- CONT ( FFER04Container ) -------------------
+
+--- FULL , ITEM_ID: 32400 ---
+食品储存箱\0
+
+------------------- CONT ( FFEU03Container ) -------------------
+
+--- FULL , ITEM_ID: 32408 ---
+冰箱\0
+
+
+------------------- CONT ( FFEU05Refrigerator ) -------------------
+
+--- FULL , ITEM_ID: 32416 ---
+
+冰箱\0
+
+
+------------------- CONT ( FFEU16TreasureBox ) -------------------
+
+--- FULL , ITEM_ID: 32424 ---
+John's珠宝箱\0
+
+------------------- CONT ( FFMutantcampGrave01 ) -------------------
+
+--- FULL , ITEM_ID: 32434 ---
+坟墓\0
+
+------------------- CONT ( FFMutantcampGrave03 ) -------------------
+
+--- FULL , ITEM_ID: 32448 ---
+坟墓\0
+
+------------------- CONT ( FFMutantcampGrave04 ) -------------------
+
+--- FULL , ITEM_ID: 32462 ---
+坟墓\0
+
+------------------- CONT ( FFWaste04DriversFootlocker ) -------------------
+
+--- FULL , ITEM_ID: 32476 ---
+私人军用小提箱\0
+
+------------------- CONT ( FilingCabinet ) -------------------
+
+--- FULL , ITEM_ID: 32487 ---
+档案箱\0
+
+------------------- CONT ( FilingCabinetBunch01 ) -------------------
+
+--- FULL , ITEM_ID: 32498 ---
+档案箱\0
+
+
+------------------- CONT ( FilingCabinetBunch01EMPTY ) -------------------
+
+--- FULL , ITEM_ID: 32508 ---
+档案箱\0
+
+
+------------------- CONT ( FilingCabinetBunch02 ) -------------------
+
+--- FULL , ITEM_ID: 32515 ---
+档案箱\0
+
+
+------------------- CONT ( FilingCabinetBunch02EMPTY ) -------------------
+
+--- FULL , ITEM_ID: 32525 ---
+档案箱\0
+
+
+------------------- CONT ( FilingCabinetBunch03 ) -------------------
+
+--- FULL , ITEM_ID: 32532 ---
+档案箱\0
+
+
+------------------- CONT ( FilingCabinetBunch03EMPTY ) -------------------
+
+--- FULL , ITEM_ID: 32542 ---
+档案箱\0
+
+
+------------------- CONT ( FilingCabinetBunch04 ) -------------------
+
+--- FULL , ITEM_ID: 32549 ---
+档案箱\0
+
+
+------------------- CONT ( FilingCabinetEmpty ) -------------------
+
+--- FULL , ITEM_ID: 32559 ---
+档案箱\0
+
+
+------------------- CONT ( FireHoseBox ) -------------------
+
+--- FULL , ITEM_ID: 32566 ---
+消防栓柜\0
+
+------------------- CONT ( Footlocker01Empty ) -------------------
+
+--- FULL , ITEM_ID: 32574 ---
+军用小提箱\0
+
+------------------- CONT ( Footlocker01Factory ) -------------------
+
+--- FULL , ITEM_ID: 32581 ---
+军用小提箱\0
+
+
+------------------- CONT ( Footlocker01Hospital ) -------------------
+
+--- FULL , ITEM_ID: 32593 ---
+军用小提箱\0
+
+
+------------------- CONT ( Footlocker01Household ) -------------------
+
+--- FULL , ITEM_ID: 32605 ---
+军用小提箱\0
+
+
+------------------- CONT ( Footlocker01HouseholdAlcoholic ) -------------------
+
+--- FULL , ITEM_ID: 32617 ---
+军用小提箱\0
+
+
+------------------- CONT ( Footlocker01HouseholdSpringvale ) -------------------
+
+--- FULL , ITEM_ID: 32630 ---
+军用小提箱\0
+
+
+------------------- CONT ( Footlocker01Library ) -------------------
+
+--- FULL , ITEM_ID: 32641 ---
+军用小提箱\0
+
+
+------------------- CONT ( Footlocker01Liquor ) -------------------
+
+--- FULL , ITEM_ID: 32653 ---
+军用小提箱\0
+
+
+------------------- CONT ( Footlocker01Military ) -------------------
+
+--- FULL , ITEM_ID: 32662 ---
+军用小提箱\0
+
+
+------------------- CONT ( Footlocker01RavenRock ) -------------------
+
+--- FULL , ITEM_ID: 32675 ---
+军用小提箱\0
+
+
+------------------- CONT ( Footlocker01School ) -------------------
+
+--- FULL , ITEM_ID: 32687 ---
+军用小提箱\0
+
+
+------------------- CONT ( Footlocker01Toys ) -------------------
+
+--- FULL , ITEM_ID: 32699 ---
+玩具箱\0
+------------------- CONT ( FootlockerRavenRockAutumns ) -------------------
+
+--- FULL , ITEM_ID: 32709 ---
+军用小提箱\0
+
+
+------------------- CONT ( Forge01MetalBox01 ) -------------------
+
+--- FULL , ITEM_ID: 32721 ---
+小盒子\0
+
+------------------- CONT ( Forge01Safe01 ) -------------------
+
+--- FULL , ITEM_ID: 32731 ---
+保险箱\0
+
+
+------------------- CONT ( FortBannisterJabscoLocker ) -------------------
+
+--- FULL , ITEM_ID: 32744 ---
+军用小提箱\0
+
+
+------------------- CONT ( FortIndependence02Desk01 ) -------------------
+
+--- FULL , ITEM_ID: 32756 ---
+书桌\0
+
+------------------- CONT ( FortIndFootlocker01 ) -------------------
+
+--- FULL , ITEM_ID: 32766 ---
+军用小提箱\0
+
+
+------------------- CONT ( FreeformTenpennyAnthonyTrunk ) -------------------
+
+--- FULL , ITEM_ID: 32781 ---
+保险箱\0
+
+
+------------------- CONT ( FreeformTenpennyLydiaTrunk ) -------------------
+
+--- FULL , ITEM_ID: 32790 ---
+保险箱\0
+
+
+------------------- CONT ( FriendshipFFFirstAidKit ) -------------------
+
+--- FULL , ITEM_ID: 32799 ---
+急救箱\0
+
+------------------- CONT ( FriendshipKeyBox ) -------------------
+
+--- FULL , ITEM_ID: 32811 ---	
+弹药箱\0
+
+------------------- CONT ( GalloFootlocker ) -------------------
+
+--- FULL , ITEM_ID: 32820 ---
+军用小提箱\0
+
+
+------------------- CONT ( GarbageCanUrban01 ) -------------------
+
+--- FULL , ITEM_ID: 32829 ---
+垃圾箱\0
+
+
+------------------- CONT ( GarbageCanUrban02 ) -------------------
+
+--- FULL , ITEM_ID: 32840 ---
+垃圾箱\0
+
+
+------------------- CONT ( GarbageCanUrban03 ) -------------------
+
+--- FULL , ITEM_ID: 32851 ---
+垃圾箱\0
+
+

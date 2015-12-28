@@ -1,0 +1,90 @@
+------------------- REGN ( MapGermantownPoliceHQRegion ) -------------------
+
+--- RDMP , ITEM_ID: 105623 ---
+德国城警察总部\0
+
+
+------------------- REGN ( MapGirdershadeRegion ) -------------------
+
+--- RDMP , ITEM_ID: 105631 ---
+Girdershade\0
+
+
+------------------- REGN ( MapGrayditchRegion ) -------------------
+
+--- RDMP , ITEM_ID: 105639 ---
+格雷蒂奇\0
+
+
+------------------- REGN ( MapMegatonRegion ) -------------------
+
+--- RDMP , ITEM_ID: 105647 ---
+核平镇\0
+
+
+------------------- REGN ( MapOldOlney ) -------------------
+
+--- RDMP , ITEM_ID: 105655 ---
+老奥尔尼\0
+
+
+------------------- REGN ( MapParadiseFallsRegion ) -------------------
+
+--- RDMP , ITEM_ID: 105663 ---
+堕落天堂\0
+
+
+------------------- REGN ( MapRepublicofDaveRegion ) -------------------
+
+--- RDMP , ITEM_ID: 105671 ---
+戴夫共和国\0
+
+
+------------------- REGN ( MapRivetCityRegion ) -------------------
+
+--- RDMP , ITEM_ID: 105679 ---
+铆钉市\0
+
+
+------------------- REGN ( MapTempleOfTheUnionRegion ) -------------------
+
+--- RDMP , ITEM_ID: 105687 ---
+联邦圣殿\0
+
+
+------------------- REGN ( MapTenpennyTowerRegion ) -------------------
+
+--- RDMP , ITEM_ID: 105695 ---
+十便士塔\0
+
+
+------------------- REGN ( CapitalWastelandBorderRegion ) -------------------
+
+--- RDMP , ITEM_ID: 105705 ---
+华盛顿废墟\0
+
+
+------------------- REGN ( MapAndaleRegion ) -------------------
+
+--- RDMP , ITEM_ID: 105713 ---
+安戴尔\0
+
+
+------------------- REGN ( MapArefuRegion ) -------------------
+
+--- RDMP , ITEM_ID: 105721 ---
+艾瑞芙\0
+
+
+------------------- REGN ( MapBigTownRegion ) -------------------
+
+--- RDMP , ITEM_ID: 105729 ---
+大镇\0
+
+
+------------------- REGN ( MapCanterburyCommonsRegion ) -------------------
+
+--- RDMP , ITEM_ID: 105737 ---
+坎特伯雷贸易区\0
+
+

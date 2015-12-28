@@ -1,0 +1,6690 @@
+------------------- GMST ( sAMTime ) -------------------
+
+--- DATA , ITEM_ID: 9 ---
+AM\0
+
+
+------------------- GMST ( sConfirmWarning ) -------------------
+
+--- DATA , ITEM_ID: 12 ---
+警告：任何未存储的进度将会丢失。\0
+
+
+------------------- GMST ( sContinue ) -------------------
+
+--- DATA , ITEM_ID: 15 ---
+继续游戏\0
+
+
+------------------- GMST ( sHairColor0 ) -------------------
+
+--- DATA , ITEM_ID: 18 ---
+漂白\0
+
+
+------------------- GMST ( sHairColor1 ) -------------------
+
+--- DATA , ITEM_ID: 21 ---
+棕色\0
+
+
+------------------- GMST ( sHairColor10 ) -------------------
+
+--- DATA , ITEM_ID: 24 ---
+金色\0
+
+
+------------------- GMST ( sHairColor11 ) -------------------
+
+--- DATA , ITEM_ID: 27 ---
+紫檀色\0
+
+
+------------------- GMST ( sHairColor12 ) -------------------
+
+--- DATA , ITEM_ID: 30 ---
+黑色\0
+
+
+------------------- GMST ( sHairColor13 ) -------------------
+
+--- DATA , ITEM_ID: 33 ---
+栗色\0
+
+
+------------------- GMST ( sHairColor14 ) -------------------
+
+--- DATA , ITEM_ID: 36 ---
+钢铁色\0
+
+
+------------------- GMST ( sHairColor15 ) -------------------
+
+--- DATA , ITEM_ID: 39 ---
+微黄色\0
+
+
+------------------- GMST ( sHairColor2 ) -------------------
+
+--- DATA , ITEM_ID: 42 ---
+巧克力\0
+
+
+------------------- GMST ( sHairColor3 ) -------------------
+
+--- DATA , ITEM_ID: 45 ---
+铂灰色\0
+
+
+------------------- GMST ( sHairColor4 ) -------------------
+
+--- DATA , ITEM_ID: 48 ---
+米绸色\0
+
+
+------------------- GMST ( sHairColor5 ) -------------------
+
+--- DATA , ITEM_ID: 51 ---
+绒面革\0
+
+
+------------------- GMST ( sHairColor6 ) -------------------
+
+--- DATA , ITEM_ID: 54 ---
+山核桃\0
+
+
+------------------- GMST ( sHairColor7 ) -------------------
+
+--- DATA , ITEM_ID: 57 ---
+红褐色\0
+
+
+------------------- GMST ( sHairColor8 ) -------------------
+
+--- DATA , ITEM_ID: 60 ---
+姜黄色\0
+
+
+------------------- GMST ( sHairColor9 ) -------------------
+
+--- DATA , ITEM_ID: 63 ---
+蜜黄色\0
+
+
+------------------- GMST ( sInventoryCondition ) -------------------
+
+--- DATA , ITEM_ID: 66 ---
+CND\0
+
+
+------------------- GMST ( sInventoryItems ) -------------------
+
+--- DATA , ITEM_ID: 69 ---
+物品\0
+
+
+------------------- GMST ( sKarmaMajorGained ) -------------------
+
+--- DATA , ITEM_ID: 72 ---
+获得大量道德值\0
+
+
+------------------- GMST ( sKarmaMajorLost ) -------------------
+
+--- DATA , ITEM_ID: 75 ---
+失去大量道德值\0
+
+
+------------------- GMST ( sKarmaMinorGained ) -------------------
+
+--- DATA , ITEM_ID: 78 ---
+获得少量道德值\0
+
+
+------------------- GMST ( sKarmaMinorLost ) -------------------
+
+--- DATA , ITEM_ID: 81 ---
+失去少量道德值\0
+
+
+------------------- GMST ( sLeftArmDamagedMessage ) -------------------
+
+--- DATA , ITEM_ID: 84 ---
+你的左臂残废了。\0
+
+
+------------------- GMST ( sLeftLegDamagedMessage ) -------------------
+
+--- DATA , ITEM_ID: 87 ---
+你的左腿残废了。\0
+
+
+------------------- GMST ( sMorphine ) -------------------
+
+--- DATA , ITEM_ID: 90 ---
+Med-X\0
+
+
+------------------- GMST ( sMouseLeftButton ) -------------------
+
+--- DATA , ITEM_ID: 93 ---
+鼠标左键\0
+
+
+------------------- GMST ( sMouseRightButton ) -------------------
+
+--- DATA , ITEM_ID: 96 ---
+鼠标右键\0
+
+
+------------------- GMST ( sNoPickPocketAgain ) -------------------
+
+--- DATA , ITEM_ID: 99 ---
+已经捉住过你了。\0
+
+
+------------------- GMST ( sNoProfileSelected ) -------------------
+
+--- DATA , ITEM_ID: 102 ---
+您尚未登入任何游戏档案。您必须登入一个游戏档案以在存档前选择存储设备。在此之前，无法使用自动存储功能。\0
+
+
+------------------- GMST ( sNoSleepHostileActorsNear ) -------------------
+
+--- DATA , ITEM_ID: 105 ---
+当敌人在附近时你不能睡觉。\0
+
+
+------------------- GMST ( sNoTalkFleeing ) -------------------
+
+--- DATA , ITEM_ID: 108 ---
+正在逃命。\0
+
+
+------------------- GMST ( sNoTalkUnConscious ) -------------------
+
+--- DATA , ITEM_ID: 111 ---
+失去知觉。\0
+
+
+------------------- GMST ( sNoWaitHostilActorsNear ) -------------------
+
+--- DATA , ITEM_ID: 114 ---
+当敌人在附近时你不能进行等待。\0
+
+
+------------------- GMST ( sOpenWithKey ) -------------------
+
+--- DATA , ITEM_ID: 117 ---
+用%s开锁。\0
+
+
+------------------- GMST ( sOverEncumbered ) -------------------
+
+--- DATA , ITEM_ID: 120 ---
+携带物品过多，无法跑步。\0
+
+
+------------------- GMST ( sPCControlsTextPrefix ) -------------------
+
+--- DATA , ITEM_ID: 123 ---
+推\0
+
+
+------------------- GMST ( sPlayerLeavingBorderRegion ) -------------------
+
+--- DATA , ITEM_ID: 126 ---
+你不能走这条路。\0
+
+
+------------------- GMST ( sPleaseStandBy ) -------------------
+
+--- DATA , ITEM_ID: 129 ---
+PLEASE STAND BY\0
+
+
+------------------- GMST ( sPMTime ) -------------------
+
+--- DATA , ITEM_ID: 132 ---
+PM\0
+
+
+------------------- GMST ( sPressStart ) -------------------
+
+--- DATA , ITEM_ID: 135 ---
+按［开始］。（也可能指手柄的start键？）\0
+
+
+------------------- GMST ( sPS3UnboundBtn ) -------------------
+
+--- DATA , ITEM_ID: 138 ---
+<\cdh\c5h\d2h \cfh\d0h\c8h\c2h\dfh\c7h\cah\c8h>\0
+
+
+------------------- GMST ( sStatsCNDAbbrev ) -------------------
+
+--- DATA , ITEM_ID: 141 ---
+\d1h\d1h\d2h\0
+
+
+------------------- GMST ( sStatsNoEffects ) -------------------
+
+--- DATA , ITEM_ID: 144 ---
+状态未受影响\0
+
+
+------------------- GMST ( sVDSGPlate ) -------------------
+
+--- DATA , ITEM_ID: 147 ---
+VDSG Plate\0
+
+
+------------------- GMST ( sAbortText ) -------------------
+
+--- DATA , ITEM_ID: 150 ---
+&中止\0
+
+
+------------------- GMST ( sAccept ) -------------------
+
+--- DATA , ITEM_ID: 153 ---
+接受\0
+
+
+------------------- GMST ( sActionMapping ) -------------------
+
+--- DATA , ITEM_ID: 156 ---
+功能映射（或者：键位设置？）\0
+
+
+------------------- GMST ( sActionPointsAttack ) -------------------
+
+--- DATA , ITEM_ID: 159 ---
+\c0h\f2h\e0h\eah\eeh\e2h\e0h\f2h\fch\0
+
+
+------------------- GMST ( sActionPointsCrouch ) -------------------
+
+--- DATA , ITEM_ID: 162 ---
+蹲伏\0
+
+
+------------------- GMST ( sActionPointsDrop ) -------------------
+
+--- DATA , ITEM_ID: 165 ---
+\c2h\fbh\f0h\eeh\edh\e8h\f2h\fch\0
+
+
+------------------- GMST ( sActionPointsHeal ) -------------------
+
+--- DATA , ITEM_ID: 168 ---
+治疗\0
+
+
+------------------- GMST ( sActionPointsPunch ) -------------------
+
+--- DATA , ITEM_ID: 171 ---
+猛击\0
+
+
+------------------- GMST ( sActionPointsReload ) -------------------
+
+--- DATA , ITEM_ID: 174 ---
+\cfh\e5h\f0h\e5h\e7h\e0h\f0h\ffh\e4h\e8h\f2h\fch\0
+
+
+------------------- GMST ( sActionPointsShoot ) -------------------
+
+--- DATA , ITEM_ID: 177 ---
+射击\0
+
+
+------------------- GMST ( sActionPointsShort ) -------------------
+
+--- DATA , ITEM_ID: 180 ---
+AP\0
+
+
+------------------- GMST ( sActionPointsStand ) -------------------
+
+--- DATA , ITEM_ID: 183 ---
+起身\0
+
+
+------------------- GMST ( sActionPointsSwitchWeapon ) -------------------
+
+--- DATA , ITEM_ID: 186 ---
+改变武器\0
+
+
+------------------- GMST ( sActionPointsThrow ) -------------------
+
+--- DATA , ITEM_ID: 189 ---
+投掷\0
+
+
+------------------- GMST ( sActionPointsToggleWeaponDrawn ) -------------------
+
+--- DATA , ITEM_ID: 192 ---
+取出切换的武器（不确定？）\0
+
+
+------------------- GMST ( sActivateCreatureCalmed ) -------------------
+
+--- DATA , ITEM_ID: 195 ---
+该生物沉默中，无法回答。\0
+
+
+------------------- GMST ( sActivateNPCCalmed ) -------------------
+
+--- DATA , ITEM_ID: 198 ---
+沉默中，无法回答。\0
+
+
+------------------- GMST ( sActivationChoiceMessage ) -------------------
+
+--- DATA , ITEM_ID: 201 ---
+您想做什么？\0
+
+
+------------------- GMST ( sActiveMineDescription ) -------------------
+
+--- DATA , ITEM_ID: 204 ---
+活动中（一个词，不确定？）\0
+
+
+------------------- GMST ( sActorFade ) -------------------
+
+--- DATA , ITEM_ID: 207 ---
+角色淡出\0
+
+
+------------------- GMST ( sAddedEffects ) -------------------
+
+--- DATA , ITEM_ID: 210 ---
+附加效果\0
+
+
+------------------- GMST ( sAddItemtoInventory ) -------------------
+
+--- DATA , ITEM_ID: 213 ---
+已收到\0
+
+
+------------------- GMST ( sAddItemtoSpellList ) -------------------
+
+--- DATA , ITEM_ID: 216 ---
+ - \e4h\eeh\e1h\e0h\e2h\ebh\e5h\edh\eeh\0
+
+
+------------------- GMST ( sAge ) -------------------
+
+--- DATA , ITEM_ID: 219 ---
+年龄\0
+
+
+------------------- GMST ( sAlignEvil ) -------------------
+
+--- DATA , ITEM_ID: 222 ---
+\c7h\ebh\eeh\e9h\0
+
+
+------------------- GMST ( sAlignGood ) -------------------
+
+--- DATA , ITEM_ID: 225 ---
+\c4h\eeh\e1h\f0h\fbh\e9h\0
+
+
+------------------- GMST ( sAlignNeutral ) -------------------
+
+--- DATA , ITEM_ID: 228 ---
+\cdh\e5h\e9h\f2h\f0h\e0h\ebh\fch\edh\fbh\e9h\0
+
+
+------------------- GMST ( sAlignVeryEvil ) -------------------
+
+--- DATA , ITEM_ID: 231 ---
+非常邪恶\0
+
+
+------------------- GMST ( sAlignVeryGood ) -------------------
+
+--- DATA , ITEM_ID: 234 ---
+非常善良\0
+
+
+------------------- GMST ( sAlreadyPlacedMine ) -------------------
+
+--- DATA , ITEM_ID: 237 ---
+一个已启动的地雷已经放在该敌人身上。\0
+
+
+------------------- GMST ( sAmber ) -------------------
+
+--- DATA , ITEM_ID: 240 ---
+琥珀色\0
+
+
+------------------- GMST ( sAnimationCanNotEquipArmor ) -------------------
+
+--- DATA , ITEM_ID: 243 ---
+你不能在攻击时更换护具。\0
+
+
+------------------- GMST ( sAnimationCanNotEquipWeapon ) -------------------
+
+--- DATA , ITEM_ID: 246 ---
+你不能在攻击时更换武器。\0
+
+
+------------------- GMST ( sAnimationCanNotUnequip ) -------------------
+
+--- DATA , ITEM_ID: 249 ---
+\c2h\fbh \edh\e5h \ech\eeh\e6h\e5h\f2h\e5h \f1h\ech\e5h\edh\e8h\f2h\fch \eeh\f0h\f3h\e6h\e8h\e5h, \eah\eeh\e3h\e4h\e0h \e0h\f2h\e0h\eah\f3h\e5h\f2h\e5h.\0
+
+
+------------------- GMST ( sAreaText ) -------------------
+
+--- DATA , ITEM_ID: 252 ---
+区域\0
+
+
+------------------- GMST ( sArmorWeightHeavy ) -------------------
+
+--- DATA , ITEM_ID: 255 ---
+重\0
+
+
+------------------- GMST ( sArmorWeightLight ) -------------------
+
+--- DATA , ITEM_ID: 258 ---
+\cbh\e5h\e3h\eah\e0h\ffh\0
+
+
+------------------- GMST ( sAttributeDamaged ) -------------------
+
+--- DATA , ITEM_ID: 261 ---
+已被损坏\0
+
+
+------------------- GMST ( sAttributeDrained ) -------------------
+
+--- DATA , ITEM_ID: 264 ---
+已被用光\0
+
+
+------------------- GMST ( sAttributesCount ) -------------------
+
+--- DATA , ITEM_ID: 267 ---
+分配%d点\0
+
+
+------------------- GMST ( sAttributesTitle ) -------------------
+
+--- DATA , ITEM_ID: 270 ---
+属性：%d／%d点已分配\0
+
+
+------------------- GMST ( sAudio ) -------------------
+
+--- DATA , ITEM_ID: 273 ---
+声音\0
+
+
+------------------- GMST ( sAudioNote ) -------------------
+
+--- DATA , ITEM_ID: 276 ---
+声音文件\0
+
+
+------------------- GMST ( sAutoAttempt ) -------------------
+
+--- DATA , ITEM_ID: 279 ---
+自动尝试\0
+
+
+------------------- GMST ( sAutoLoading ) -------------------
+
+--- DATA , ITEM_ID: 282 ---
+自动读取中……\0
+
+
+------------------- GMST ( sAutosaveAbbrev ) -------------------
+
+--- DATA , ITEM_ID: 285 ---
+自动存储\0
+
+
+------------------- GMST ( sAutoSaveDisabledDueToLackOfSpace ) -------------------
+
+--- DATA , ITEM_ID: 288 ---
+存储位置已满。取消自动存储功能。\0
+
+
+------------------- GMST ( sAutoSaving ) -------------------
+
+--- DATA , ITEM_ID: 291 ---
+自动存储中……\0
+
+
+------------------- GMST ( sBack ) -------------------
+
+--- DATA , ITEM_ID: 294 ---
+后退\0
+
+
+------------------- GMST ( sBald ) -------------------
+
+--- DATA , ITEM_ID: 297 ---
+光头（也许还指无胡须？）\0
+
+
+------------------- GMST ( sBeard ) -------------------
+
+--- DATA , ITEM_ID: 300 ---
+胡须\0
+
+
+------------------- GMST ( sBeardcheeks ) -------------------
+
+--- DATA , ITEM_ID: 303 ---
+髯　亮／暗\0
+
+
+------------------- GMST ( sBeardcircle ) -------------------
+
+--- DATA , ITEM_ID: 306 ---
+络腮胡　亮／暗\0
+
+
+------------------- GMST ( sBeardflushed ) -------------------
+
+--- DATA , ITEM_ID: 309 ---
+胡须　古铜／灰白\0
+
+
+------------------- GMST ( sBeardgoatee ) -------------------
+
+--- DATA , ITEM_ID: 312 ---
+山羊胡　亮／暗\0
+
+
+------------------- GMST ( sBeardlight ) -------------------
+
+--- DATA , ITEM_ID: 315 ---
+胡须　亮／暗\0
+
+
+------------------- GMST ( sBeardmoustache ) -------------------
+
+--- DATA , ITEM_ID: 318 ---
+八字须　亮／暗\0
+
+
+------------------- GMST ( sBlue ) -------------------
+
+--- DATA , ITEM_ID: 321 ---
+蓝\0
+
+
+------------------- GMST ( sBrightness ) -------------------
+
+--- DATA , ITEM_ID: 324 ---
+明亮度\0
+
+
+------------------- GMST ( sBroken ) -------------------
+
+--- DATA , ITEM_ID: 327 ---
+［已锁住－已损坏］\0
+
+
+------------------- GMST ( sBrow ) -------------------
+
+--- DATA , ITEM_ID: 330 ---
+眉毛\0
+
+
+------------------- GMST ( sBrowRidge ) -------------------
+
+--- DATA , ITEM_ID: 333 ---
+眉脊　高／低\0
+
+
+------------------- GMST ( sBrowRidgeInner ) -------------------
+
+--- DATA , ITEM_ID: 336 ---
+眉脊内侧　上／下\0
+
+
+------------------- GMST ( sBrowRidgeOuter ) -------------------
+
+--- DATA , ITEM_ID: 339 ---
+眉脊外侧　上／下\0
+
+
+------------------- GMST ( sButton ) -------------------
+
+--- DATA , ITEM_ID: 342 ---
+按钮\0
+
+
+------------------- GMST ( sButtonLocked ) -------------------
+
+--- DATA , ITEM_ID: 345 ---
+该按钮无法重新映射。\0
+
+
+------------------- GMST ( sBuy ) -------------------
+
+--- DATA , ITEM_ID: 348 ---
+买入\0
+
+
+------------------- GMST ( sCameraPitch ) -------------------
+
+--- DATA , ITEM_ID: 351 ---
+反转Ｙ轴\0
+
+
+------------------- GMST ( sCancel ) -------------------
+
+--- DATA , ITEM_ID: 354 ---
+取消\0
+
+
+------------------- GMST ( sCancelBarter ) -------------------
+
+--- DATA , ITEM_ID: 357 ---
+取消交易？\0
+
+
+------------------- GMST ( sCanNotEquipWornEnchantment ) -------------------
+
+--- DATA , ITEM_ID: 360 ---
+你现在无法装备此物品。\0
+
+
+------------------- GMST ( sCanNotReadBook ) -------------------
+
+--- DATA , ITEM_ID: 363 ---
+你不能在战斗中阅读书籍！\0
+
+
+------------------- GMST ( sCanNotTrainAnymore ) -------------------
+
+--- DATA , ITEM_ID: 366 ---
+你已经达到了当前级别的训练极限。\0
+
+
+------------------- GMST ( sCanNotTrainHigher ) -------------------
+
+--- DATA , ITEM_ID: 369 ---
+这名ＮＰＣ已无法帮助你训练得更好。\0
+
+
+------------------- GMST ( sCantChangeResolution ) -------------------
+
+--- DATA , ITEM_ID: 372 ---
+您必须关闭当前游戏以改变分辨率。\0
+
+
+------------------- GMST ( sCantEquipBrokenItem ) -------------------
+
+--- DATA , ITEM_ID: 375 ---
+损坏的物品在修好前无法装备。\0
+
+
+------------------- GMST ( sCantEquipGeneric ) -------------------
+
+--- DATA , ITEM_ID: 378 ---
+你无法装备此物品。\0
+
+
+------------------- GMST ( sCantEquipPowerArmor ) -------------------
+
+--- DATA , ITEM_ID: 381 ---
+装备此物品需要你完成动力装甲训练。\0
+
+
+------------------- GMST ( sCantHotkeyBrokenItem ) -------------------
+
+--- DATA , ITEM_ID: 384 ---
+您不能为损坏的物品设置热键。\0
+
+
+------------------- GMST ( sCantHotkeyItem ) -------------------
+
+--- DATA , ITEM_ID: 387 ---
+您不能为该物品设置热键。\0
+
+
+------------------- GMST ( sCantQuickLoad ) -------------------
+
+--- DATA , ITEM_ID: 390 ---
+您不能在游戏暂停时快速读取。\0
+
+
+------------------- GMST ( sCantQuickSave ) -------------------
+
+--- DATA , ITEM_ID: 393 ---
+您不能在游戏暂停时快速存储。\0
+
+
+------------------- GMST ( sCantRemoveWornItem ) -------------------
+
+--- DATA , ITEM_ID: 396 ---
+无法移除已穿戴物品。\0
+
+
+------------------- GMST ( sCantRepairPastMax ) -------------------
+
+--- DATA , ITEM_ID: 399 ---
+超过%.0f%s无法修理\0
+
+
+------------------- GMST ( sCantSaveNow ) -------------------
+
+--- DATA , ITEM_ID: 402 ---
+您现在不能存储进度。\0
+
+
+------------------- GMST ( sCantUnequipGeneric ) -------------------
+
+--- DATA , ITEM_ID: 405 ---
+sAnimationCanNotUnequip你现在不能卸下该物品。\0
+
+
+------------------- GMST ( sCauterize ) -------------------
+
+--- DATA , ITEM_ID: 408 ---
+烧灼工具（消毒？）\0
+
+
+------------------- GMST ( sChangeItemSelection ) -------------------
+
+--- DATA , ITEM_ID: 411 ---
+改变物品选择\0
+
+
+------------------- GMST ( sCheekblush ) -------------------
+
+--- DATA , ITEM_ID: 414 ---
+腮红　浅淡／红润\0
+
+
+------------------- GMST ( sCheekboneslow ) -------------------
+
+--- DATA , ITEM_ID: 417 ---
+颧骨　低／高\0
+
+
+------------------- GMST ( sCheekbonesshallow ) -------------------
+
+--- DATA , ITEM_ID: 420 ---
+颧骨　轻微／明显\0
+
+
+------------------- GMST ( sCheekbonesthin ) -------------------
+
+--- DATA , ITEM_ID: 423 ---
+颧骨　窄／宽\0
+
+
+------------------- GMST ( sCheeks ) -------------------
+
+--- DATA , ITEM_ID: 426 ---
+脸颊\0
+
+
+------------------- GMST ( sCheeksconcave ) -------------------
+
+--- DATA , ITEM_ID: 429 ---
+脸颊　凹／凸\0
+
+
+------------------- GMST ( sCheeksround ) -------------------
+
+--- DATA , ITEM_ID: 432 ---
+脸颊　圆滑／削瘦\0
+
+
+------------------- GMST ( sChemsAddicted ) -------------------
+
+--- DATA , ITEM_ID: 435 ---
+你已经对%s上瘾了。\0
+
+
+------------------- GMST ( sChemsWithdrawal ) -------------------
+
+--- DATA , ITEM_ID: 438 ---
+你因为%s的失效而饱受折磨。\0
+
+
+------------------- GMST ( sChemsWornOff ) -------------------
+
+--- DATA , ITEM_ID: 441 ---
+%s的药效已逐渐消失了。\0
+
+
+------------------- GMST ( sChestDamagedMessage ) -------------------
+
+--- DATA , ITEM_ID: 444 ---
+你的胸部受伤了。\0
+
+
+------------------- GMST ( sChin ) -------------------
+
+--- DATA , ITEM_ID: 447 ---
+颏\0
+
+
+------------------- GMST ( sChinforward ) -------------------
+
+--- DATA , ITEM_ID: 450 ---
+颏　向前／向后\0
+
+
+------------------- GMST ( sChinpronounced ) -------------------
+
+--- DATA , ITEM_ID: 453 ---
+颏　明显／轻微\0
+
+
+------------------- GMST ( sChinretracted ) -------------------
+
+--- DATA , ITEM_ID: 456 ---
+颏　缩回／伸出\0
+
+
+------------------- GMST ( sChinshallow ) -------------------
+
+--- DATA , ITEM_ID: 459 ---
+颏　浅／深\0
+
+
+------------------- GMST ( sChinsmall ) -------------------
+
+--- DATA , ITEM_ID: 462 ---
+颏　小／大\0
+
+
+------------------- GMST ( sChintall ) -------------------
+
+--- DATA , ITEM_ID: 465 ---
+颏　高／矮\0
+
+
+------------------- GMST ( sChinwide ) -------------------
+
+--- DATA , ITEM_ID: 468 ---
+颏　宽／窄\0
+
+
+------------------- GMST ( sChoose ) -------------------
+
+--- DATA , ITEM_ID: 471 ---
+选择\0
+
+
+------------------- GMST ( sCloseButton ) -------------------
+
+--- DATA , ITEM_ID: 474 ---
+\c7h\e0h\eah\f0h\fbh\f2h\fch\0
+
+
+------------------- GMST ( sColor ) -------------------
+
+--- DATA , ITEM_ID: 477 ---
+发色\0
+
+
+------------------- GMST ( sCommsTabText ) -------------------
+
+--- DATA , ITEM_ID: 480 ---
+sNotesTabText\0
+
+
+------------------- GMST ( sComplexion ) -------------------
+
+--- DATA , ITEM_ID: 483 ---
+肤色\0
+
+
+------------------- GMST ( sComputersAddedNote ) -------------------
+
+--- DATA , ITEM_ID: 486 ---
+记录已添加：%s\0
+
+
+------------------- GMST ( sComputersBack ) -------------------
+
+--- DATA , ITEM_ID: 489 ---
+\cdh\e0h\e7h\e0h\e4h\0
+
+
+------------------- GMST ( sConcentratedFirePerk ) -------------------
+
+--- DATA , ITEM_ID: 492 ---
+\cch\e0h\f1h\f1h\e8h\f0h\eeh\e2h\e0h\edh\edh\fbh\e9h \eeh\e3h\eeh\edh\fch\0
+
+
+------------------- GMST ( sConfirmChoice1 ) -------------------
+
+--- DATA , ITEM_ID: 495 ---
+你确定你想成为一个\0
+
+
+------------------- GMST ( sConfirmChoice2 ) -------------------
+
+--- DATA , ITEM_ID: 498 ---
+你确定你想成为一个\0
+
+
+------------------- GMST ( sConfirmContinue ) -------------------
+
+--- DATA , ITEM_ID: 501 ---
+从最近的进度继续？\0
+
+
+------------------- GMST ( sConfirmDelete ) -------------------
+
+--- DATA , ITEM_ID: 504 ---
+删除此进度？\0
+
+
+------------------- GMST ( sConfirmLoad ) -------------------
+
+--- DATA , ITEM_ID: 507 ---
+读取此进度？\0
+
+
+------------------- GMST ( sConfirmNew ) -------------------
+
+--- DATA , ITEM_ID: 510 ---
+开始新游戏？\0
+
+
+------------------- GMST ( sConfirmQuit ) -------------------
+
+--- DATA , ITEM_ID: 513 ---
+您确定想退出？\0
+
+
+------------------- GMST ( sConfirmSave ) -------------------
+
+--- DATA , ITEM_ID: 516 ---
+覆盖此进度？\0
+
+
+------------------- GMST ( sContainerItemsTitle ) -------------------
+
+--- DATA , ITEM_ID: 519 ---
+物品栏\0
+
+
+------------------- GMST ( sContinueText ) -------------------
+
+--- DATA , ITEM_ID: 522 ---
+继续运行可执行文件？\0
+
+
+------------------- GMST ( sContractedDisease ) -------------------
+
+--- DATA , ITEM_ID: 525 ---
+你已经染上了\0
+
+
+------------------- GMST ( sControllerOption ) -------------------
+
+--- DATA , ITEM_ID: 528 ---
+在选项菜单的控制部分关闭３６０控制器以转回到键盘和鼠标控制方式。\0
+
+
+------------------- GMST ( sControls ) -------------------
+
+--- DATA , ITEM_ID: 531 ---
+控制\0
+
+
+------------------- GMST ( sCorruptContentMessage ) -------------------
+
+--- DATA , ITEM_ID: 534 ---
+您的一些下载内容已损坏，无法加载。\0
+
+
+------------------- GMST ( sCrew ) -------------------
+
+--- DATA , ITEM_ID: 537 ---
+工作人员\0
+
+
+------------------- GMST ( sCrimeTypeAttack ) -------------------
+
+--- DATA , ITEM_ID: 540 ---
+\c0h\f2h\e0h\eah\e0h\0
+
+
+------------------- GMST ( sCrimeTypeMurder ) -------------------
+
+--- DATA , ITEM_ID: 543 ---
+\d3h\e1h\e8h\e9h\f1h\f2h\e2h\eeh\0
+
+
+------------------- GMST ( sCrimeTypePickpocket ) -------------------
+
+--- DATA , ITEM_ID: 546 ---
+\cah\e0h\f0h\ech\e0h\edh\edh\eeh\e5h \e2h\eeh\f0h\eeh\e2h\f1h\f2h\e2h\eeh\0
+
+
+------------------- GMST ( sCrimeTypeSteal ) -------------------
+
+--- DATA , ITEM_ID: 549 ---
+\cah\f0h\e0h\e6h\e0h\0
+
+
+------------------- GMST ( sCrimeTypeTrespass ) -------------------
+
+--- DATA , ITEM_ID: 552 ---
+\c2h\f2h\eeh\f0h\e6h\e5h\edh\e8h\e5h\0
+
+
+------------------- GMST ( sCriticalStrike ) -------------------
+
+--- DATA , ITEM_ID: 555 ---
+致命一击于\0
+
+
+------------------- GMST ( sCrosshair ) -------------------
+
+--- DATA , ITEM_ID: 558 ---
+准星\0
+
+
+------------------- GMST ( sCurrentObjective ) -------------------
+
+--- DATA , ITEM_ID: 561 ---
+当前目标\0
+
+
+------------------- GMST ( sData ) -------------------
+
+--- DATA , ITEM_ID: 564 ---
+当前目标资料\0
+
+
+------------------- GMST ( sDayFriday ) -------------------
+
+--- DATA , ITEM_ID: 567 ---
+星期五\0
+
+
+------------------- GMST ( sDayMonday ) -------------------
+
+--- DATA , ITEM_ID: 570 ---
+星期一\0
+
+
+------------------- GMST ( sDaySaturday ) -------------------
+
+--- DATA , ITEM_ID: 573 ---
+星期六\0
+
+
+------------------- GMST ( sDaySunday ) -------------------
+
+--- DATA , ITEM_ID: 576 ---
+星期天\0
+
+
+------------------- GMST ( sDayThursday ) -------------------
+
+--- DATA , ITEM_ID: 579 ---
+星期四\0
+
+
+------------------- GMST ( sDayTuesday ) -------------------
+
+--- DATA , ITEM_ID: 582 ---
+星期二\0
+
+
+------------------- GMST ( sDayWednesday ) -------------------
+
+--- DATA , ITEM_ID: 585 ---
+星期三\0
+
+
+------------------- GMST ( sDecrease ) -------------------
+
+--- DATA , ITEM_ID: 588 ---
+减少\0
+
+
+------------------- GMST ( sDefaultCellName ) -------------------
+
+--- DATA , ITEM_ID: 591 ---
+荒野\0
+
+
+------------------- GMST ( sDefaultPlayerName ) -------------------
+
+--- DATA , ITEM_ID: 594 ---
+玩家姓名\0
+
+
+------------------- GMST ( sDefaults ) -------------------
+
+--- DATA , ITEM_ID: 597 ---
+默认设置\0
+
+
+------------------- GMST ( sDelete ) -------------------
+
+--- DATA , ITEM_ID: 600 ---
+删除\0
+
+
+------------------- GMST ( sDeleteSaveGame ) -------------------
+
+--- DATA , ITEM_ID: 603 ---
+您确定要读取此进度？\0
+
+
+------------------- GMST ( sDeleteSuccessful ) -------------------
+
+--- DATA , ITEM_ID: 606 ---
+进度已删除。\0
+
+
+------------------- GMST ( sDevice ) -------------------
+
+--- DATA , ITEM_ID: 609 ---
+设备\0
+
+
+------------------- GMST ( sDeviceGamepad ) -------------------
+
+--- DATA , ITEM_ID: 612 ---
+Ｘｂｏｘ　３６０控制器\0
+
+
+------------------- GMST ( sDeviceJoystick ) -------------------
+
+--- DATA , ITEM_ID: 615 ---
+操纵杆\0
+
+
+------------------- GMST ( sDeviceKeyboard ) -------------------
+
+--- DATA , ITEM_ID: 618 ---
+键盘\0
+
+
+------------------- GMST ( sDeviceMouse ) -------------------
+
+--- DATA , ITEM_ID: 621 ---
+鼠标\0
+
+
+------------------- GMST ( sDeviceRemoved ) -------------------
+
+--- DATA , ITEM_ID: 624 ---
+您选择的存储设备不再可用。下次存储时您需要选择一个新的设备。在此之前，无法使用自动存储功能。\0
+
+
+------------------- GMST ( sDialogSubtitles ) -------------------
+
+--- DATA , ITEM_ID: 627 ---
+对话字幕\0
+
+
+------------------- GMST ( sDifficulty ) -------------------
+
+--- DATA , ITEM_ID: 630 ---
+\d3h\f0h\eeh\e2h. \f1h\ebh\eeh\e6h\edh\eeh\f1h\f2h\e8h\0
+
+
+------------------- GMST ( sDisableHelp ) -------------------
+
+--- DATA , ITEM_ID: 633 ---
+关闭帮助功能\0
+
+
+------------------- GMST ( sDisableXBoxController ) -------------------
+
+--- DATA , ITEM_ID: 636 ---
+３６０控制器\0
+
+
+------------------- GMST ( sDisarmMine ) -------------------
+
+--- DATA , ITEM_ID: 639 ---
+解除地雷\0
+
+
+------------------- GMST ( sDiscoveredText ) -------------------
+
+--- DATA , ITEM_ID: 642 ---
+你已经发现了\0
+
+
+------------------- GMST ( sDisplay ) -------------------
+
+--- DATA , ITEM_ID: 645 ---
+\ddh\eah\f0h\e0h\edh\0
+
+
+------------------- GMST ( sDone ) -------------------
+
+--- DATA , ITEM_ID: 648 ---
+完成\0
+
+
+------------------- GMST ( sDownloads ) -------------------
+
+--- DATA , ITEM_ID: 651 ---
+下载\0
+
+
+------------------- GMST ( sDownloadsAvailable ) -------------------
+
+--- DATA , ITEM_ID: 654 ---
+有可用的新内容\0
+
+
+------------------- GMST ( sDownloadsNotAvail ) -------------------
+
+--- DATA , ITEM_ID: 657 ---
+无可用的新内容\0
+
+
+------------------- GMST ( sDropEquippedItemWarning ) -------------------
+
+--- DATA , ITEM_ID: 660 ---
+在你完成当前动作前你不能丢弃任何已装备物品。\0
+
+
+------------------- GMST ( sDropQuestItemWarning ) -------------------
+
+--- DATA , ITEM_ID: 663 ---
+你不能将任务物品移出你的物品栏。\0
+
+
+------------------- GMST ( sDurationText ) -------------------
+
+--- DATA , ITEM_ID: 666 ---
+持续时间（不明？）\0
+
+
+------------------- GMST ( sEffectAlreadyAdded ) -------------------
+
+--- DATA , ITEM_ID: 669 ---
+效果已添加。请转而编辑效果。\0
+
+
+------------------- GMST ( sEffectsVolume ) -------------------
+
+--- DATA , ITEM_ID: 672 ---
+音效\0
+
+
+------------------- GMST ( sEmpty ) -------------------
+
+--- DATA , ITEM_ID: 675 ---
+［空］\0
+
+
+------------------- GMST ( sEnableHelp ) -------------------
+
+--- DATA , ITEM_ID: 678 ---
+启用帮助功能\0
+
+
+------------------- GMST ( sEnterName ) -------------------
+
+--- DATA , ITEM_ID: 681 ---
+输入角色姓名。\0
+
+
+------------------- GMST ( sEntryInstructions1 ) -------------------
+
+--- DATA , ITEM_ID: 684 ---
+输入一个姓名以\0
+
+
+------------------- GMST ( sEntryInstructions2 ) -------------------
+
+--- DATA , ITEM_ID: 687 ---
+您正在尝试建立。\0
+
+
+------------------- GMST ( sEquipItemOnPlayer ) -------------------
+
+--- DATA , ITEM_ID: 690 ---
+已装备\0
+
+
+------------------- GMST ( sEssentialCharacterDown ) -------------------
+
+--- DATA , ITEM_ID: 693 ---
+失去知觉\0
+
+
+------------------- GMST ( sExit ) -------------------
+
+--- DATA , ITEM_ID: 696 ---
+退出\0
+
+
+------------------- GMST ( sExitGameAffirm ) -------------------
+
+--- DATA , ITEM_ID: 699 ---
+离开游戏\0
+
+
+------------------- GMST ( sExplosive ) -------------------
+
+--- DATA , ITEM_ID: 702 ---
+EXPLOSIVE\0
+
+
+------------------- GMST ( sEyebrows ) -------------------
+
+--- DATA , ITEM_ID: 705 ---
+眉毛\0
+
+
+------------------- GMST ( sEyebrowsdark ) -------------------
+
+--- DATA , ITEM_ID: 708 ---
+暗／亮\0
+
+
+------------------- GMST ( sEyebrowslow ) -------------------
+
+--- DATA , ITEM_ID: 711 ---
+眉毛　低／高\0
+
+
+------------------- GMST ( sEyebrowslower ) -------------------
+
+--- DATA , ITEM_ID: 714 ---
+眉毛　低处　亮／暗\0
+
+
+------------------- GMST ( sEyebrowsouter ) -------------------
+
+--- DATA , ITEM_ID: 717 ---
+眉毛　外侧　亮／暗\0
+
+
+------------------- GMST ( sEyebrowsthick ) -------------------
+
+--- DATA , ITEM_ID: 720 ---
+眉毛　厚／薄\0
+
+
+------------------- GMST ( sEyebrowsuppert ) -------------------
+
+--- DATA , ITEM_ID: 723 ---
+眉毛　高处　暗／亮\0
+
+
+------------------- GMST ( sEyebrowsvery ) -------------------
+
+--- DATA , ITEM_ID: 726 ---
+眉毛　很薄／很厚\0
+
+
+------------------- GMST ( sEyelidslight ) -------------------
+
+--- DATA , ITEM_ID: 729 ---
+眼睑　亮／暗\0
+
+
+------------------- GMST ( sEyelidspale ) -------------------
+
+--- DATA , ITEM_ID: 732 ---
+眼睑　苍白／红润\0
+
+
+------------------- GMST ( sEyeliner ) -------------------
+
+--- DATA , ITEM_ID: 735 ---
+眼线\0
+
+
+------------------- GMST ( sEyes ) -------------------
+
+--- DATA , ITEM_ID: 738 ---
+\c3h\ebh\e0h\e7h\e0h\0
+
+
+------------------- GMST ( sEyesdark ) -------------------
+
+--- DATA , ITEM_ID: 741 ---
+眼睛　深棕／浅蓝\0
+
+
+------------------- GMST ( sEyesdown ) -------------------
+
+--- DATA , ITEM_ID: 744 ---
+眼睛　下／上\0
+
+
+------------------- GMST ( sEyeshadow ) -------------------
+
+--- DATA , ITEM_ID: 747 ---
+眼影　亮／暗\0
+
+
+------------------- GMST ( sEyesocketsbruised ) -------------------
+
+--- DATA , ITEM_ID: 750 ---
+眼眶　青肿／明亮\0
+
+
+------------------- GMST ( sEyesocketsdark ) -------------------
+
+--- DATA , ITEM_ID: 753 ---
+眼眶　暗／亮\0
+
+
+------------------- GMST ( sEyessmall ) -------------------
+
+--- DATA , ITEM_ID: 756 ---
+眼睛　小／大\0
+
+
+------------------- GMST ( sEyesTex ) -------------------
+
+--- DATA , ITEM_ID: 759 ---
+眼影\0
+
+
+------------------- GMST ( sEyestilt ) -------------------
+
+--- DATA , ITEM_ID: 762 ---
+眼睛　向里倾斜／向外倾斜\0
+
+
+------------------- GMST ( sEyestogether ) -------------------
+
+--- DATA , ITEM_ID: 765 ---
+眼睛　靠近／分离\0
+
+
+------------------- GMST ( sEyeswhites ) -------------------
+
+--- DATA , ITEM_ID: 768 ---
+眼白　黯淡／明亮\0
+
+
+------------------- GMST ( sFace ) -------------------
+
+--- DATA , ITEM_ID: 771 ---
+脸部\0
+
+
+------------------- GMST ( sFacebrow ) -------------------
+
+--- DATA , ITEM_ID: 774 ---
+脸部　眉、鼻、颏　比例\0
+
+
+------------------- GMST ( sFaceforehead ) -------------------
+
+--- DATA , ITEM_ID: 777 ---
+脸部　额、鼻根、鼻　比例\0
+
+
+------------------- GMST ( sFaceheavy ) -------------------
+
+--- DATA , ITEM_ID: 780 ---
+脸部　重／轻\0
+
+
+------------------- GMST ( sFaceround ) -------------------
+
+--- DATA , ITEM_ID: 783 ---
+脸部　圆滑／削瘦\0
+
+
+------------------- GMST ( sFacethin ) -------------------
+
+--- DATA , ITEM_ID: 786 ---
+脸部　窄／宽\0
+
+
+------------------- GMST ( sFastTravelNoTravelHealthDamage ) -------------------
+
+--- DATA , ITEM_ID: 789 ---
+当健康受到伤害时你不能进行快速旅行。\0
+
+
+------------------- GMST ( sFemale ) -------------------
+
+--- DATA , ITEM_ID: 792 ---
+\c6h\e5h\edh.\0
+
+
+------------------- GMST ( sFileNotFound ) -------------------
+
+--- DATA , ITEM_ID: 795 ---
+文件不存在\0
+
+
+------------------- GMST ( sFindingContentMessage ) -------------------
+
+--- DATA , ITEM_ID: 798 ---
+寻找内容中。请等待。\0
+
+
+------------------- GMST ( sFloraFailureMessage ) -------------------
+
+--- DATA , ITEM_ID: 801 ---
+你没有找到任何有用的东西。\0
+
+
+------------------- GMST ( sFloraSuccessMessage ) -------------------
+
+--- DATA , ITEM_ID: 804 ---
+你成功收到了%s。\0
+
+
+------------------- GMST ( sFootstepsVolume ) -------------------
+
+--- DATA , ITEM_ID: 807 ---
+脚步声\0
+
+
+------------------- GMST ( sFor ) -------------------
+
+--- DATA , ITEM_ID: 810 ---
+\e7h\e0h\0
+
+
+------------------- GMST ( sForceLock ) -------------------
+
+--- DATA , ITEM_ID: 813 ---
+暴力开锁\0
+
+
+------------------- GMST ( sForehead ) -------------------
+
+--- DATA , ITEM_ID: 816 ---
+额\0
+
+
+------------------- GMST ( sForeheadsmall ) -------------------
+
+--- DATA , ITEM_ID: 819 ---
+额　小／大\0
+
+
+------------------- GMST ( sForeheadtall ) -------------------
+
+--- DATA , ITEM_ID: 822 ---
+额　高／矮\0
+
+
+------------------- GMST ( sForeheadtilt ) -------------------
+
+--- DATA , ITEM_ID: 825 ---
+额　向前倾斜／向后倾斜\0
+
+
+------------------- GMST ( sFrenziedByPlayerMessage ) -------------------
+
+--- DATA , ITEM_ID: 828 ---
+慌乱（一个词，不明确？）\0
+
+
+------------------- GMST ( sFullHealth ) -------------------
+
+--- DATA , ITEM_ID: 831 ---
+你的健康度已经满了。\0
+
+
+------------------- GMST ( sGameplay ) -------------------
+
+--- DATA , ITEM_ID: 834 ---
+游戏\0
+
+
+------------------- GMST ( sGender ) -------------------
+
+--- DATA , ITEM_ID: 837 ---
+性别\0
+
+
+------------------- GMST ( sGeneralFace ) -------------------
+
+--- DATA , ITEM_ID: 840 ---
+总体（脸部）\0
+
+
+------------------- GMST ( sGeneralSkin ) -------------------
+
+--- DATA , ITEM_ID: 843 ---
+总体（皮肤）\0
+
+
+------------------- GMST ( sGeneralSubtitles ) -------------------
+
+--- DATA , ITEM_ID: 846 ---
+一般字幕\0
+
+
+------------------- GMST ( sGiveAway ) -------------------
+
+--- DATA , ITEM_ID: 849 ---
+失去\0
+
+
+------------------- GMST ( sGold ) -------------------
+
+--- DATA , ITEM_ID: 852 ---
+金色\0
+
+
+------------------- GMST ( sGotAwayWithStealing ) -------------------
+
+--- DATA , ITEM_ID: 855 ---
+以偷窃给出\0
+
+
+------------------- GMST ( sGrassFade ) -------------------
+
+--- DATA , ITEM_ID: 858 ---
+草地淡出\0
+
+
+------------------- GMST ( sGreen ) -------------------
+
+--- DATA , ITEM_ID: 861 ---
+绿色\0
+
+
+------------------- GMST ( sHackIneligible ) -------------------
+
+--- DATA , ITEM_ID: 864 ---
+需要%d点的%s技能以破解此终端。\0
+
+
+------------------- GMST ( sHackingCorrect ) -------------------
+
+--- DATA , ITEM_ID: 867 ---
+正确\0
+
+
+------------------- GMST ( sHackingDenied ) -------------------
+
+--- DATA , ITEM_ID: 870 ---
+拒绝访问\0
+
+
+------------------- GMST ( sHackingDudRemoved ) -------------------
+
+--- DATA , ITEM_ID: 873 ---
+无用信息移除。\0
+
+
+------------------- GMST ( sHackingGranted ) -------------------
+
+--- DATA , ITEM_ID: 876 ---
+准确匹配！\0
+
+
+------------------- GMST ( sHackingHeader2 ) -------------------
+
+--- DATA , ITEM_ID: 879 ---
+现在请输入密码\0
+
+
+------------------- GMST ( sHackingHeader3 ) -------------------
+
+--- DATA , ITEM_ID: 882 ---
+剩余尝试次数：\0
+
+
+------------------- GMST ( sHackingLockout1 ) -------------------
+
+--- DATA , ITEM_ID: 885 ---
+锁定\0
+
+
+------------------- GMST ( sHackingLockout2 ) -------------------
+
+--- DATA , ITEM_ID: 888 ---
+进程。\0
+
+
+------------------- GMST ( sHackingLockout3 ) -------------------
+
+--- DATA , ITEM_ID: 891 ---
+终端已锁定\0
+
+
+------------------- GMST ( sHackingLockout4 ) -------------------
+
+--- DATA , ITEM_ID: 894 ---
+请联系管理员\0
+
+
+------------------- GMST ( sHackingToleranceReset1 ) -------------------
+
+--- DATA , ITEM_ID: 897 ---
+许可\0
+
+
+------------------- GMST ( sHackingToleranceReset2 ) -------------------
+
+--- DATA , ITEM_ID: 900 ---
+已补充。\0
+
+
+------------------- GMST ( sHackingWarning ) -------------------
+
+--- DATA , ITEM_ID: 903 ---
+！！！　警告：即将锁定　！！！\0
+
+
+------------------- GMST ( sHair ) -------------------
+
+--- DATA , ITEM_ID: 906 ---
+\c2h\eeh\ebh\eeh\f1h\fbh\0
+
+
+------------------- GMST ( sHeadDamagedMessage ) -------------------
+
+--- DATA , ITEM_ID: 909 ---
+你的头部受伤了。\0
+
+
+------------------- GMST ( sHealth ) -------------------
+
+--- DATA , ITEM_ID: 912 ---
+健康\0
+
+
+------------------- GMST ( sHeavyArmorNoJump ) -------------------
+
+--- DATA , ITEM_ID: 915 ---
+你的重型护具阻碍了你进行跳跃。\0
+
+
+------------------- GMST ( sHeavyArmorSink ) -------------------
+
+--- DATA , ITEM_ID: 918 ---
+你的重型护具导致你下沉。\0
+
+
+------------------- GMST ( sHelp ) -------------------
+
+--- DATA , ITEM_ID: 921 ---
+\cfh\eeh\ech\eeh\f9h\fch\0
+
+
+------------------- GMST ( sHigh ) -------------------
+
+--- DATA , ITEM_ID: 924 ---
+高\0
+
+
+------------------- GMST ( sHitPointsShort ) -------------------
+
+--- DATA , ITEM_ID: 927 ---
+HP\0
+
+
+------------------- GMST ( sHolidayEmperorsBirthday ) -------------------
+
+--- DATA , ITEM_ID: 930 ---
+Emperor's Birthday\0
+
+
+------------------- GMST ( sHolidayFirstPlanting ) -------------------
+
+--- DATA , ITEM_ID: 933 ---
+First Planting\0
+
+
+------------------- GMST ( sHolidayHarvestsEnd ) -------------------
+
+--- DATA , ITEM_ID: 936 ---
+Harvest's End\0
+
+
+------------------- GMST ( sHolidayJestersDay ) -------------------
+
+--- DATA , ITEM_ID: 939 ---
+Jester's Day\0
+
+
+------------------- GMST ( sHolidayMerchantsFestival ) -------------------
+
+--- DATA , ITEM_ID: 942 ---
+Merchant's Festival\0
+
+
+------------------- GMST ( sHolidayMidYearCelebration ) -------------------
+
+--- DATA , ITEM_ID: 945 ---
+Mid Year Celebration\0
+
+
+------------------- GMST ( sHolidayNewLifeFestival ) -------------------
+
+--- DATA , ITEM_ID: 948 ---
+New Life Festival\0
+
+
+------------------- GMST ( sHolidayNorthWindsPrayer ) -------------------
+
+--- DATA , ITEM_ID: 951 ---
+North Wind's Prayer\0
+
+
+------------------- GMST ( sHolidayOldLifeFestival ) -------------------
+
+--- DATA , ITEM_ID: 954 ---
+Old Life Festival\0
+
+
+------------------- GMST ( sHolidaySecondPlanting ) -------------------
+
+--- DATA , ITEM_ID: 957 ---
+Second Planting\0
+
+
+------------------- GMST ( sHolidaySouthWindsPrayer ) -------------------
+
+--- DATA , ITEM_ID: 960 ---
+South Wind's Prayer\0
+
+
+------------------- GMST ( sHolidaySunsRest ) -------------------
+
+--- DATA , ITEM_ID: 963 ---
+Sun's Rest\0
+
+
+------------------- GMST ( sHolidayTalesAndTallows ) -------------------
+
+--- DATA , ITEM_ID: 966 ---
+Tales and Tallows\0
+
+
+------------------- GMST ( sHolidayWarriorsFestival ) -------------------
+
+--- DATA , ITEM_ID: 969 ---
+Warrior's Festival\0
+
+
+------------------- GMST ( sHolidayWitchesFestival ) -------------------
+
+--- DATA , ITEM_ID: 972 ---
+Witches' Festival\0
+
+
+------------------- GMST ( sHotKeyString ) -------------------
+
+--- DATA , ITEM_ID: 975 ---
+热键\0
+
+
+------------------- GMST ( sHour ) -------------------
+
+--- DATA , ITEM_ID: 978 ---
+小时\0
+
+
+------------------- GMST ( sHours ) -------------------
+
+--- DATA , ITEM_ID: 981 ---
+小时\0
+
+
+------------------- GMST ( sHowMany ) -------------------
+
+--- DATA , ITEM_ID: 984 ---
+多少？\0
+
+
+------------------- GMST ( sHowManyWait ) -------------------
+
+--- DATA , ITEM_ID: 987 ---
+你想进行多长时间的\0
+
+
+------------------- GMST ( sHUDColor ) -------------------
+
+--- DATA , ITEM_ID: 990 ---
+HUD颜色\0
+
+
+------------------- GMST ( sHUDHealth ) -------------------
+
+--- DATA , ITEM_ID: 993 ---
+Hlth\0
+
+
+------------------- GMST ( sHUDOpacity ) -------------------
+
+--- DATA , ITEM_ID: 996 ---
+HUD透明度\0
+
+
+------------------- GMST ( sHUDQuestCompleted ) -------------------
+
+--- DATA , ITEM_ID: 999 ---
+完成：\0
+
+
+------------------- GMST ( sHUDRads ) -------------------
+
+--- DATA , ITEM_ID: 1002 ---
+Rad\0
+
+
+------------------- GMST ( sHUDUseKey ) -------------------
+
+--- DATA , ITEM_ID: 1005 ---
+使用钥匙\0
+
+
+------------------- GMST ( sIgnoreText ) -------------------
+
+--- DATA , ITEM_ID: 1008 ---
+&忽略\0
+
+
+------------------- GMST ( sImageNote ) -------------------
+
+--- DATA , ITEM_ID: 1011 ---
+图片文件\0
+
+
+------------------- GMST ( sImpossibleLock ) -------------------
+
+--- DATA , ITEM_ID: 1014 ---
+无法撬开此锁。需要钥匙打开。\0
+
+
+------------------- GMST ( sInaccessible ) -------------------
+
+--- DATA , ITEM_ID: 1017 ---
+［不可及］\0
+
+
+------------------- GMST ( sIncrease ) -------------------
+
+--- DATA , ITEM_ID: 1020 ---
+增加\0
+
+
+------------------- GMST ( sIngredientFail ) -------------------
+
+--- DATA , ITEM_ID: 1023 ---
+原材料无效果。\0
+
+
+------------------- GMST ( sInvalidPickpocket ) -------------------
+
+--- DATA , ITEM_ID: 1026 ---
+偷窃时你不能把物品放在容器中。\0
+
+
+------------------- GMST ( sInventoryAid ) -------------------
+
+--- DATA , ITEM_ID: 1029 ---
+药物\0
+
+
+------------------- GMST ( sInventoryAmmo ) -------------------
+
+--- DATA , ITEM_ID: 1032 ---
+\c1h\ceh\c5h\c7h\c0h\cfh\c0h\d1h\0
+
+
+------------------- GMST ( sInventoryAmmoTab ) -------------------
+
+--- DATA , ITEM_ID: 1035 ---
+\c1h\eeh\e5h\e7h\e0h\efh\e0h\f1h\0
+
+
+------------------- GMST ( sInventoryApparel ) -------------------
+
+--- DATA , ITEM_ID: 1038 ---
+\cah\eeh\f1h\f2h\feh\ech\fbh\0
+
+
+------------------- GMST ( sInventoryArmorClass ) -------------------
+
+--- DATA , ITEM_ID: 1041 ---
+护甲等级\0
+
+
+------------------- GMST ( sInventoryCaps ) -------------------
+
+--- DATA , ITEM_ID: 1044 ---
+瓶盖\0
+
+
+------------------- GMST ( sInventoryDamage ) -------------------
+
+--- DATA , ITEM_ID: 1047 ---
+DAM\0
+
+
+------------------- GMST ( sInventoryDamageResistance ) -------------------
+
+--- DATA , ITEM_ID: 1050 ---
+DR\0
+
+
+------------------- GMST ( sInventoryDrop ) -------------------
+
+--- DATA , ITEM_ID: 1053 ---
+\c1h\f0h\eeh\f1h\e8h\f2h\fch\0
+
+
+------------------- GMST ( sInventoryEffects ) -------------------
+
+--- DATA , ITEM_ID: 1056 ---
+\ddh\d4h\d4h\c5h\cah\d2h\dbh\0
+
+
+------------------- GMST ( sInventoryEquip ) -------------------
+
+--- DATA , ITEM_ID: 1059 ---
+\c8h\f1h\efh\eeh\ebh\fch\e7h\eeh\e2h\e0h\f2h\fch\0
+
+
+------------------- GMST ( sInventoryHotKey ) -------------------
+
+--- DATA , ITEM_ID: 1062 ---
+\c1h\fbh\f1h\f2h\f0h\e0h\ffh \eah\ebh\e0h\e2h\e8h\f8h\e0h\0
+
+
+------------------- GMST ( sInventoryMisc ) -------------------
+
+--- DATA , ITEM_ID: 1065 ---
+\d0h\e0h\e7h\edh\eeh\e5h\0
+
+
+------------------- GMST ( sInventoryName ) -------------------
+
+--- DATA , ITEM_ID: 1068 ---
+名字\0
+
+
+------------------- GMST ( sInventoryQuantity ) -------------------
+
+--- DATA , ITEM_ID: 1071 ---
+QTY\0
+
+
+------------------- GMST ( sInventoryRepair ) -------------------
+
+--- DATA , ITEM_ID: 1074 ---
+\d0h\e5h\ech\eeh\edh\f2h\0
+
+
+------------------- GMST ( sInventoryUnequip ) -------------------
+
+--- DATA , ITEM_ID: 1077 ---
+\d3h\e1h\f0h\e0h\f2h\fch\0
+
+
+------------------- GMST ( sInventoryUse ) -------------------
+
+--- DATA , ITEM_ID: 1080 ---
+使用\0
+
+
+------------------- GMST ( sInventoryValue ) -------------------
+
+--- DATA , ITEM_ID: 1083 ---
+VAL\0
+
+
+------------------- GMST ( sInventoryWeapons ) -------------------
+
+--- DATA , ITEM_ID: 1086 ---
+武器\0
+
+
+------------------- GMST ( sInventoryWeight ) -------------------
+
+--- DATA , ITEM_ID: 1089 ---
+Wg\0
+
+
+------------------- GMST ( sInventoryWeightUpper ) -------------------
+
+--- DATA , ITEM_ID: 1092 ---
+WG\0
+
+
+------------------- GMST ( sItemFade ) -------------------
+
+--- DATA , ITEM_ID: 1095 ---
+物品淡出\0
+
+
+------------------- GMST ( sJaw ) -------------------
+
+--- DATA , ITEM_ID: 1098 ---
+颌\0
+
+
+------------------- GMST ( sJawline ) -------------------
+
+--- DATA , ITEM_ID: 1101 ---
+颌骨线条　凹／凸\0
+
+
+------------------- GMST ( sJawNeck ) -------------------
+
+--- DATA , ITEM_ID: 1104 ---
+颌颈倾斜　高／低\0
+
+
+------------------- GMST ( sJawretracted ) -------------------
+
+--- DATA , ITEM_ID: 1107 ---
+颌　缩回／伸出\0
+
+
+------------------- GMST ( sJawwide ) -------------------
+
+--- DATA , ITEM_ID: 1110 ---
+颌　宽／窄\0
+
+
+------------------- GMST ( sJournalTitleActive ) -------------------
+
+--- DATA , ITEM_ID: 1113 ---
+启动中任务\0
+
+
+------------------- GMST ( sJournalTitleCompleted ) -------------------
+
+--- DATA , ITEM_ID: 1116 ---
+已完成任务\0
+
+
+------------------- GMST ( sJournalTitleCompletedDetails ) -------------------
+
+--- DATA , ITEM_ID: 1119 ---
+已完成任务细节\0
+
+
+------------------- GMST ( sJournalTitleCurrent ) -------------------
+
+--- DATA , ITEM_ID: 1122 ---
+当前任务\0
+
+
+------------------- GMST ( sJoyDown ) -------------------
+
+--- DATA , ITEM_ID: 1125 ---
+\c2h\edh\e8h\e7h\0
+
+
+------------------- GMST ( sJoyDownLeft ) -------------------
+
+--- DATA , ITEM_ID: 1128 ---
+下－左\0
+
+
+------------------- GMST ( sJoyDownRight ) -------------------
+
+--- DATA , ITEM_ID: 1131 ---
+下－右\0
+
+
+------------------- GMST ( sJoyLeft ) -------------------
+
+--- DATA , ITEM_ID: 1134 ---
+\cdh\e0h\ebh\e5h\e2h\eeh\0
+
+
+------------------- GMST ( sJoyRight ) -------------------
+
+--- DATA , ITEM_ID: 1137 ---
+\cdh\e0h\efh\f0h\e0h\e2h\eeh\0
+
+
+------------------- GMST ( sJoyUp ) -------------------
+
+--- DATA , ITEM_ID: 1140 ---
+\c2h\e2h\e5h\f0h\f5h\0
+
+
+------------------- GMST ( sJoyUpLeft ) -------------------
+
+--- DATA , ITEM_ID: 1143 ---
+上－左\0
+
+
+------------------- GMST ( sJoyUpRight ) -------------------
+
+--- DATA , ITEM_ID: 1146 ---
+下－右\0
+
+
+------------------- GMST ( sJunk ) -------------------
+
+--- DATA , ITEM_ID: 1149 ---
+废物\0
+
+
+------------------- GMST ( sKarmicTitleEvil01 ) -------------------
+
+--- DATA , ITEM_ID: 1152 ---
+Vault Delinquent\0
+
+
+------------------- GMST ( sKarmicTitleEvil02 ) -------------------
+
+--- DATA , ITEM_ID: 1155 ---
+Vault Outlaw\0
+
+
+------------------- GMST ( sKarmicTitleEvil03 ) -------------------
+
+--- DATA , ITEM_ID: 1158 ---
+Opportunist\0
+
+
+------------------- GMST ( sKarmicTitleEvil04 ) -------------------
+
+--- DATA , ITEM_ID: 1161 ---
+Plunderer\0
+
+
+------------------- GMST ( sKarmicTitleEvil05 ) -------------------
+
+--- DATA , ITEM_ID: 1164 ---
+Fat Cat\0
+
+
+------------------- GMST ( sKarmicTitleEvil06 ) -------------------
+
+--- DATA , ITEM_ID: 1167 ---
+Marauder\0
+
+
+------------------- GMST ( sKarmicTitleEvil07 ) -------------------
+
+--- DATA , ITEM_ID: 1170 ---
+Pirate of the Wastes\0
+
+
+------------------- GMST ( sKarmicTitleEvil08 ) -------------------
+
+--- DATA , ITEM_ID: 1173 ---
+Reaver\0
+
+
+------------------- GMST ( sKarmicTitleEvil09 ) -------------------
+
+--- DATA , ITEM_ID: 1176 ---
+Urban Invader\0
+
+
+------------------- GMST ( sKarmicTitleEvil10 ) -------------------
+
+--- DATA , ITEM_ID: 1179 ---
+Ne'er-do-well\0
+
+
+------------------- GMST ( sKarmicTitleEvil11 ) -------------------
+
+--- DATA , ITEM_ID: 1182 ---
+Capitol Crimelord\0
+
+
+------------------- GMST ( sKarmicTitleEvil12 ) -------------------
+
+--- DATA , ITEM_ID: 1185 ---
+Defiler\0
+
+
+------------------- GMST ( sKarmicTitleEvil13 ) -------------------
+
+--- DATA , ITEM_ID: 1188 ---
+Vault Boogeyman\0
+
+
+------------------- GMST ( sKarmicTitleEvil14 ) -------------------
+
+--- DATA , ITEM_ID: 1191 ---
+Harbinger of War\0
+
+
+------------------- GMST ( sKarmicTitleEvil15 ) -------------------
+
+--- DATA , ITEM_ID: 1194 ---
+Urban Superstition\0
+
+
+------------------- GMST ( sKarmicTitleEvil16 ) -------------------
+
+--- DATA , ITEM_ID: 1197 ---
+Villain of the Wastes\0
+
+
+------------------- GMST ( sKarmicTitleEvil17 ) -------------------
+
+--- DATA , ITEM_ID: 1200 ---
+Fiend\0
+
+
+------------------- GMST ( sKarmicTitleEvil18 ) -------------------
+
+--- DATA , ITEM_ID: 1203 ---
+Wasteland Destroyer\0
+
+
+------------------- GMST ( sKarmicTitleEvil19 ) -------------------
+
+--- DATA , ITEM_ID: 1206 ---
+Evil Incarnate\0
+
+
+------------------- GMST ( sKarmicTitleEvil20 ) -------------------
+
+--- DATA , ITEM_ID: 1209 ---
+Scourge of Humanity\0
+
+
+------------------- GMST ( sKarmicTitleGood01 ) -------------------
+
+--- DATA , ITEM_ID: 1212 ---
+Vault Guardian\0
+
+
+------------------- GMST ( sKarmicTitleGood02 ) -------------------
+
+--- DATA , ITEM_ID: 1215 ---
+Vault Martyr\0
+
+
+------------------- GMST ( sKarmicTitleGood03 ) -------------------
+
+--- DATA , ITEM_ID: 1218 ---
+Sentinel\0
+
+
+------------------- GMST ( sKarmicTitleGood04 ) -------------------
+
+--- DATA , ITEM_ID: 1221 ---
+Defender\0
+
+
+------------------- GMST ( sKarmicTitleGood05 ) -------------------
+
+--- DATA , ITEM_ID: 1224 ---
+Dignitary\0
+
+
+------------------- GMST ( sKarmicTitleGood06 ) -------------------
+
+--- DATA , ITEM_ID: 1227 ---
+Peacekeeper\0
+
+
+------------------- GMST ( sKarmicTitleGood07 ) -------------------
+
+--- DATA , ITEM_ID: 1230 ---
+Ranger of the Wastes\0
+
+
+------------------- GMST ( sKarmicTitleGood08 ) -------------------
+
+--- DATA , ITEM_ID: 1233 ---
+Protector\0
+
+
+------------------- GMST ( sKarmicTitleGood09 ) -------------------
+
+--- DATA , ITEM_ID: 1236 ---
+Urban Avenger\0
+
+
+------------------- GMST ( sKarmicTitleGood10 ) -------------------
+
+--- DATA , ITEM_ID: 1239 ---
+Exemplar\0
+
+
+------------------- GMST ( sKarmicTitleGood11 ) -------------------
+
+--- DATA , ITEM_ID: 1242 ---
+Capitol Crusader\0
+
+
+------------------- GMST ( sKarmicTitleGood12 ) -------------------
+
+--- DATA , ITEM_ID: 1245 ---
+Paladin\0
+
+
+------------------- GMST ( sKarmicTitleGood13 ) -------------------
+
+--- DATA , ITEM_ID: 1248 ---
+Vault Legend\0
+
+
+------------------- GMST ( sKarmicTitleGood14 ) -------------------
+
+--- DATA , ITEM_ID: 1251 ---
+Ambassador of Peace\0
+
+
+------------------- GMST ( sKarmicTitleGood15 ) -------------------
+
+--- DATA , ITEM_ID: 1254 ---
+Urban Legend\0
+
+
+------------------- GMST ( sKarmicTitleGood16 ) -------------------
+
+--- DATA , ITEM_ID: 1257 ---
+Hero of the Wastes\0
+
+
+------------------- GMST ( sKarmicTitleGood17 ) -------------------
+
+--- DATA , ITEM_ID: 1260 ---
+Paragon\0
+
+
+------------------- GMST ( sKarmicTitleGood18 ) -------------------
+
+--- DATA , ITEM_ID: 1263 ---
+Wasteland Savior\0
+
+
+------------------- GMST ( sKarmicTitleGood19 ) -------------------
+
+--- DATA , ITEM_ID: 1266 ---
+Saint\0
+
+
+------------------- GMST ( sKarmicTitleGood20 ) -------------------
+
+--- DATA , ITEM_ID: 1269 ---
+Last, Best Hope of Humanity\0
+
+
+------------------- GMST ( sKarmicTitleNeutral01 ) -------------------
+
+--- DATA , ITEM_ID: 1272 ---
+Vault Dweller\0
+
+
+------------------- GMST ( sKarmicTitleNeutral02 ) -------------------
+
+--- DATA , ITEM_ID: 1275 ---
+Vault Renegade\0
+
+
+------------------- GMST ( sKarmicTitleNeutral03 ) -------------------
+
+--- DATA , ITEM_ID: 1278 ---
+Seeker\0
+
+
+------------------- GMST ( sKarmicTitleNeutral04 ) -------------------
+
+--- DATA , ITEM_ID: 1281 ---
+Wanderer\0
+
+
+------------------- GMST ( sKarmicTitleNeutral05 ) -------------------
+
+--- DATA , ITEM_ID: 1284 ---
+Citizen\0
+
+
+------------------- GMST ( sKarmicTitleNeutral06 ) -------------------
+
+--- DATA , ITEM_ID: 1287 ---
+Adventurer\0
+
+
+------------------- GMST ( sKarmicTitleNeutral07 ) -------------------
+
+--- DATA , ITEM_ID: 1290 ---
+Vagabond of the Wastes\0
+
+
+------------------- GMST ( sKarmicTitleNeutral08 ) -------------------
+
+--- DATA , ITEM_ID: 1293 ---
+Mercenary\0
+
+
+------------------- GMST ( sKarmicTitleNeutral09 ) -------------------
+
+--- DATA , ITEM_ID: 1296 ---
+Urban Ranger\0
+
+
+------------------- GMST ( sKarmicTitleNeutral10 ) -------------------
+
+--- DATA , ITEM_ID: 1299 ---
+Observer\0
+
+
+------------------- GMST ( sKarmicTitleNeutral11 ) -------------------
+
+--- DATA , ITEM_ID: 1302 ---
+Capitol Councilor\0
+
+
+------------------- GMST ( sKarmicTitleNeutral12 ) -------------------
+
+--- DATA , ITEM_ID: 1305 ---
+Keeper\0
+
+
+------------------- GMST ( sKarmicTitleNeutral13 ) -------------------
+
+--- DATA , ITEM_ID: 1308 ---
+Vault Descendant\0
+
+
+------------------- GMST ( sKarmicTitleNeutral14 ) -------------------
+
+--- DATA , ITEM_ID: 1311 ---
+Pinnacle of Survival\0
+
+
+------------------- GMST ( sKarmicTitleNeutral15 ) -------------------
+
+--- DATA , ITEM_ID: 1314 ---
+Urban Myth\0
+
+
+------------------- GMST ( sKarmicTitleNeutral16 ) -------------------
+
+--- DATA , ITEM_ID: 1317 ---
+Strider of the Wastes\0
+
+
+------------------- GMST ( sKarmicTitleNeutral17 ) -------------------
+
+--- DATA , ITEM_ID: 1320 ---
+Beholder\0
+
+
+------------------- GMST ( sKarmicTitleNeutral18 ) -------------------
+
+--- DATA , ITEM_ID: 1323 ---
+Wasteland Watcher\0
+
+
+------------------- GMST ( sKarmicTitleNeutral19 ) -------------------
+
+--- DATA , ITEM_ID: 1326 ---
+Super-Human\0
+
+
+------------------- GMST ( sKarmicTitleNeutral20 ) -------------------
+
+--- DATA , ITEM_ID: 1329 ---
+Paradigm of Humanity\0
+
+
+------------------- GMST ( sKeyLocked ) -------------------
+
+--- DATA , ITEM_ID: 1332 ---
+此钥匙不可重映射\0
+
+
+------------------- GMST ( sKeyring ) -------------------
+
+--- DATA , ITEM_ID: 1335 ---
+钥匙链\0
+
+
+------------------- GMST ( sKnownEffects ) -------------------
+
+--- DATA , ITEM_ID: 1338 ---
+已知效果\0
+
+
+------------------- GMST ( sLarge ) -------------------
+
+--- DATA , ITEM_ID: 1341 ---
+大\0
+
+
+------------------- GMST ( sLeaveMarker ) -------------------
+
+--- DATA , ITEM_ID: 1344 ---
+不管它\0
+
+
+------------------- GMST ( sLength ) -------------------
+
+--- DATA , ITEM_ID: 1347 ---
+长度\0
+
+
+------------------- GMST ( sLevelAbbrev ) -------------------
+
+--- DATA , ITEM_ID: 1350 ---
+等级\0
+
+
+------------------- GMST ( sLevelProgress ) -------------------
+
+--- DATA , ITEM_ID: 1353 ---
+等级进度\0
+
+
+------------------- GMST ( sLevelUp ) -------------------
+
+--- DATA , ITEM_ID: 1356 ---
+升级\0
+
+
+------------------- GMST ( sLevelUpPerkCounter ) -------------------
+
+--- DATA , ITEM_ID: 1359 ---
+选择１个PERK\0
+
+
+------------------- GMST ( sLevelUpPerkCounterPl ) -------------------
+
+--- DATA , ITEM_ID: 1362 ---
+选择%d个PERK\0
+
+
+------------------- GMST ( sLevelUpSkillCounter ) -------------------
+
+--- DATA , ITEM_ID: 1365 ---
+分配１点技能\0
+
+
+------------------- GMST ( sLevelUpSkillCounterPl ) -------------------
+
+--- DATA , ITEM_ID: 1368 ---
+分配%d点技能\0
+
+
+------------------- GMST ( sLevelUpTitleText ) -------------------
+
+--- DATA , ITEM_ID: 1371 ---
+欢迎升级到%d级\0
+
+
+------------------- GMST ( sLightFade ) -------------------
+
+--- DATA , ITEM_ID: 1374 ---
+光线淡出\0
+
+
+------------------- GMST ( sLips ) -------------------
+
+--- DATA , ITEM_ID: 1377 ---
+唇\0
+
+
+------------------- GMST ( sLipsflushed ) -------------------
+
+--- DATA , ITEM_ID: 1380 ---
+唇　红润／苍白\0
+
+
+------------------- GMST ( sLipstickdarkblue ) -------------------
+
+--- DATA , ITEM_ID: 1383 ---
+唇膏　深蓝／浅红\0
+
+
+------------------- GMST ( sLipstickdarkred ) -------------------
+
+--- DATA , ITEM_ID: 1386 ---
+唇膏　深红／浅蓝\0
+
+
+------------------- GMST ( sLoad ) -------------------
+
+--- DATA , ITEM_ID: 1389 ---
+读取进度\0
+
+
+------------------- GMST ( sLoadFromMainMenu ) -------------------
+
+--- DATA , ITEM_ID: 1392 ---
+您确定要删除这个进度？\0
+
+
+------------------- GMST ( sLoading ) -------------------
+
+--- DATA , ITEM_ID: 1395 ---
+读取中……\0
+
+
+------------------- GMST ( sLoadingContentMessage ) -------------------
+
+--- DATA , ITEM_ID: 1398 ---
+加载额外内容中。请等待。\0
+
+
+------------------- GMST ( sLoadingLOD ) -------------------
+
+--- DATA , ITEM_ID: 1401 ---
+物体淡出sObjectFade读取远距离LOD……\0
+
+
+------------------- GMST ( sLoadSavedGame ) -------------------
+
+--- DATA , ITEM_ID: 1404 ---
+读取进度\0
+
+
+------------------- GMST ( sLoadThisGame ) -------------------
+
+--- DATA , ITEM_ID: 1407 ---
+\c7h\e0h\e3h\f0h\f3h\e7h\e8h\f2h\fch \fdh\f2h\f3h \e8h\e3h\f0h\f3h?\0
+
+
+------------------- GMST ( sLoadWhilePlaying ) -------------------
+
+--- DATA , ITEM_ID: 1410 ---
+您确定要读取此进度？所有未存储的进度将会丢失。\0
+
+
+------------------- GMST ( sLocalMapTabText ) -------------------
+
+--- DATA , ITEM_ID: 1413 ---
+本地地图\0
+
+
+------------------- GMST ( sLockBroken ) -------------------
+
+--- DATA , ITEM_ID: 1416 ---
+此锁已坏。\0
+
+
+------------------- GMST ( sLocked ) -------------------
+
+--- DATA , ITEM_ID: 1419 ---
+锁住\0
+
+
+------------------- GMST ( sLockLevelNameAverage ) -------------------
+
+--- DATA , ITEM_ID: 1422 ---
+平均\0
+
+
+------------------- GMST ( sLockLevelNameEasy ) -------------------
+
+--- DATA , ITEM_ID: 1425 ---
+简单\0
+
+
+------------------- GMST ( sLockLevelNameHard ) -------------------
+
+--- DATA , ITEM_ID: 1428 ---
+困难\0
+
+
+------------------- GMST ( sLockLevelNameImpossible ) -------------------
+
+--- DATA , ITEM_ID: 1431 ---
+需要钥匙\0
+
+
+------------------- GMST ( sLockLevelNameVeryEasy ) -------------------
+
+--- DATA , ITEM_ID: 1434 ---
+非常简单\0
+
+
+------------------- GMST ( sLockLevelNameVeryHard ) -------------------
+
+--- DATA , ITEM_ID: 1437 ---
+非常困难\0
+
+
+------------------- GMST ( sLockLevelText ) -------------------
+
+--- DATA , ITEM_ID: 1440 ---
+上锁等级\0
+
+
+------------------- GMST ( sLockpickingTitle ) -------------------
+
+--- DATA , ITEM_ID: 1443 ---
+撬锁\0
+
+
+------------------- GMST ( sLockpickSkillText ) -------------------
+
+--- DATA , ITEM_ID: 1446 ---
+撬锁技能\0
+
+
+------------------- GMST ( sLockpickSkillTooLow ) -------------------
+
+--- DATA , ITEM_ID: 1449 ---
+你需要%d的撬锁技能以撬开此锁。\0
+
+
+------------------- GMST ( sLostController ) -------------------
+
+--- DATA , ITEM_ID: 1452 ---
+Ｘｂｏｘ　３６０控制器未连接。点击确定键以使用键盘和鼠标方式，或重新连接Ｘｂｏｘ　３６０控制器并按Ａ键。\0
+
+
+------------------- GMST ( sLow ) -------------------
+
+--- DATA , ITEM_ID: 1455 ---
+低\0
+
+
+------------------- GMST ( sMagicCastConstant ) -------------------
+
+--- DATA , ITEM_ID: 1458 ---
+服装\0
+
+
+------------------- GMST ( sMagicCastInsufficientMagicka ) -------------------
+
+--- DATA , ITEM_ID: 1461 ---
+你没有足够的Magicka\0
+
+
+------------------- GMST ( sMagicCastInsufficientSkill ) -------------------
+
+--- DATA , ITEM_ID: 1464 ---
+你的技能等级太低了\0
+
+
+------------------- GMST ( sMagicCastMultipleBoundEffects ) -------------------
+
+--- DATA , ITEM_ID: 1467 ---
+你已经有了这种Bound Item\0
+
+
+------------------- GMST ( sMagicCastOnce ) -------------------
+
+--- DATA , ITEM_ID: 1470 ---
+卷轴\0
+
+
+------------------- GMST ( sMagicCastPowerUsed ) -------------------
+
+--- DATA , ITEM_ID: 1473 ---
+每天你只能施展一次能力。\0
+
+
+------------------- GMST ( sMagicCastRangedUnderwater ) -------------------
+
+--- DATA , ITEM_ID: 1476 ---
+你不能在水下施展范围咒语。\0
+
+
+------------------- GMST ( sMagicCastSilenced ) -------------------
+
+--- DATA , ITEM_ID: 1479 ---
+你现在被沉默了。\0
+
+
+------------------- GMST ( sMagicCastWhenStrikes ) -------------------
+
+--- DATA , ITEM_ID: 1482 ---
+武器\0
+
+
+------------------- GMST ( sMagicCastWhenUsed ) -------------------
+
+--- DATA , ITEM_ID: 1485 ---
+杖（法杖？魔杖？）\0
+
+
+------------------- GMST ( sMagicCostliestEffectRequires ) -------------------
+
+--- DATA , ITEM_ID: 1488 ---
+需求　\0
+
+
+------------------- GMST ( sMagicCostliestEffectSkillOf ) -------------------
+
+--- DATA , ITEM_ID: 1491 ---
+的技能　\0
+
+
+------------------- GMST ( sMagicEffectItemAbsorb ) -------------------
+
+--- DATA , ITEM_ID: 1494 ---
+\cfh\eeh\e3h\ebh\eeh\f9h\e5h\edh\e8h\e5h:\0
+
+
+------------------- GMST ( sMagicEffectItemCreateLock ) -------------------
+
+--- DATA , ITEM_ID: 1497 ---
+创建\0
+
+
+------------------- GMST ( sMagicEffectItemDamage ) -------------------
+
+--- DATA , ITEM_ID: 1500 ---
+伤害\0
+
+
+------------------- GMST ( sMagicEffectItemDrain ) -------------------
+
+--- DATA , ITEM_ID: 1503 ---
+用光（一个词，不确定？）\0
+
+
+------------------- GMST ( sMagicEffectItemFeet ) -------------------
+
+--- DATA , ITEM_ID: 1506 ---
+英尺\0
+
+
+------------------- GMST ( sMagicEffectItemFor ) -------------------
+
+--- DATA , ITEM_ID: 1509 ---
+为\0
+
+
+------------------- GMST ( sMagicEffectItemFortify ) -------------------
+
+--- DATA , ITEM_ID: 1512 ---
+增强\0
+
+
+------------------- GMST ( sMagicEffectItemIn ) -------------------
+
+--- DATA , ITEM_ID: 1515 ---
+在\0
+
+
+------------------- GMST ( sMagicEffectItemLock ) -------------------
+
+--- DATA , ITEM_ID: 1518 ---
+\c7h\e0h\ech\eeh\eah\0
+
+
+------------------- GMST ( sMagicEffectItemOn ) -------------------
+
+--- DATA , ITEM_ID: 1521 ---
+在\0
+
+
+------------------- GMST ( sMagicEffectItemPointsPlural ) -------------------
+
+--- DATA , ITEM_ID: 1524 ---
+点\0
+
+
+------------------- GMST ( sMagicEffectItemPointsSingular ) -------------------
+
+--- DATA , ITEM_ID: 1527 ---
+点\0
+
+
+------------------- GMST ( sMagicEffectItemRestore ) -------------------
+
+--- DATA , ITEM_ID: 1530 ---
+还原\0
+
+
+------------------- GMST ( sMagicEffectItemSecondsPlural ) -------------------
+
+--- DATA , ITEM_ID: 1533 ---
+秒\0
+
+
+------------------- GMST ( sMagicEffectItemSecondsSingular ) -------------------
+
+--- DATA , ITEM_ID: 1536 ---
+秒\0
+
+
+------------------- GMST ( sMagicEffectItemUpToLevel ) -------------------
+
+--- DATA , ITEM_ID: 1539 ---
+直到等级（至多等级？）\0
+
+
+------------------- GMST ( sMagicEffectResisted ) -------------------
+
+--- DATA , ITEM_ID: 1542 ---
+效果抵抗\0
+
+
+------------------- GMST ( sMagicProjectileTypeBall ) -------------------
+
+--- DATA , ITEM_ID: 1545 ---
+球\0
+
+
+------------------- GMST ( sMagicProjectileTypeBolt ) -------------------
+
+--- DATA , ITEM_ID: 1548 ---
+弹\0
+
+
+------------------- GMST ( sMagicProjectileTypeFog ) -------------------
+
+--- DATA , ITEM_ID: 1551 ---
+雾\0
+
+
+------------------- GMST ( sMagicProjectileTypeSpray ) -------------------
+
+--- DATA , ITEM_ID: 1554 ---
+溅射\0
+
+
+------------------- GMST ( sMagicRangeSelf ) -------------------
+
+--- DATA , ITEM_ID: 1557 ---
+自己\0
+
+
+------------------- GMST ( sMagicRangeStrike ) -------------------
+
+--- DATA , ITEM_ID: 1560 ---
+袭击\0
+
+
+------------------- GMST ( sMagicRangeTarget ) -------------------
+
+--- DATA , ITEM_ID: 1563 ---
+目标\0
+
+
+------------------- GMST ( sMagicRangeTouch ) -------------------
+
+--- DATA , ITEM_ID: 1566 ---
+接触\0
+
+
+------------------- GMST ( sMagicSchool ) -------------------
+
+--- DATA , ITEM_ID: 1569 ---
+魔法学派\0
+
+
+------------------- GMST ( sMagicSchoolAlteration ) -------------------
+
+--- DATA , ITEM_ID: 1572 ---
+Alteration\0
+
+
+------------------- GMST ( sMagicSchoolConjuration ) -------------------
+
+--- DATA , ITEM_ID: 1575 ---
+Conjuration\0
+
+
+------------------- GMST ( sMagicSchoolDestruction ) -------------------
+
+--- DATA , ITEM_ID: 1578 ---
+Destruction\0
+
+
+------------------- GMST ( sMagicSchoolIllusion ) -------------------
+
+--- DATA , ITEM_ID: 1581 ---
+Illusion\0
+
+
+------------------- GMST ( sMagicSchoolMysticism ) -------------------
+
+--- DATA , ITEM_ID: 1584 ---
+Mysticism\0
+
+
+------------------- GMST ( sMagicSchoolRestoration ) -------------------
+
+--- DATA , ITEM_ID: 1587 ---
+Restoration\0
+
+
+------------------- GMST ( sMagicTypeAbility ) -------------------
+
+--- DATA , ITEM_ID: 1590 ---
+能力\0
+
+
+------------------- GMST ( sMagicTypeAddiction ) -------------------
+
+--- DATA , ITEM_ID: 1593 ---
+成瘾\0
+
+
+------------------- GMST ( sMagicTypeDisease ) -------------------
+
+--- DATA , ITEM_ID: 1596 ---
+疾病\0
+
+
+------------------- GMST ( sMagicTypeEnchantment ) -------------------
+
+--- DATA , ITEM_ID: 1599 ---
+迷惑\0
+
+
+------------------- GMST ( sMagicTypeLesserPower ) -------------------
+
+--- DATA , ITEM_ID: 1602 ---
+次要能力\0
+
+
+------------------- GMST ( sMagicTypeLevelled ) -------------------
+
+--- DATA , ITEM_ID: 1605 ---
+等级咒语（平面咒语？）\0
+
+
+------------------- GMST ( sMagicTypePoison ) -------------------
+
+--- DATA , ITEM_ID: 1608 ---
+毒药\0
+
+
+------------------- GMST ( sMagicTypePotion ) -------------------
+
+--- DATA , ITEM_ID: 1611 ---
+药水\0
+
+
+------------------- GMST ( sMagicTypePower ) -------------------
+
+--- DATA , ITEM_ID: 1614 ---
+能力\0
+
+
+------------------- GMST ( sMagicTypeSpell ) -------------------
+
+--- DATA , ITEM_ID: 1617 ---
+咒语\0
+
+
+------------------- GMST ( sMagicTypeWortcraft ) -------------------
+
+--- DATA , ITEM_ID: 1620 ---
+Wortcraft\0
+
+
+------------------- GMST ( sMagnitudeIsLevelText ) -------------------
+
+--- DATA , ITEM_ID: 1623 ---
+目标等级\0
+
+
+------------------- GMST ( sMagnitudeText ) -------------------
+
+--- DATA , ITEM_ID: 1626 ---
+Magnitude\0
+
+
+------------------- GMST ( sMain ) -------------------
+
+--- DATA , ITEM_ID: 1629 ---
+主要\0
+
+
+------------------- GMST ( sMainMenu ) -------------------
+
+--- DATA , ITEM_ID: 1632 ---
+主菜单\0
+
+
+------------------- GMST ( sMakeActiveQuest ) -------------------
+
+--- DATA , ITEM_ID: 1635 ---
+制作启动中任务（制作？）\0
+
+
+------------------- GMST ( sMakeDefaults ) -------------------
+
+--- DATA , ITEM_ID: 1638 ---
+把这些作为您的默认设置？\0
+
+
+------------------- GMST ( sMale ) -------------------
+
+--- DATA , ITEM_ID: 1641 ---
+\cch\f3h\e6h.\0
+
+
+------------------- GMST ( sMapMarkerAdded ) -------------------
+
+--- DATA , ITEM_ID: 1644 ---
+已添加地图标记。\0
+
+
+------------------- GMST ( sMapMarkerNotFound ) -------------------
+
+--- DATA , ITEM_ID: 1647 ---
+你尚未发现这一地点。\0
+
+
+------------------- GMST ( sMasterVolume ) -------------------
+
+--- DATA , ITEM_ID: 1650 ---
+\ceh\e1h\f9h\e0h\ffh\0
+
+
+------------------- GMST ( sMedicineSkill ) -------------------
+
+--- DATA , ITEM_ID: 1653 ---
+医学技能\0
+
+
+------------------- GMST ( sMedium ) -------------------
+
+--- DATA , ITEM_ID: 1656 ---
+中\0
+
+
+------------------- GMST ( sMenuDisplayAutosaveName ) -------------------
+
+--- DATA , ITEM_ID: 1659 ---
+\c0h\e2h\f2h\eeh\0
+
+
+------------------- GMST ( sMenuDisplayDayString ) -------------------
+
+--- DATA , ITEM_ID: 1662 ---
+日\0
+
+
+------------------- GMST ( sMenuDisplayLevelString ) -------------------
+
+--- DATA , ITEM_ID: 1665 ---
+\d3h\f0h\eeh\e2h.\0
+
+
+------------------- GMST ( sMenuDisplayNewSave ) -------------------
+
+--- DATA , ITEM_ID: 1668 ---
+新进度\0
+
+
+------------------- GMST ( sMenuDisplayNoSaves ) -------------------
+
+--- DATA , ITEM_ID: 1671 ---
+无进度。\0
+
+
+------------------- GMST ( sMenuDisplayPlayTime ) -------------------
+
+--- DATA , ITEM_ID: 1674 ---
+\c2h\f0h\e5h\ech\ffh \e8h\e3h\f0h\fbh\0
+
+
+------------------- GMST ( sMenuDisplayQuicksaveName ) -------------------
+
+--- DATA , ITEM_ID: 1677 ---
+快速存储\0
+
+
+------------------- GMST ( sMenuDisplaySave ) -------------------
+
+--- DATA , ITEM_ID: 1680 ---
+\d1h\eeh\f5h\f0h.\0
+
+
+------------------- GMST ( sMenuDisplayShortXBoxSaveMessage ) -------------------
+
+--- DATA , ITEM_ID: 1683 ---
+存储中……\0
+
+
+------------------- GMST ( sMenuDisplayUnknownLocationString ) -------------------
+
+--- DATA , ITEM_ID: 1686 ---
+未知地点\0
+
+
+------------------- GMST ( sMenuDisplayXBoxSaveMessage ) -------------------
+
+--- DATA , ITEM_ID: 1689 ---
+保存内容中。请不要关闭您的主机。\0
+
+
+------------------- GMST ( sMerchantNoGold ) -------------------
+
+--- DATA , ITEM_ID: 1692 ---
+商人没有足够的瓶盖。\0
+
+
+------------------- GMST ( sMiscConstantEffect ) -------------------
+
+--- DATA , ITEM_ID: 1695 ---
+永久效果\0
+
+
+------------------- GMST ( sMiscPlayerDeadLoadOption ) -------------------
+
+--- DATA , ITEM_ID: 1698 ---
+重新读取\0
+
+
+------------------- GMST ( sMiscPlayerDeadMenuOption ) -------------------
+
+--- DATA , ITEM_ID: 1701 ---
+\c3h\ebh\e0h\e2h\edh\eeh\e5h \ech\e5h\edh\feh\0
+
+
+------------------- GMST ( sMiscPlayerDeadMessage ) -------------------
+
+--- DATA , ITEM_ID: 1704 ---
+重新读取最近的进度\0
+
+
+------------------- GMST ( sMiscStat000 ) -------------------
+
+--- DATA , ITEM_ID: 1707 ---
+\c7h\e0h\e4h\e0h\edh\e8h\e9h \e2h\fbh\efh\eeh\ebh\edh\e5h\edh\eeh\0
+
+
+------------------- GMST ( sMiscStat001 ) -------------------
+
+--- DATA , ITEM_ID: 1710 ---
+\cbh\eeh\eah\e0h\f6h\e8h\e9h \eeh\e1h\edh\e0h\f0h\f3h\e6h\e5h\edh\eeh\0
+
+
+------------------- GMST ( sMiscStat002 ) -------------------
+
+--- DATA , ITEM_ID: 1713 ---
+\cbh\feh\e4h\e5h\e9h \f3h\e1h\e8h\f2h\eeh\0
+
+
+------------------- GMST ( sMiscStat003 ) -------------------
+
+--- DATA , ITEM_ID: 1716 ---
+\d1h\f3h\f9h\e5h\f1h\f2h\e2h \f3h\e1h\e8h\f2h\eeh\0
+
+
+------------------- GMST ( sMiscStat004 ) -------------------
+
+--- DATA , ITEM_ID: 1719 ---
+\c7h\e0h\ech\eah\eeh\e2h \e2h\f1h\eah\f0h\fbh\f2h\eeh\0
+
+
+------------------- GMST ( sMiscStat005 ) -------------------
+
+--- DATA , ITEM_ID: 1722 ---
+\cah\eeh\ech\efh\fch\feh\f2h\e5h\f0h\eeh\e2h \e2h\e7h\ebh\eeh\ech\e0h\edh\eeh\0
+
+
+------------------- GMST ( sMiscStat006 ) -------------------
+
+--- DATA , ITEM_ID: 1725 ---
+\d1h\f2h\e8h\ech\f3h\ebh\ffh\f2h\eeh\f0h\eeh\e2h \efh\f0h\e8h\edh\ffh\f2h\eeh\0
+
+
+------------------- GMST ( sMiscStat007 ) -------------------
+
+--- DATA , ITEM_ID: 1728 ---
+\d0h\e0h\e4h-X \efh\f0h\e8h\edh\ffh\f2h\eeh\0
+
+
+------------------- GMST ( sMiscStat008 ) -------------------
+
+--- DATA , ITEM_ID: 1731 ---
+\c0h\edh\f2h\e8h\f0h\e0h\e4h\e8h\edh\e0h \efh\f0h\e8h\edh\ffh\f2h\eeh\0
+
+
+------------------- GMST ( sMiscStat009 ) -------------------
+
+--- DATA , ITEM_ID: 1734 ---
+\d5h\e8h\ech\e8h\eah\e0h\f2h\eeh\e2h \efh\f0h\e8h\edh\ffh\f2h\eeh\0
+
+
+------------------- GMST ( sMiscStat010 ) -------------------
+
+--- DATA , ITEM_ID: 1737 ---
+\cfh\f0h\e8h\e2h\fbh\eah\e0h\edh\e8h\e9h\0
+
+
+------------------- GMST ( sMiscStat011 ) -------------------
+
+--- DATA , ITEM_ID: 1740 ---
+\cch\e8h\edh \eeh\e1h\e5h\e7h\e2h\f0h\e5h\e6h\e5h\edh\eeh\0
+
+
+------------------- GMST ( sMiscStat012 ) -------------------
+
+--- DATA , ITEM_ID: 1743 ---
+\d3h\f1h\efh\e5h\f8h\edh\fbh\f5h \e2h\edh\f3h\f8h\e5h\edh\e8h\e9h\0
+
+
+------------------- GMST ( sMiscStat013 ) -------------------
+
+--- DATA , ITEM_ID: 1746 ---
+\cah\e0h\f0h\ech\e0h\edh\eeh\e2h \eeh\e1h\f7h\e8h\f9h\e5h\edh\eeh\0
+
+
+------------------- GMST ( sMiscStat014 ) -------------------
+
+--- DATA , ITEM_ID: 1749 ---
+\d8h\f2h\e0h\edh\eeh\e2h \e2h\e7h\eeh\f0h\e2h\e0h\edh\eeh\0
+
+
+------------------- GMST ( sMiscStat015 ) -------------------
+
+--- DATA , ITEM_ID: 1752 ---
+\cah\edh\e8h\e3h \efh\f0h\eeh\f7h\e8h\f2h\e0h\edh\eeh\0
+
+
+------------------- GMST ( sMiscStat016 ) -------------------
+
+--- DATA , ITEM_ID: 1755 ---
+\cfh\f3h\efh\f1h\eeh\e2h \edh\e0h\e9h\e4h\e5h\edh\eeh\0
+
+
+------------------- GMST ( sMiscStat017 ) -------------------
+
+--- DATA , ITEM_ID: 1758 ---
+\ceh\f0h\f3h\e6h\e8h\ffh \f1h\eeh\e7h\e4h\e0h\edh\eeh\0
+
+
+------------------- GMST ( sMiscStat018 ) -------------------
+
+--- DATA , ITEM_ID: 1761 ---
+\cbh\feh\e4h\e5h\e9h \e7h\e0h\e3h\e8h\efh\edh\eeh\f2h\e8h\e7h\e8h\f0h\eeh\e2h\e0h\edh\eeh\0
+
+
+------------------- GMST ( sMiscStat019 ) -------------------
+
+--- DATA , ITEM_ID: 1764 ---
+\cfh\ebh\e5h\edh\edh\e8h\eah\eeh\e2h \eeh\f1h\e2h\eeh\e1h\eeh\e6h\e4h\e5h\edh\eeh\0
+
+
+------------------- GMST ( sMiscStat020 ) -------------------
+
+--- DATA , ITEM_ID: 1767 ---
+\d1h\efh\ffh\f9h\e8h\f5h \f3h\e1h\e8h\f2h\eeh\0
+
+
+------------------- GMST ( sMiscStat021 ) -------------------
+
+--- DATA , ITEM_ID: 1770 ---
+\cfh\e0h\f0h\e0h\ebh\e8h\e7h\f3h\feh\f9h\e8h\f5h \f3h\e4h\e0h\f0h\eeh\e2h\0
+
+
+------------------- GMST ( sMiscStat022 ) -------------------
+
+--- DATA , ITEM_ID: 1773 ---
+\d0h\eeh\e1h\eeh\f2h\eeh\e2h \f0h\e0h\e7h\eeh\e1h\f0h\e0h\edh\eeh\0
+
+
+------------------- GMST ( sMiscStat023 ) -------------------
+
+--- DATA , ITEM_ID: 1776 ---
+\cah\eeh\edh\f2h\f0h\e0h\eah\f2h\eeh\e2h \e2h\fbh\efh\eeh\ebh\edh\e5h\edh\eeh\0
+
+
+------------------- GMST ( sMiscStat024 ) -------------------
+
+--- DATA , ITEM_ID: 1779 ---
+\d2h\f0h\f3h\efh\eeh\e2h \f1h\fah\e5h\e4h\e5h\edh\eeh\0
+
+
+------------------- GMST ( sMiscStat025 ) -------------------
+
+--- DATA , ITEM_ID: 1782 ---
+\c2h\e8h\e7h\e8h\f2h\eeh\e2h \cdh\e5h\e7h\edh\e0h\eah\eeh\ech\f6h\e0h\0
+
+
+------------------- GMST ( sMiscUnknownEffect ) -------------------
+
+--- DATA , ITEM_ID: 1785 ---
+（未知效果）\0
+
+
+------------------- GMST ( sMissingName ) -------------------
+
+--- DATA , ITEM_ID: 1788 ---
+＜丢失姓名＞\0
+
+
+------------------- GMST ( sMonthApril ) -------------------
+
+--- DATA , ITEM_ID: 1791 ---
+四月\0
+
+
+------------------- GMST ( sMonthAugust ) -------------------
+
+--- DATA , ITEM_ID: 1794 ---
+八月\0
+
+
+------------------- GMST ( sMonthDecember ) -------------------
+
+--- DATA , ITEM_ID: 1797 ---
+十二月\0
+
+
+------------------- GMST ( sMonthFebruary ) -------------------
+
+--- DATA , ITEM_ID: 1800 ---
+二月\0
+
+
+------------------- GMST ( sMonthJanuary ) -------------------
+
+--- DATA , ITEM_ID: 1803 ---
+一月\0
+
+
+------------------- GMST ( sMonthJuly ) -------------------
+
+--- DATA , ITEM_ID: 1806 ---
+七月\0
+
+
+------------------- GMST ( sMonthJune ) -------------------
+
+--- DATA , ITEM_ID: 1809 ---
+六月\0
+
+
+------------------- GMST ( sMonthMarch ) -------------------
+
+--- DATA , ITEM_ID: 1812 ---
+三月\0
+
+
+------------------- GMST ( sMonthMay ) -------------------
+
+--- DATA , ITEM_ID: 1815 ---
+五月\0
+
+
+------------------- GMST ( sMonthNovember ) -------------------
+
+--- DATA , ITEM_ID: 1818 ---
+十一月\0
+
+
+------------------- GMST ( sMonthOctober ) -------------------
+
+--- DATA , ITEM_ID: 1821 ---
+十月\0
+
+
+------------------- GMST ( sMonthSeptember ) -------------------
+
+--- DATA , ITEM_ID: 1824 ---
+九月\0
+
+
+------------------- GMST ( sMouseButton3 ) -------------------
+
+--- DATA , ITEM_ID: 1827 ---
+按键　３\0
+
+
+------------------- GMST ( sMouseButton4 ) -------------------
+
+--- DATA , ITEM_ID: 1830 ---
+按键　４\0
+
+
+------------------- GMST ( sMouseButton5 ) -------------------
+
+--- DATA , ITEM_ID: 1833 ---
+按键　５\0
+
+
+------------------- GMST ( sMouseButton6 ) -------------------
+
+--- DATA , ITEM_ID: 1836 ---
+按键　６\0
+
+
+------------------- GMST ( sMouseButton7 ) -------------------
+
+--- DATA , ITEM_ID: 1839 ---
+按键　７\0
+
+
+------------------- GMST ( sMouseButton8 ) -------------------
+
+--- DATA , ITEM_ID: 1842 ---
+按键　８\0
+
+
+------------------- GMST ( sMouseMiddleButton ) -------------------
+
+--- DATA , ITEM_ID: 1845 ---
+滚轮\0
+
+
+------------------- GMST ( sMouseSensitivity ) -------------------
+
+--- DATA , ITEM_ID: 1848 ---
+鼠标灵敏度\0
+
+
+------------------- GMST ( sMouth ) -------------------
+
+--- DATA , ITEM_ID: 1851 ---
+口\0
+
+
+------------------- GMST ( sMouthChin ) -------------------
+
+--- DATA , ITEM_ID: 1854 ---
+口颏距离　短／长\0
+
+
+------------------- GMST ( sMouthdrawn ) -------------------
+
+--- DATA , ITEM_ID: 1857 ---
+口　拉开／缩拢\0
+
+
+------------------- GMST ( sMouthhappy ) -------------------
+
+--- DATA , ITEM_ID: 1860 ---
+口　快乐／悲伤\0
+
+
+------------------- GMST ( sMouthhigh ) -------------------
+
+--- DATA , ITEM_ID: 1863 ---
+口　高／低\0
+
+
+------------------- GMST ( sMouthLips ) -------------------
+
+--- DATA , ITEM_ID: 1866 ---
+口（唇）\0
+
+
+------------------- GMST ( sMouthlipsdeflated ) -------------------
+
+--- DATA , ITEM_ID: 1869 ---
+嘴唇　干瘪／肥厚\0
+
+
+------------------- GMST ( sMouthlipslarge ) -------------------
+
+--- DATA , ITEM_ID: 1872 ---
+嘴唇　大／小\0
+
+
+------------------- GMST ( sMouthlipspuckered ) -------------------
+
+--- DATA , ITEM_ID: 1875 ---
+嘴唇　皱起／收缩\0
+
+
+------------------- GMST ( sMouthprotruding ) -------------------
+
+--- DATA , ITEM_ID: 1878 ---
+口　伸出／缩回\0
+
+
+------------------- GMST ( sMouthtilt ) -------------------
+
+--- DATA , ITEM_ID: 1881 ---
+口　向上倾斜／向下倾斜\0
+
+
+------------------- GMST ( sMouthunderbite ) -------------------
+
+--- DATA , ITEM_ID: 1884 ---
+口　反颌／覆咬合\0
+
+
+------------------- GMST ( sMoveMarker ) -------------------
+
+--- DATA , ITEM_ID: 1887 ---
+移动\0
+
+
+------------------- GMST ( sMoveMarkerQuestion ) -------------------
+
+--- DATA , ITEM_ID: 1890 ---
+你想移动或移除你的标记吗？\0
+
+
+------------------- GMST ( sMusicVolume ) -------------------
+
+--- DATA , ITEM_ID: 1893 ---
+\cch\f3h\e7h\fbh\eah\e0h\0
+
+
+------------------- GMST ( sMustRestart ) -------------------
+
+--- DATA , ITEM_ID: 1896 ---
+您必须退出并重启Fallout 3以让该设置的改变生效。\0
+
+
+------------------- GMST ( sName ) -------------------
+
+--- DATA , ITEM_ID: 1899 ---
+名字\0
+
+
+------------------- GMST ( sNares ) -------------------
+
+--- DATA , ITEM_ID: 1902 ---
+鼻孔　小／大\0
+
+
+------------------- GMST ( sNasolabiallines ) -------------------
+
+--- DATA , ITEM_ID: 1905 ---
+鼻唇线　亮／暗\0
+
+
+------------------- GMST ( sNew ) -------------------
+
+--- DATA , ITEM_ID: 1908 ---
+新游戏\0
+
+
+------------------- GMST ( sNewGame ) -------------------
+
+--- DATA , ITEM_ID: 1911 ---
+新游戏\0
+
+
+------------------- GMST ( sNewSave ) -------------------
+
+--- DATA , ITEM_ID: 1914 ---
+［新的进度］\0
+
+
+------------------- GMST ( sNext ) -------------------
+
+--- DATA , ITEM_ID: 1917 ---
+下一页\0
+
+
+------------------- GMST ( sNo ) -------------------
+
+--- DATA , ITEM_ID: 1920 ---
+否\0
+
+
+------------------- GMST ( sNoCharge ) -------------------
+
+--- DATA , ITEM_ID: 1923 ---
+物品没有足够的电力。\0
+
+
+------------------- GMST ( sNoChildUse ) -------------------
+
+--- DATA , ITEM_ID: 1926 ---
+儿童不能使用。\0
+
+
+------------------- GMST ( sNoDeviceSelected ) -------------------
+
+--- DATA , ITEM_ID: 1929 ---
+您尚未选择一个存储设备。您必须在存档前选择存储设备。在此之前，无法使用自动存储功能。\0
+
+
+------------------- GMST ( sNoEatQuestItem ) -------------------
+
+--- DATA , ITEM_ID: 1932 ---
+你不能吃掉任务物品。\0
+
+
+------------------- GMST ( sNoFastTravelAlarm ) -------------------
+
+--- DATA , ITEM_ID: 1935 ---
+你不能在警卫追捕你时进行快速旅行。\0
+
+
+------------------- GMST ( sNoFastTravelCell ) -------------------
+
+--- DATA , ITEM_ID: 1938 ---
+你不能在当前地点进行快速旅行。\0
+
+
+------------------- GMST ( sNoFastTravelCombat ) -------------------
+
+--- DATA , ITEM_ID: 1941 ---
+你不能在战斗中进行快速旅行！\0
+
+
+------------------- GMST ( sNoFastTravelHostileActorsNear ) -------------------
+
+--- DATA , ITEM_ID: 1944 ---
+当敌人在附近时你不能进行快速旅行。\0
+
+
+------------------- GMST ( sNoFastTravelInAir ) -------------------
+
+--- DATA , ITEM_ID: 1947 ---
+你不能在跳跃或跌落时进行快速旅行。\0
+
+
+------------------- GMST ( sNoFastTravelOverencumbered ) -------------------
+
+--- DATA , ITEM_ID: 1950 ---
+你不能在超重时进行快速旅行。\0
+
+
+------------------- GMST ( sNoFastTravelScriptBlock ) -------------------
+
+--- DATA , ITEM_ID: 1953 ---
+所在地点当前不可进行快速旅行。\0
+
+
+------------------- GMST ( sNoFastTravelUndiscovered ) -------------------
+
+--- DATA , ITEM_ID: 1956 ---
+你尚未探索该地区。\0
+
+
+------------------- GMST ( sNoItemsToRepair ) -------------------
+
+--- DATA , ITEM_ID: 1959 ---
+没有可修理的物品\0
+
+
+------------------- GMST ( sNoJumpWarning ) -------------------
+
+--- DATA , ITEM_ID: 1962 ---
+你不能在空中丢弃物品。\0
+
+
+------------------- GMST ( sNoLockPick ) -------------------
+
+--- DATA , ITEM_ID: 1965 ---
+你没有发夹了。\0
+
+
+------------------- GMST ( sNoLockPickIfCrimeAlert ) -------------------
+
+--- DATA , ITEM_ID: 1968 ---
+你不能在被警卫追捕时撬锁。\0
+
+
+------------------- GMST ( sNoMoreFollowers ) -------------------
+
+--- DATA , ITEM_ID: 1971 ---
+你有太多的追随者了。\0
+
+
+------------------- GMST ( sNone ) -------------------
+
+--- DATA , ITEM_ID: 1974 ---
+无\0
+
+
+------------------- GMST ( sNoRace ) -------------------
+
+--- DATA , ITEM_ID: 1977 ---
+无种族\0
+
+
+------------------- GMST ( sNoRepairHostileActorsNear ) -------------------
+
+--- DATA , ITEM_ID: 1980 ---
+当敌人在附近时你不能修理物品。\0
+
+
+------------------- GMST ( sNoRepairInCombat ) -------------------
+
+--- DATA , ITEM_ID: 1983 ---
+在战斗中你不能修理物品。\0
+
+
+------------------- GMST ( sNoRestart ) -------------------
+
+--- DATA , ITEM_ID: 1986 ---
+不，继续玩。\0
+
+
+------------------- GMST ( sNormal ) -------------------
+
+--- DATA , ITEM_ID: 1989 ---
+\cdh\eeh\f0h\ech\e0h\ebh\fch\edh\fbh\e9h\0
+
+
+------------------- GMST ( sNormalWeaponsResisted ) -------------------
+
+--- DATA , ITEM_ID: 1992 ---
+你的攻击没有效果。\0
+
+
+------------------- GMST ( sNoSaves ) -------------------
+
+--- DATA , ITEM_ID: 1995 ---
+［未找到进度］\0
+
+
+------------------- GMST ( sNose ) -------------------
+
+--- DATA , ITEM_ID: 1998 ---
+鼻\0
+
+
+------------------- GMST ( sNosebridgeshallow ) -------------------
+
+--- DATA , ITEM_ID: 2001 ---
+鼻梁　浅／深\0
+
+
+------------------- GMST ( sNosebridgeshort ) -------------------
+
+--- DATA , ITEM_ID: 2004 ---
+鼻梁　短／长\0
+
+
+------------------- GMST ( sNosedown ) -------------------
+
+--- DATA , ITEM_ID: 2007 ---
+鼻　下／上\0
+
+
+------------------- GMST ( sNoseflat ) -------------------
+
+--- DATA , ITEM_ID: 2010 ---
+鼻　平／尖\0
+
+
+------------------- GMST ( sNosenostrilssmall ) -------------------
+
+--- DATA , ITEM_ID: 2013 ---
+鼻孔　小／大\0
+
+
+------------------- GMST ( sNosenostrilswide ) -------------------
+
+--- DATA , ITEM_ID: 2016 ---
+鼻孔　宽／窄\0
+
+
+------------------- GMST ( sNosenostriltilt ) -------------------
+
+--- DATA , ITEM_ID: 2019 ---
+鼻孔　向下倾斜／向上倾斜\0
+
+
+------------------- GMST ( sNoseregion ) -------------------
+
+--- DATA , ITEM_ID: 2022 ---
+鼻区　凹／凸\0
+
+
+------------------- GMST ( sNoseselliondown ) -------------------
+
+--- DATA , ITEM_ID: 2025 ---
+鼻根 下／上\0
+
+
+------------------- GMST ( sNosesellionlower ) -------------------
+
+--- DATA , ITEM_ID: 2028 ---
+鼻根低处　浅／深\0
+
+
+------------------- GMST ( sNosesellionshallow ) -------------------
+
+--- DATA , ITEM_ID: 2031 ---
+鼻根　浅／深\0
+
+
+------------------- GMST ( sNosesellionthin ) -------------------
+
+--- DATA , ITEM_ID: 2034 ---
+鼻根　窄／宽\0
+
+
+------------------- GMST ( sNoseshort ) -------------------
+
+--- DATA , ITEM_ID: 2037 ---
+鼻　短／长\0
+
+
+------------------- GMST ( sNoseTex ) -------------------
+
+--- DATA , ITEM_ID: 2040 ---
+鼻影\0
+
+
+------------------- GMST ( sNosetilt ) -------------------
+
+--- DATA , ITEM_ID: 2043 ---
+鼻　向下倾斜／向上倾斜\0
+
+
+------------------- GMST ( sNoSitOnOwnedFurniture ) -------------------
+
+--- DATA , ITEM_ID: 2046 ---
+你不能坐在已被占据的家具上。\0
+
+
+------------------- GMST ( sNoSleepCombat ) -------------------
+
+--- DATA , ITEM_ID: 2049 ---
+你不能在战斗中睡觉。\0
+
+
+------------------- GMST ( sNoSleepInOwnedBed ) -------------------
+
+--- DATA , ITEM_ID: 2052 ---
+你不能在已被占据的床上睡觉。\0
+
+
+------------------- GMST ( sNoSleepInRadiation ) -------------------
+
+--- DATA , ITEM_ID: 2055 ---
+你不能在受辐射时睡觉。\0
+
+
+------------------- GMST ( sNoSleepTakingHealthDamage ) -------------------
+
+--- DATA , ITEM_ID: 2058 ---
+你不能在健康受到伤害时睡觉。\0
+
+
+------------------- GMST ( sNoSleepTrespass ) -------------------
+
+--- DATA , ITEM_ID: 2061 ---
+你不能在非法入侵时睡觉。\0
+
+
+------------------- GMST ( sNoSpareParts ) -------------------
+
+--- DATA , ITEM_ID: 2064 ---
+无可用备件\0
+
+
+------------------- GMST ( sNotEnoughCaps ) -------------------
+
+--- DATA , ITEM_ID: 2067 ---
+你没有足够的瓶盖。\0
+
+
+------------------- GMST ( sNotEnoughRoomWarning ) -------------------
+
+--- DATA , ITEM_ID: 2070 ---
+你没有足够的空间来丢下这件物品。\0
+
+
+------------------- GMST ( sNotesTabText ) -------------------
+
+--- DATA , ITEM_ID: 2073 ---
+\c7h\e0h\ech\e5h\f2h\eah\e8h\0
+
+
+------------------- GMST ( sNoText ) -------------------
+
+--- DATA , ITEM_ID: 2076 ---
+&否\0
+
+
+------------------- GMST ( sNoviceSkillLevelText ) -------------------
+
+--- DATA , ITEM_ID: 2079 ---
+你对这项技能有基本的了解。\0
+
+
+------------------- GMST ( sNoWaitInAir ) -------------------
+
+--- DATA , ITEM_ID: 2082 ---
+你不能在空中进行等待。\0
+
+
+------------------- GMST ( sNoWaitInCell ) -------------------
+
+--- DATA , ITEM_ID: 2085 ---
+你不能在当前地点进行等待。\0
+
+
+------------------- GMST ( sNoWaitInCombat ) -------------------
+
+--- DATA , ITEM_ID: 2088 ---
+你不能在战斗中进行等待。\0
+
+
+------------------- GMST ( sNoWaitInJail ) -------------------
+
+--- DATA , ITEM_ID: 2091 ---
+你必须睡在牢床上以执行对你的判决。\0
+
+
+------------------- GMST ( sNoWaitInRadiation ) -------------------
+
+--- DATA , ITEM_ID: 2094 ---
+你不能在受到辐射时进行等待。\0
+
+
+------------------- GMST ( sNoWaitTakingHealthDamage ) -------------------
+
+--- DATA , ITEM_ID: 2097 ---
+你不能在健康受到伤害时进行等待。\0
+
+
+------------------- GMST ( sNoWaitTrespass ) -------------------
+
+--- DATA , ITEM_ID: 2100 ---
+你不能在非法入侵时进行等待。\0
+
+
+------------------- GMST ( sNoWaitUnderWater ) -------------------
+
+--- DATA , ITEM_ID: 2103 ---
+你不能在水下进行等待。\0
+
+
+------------------- GMST ( sNoWaitWhileAlarmSounding ) -------------------
+
+--- DATA , ITEM_ID: 2106 ---
+你不能在这里进行等待。警报正在播报你的名字。\0
+
+
+------------------- GMST ( sNumberAbbrev ) -------------------
+
+--- DATA , ITEM_ID: 2109 ---
+不。\0
+
+
+------------------- GMST ( sObjectFade ) -------------------
+
+--- DATA , ITEM_ID: 2112 ---
+物体淡出\0
+
+
+------------------- GMST ( sObjectInUse ) -------------------
+
+--- DATA , ITEM_ID: 2115 ---
+此物品正被他人使用。\0
+
+
+------------------- GMST ( sObjectLODFade ) -------------------
+
+--- DATA , ITEM_ID: 2118 ---
+物体LOD淡出\0
+
+
+------------------- GMST ( sOff ) -------------------
+
+--- DATA , ITEM_ID: 2121 ---
+关\0
+
+
+------------------- GMST ( sOfferRefused ) -------------------
+
+--- DATA , ITEM_ID: 2124 ---
+提议被拒绝\0
+
+
+------------------- GMST ( sOk ) -------------------
+
+--- DATA , ITEM_ID: 2127 ---
+好\0
+
+
+------------------- GMST ( sOldDownloadsAvailable ) -------------------
+
+--- DATA , ITEM_ID: 2130 ---
+显示可用内容\0
+
+
+------------------- GMST ( sOn ) -------------------
+
+--- DATA , ITEM_ID: 2133 ---
+开\0
+
+
+------------------- GMST ( sOpenedContainer ) -------------------
+
+--- DATA , ITEM_ID: 2136 ---
+用钥匙打开容器。\0
+
+
+------------------- GMST ( sOutOfLockpicks ) -------------------
+
+--- DATA , ITEM_ID: 2139 ---
+你脱离了撬锁状态。\0
+
+
+------------------- GMST ( sPartCrippledByPlayerMessage ) -------------------
+
+--- DATA , ITEM_ID: 2142 ---
+残废了\0
+
+
+------------------- GMST ( sPauseText ) -------------------
+
+--- DATA , ITEM_ID: 2145 ---
+暂停\0
+
+
+------------------- GMST ( sPCControlsTextNone ) -------------------
+
+--- DATA , ITEM_ID: 2148 ---
+＜未束缚＞\0
+
+
+------------------- GMST ( sPCControlsTriggerPrefix ) -------------------
+
+--- DATA , ITEM_ID: 2151 ---
+拉\0
+
+
+------------------- GMST ( sPCMenuHintRMB ) -------------------
+
+--- DATA , ITEM_ID: 2154 ---
+鼠标右键）\0
+
+
+------------------- GMST ( sPick ) -------------------
+
+--- DATA , ITEM_ID: 2157 ---
+捡起\0
+
+
+------------------- GMST ( sPickpocket ) -------------------
+
+--- DATA , ITEM_ID: 2160 ---
+\ceh\e1h\eeh\eah\f0h\e0h\f1h\f2h\fch\0
+
+
+------------------- GMST ( sPickpocketFail ) -------------------
+
+--- DATA , ITEM_ID: 2163 ---
+你在偷窃时被捉住了。\0
+
+
+------------------- GMST ( sPicksRemainingText ) -------------------
+
+--- DATA , ITEM_ID: 2166 ---
+发夹\0
+
+
+------------------- GMST ( sPipboyColor ) -------------------
+
+--- DATA , ITEM_ID: 2169 ---
+HUD透明度sHUDOpacity Pip-Boy颜色\0
+
+
+------------------- GMST ( sPlaceMarker ) -------------------
+
+--- DATA , ITEM_ID: 2172 ---
+放置标记\0
+
+
+------------------- GMST ( sPlayAudio ) -------------------
+
+--- DATA , ITEM_ID: 2175 ---
+播放音频\0
+
+
+------------------- GMST ( sPlayer ) -------------------
+
+--- DATA , ITEM_ID: 2178 ---
+玩家\0
+
+
+------------------- GMST ( sPlayTime ) -------------------
+
+--- DATA , ITEM_ID: 2181 ---
+游戏时间\0
+
+
+------------------- GMST ( sPlural ) -------------------
+
+--- DATA , ITEM_ID: 2184 ---
+\0
+
+
+------------------- GMST ( sPluralPlain ) -------------------
+
+--- DATA , ITEM_ID: 2187 ---
+\0
+
+
+------------------- GMST ( sPoisonAlreadyPoisonedMessage ) -------------------
+
+--- DATA , ITEM_ID: 2190 ---
+当前武器已淬毒。\0
+
+
+------------------- GMST ( sPoisonBowConfirmMessage ) -------------------
+
+--- DATA , ITEM_ID: 2193 ---
+你想给你的下一击淬毒，用\0
+
+
+------------------- GMST ( sPoisonConfirmMessage ) -------------------
+
+--- DATA , ITEM_ID: 2196 ---
+你想淬毒于\0
+
+
+------------------- GMST ( sPoisonNoWeaponMessage ) -------------------
+
+--- DATA , ITEM_ID: 2199 ---
+你必须先装备一件武器以淬毒。\0
+
+
+------------------- GMST ( sPressControl ) -------------------
+
+--- DATA , ITEM_ID: 2202 ---
+为此行动按新控制键。（不确定？）\0
+
+
+------------------- GMST ( sPrevious ) -------------------
+
+--- DATA , ITEM_ID: 2205 ---
+前一页\0
+
+
+------------------- GMST ( sQuantity ) -------------------
+
+--- DATA , ITEM_ID: 2208 ---
+数量\0
+
+
+------------------- GMST ( sQuestAddedText ) -------------------
+
+--- DATA , ITEM_ID: 2211 ---
+任务已添加\0
+
+
+------------------- GMST ( sQuestCompletedText ) -------------------
+
+--- DATA , ITEM_ID: 2214 ---
+任务已完成\0
+
+
+------------------- GMST ( sQuestFailed ) -------------------
+
+--- DATA , ITEM_ID: 2217 ---
+任务失败\0
+
+
+------------------- GMST ( sQuestsTabText ) -------------------
+
+--- DATA , ITEM_ID: 2220 ---
+任务\0
+
+
+------------------- GMST ( sQuestUpdatedText ) -------------------
+
+--- DATA , ITEM_ID: 2223 ---
+任务更新\0
+
+
+------------------- GMST ( sQuickLoading ) -------------------
+
+--- DATA , ITEM_ID: 2226 ---
+快速读取中……\0
+
+
+------------------- GMST ( sQuicksaveAbbrev ) -------------------
+
+--- DATA , ITEM_ID: 2229 ---
+快速存储\0
+
+
+------------------- GMST ( sQuickSaving ) -------------------
+
+--- DATA , ITEM_ID: 2232 ---
+快速存储中……\0
+
+
+------------------- GMST ( sQuit ) -------------------
+
+--- DATA , ITEM_ID: 2235 ---
+退出\0
+
+
+------------------- GMST ( sRace ) -------------------
+
+--- DATA , ITEM_ID: 2238 ---
+\d0h\e0h\f1h\e0h\0
+
+
+------------------- GMST ( sRaceDescription ) -------------------
+
+--- DATA , ITEM_ID: 2241 ---
+种族描述\0
+
+
+------------------- GMST ( sRadiationDecrease ) -------------------
+
+--- DATA , ITEM_ID: 2244 ---
+你的受辐射等级已降低\0
+
+
+------------------- GMST ( sRadiationIncrease ) -------------------
+
+--- DATA , ITEM_ID: 2247 ---
+你的受辐射等级已增加\0
+
+
+------------------- GMST ( sRadiationNotSick ) -------------------
+
+--- DATA , ITEM_ID: 2250 ---
+你不再有辐射病\0
+
+
+------------------- GMST ( sRadiationSick ) -------------------
+
+--- DATA , ITEM_ID: 2253 ---
+你生了\0
+
+
+------------------- GMST ( sRadioSignalLost ) -------------------
+
+--- DATA , ITEM_ID: 2256 ---
+失去%s信号。\0
+
+
+------------------- GMST ( sRadioStationDiscovered ) -------------------
+
+--- DATA , ITEM_ID: 2259 ---
+发现%s信号。\0
+
+
+------------------- GMST ( sRadioVolume ) -------------------
+
+--- DATA , ITEM_ID: 2262 ---
+\d0h\e0h\e4h\e8h\eeh\0
+
+
+------------------- GMST ( sRadsPerSecond ) -------------------
+
+--- DATA , ITEM_ID: 2265 ---
+RAD每秒\0
+
+
+------------------- GMST ( sRandom ) -------------------
+
+--- DATA , ITEM_ID: 2268 ---
+随机\0
+
+
+------------------- GMST ( sRandomDoorTeleportFailureMessage ) -------------------
+
+--- DATA , ITEM_ID: 2271 ---
+此门不通向任何地方。\0
+
+
+------------------- GMST ( sRangeText ) -------------------
+
+--- DATA , ITEM_ID: 2274 ---
+范围\0
+
+
+------------------- GMST ( sRanksText ) -------------------
+
+--- DATA , ITEM_ID: 2277 ---
+级别\0
+
+
+------------------- GMST ( sRed ) -------------------
+
+--- DATA , ITEM_ID: 2280 ---
+红色\0
+
+
+------------------- GMST ( sRemaining ) -------------------
+
+--- DATA , ITEM_ID: 2283 ---
+剩余\0
+
+
+------------------- GMST ( sRemoteActivation ) -------------------
+
+--- DATA , ITEM_ID: 2286 ---
+该物品是从其他地方启动的。\0
+
+
+------------------- GMST ( sRemoveItemfromInventory ) -------------------
+
+--- DATA , ITEM_ID: 2289 ---
+移除\0
+
+
+------------------- GMST ( sRemoveMarker ) -------------------
+
+--- DATA , ITEM_ID: 2292 ---
+移除\0
+
+
+------------------- GMST ( sRepair ) -------------------
+
+--- DATA , ITEM_ID: 2295 ---
+REPAIR\0
+
+
+------------------- GMST ( sRepairAllItems ) -------------------
+
+--- DATA , ITEM_ID: 2298 ---
+sRepairItem修理全部（%d）\0
+
+
+------------------- GMST ( sRepairCost ) -------------------
+
+--- DATA , ITEM_ID: 2301 ---
+花费：%d瓶盖\0
+
+
+------------------- GMST ( sRepairItem ) -------------------
+
+--- DATA , ITEM_ID: 2304 ---
+\d0h\e5h\ech\eeh\edh\f2h\0
+
+
+------------------- GMST ( sRepairServicesTitle ) -------------------
+
+--- DATA , ITEM_ID: 2307 ---
+修理服务\0
+
+
+------------------- GMST ( sRepairSkill ) -------------------
+
+--- DATA , ITEM_ID: 2310 ---
+修理技能\0
+
+
+------------------- GMST ( sRepairSkillTooLow ) -------------------
+
+--- DATA , ITEM_ID: 2313 ---
+需要%d%s修理技能\0
+
+
+------------------- GMST ( sRequirementsText ) -------------------
+
+--- DATA , ITEM_ID: 2316 ---
+Req\0
+
+
+------------------- GMST ( sReset ) -------------------
+
+--- DATA , ITEM_ID: 2319 ---
+重置\0
+
+
+------------------- GMST ( sResetToDefaults ) -------------------
+
+--- DATA , ITEM_ID: 2322 ---
+将您的控制设置映射到它们的默认设置吗？\0
+
+
+------------------- GMST ( sResolution ) -------------------
+
+--- DATA , ITEM_ID: 2325 ---
+分辨率\0
+
+
+------------------- GMST ( sRestartBecauseContentRemoved ) -------------------
+
+--- DATA , ITEM_ID: 2328 ---
+因为下载内容已移除，必须现在重启游戏。\0
+
+
+------------------- GMST ( sRestartToUseNewContent ) -------------------
+
+--- DATA , ITEM_ID: 2331 ---
+新内容已添加。你必须重启以使用这些内容。所有未保存进度将会丢失。\0
+
+
+------------------- GMST ( sRestartToUseProfileContent ) -------------------
+
+--- DATA , ITEM_ID: 2334 ---
+为使用与该账户关联的下载内容，你必须重启。\0
+
+
+------------------- GMST ( sRetryText ) -------------------
+
+--- DATA , ITEM_ID: 2337 ---
+&重试\0
+
+
+------------------- GMST ( sReturn ) -------------------
+
+--- DATA , ITEM_ID: 2340 ---
+返回\0
+
+
+------------------- GMST ( sRewardXP ) -------------------
+
+--- DATA , ITEM_ID: 2343 ---
+获得经验点\0
+
+
+------------------- GMST ( sRightArmDamagedMessage ) -------------------
+
+--- DATA , ITEM_ID: 2346 ---
+你的左臂残废了。\0
+
+
+------------------- GMST ( sRightLegDamagedMessage ) -------------------
+
+--- DATA , ITEM_ID: 2349 ---
+你的左腿残废了。\0
+
+
+------------------- GMST ( sRSMCharacter ) -------------------
+
+--- DATA , ITEM_ID: 2352 ---
+角色\0
+
+
+------------------- GMST ( sRSMConfirmDone ) -------------------
+
+--- DATA , ITEM_ID: 2355 ---
+您确定想让这个成为您的\0
+
+
+------------------- GMST ( sRSMConfirmRandomize ) -------------------
+
+--- DATA , ITEM_ID: 2358 ---
+随机生成您的头部？\0
+
+
+------------------- GMST ( sRSMCustom ) -------------------
+
+--- DATA , ITEM_ID: 2361 ---
+自定义\0
+
+
+------------------- GMST ( sRSMCustomize ) -------------------
+
+--- DATA , ITEM_ID: 2364 ---
+自定义\0
+
+
+------------------- GMST ( sRSMEyeColor ) -------------------
+
+--- DATA , ITEM_ID: 2367 ---
+眼睛颜色\0
+
+
+------------------- GMST ( sRSMEyelids ) -------------------
+
+--- DATA , ITEM_ID: 2370 ---
+眼睑\0
+
+
+------------------- GMST ( sRSMEyeSockets ) -------------------
+
+--- DATA , ITEM_ID: 2373 ---
+眼眶\0
+
+
+------------------- GMST ( sRSMFace ) -------------------
+
+--- DATA , ITEM_ID: 2376 ---
+\cbh\e8h\f6h\eeh\0
+
+
+------------------- GMST ( sRSMFacialHair ) -------------------
+
+--- DATA , ITEM_ID: 2379 ---
+面部毛发\0
+
+
+------------------- GMST ( sRSMGeneral ) -------------------
+
+--- DATA , ITEM_ID: 2382 ---
+一般\0
+
+
+------------------- GMST ( sRSMHair ) -------------------
+
+--- DATA , ITEM_ID: 2385 ---
+\cfh\f0h\e8h\f7h\e5h\f1h\eah\e0h\0
+
+
+------------------- GMST ( sRSMHairColor ) -------------------
+
+--- DATA , ITEM_ID: 2388 ---
+\d6h\e2h\e5h\f2h \e2h\eeh\ebh\eeh\f1h\0
+
+
+------------------- GMST ( sRSMHairStyle ) -------------------
+
+--- DATA , ITEM_ID: 2391 ---
+发型\0
+
+
+------------------- GMST ( sRSMMisc ) -------------------
+
+--- DATA , ITEM_ID: 2394 ---
+\d0h\e0h\e7h\edh\eeh\e5h\0
+
+
+------------------- GMST ( sRSMPreset ) -------------------
+
+--- DATA , ITEM_ID: 2397 ---
+预置：\0
+
+
+------------------- GMST ( sRSMRace ) -------------------
+
+--- DATA , ITEM_ID: 2400 ---
+\d0h\e0h\f1h\e0h\0
+
+
+------------------- GMST ( sRSMRandomize ) -------------------
+
+--- DATA , ITEM_ID: 2403 ---
+随机生成\0
+
+
+------------------- GMST ( sRSMSex ) -------------------
+
+--- DATA , ITEM_ID: 2406 ---
+\cfh\eeh\ebh\0
+
+
+------------------- GMST ( sRSMShapeOption01 ) -------------------
+
+--- DATA , ITEM_ID: 2409 ---
+高／低\0
+
+
+------------------- GMST ( sRSMShapeOption02 ) -------------------
+
+--- DATA , ITEM_ID: 2412 ---
+上／下（内侧）\0
+
+
+------------------- GMST ( sRSMShapeOption03 ) -------------------
+
+--- DATA , ITEM_ID: 2415 ---
+上／下（外侧）\0
+
+
+------------------- GMST ( sRSMShapeOption04 ) -------------------
+
+--- DATA , ITEM_ID: 2418 ---
+低／高\0
+
+
+------------------- GMST ( sRSMShapeOption05 ) -------------------
+
+--- DATA , ITEM_ID: 2421 ---
+轻微／明显\0
+
+
+------------------- GMST ( sRSMShapeOption06 ) -------------------
+
+--- DATA , ITEM_ID: 2424 ---
+窄／宽\0
+
+
+------------------- GMST ( sRSMShapeOption07 ) -------------------
+
+--- DATA , ITEM_ID: 2427 ---
+凹／凸\0
+
+
+------------------- GMST ( sRSMShapeOption08 ) -------------------
+
+--- DATA , ITEM_ID: 2430 ---
+圆滑／瘦削\0
+
+
+------------------- GMST ( sRSMShapeOption09 ) -------------------
+
+--- DATA , ITEM_ID: 2433 ---
+向前／向后\0
+
+
+------------------- GMST ( sRSMShapeOption10 ) -------------------
+
+--- DATA , ITEM_ID: 2436 ---
+宽阔／凹陷\0
+
+
+------------------- GMST ( sRSMShapeOption11 ) -------------------
+
+--- DATA , ITEM_ID: 2439 ---
+缩回／伸出\0
+
+
+------------------- GMST ( sRSMShapeOption12 ) -------------------
+
+--- DATA , ITEM_ID: 2442 ---
+浅／深\0
+
+
+------------------- GMST ( sRSMShapeOption13 ) -------------------
+
+--- DATA , ITEM_ID: 2445 ---
+小／大\0
+
+
+------------------- GMST ( sRSMShapeOption15 ) -------------------
+
+--- DATA , ITEM_ID: 2448 ---
+宽／窄\0
+
+
+------------------- GMST ( sRSMShapeOption16 ) -------------------
+
+--- DATA , ITEM_ID: 2451 ---
+下／上\0
+
+
+------------------- GMST ( sRSMShapeOption18 ) -------------------
+
+--- DATA , ITEM_ID: 2454 ---
+向里倾斜／向外倾斜\0
+
+
+------------------- GMST ( sRSMShapeOption19 ) -------------------
+
+--- DATA , ITEM_ID: 2457 ---
+靠近／分离\0
+
+
+------------------- GMST ( sRSMShapeOption20 ) -------------------
+
+--- DATA , ITEM_ID: 2460 ---
+眉、鼻、颏\0
+
+
+------------------- GMST ( sRSMShapeOption21 ) -------------------
+
+--- DATA , ITEM_ID: 2463 ---
+额、鼻\0
+
+
+------------------- GMST ( sRSMShapeOption22 ) -------------------
+
+--- DATA , ITEM_ID: 2466 ---
+重／轻\0
+
+
+------------------- GMST ( sRSMShapeOption27 ) -------------------
+
+--- DATA , ITEM_ID: 2469 ---
+向前倾斜／向后倾斜\0
+
+
+------------------- GMST ( sRSMShapeOption30 ) -------------------
+
+--- DATA , ITEM_ID: 2472 ---
+倾斜　高／低\0
+
+
+------------------- GMST ( sRSMShapeOption32 ) -------------------
+
+--- DATA , ITEM_ID: 2475 ---
+拉开／缩拢\0
+
+
+------------------- GMST ( sRSMShapeOption33 ) -------------------
+
+--- DATA , ITEM_ID: 2478 ---
+快乐／悲伤\0
+
+
+------------------- GMST ( sRSMShapeOption35 ) -------------------
+
+--- DATA , ITEM_ID: 2481 ---
+干瘪／肥厚\0
+
+
+------------------- GMST ( sRSMShapeOption36 ) -------------------
+
+--- DATA , ITEM_ID: 2484 ---
+大／小\0
+
+
+------------------- GMST ( sRSMShapeOption37 ) -------------------
+
+--- DATA , ITEM_ID: 2487 ---
+皱起／收缩\0
+
+
+------------------- GMST ( sRSMShapeOption38 ) -------------------
+
+--- DATA , ITEM_ID: 2490 ---
+凸／凹\0
+
+
+------------------- GMST ( sRSMShapeOption39 ) -------------------
+
+--- DATA , ITEM_ID: 2493 ---
+向上倾斜／向下倾斜\0
+
+
+------------------- GMST ( sRSMShapeOption40 ) -------------------
+
+--- DATA , ITEM_ID: 2496 ---
+反颌／覆咬合\0
+
+
+------------------- GMST ( sRSMShapeOption41 ) -------------------
+
+--- DATA , ITEM_ID: 2499 ---
+口颏距离\0
+
+
+------------------- GMST ( sRSMShapeOption42 ) -------------------
+
+--- DATA , ITEM_ID: 2502 ---
+鼻梁深度\0
+
+
+------------------- GMST ( sRSMShapeOption43 ) -------------------
+
+--- DATA , ITEM_ID: 2505 ---
+鼻梁长度\0
+
+
+------------------- GMST ( sRSMShapeOption45 ) -------------------
+
+--- DATA , ITEM_ID: 2508 ---
+平／尖\0
+
+
+------------------- GMST ( sRSMShapeOption46 ) -------------------
+
+--- DATA , ITEM_ID: 2511 ---
+鼻孔倾斜\0
+
+
+------------------- GMST ( sRSMShapeOption47 ) -------------------
+
+--- DATA , ITEM_ID: 2514 ---
+鼻孔尺寸\0
+
+
+------------------- GMST ( sRSMShapeOption48 ) -------------------
+
+--- DATA , ITEM_ID: 2517 ---
+鼻孔　宽／窄\0
+
+
+------------------- GMST ( sRSMShapeOption50 ) -------------------
+
+--- DATA , ITEM_ID: 2520 ---
+鼻根高度\0
+
+
+------------------- GMST ( sRSMShapeOption51 ) -------------------
+
+--- DATA , ITEM_ID: 2523 ---
+鼻根深度\0
+
+
+------------------- GMST ( sRSMShapeOption53 ) -------------------
+
+--- DATA , ITEM_ID: 2526 ---
+鼻根宽度\0
+
+
+------------------- GMST ( sRSMShapeOption54 ) -------------------
+
+--- DATA , ITEM_ID: 2529 ---
+短／长\0
+
+
+------------------- GMST ( sRSMShapeOption55 ) -------------------
+
+--- DATA , ITEM_ID: 2532 ---
+向下倾斜／向上倾斜\0
+
+
+------------------- GMST ( sRSMToneOption01 ) -------------------
+
+--- DATA , ITEM_ID: 2535 ---
+红润\0
+
+
+------------------- GMST ( sRSMToneOption02 ) -------------------
+
+--- DATA , ITEM_ID: 2538 ---
+亮／暗\0
+
+
+------------------- GMST ( sRSMToneOption03 ) -------------------
+
+--- DATA , ITEM_ID: 2541 ---
+脸颊　亮／暗\0
+
+
+------------------- GMST ( sRSMToneOption04 ) -------------------
+
+--- DATA , ITEM_ID: 2544 ---
+络腮胡　亮／暗\0
+
+
+------------------- GMST ( sRSMToneOption05 ) -------------------
+
+--- DATA , ITEM_ID: 2547 ---
+山羊胡　亮／暗\0
+
+
+------------------- GMST ( sRSMToneOption06 ) -------------------
+
+--- DATA , ITEM_ID: 2550 ---
+八字须\0
+
+
+------------------- GMST ( sRSMToneOption07 ) -------------------
+
+--- DATA , ITEM_ID: 2553 ---
+红 亮／红\0
+
+
+------------------- GMST ( sRSMToneOption08 ) -------------------
+
+--- DATA , ITEM_ID: 2556 ---
+青肿／明亮\0
+
+
+------------------- GMST ( sRSMToneOption09 ) -------------------
+
+--- DATA , ITEM_ID: 2559 ---
+暗／亮\0
+
+
+------------------- GMST ( sRSMToneOption10 ) -------------------
+
+--- DATA , ITEM_ID: 2562 ---
+厚／薄\0
+
+
+------------------- GMST ( sRSMToneOption11 ) -------------------
+
+--- DATA , ITEM_ID: 2565 ---
+很薄／很厚\0
+
+
+------------------- GMST ( sRSMToneOption12 ) -------------------
+
+--- DATA , ITEM_ID: 2568 ---
+亮／暗（低处）\0
+
+
+------------------- GMST ( sRSMToneOption13 ) -------------------
+
+--- DATA , ITEM_ID: 2571 ---
+亮／暗（外侧）\0
+
+
+------------------- GMST ( sRSMToneOption14 ) -------------------
+
+--- DATA , ITEM_ID: 2574 ---
+暗／亮（高处）\0
+
+
+------------------- GMST ( sRSMToneOption15 ) -------------------
+
+--- DATA , ITEM_ID: 2577 ---
+苍白／红润\0
+
+
+------------------- GMST ( sRSMToneOption16 ) -------------------
+
+--- DATA , ITEM_ID: 2580 ---
+眼线　亮／暗\0
+
+
+------------------- GMST ( sRSMToneOption17 ) -------------------
+
+--- DATA , ITEM_ID: 2583 ---
+影　亮／暗\0
+
+
+------------------- GMST ( sRSMToneOption18 ) -------------------
+
+--- DATA , ITEM_ID: 2586 ---
+深棕／浅蓝\0
+
+
+------------------- GMST ( sRSMToneOption19 ) -------------------
+
+--- DATA , ITEM_ID: 2589 ---
+白　黯淡／明亮\0
+
+
+------------------- GMST ( sRSMToneOption20 ) -------------------
+
+--- DATA , ITEM_ID: 2592 ---
+深红／浅蓝\0
+
+
+------------------- GMST ( sRSMToneOption21 ) -------------------
+
+--- DATA , ITEM_ID: 2595 ---
+深蓝／浅红\0
+
+
+------------------- GMST ( sRSMToneOption22 ) -------------------
+
+--- DATA , ITEM_ID: 2598 ---
+鼻唇线\0
+
+
+------------------- GMST ( sRSMToneOption23 ) -------------------
+
+--- DATA , ITEM_ID: 2601 ---
+鼻孔　小／大\0
+
+
+------------------- GMST ( sRSMToneOption24 ) -------------------
+
+--- DATA , ITEM_ID: 2604 ---
+渐变\0
+
+
+------------------- GMST ( sRSMToneOption25 ) -------------------
+
+--- DATA , ITEM_ID: 2607 ---
+蓝色调\0
+
+
+------------------- GMST ( sRSMToneOption26 ) -------------------
+
+--- DATA , ITEM_ID: 2610 ---
+黄色调\0
+
+
+------------------- GMST ( sRumble ) -------------------
+
+--- DATA , ITEM_ID: 2613 ---
+震动（不确定？）\0
+
+
+------------------- GMST ( sSave ) -------------------
+
+--- DATA , ITEM_ID: 2616 ---
+存储\0
+
+
+------------------- GMST ( sSaveFailed ) -------------------
+
+--- DATA , ITEM_ID: 2619 ---
+存储失败。\0
+
+
+------------------- GMST ( sSaveGame ) -------------------
+
+--- DATA , ITEM_ID: 2622 ---
+存储进度\0
+
+
+------------------- GMST ( sSaveGameContentIsMissing ) -------------------
+
+--- DATA , ITEM_ID: 2625 ---
+此进度依赖于一些不再存在的内容。一些物品可能不再能使用。继续读取？\0
+
+
+------------------- GMST ( sSaveGameCorrupt ) -------------------
+
+--- DATA , ITEM_ID: 2628 ---
+损坏\0
+
+
+------------------- GMST ( sSaveGameCorruptMenuMessage ) -------------------
+
+--- DATA , ITEM_ID: 2631 ---
+此进度已损坏，不可读取。\0
+
+
+------------------- GMST ( sSaveGameDeviceError ) -------------------
+
+--- DATA , ITEM_ID: 2634 ---
+访问设备时发生错误。请再试一次。\0
+
+
+------------------- GMST ( sSaveGameIsCorrupt ) -------------------
+
+--- DATA , ITEM_ID: 2637 ---
+此进度已损坏。将返回到游戏中。\0
+
+
+------------------- GMST ( sSaveGameNoLongerAvailable ) -------------------
+
+--- DATA , ITEM_ID: 2640 ---
+此进度不再有效。将返回到游戏中\0
+
+
+------------------- GMST ( sSaveGameNoMasterFilesFound ) -------------------
+
+--- DATA , ITEM_ID: 2643 ---
+此进度使用的主文件未加载。将返回到游戏中。\0
+
+
+------------------- GMST ( sSaveGameOutOfDiskSpace ) -------------------
+
+--- DATA , ITEM_ID: 2646 ---
+选择的存储设备无充足空间。请选择另一存储设备或删除一些已存在的进度文件。\0
+
+
+------------------- GMST ( sSaveNotAvailable ) -------------------
+
+--- DATA , ITEM_ID: 2649 ---
+没有发现有效的进度。\0
+
+
+------------------- GMST ( sSaveOnRest ) -------------------
+
+--- DATA , ITEM_ID: 2652 ---
+休息时存档。\0
+
+
+------------------- GMST ( sSaveOnTravel ) -------------------
+
+--- DATA , ITEM_ID: 2655 ---
+旅行时存档。\0
+
+
+------------------- GMST ( sSaveOnWait ) -------------------
+
+--- DATA , ITEM_ID: 2658 ---
+等待时存档。\0
+
+
+------------------- GMST ( sSaveOverSaveGame ) -------------------
+
+--- DATA , ITEM_ID: 2661 ---
+您确定想要覆盖此进度？\0
+
+
+------------------- GMST ( sSaveSuccessful ) -------------------
+
+--- DATA , ITEM_ID: 2664 ---
+存储进度成功。\0
+
+
+------------------- GMST ( sScrollEquipped ) -------------------
+
+--- DATA , ITEM_ID: 2667 ---
+已装备。\0
+
+
+------------------- GMST ( sSearch ) -------------------
+
+--- DATA , ITEM_ID: 2670 ---
+搜索\0
+
+
+------------------- GMST ( sSeasonFall ) -------------------
+
+--- DATA , ITEM_ID: 2673 ---
+秋季\0
+
+
+------------------- GMST ( sSeasonSpring ) -------------------
+
+--- DATA , ITEM_ID: 2676 ---
+春季\0
+
+
+------------------- GMST ( sSeasonSummer ) -------------------
+
+--- DATA , ITEM_ID: 2679 ---
+夏季\0
+
+
+------------------- GMST ( sSeasonWinter ) -------------------
+
+--- DATA , ITEM_ID: 2682 ---
+冬季\0
+
+
+------------------- GMST ( sSelect ) -------------------
+
+--- DATA , ITEM_ID: 2685 ---
+选择\0
+
+
+------------------- GMST ( sSelectItemToRepair ) -------------------
+
+--- DATA , ITEM_ID: 2688 ---
+选择用于修理的物品\0
+
+
+------------------- GMST ( sSelfRange ) -------------------
+
+--- DATA , ITEM_ID: 2691 ---
+\edh\e0h \f1h\e5h\e1h\ffh\0
+
+
+------------------- GMST ( sSell ) -------------------
+
+--- DATA , ITEM_ID: 2694 ---
+卖出\0
+
+
+------------------- GMST ( sServeTimeQuestion ) -------------------
+
+--- DATA , ITEM_ID: 2697 ---
+你想提供你的时间吗？（不确定？）\0
+
+
+------------------- GMST ( sSetMarkerQuestion ) -------------------
+
+--- DATA , ITEM_ID: 2700 ---
+你想设置一个标记吗？\0
+
+
+------------------- GMST ( sSettings ) -------------------
+
+--- DATA , ITEM_ID: 2703 ---
+选项\0
+
+
+------------------- GMST ( sSexFemale ) -------------------
+
+--- DATA , ITEM_ID: 2706 ---
+女性\0
+
+
+------------------- GMST ( sSexFemalePossessive ) -------------------
+
+--- DATA , ITEM_ID: 2709 ---
+她的\0
+
+
+------------------- GMST ( sSexFemalePronoun ) -------------------
+
+--- DATA , ITEM_ID: 2712 ---
+她\0
+
+
+------------------- GMST ( sSexMale ) -------------------
+
+--- DATA , ITEM_ID: 2715 ---
+男性\0
+
+
+------------------- GMST ( sSexMalePossessive ) -------------------
+
+--- DATA , ITEM_ID: 2718 ---
+他的\0
+
+
+------------------- GMST ( sSexMalePronoun ) -------------------
+
+--- DATA , ITEM_ID: 2721 ---
+他\0
+
+
+------------------- GMST ( sShadowFade ) -------------------
+
+--- DATA , ITEM_ID: 2724 ---
+阴影淡出\0
+
+
+------------------- GMST ( sShape ) -------------------
+
+--- DATA , ITEM_ID: 2727 ---
+外形\0
+
+
+------------------- GMST ( sShowActiveNotes ) -------------------
+
+--- DATA , ITEM_ID: 2730 ---
+显示启动中任务的记录\0
+
+
+------------------- GMST ( sShowAllNotes ) -------------------
+
+--- DATA , ITEM_ID: 2733 ---
+显示所有记录\0
+
+
+------------------- GMST ( sShowLocation ) -------------------
+
+--- DATA , ITEM_ID: 2736 ---
+显示地点\0
+
+
+------------------- GMST ( sSkillDecreased ) -------------------
+
+--- DATA , ITEM_ID: 2739 ---
+技能降低\0
+
+
+------------------- GMST ( sSkillIncreased ) -------------------
+
+--- DATA , ITEM_ID: 2742 ---
+技能升高\0
+
+
+------------------- GMST ( sSkillIncreasedNum ) -------------------
+
+--- DATA , ITEM_ID: 2745 ---
+%s增加%d\0
+
+
+------------------- GMST ( sSkillLevelApprentice ) -------------------
+
+--- DATA , ITEM_ID: 2748 ---
+学徒\0
+
+
+------------------- GMST ( sSkillLevelExpert ) -------------------
+
+--- DATA , ITEM_ID: 2751 ---
+专家\0
+
+
+------------------- GMST ( sSkillLevelJourneyman ) -------------------
+
+--- DATA , ITEM_ID: 2754 ---
+熟工\0
+
+
+------------------- GMST ( sSkillLevelMaster ) -------------------
+
+--- DATA , ITEM_ID: 2757 ---
+大师\0
+
+
+------------------- GMST ( sSkillLevelNovice ) -------------------
+
+--- DATA , ITEM_ID: 2760 ---
+新手\0
+
+
+------------------- GMST ( sSkillsCount ) -------------------
+
+--- DATA , ITEM_ID: 2763 ---
+附加%d技能点\0
+
+
+------------------- GMST ( sSkillsTitle ) -------------------
+
+--- DATA , ITEM_ID: 2766 ---
+技能：%d／%d已选择\0
+
+
+------------------- GMST ( sSkin ) -------------------
+
+--- DATA , ITEM_ID: 2769 ---
+\cah\eeh\e6h\e0h\0
+
+
+------------------- GMST ( sSkinflushed ) -------------------
+
+--- DATA , ITEM_ID: 2772 ---
+皮肤　红润／苍白\0
+
+
+------------------- GMST ( sSkinshade ) -------------------
+
+--- DATA , ITEM_ID: 2775 ---
+皮肤阴影　暗／亮\0
+
+
+------------------- GMST ( sSkintintorange ) -------------------
+
+--- DATA , ITEM_ID: 2778 ---
+皮肤色调　橙色／蓝色\0
+
+
+------------------- GMST ( sSkintintpurple ) -------------------
+
+--- DATA , ITEM_ID: 2781 ---
+皮肤色调　紫色／黄色\0
+
+
+------------------- GMST ( sSleep ) -------------------
+
+--- DATA , ITEM_ID: 2784 ---
+睡眠\0
+
+
+------------------- GMST ( sSmall ) -------------------
+
+--- DATA , ITEM_ID: 2787 ---
+小\0
+
+
+------------------- GMST ( sSneakAttackCriticalStrike ) -------------------
+
+--- DATA , ITEM_ID: 2790 ---
+致命偷袭于\0
+
+
+------------------- GMST ( sSneakCaution ) -------------------
+
+--- DATA , ITEM_ID: 2793 ---
+［警觉］\0
+
+
+------------------- GMST ( sSneakDanger ) -------------------
+
+--- DATA , ITEM_ID: 2796 ---
+［危险］\0
+
+
+------------------- GMST ( sSneakDetected ) -------------------
+
+--- DATA , ITEM_ID: 2799 ---
+［被侦测］\0
+
+
+------------------- GMST ( sSneakHidden ) -------------------
+
+--- DATA , ITEM_ID: 2802 ---
+［隐匿］\0
+
+
+------------------- GMST ( sSortMethod ) -------------------
+
+--- DATA , ITEM_ID: 2805 ---
+种（一个词，不确定？）\0
+
+
+------------------- GMST ( sSpecNameCombat ) -------------------
+
+--- DATA , ITEM_ID: 2808 ---
+\c1h\eeh\e9h\0
+
+
+------------------- GMST ( sSpecNameMagic ) -------------------
+
+--- DATA , ITEM_ID: 2811 ---
+\cch\e0h\e3h\e8h\ffh\0
+
+
+------------------- GMST ( sSpecNameStealth ) -------------------
+
+--- DATA , ITEM_ID: 2814 ---
+潜行\0
+
+
+------------------- GMST ( sSpecularityFade ) -------------------
+
+--- DATA , ITEM_ID: 2817 ---
+反射淡出\0
+
+
+------------------- GMST ( sSpeechChallengeFailure ) -------------------
+
+--- DATA , ITEM_ID: 2820 ---
+［失败］\0
+
+
+------------------- GMST ( sSpeechChallengeSuccess ) -------------------
+
+--- DATA , ITEM_ID: 2823 ---
+［成功］\0
+
+
+------------------- GMST ( sStartANewGame ) -------------------
+
+--- DATA , ITEM_ID: 2826 ---
+开始新游戏？\0
+
+
+------------------- GMST ( sStartNewGame ) -------------------
+
+--- DATA , ITEM_ID: 2829 ---
+开始新游戏？\0
+
+
+------------------- GMST ( sStats ) -------------------
+
+--- DATA , ITEM_ID: 2832 ---
+状态\0
+
+
+------------------- GMST ( sStatsAddicted ) -------------------
+
+--- DATA , ITEM_ID: 2835 ---
+上瘾\0
+
+
+------------------- GMST ( sStatsAlcohol ) -------------------
+
+--- DATA , ITEM_ID: 2838 ---
+\c0h\ebh\eah\eeh\e3h\eeh\ebh\fch\0
+
+
+------------------- GMST ( sStatsAP ) -------------------
+
+--- DATA , ITEM_ID: 2841 ---
+\ceh\c4h\0
+
+
+------------------- GMST ( sStatsBody ) -------------------
+
+--- DATA , ITEM_ID: 2844 ---
+身体\0
+
+
+------------------- GMST ( sStatsCondition ) -------------------
+
+--- DATA , ITEM_ID: 2847 ---
+状况\0
+
+
+------------------- GMST ( sStatsCrippled ) -------------------
+
+--- DATA , ITEM_ID: 2850 ---
+残废\0
+
+
+------------------- GMST ( sStatsEFFAbbrev ) -------------------
+
+--- DATA , ITEM_ID: 2853 ---
+EFF\0
+
+
+------------------- GMST ( sStatsEffects ) -------------------
+
+--- DATA , ITEM_ID: 2856 ---
+\ddh\f4h\f4h\e5h\eah\f2h\fbh\0
+
+
+------------------- GMST ( sStatsGeneral ) -------------------
+
+--- DATA , ITEM_ID: 2859 ---
+\ceh\e1h\f9h\e0h\ffh\0
+
+
+------------------- GMST ( sStatsHP ) -------------------
+
+--- DATA , ITEM_ID: 2862 ---
+\ceh\c7h\0
+
+
+------------------- GMST ( sStatsLimbs ) -------------------
+
+--- DATA , ITEM_ID: 2865 ---
+四肢\0
+
+
+------------------- GMST ( sStatsLVLAbbrev ) -------------------
+
+--- DATA , ITEM_ID: 2868 ---
+LVL\0
+
+
+------------------- GMST ( sStatsPerks ) -------------------
+
+--- DATA , ITEM_ID: 2871 ---
+Perk\0
+
+
+------------------- GMST ( sStatsRADAbbrev ) -------------------
+
+--- DATA , ITEM_ID: 2874 ---
+RAD\0
+
+
+------------------- GMST ( sStatsRadiation ) -------------------
+
+--- DATA , ITEM_ID: 2877 ---
+\d0h\e0h\e4h\e8h\e0h\f6h\e8h\ffh\0
+
+
+------------------- GMST ( sStatsRadResist ) -------------------
+
+--- DATA , ITEM_ID: 2880 ---
+RAD抵抗\0
+
+
+------------------- GMST ( sStatsSkills ) -------------------
+
+--- DATA , ITEM_ID: 2883 ---
+技能\0
+
+
+------------------- GMST ( sStatsStatus ) -------------------
+
+--- DATA , ITEM_ID: 2886 ---
+状态\0
+
+
+------------------- GMST ( sStatsXP ) -------------------
+
+--- DATA , ITEM_ID: 2889 ---
+XP\0
+
+
+------------------- GMST ( sStatsXPMax ) -------------------
+
+--- DATA , ITEM_ID: 2892 ---
+MAX\0
+
+
+------------------- GMST ( sSteal ) -------------------
+
+--- DATA , ITEM_ID: 2895 ---
+\d3h\eah\f0h\e0h\f1h\f2h\fch:\0
+
+
+------------------- GMST ( sStealHorse ) -------------------
+
+--- DATA , ITEM_ID: 2898 ---
+你想偷这匹马吗？\0
+
+
+------------------- GMST ( sStimpak ) -------------------
+
+--- DATA , ITEM_ID: 2901 ---
+\d1h\f2h\e8h\ech\f3h\ebh\ffh\f2h\eeh\f0h\0
+
+
+------------------- GMST ( sStopAudio ) -------------------
+
+--- DATA , ITEM_ID: 2904 ---
+停播音频\0
+
+
+------------------- GMST ( sStyle ) -------------------
+
+--- DATA , ITEM_ID: 2907 ---
+样式\0
+
+
+------------------- GMST ( sSuccessfulSneakAttackEnd ) -------------------
+
+--- DATA , ITEM_ID: 2910 ---
+Ｘ伤害！（不确定？）\0
+
+
+------------------- GMST ( sSuccessfulSneakAttackMain ) -------------------
+
+--- DATA , ITEM_ID: 2913 ---
+偷袭\0
+
+
+------------------- GMST ( sSurgery ) -------------------
+
+--- DATA , ITEM_ID: 2916 ---
+外科\0
+
+
+------------------- GMST ( sSwitchLimbs ) -------------------
+
+--- DATA , ITEM_ID: 2919 ---
+转换四肢（不确定？）\0
+
+
+------------------- GMST ( sTakeAll ) -------------------
+
+--- DATA , ITEM_ID: 2922 ---
+全部拿走\0
+
+
+------------------- GMST ( sTargetRange ) -------------------
+
+--- DATA , ITEM_ID: 2925 ---
+\d6h\e5h\ebh\fch: \0
+
+
+------------------- GMST ( sTargetTypeActivate ) -------------------
+
+--- DATA , ITEM_ID: 2928 ---
+\c0h\eah\f2h\e8h\e2h\e8h\f0h\eeh\e2h\e0h\f2h\fch:\0
+
+
+------------------- GMST ( sTargetTypeApply ) -------------------
+
+--- DATA , ITEM_ID: 2931 ---
+应用\0
+
+
+------------------- GMST ( sTargetTypeBrew ) -------------------
+
+--- DATA , ITEM_ID: 2934 ---
+调制（一个词，不确定？）\0
+
+
+------------------- GMST ( sTargetTypeCrown ) -------------------
+
+--- DATA , ITEM_ID: 2937 ---
+\c3h\eeh\e2h\eeh\f0h\e8h\f2h\fch:\0
+
+
+------------------- GMST ( sTargetTypeDrink ) -------------------
+
+--- DATA , ITEM_ID: 2940 ---
+饮料\0
+
+
+------------------- GMST ( sTargetTypeEat ) -------------------
+
+--- DATA , ITEM_ID: 2943 ---
+食用\0
+
+
+------------------- GMST ( sTargetTypeEquip ) -------------------
+
+--- DATA , ITEM_ID: 2946 ---
+\ddh\eah\e8h\efh\e8h\f0h\eeh\e2h\e0h\f2h\fch:\0
+
+
+------------------- GMST ( sTargetTypeHorse ) -------------------
+
+--- DATA , ITEM_ID: 2949 ---
+骑\0
+
+
+------------------- GMST ( sTargetTypeOpen ) -------------------
+
+--- DATA , ITEM_ID: 2952 ---
+\ceh\f2h\eah\f0h\fbh\f2h\fch:\0
+
+
+------------------- GMST ( sTargetTypeOpenDoor ) -------------------
+
+--- DATA , ITEM_ID: 2955 ---
+\ceh\f2h\eah\f0h\fbh\f2h\fch:\0
+
+
+------------------- GMST ( sTargetTypeRead ) -------------------
+
+--- DATA , ITEM_ID: 2958 ---
+读\0
+
+
+------------------- GMST ( sTargetTypeRecharge ) -------------------
+
+--- DATA , ITEM_ID: 2961 ---
+\cfh\e5h\f0h\e5h\e7h\e0h\f0h\ffh\e4h\e8h\f2h\fch:\0
+
+
+------------------- GMST ( sTargetTypeRepair ) -------------------
+
+--- DATA , ITEM_ID: 2964 ---
+\cfh\eeh\f7h\e8h\edh\e8h\f2h\fch:\0
+
+
+------------------- GMST ( sTargetTypeSit ) -------------------
+
+--- DATA , ITEM_ID: 2967 ---
+坐\0
+
+
+------------------- GMST ( sTargetTypeSleep ) -------------------
+
+--- DATA , ITEM_ID: 2970 ---
+\d1h\efh\e0h\f2h\fch:\0
+
+
+------------------- GMST ( sTargetTypeTake ) -------------------
+
+--- DATA , ITEM_ID: 2973 ---
+拿\0
+
+
+------------------- GMST ( sTargetTypeTalk ) -------------------
+
+--- DATA , ITEM_ID: 2976 ---
+\c3h\eeh\e2h\eeh\f0h\e8h\f2h\fch:\0
+
+
+------------------- GMST ( sTargetTypeUnequip ) -------------------
+
+--- DATA , ITEM_ID: 2979 ---
+\d1h\edh\ffh\f2h\fch:\0
+
+
+------------------- GMST ( sTargetTypeVampire ) -------------------
+
+--- DATA , ITEM_ID: 2982 ---
+给养／交谈\0
+
+
+------------------- GMST ( sTeammateOverencumbered ) -------------------
+
+--- DATA , ITEM_ID: 2985 ---
+不能再携带更多。\0
+
+
+------------------- GMST ( sTerminalLocked ) -------------------
+
+--- DATA , ITEM_ID: 2988 ---
+你不能破解这台电脑。\0
+
+
+------------------- GMST ( sTextNote ) -------------------
+
+--- DATA , ITEM_ID: 2991 ---
+文本文件\0
+
+
+------------------- GMST ( sTextureSize ) -------------------
+
+--- DATA , ITEM_ID: 2994 ---
+贴图尺寸\0
+
+
+------------------- GMST ( sTo ) -------------------
+
+--- DATA , ITEM_ID: 2997 ---
+给\0
+
+
+------------------- GMST ( sTone ) -------------------
+
+--- DATA , ITEM_ID: 3000 ---
+色调\0
+
+
+------------------- GMST ( sTouchRange ) -------------------
+
+--- DATA , ITEM_ID: 3003 ---
+\d3h\e4h\e0h\f0h\0
+
+
+------------------- GMST ( sTraitsCount ) -------------------
+
+--- DATA , ITEM_ID: 3006 ---
+选择最多%d特征（最多？）\0
+
+
+------------------- GMST ( sTraitsTitle ) -------------------
+
+--- DATA , ITEM_ID: 3009 ---
+可选特征：%d／%d已选择\0
+
+
+------------------- GMST ( sTransact ) -------------------
+
+--- DATA , ITEM_ID: 3012 ---
+办理\0
+
+
+------------------- GMST ( sTravel ) -------------------
+
+--- DATA , ITEM_ID: 3015 ---
+\cfh\f3h\f2h\e5h\f8h\e5h\f1h\f2h\e2h\e8h\e5h\0
+
+
+------------------- GMST ( sTravelQuestion ) -------------------
+
+--- DATA , ITEM_ID: 3018 ---
+你想旅行到\0
+
+
+------------------- GMST ( sTreeLODFade ) -------------------
+
+--- DATA , ITEM_ID: 3021 ---
+树木LOD淡出\0
+
+
+------------------- GMST ( sTune ) -------------------
+
+--- DATA , ITEM_ID: 3024 ---
+曲调（单个词，不确定？）\0
+
+
+------------------- GMST ( sUActnActivate ) -------------------
+
+--- DATA , ITEM_ID: 3027 ---
+\c0h\eah\f2h\e8h\e2h\e8h\f0h\eeh\e2h\e0h\f2h\fch\0
+
+
+------------------- GMST ( sUActnAutomove ) -------------------
+
+--- DATA , ITEM_ID: 3030 ---
+自动移动\0
+
+
+------------------- GMST ( sUActnBack ) -------------------
+
+--- DATA , ITEM_ID: 3033 ---
+sUActnForward\0
+
+
+------------------- GMST ( sUActnBlock ) -------------------
+
+--- DATA , ITEM_ID: 3036 ---
+瞄准\0
+
+
+------------------- GMST ( sUActnCrouch ) -------------------
+
+--- DATA , ITEM_ID: 3039 ---
+\cah\f0h\e0h\f1h\f2h\fch\f1h\ffh\0
+
+
+------------------- GMST ( sUActnForward ) -------------------
+
+--- DATA , ITEM_ID: 3042 ---
+\c2h\efh\e5h\f0h\e5h\e4h\0
+
+
+------------------- GMST ( sUActnGrab ) -------------------
+
+--- DATA , ITEM_ID: 3045 ---
+抓取\0
+
+
+------------------- GMST ( sUActnHotKey1 ) -------------------
+
+--- DATA , ITEM_ID: 3048 ---
+热键１\0
+
+
+------------------- GMST ( sUActnHotKey2 ) -------------------
+
+--- DATA , ITEM_ID: 3051 ---
+热键２\0
+
+
+------------------- GMST ( sUActnHotKey3 ) -------------------
+
+--- DATA , ITEM_ID: 3054 ---
+热键３\0
+
+
+------------------- GMST ( sUActnHotKey4 ) -------------------
+
+--- DATA , ITEM_ID: 3057 ---
+热键４\0
+
+
+------------------- GMST ( sUActnHotKey5 ) -------------------
+
+--- DATA , ITEM_ID: 3060 ---
+热键５\0
+
+
+------------------- GMST ( sUActnHotKey6 ) -------------------
+
+--- DATA , ITEM_ID: 3063 ---
+热键６\0
+
+
+------------------- GMST ( sUActnHotKey7 ) -------------------
+
+--- DATA , ITEM_ID: 3066 ---
+热键７\0
+
+
+------------------- GMST ( sUActnHotKey8 ) -------------------
+
+--- DATA , ITEM_ID: 3069 ---
+热键８\0
+
+
+------------------- GMST ( sUActnJump ) -------------------
+
+--- DATA , ITEM_ID: 3072 ---
+跳跃\0
+
+
+------------------- GMST ( sUActnQuickload ) -------------------
+
+--- DATA , ITEM_ID: 3075 ---
+快速读取\0
+
+
+------------------- GMST ( sUActnQuicksave ) -------------------
+
+--- DATA , ITEM_ID: 3078 ---
+\c1h\fbh\f1h\f2h\f0h. \f1h\eeh\f5h\f0h\e0h\edh\e5h\edh\e8h\e5h\0
+
+
+------------------- GMST ( sUActnRdyitem ) -------------------
+
+--- DATA , ITEM_ID: 3081 ---
+准备／重装\0
+
+
+------------------- GMST ( sUActnRestmenu ) -------------------
+
+--- DATA , ITEM_ID: 3084 ---
+\c6h\e4h\e0h\f2h\fch\0
+
+
+------------------- GMST ( sUActnRun ) -------------------
+
+--- DATA , ITEM_ID: 3087 ---
+跑步\0
+
+
+------------------- GMST ( sUActnSldleft ) -------------------
+
+--- DATA , ITEM_ID: 3090 ---
+向左平移\0
+
+
+------------------- GMST ( sUActnSldright ) -------------------
+
+--- DATA , ITEM_ID: 3093 ---
+向右平移\0
+
+
+------------------- GMST ( sUActnTogglepov ) -------------------
+
+--- DATA , ITEM_ID: 3096 ---
+切换视角\0
+
+
+------------------- GMST ( sUActnTogglerun ) -------------------
+
+--- DATA , ITEM_ID: 3099 ---
+默认跑步\0
+
+
+------------------- GMST ( sUActnUse ) -------------------
+
+--- DATA , ITEM_ID: 3102 ---
+\c0h\f2h\e0h\eah\e0h\0
+
+
+------------------- GMST ( sUnequipItemOnPlayer ) -------------------
+
+--- DATA , ITEM_ID: 3105 ---
+未装备\0
+
+
+------------------- GMST ( sValue ) -------------------
+
+--- DATA , ITEM_ID: 3108 ---
+\d6h\e5h\edh\e0h\0
+
+
+------------------- GMST ( sVampireFeed ) -------------------
+
+--- DATA , ITEM_ID: 3111 ---
+给养\0
+
+
+------------------- GMST ( sVampireFeedQuestion ) -------------------
+
+--- DATA , ITEM_ID: 3114 ---
+你准备对这名无辜镇民做什么？\0
+
+
+------------------- GMST ( sVampireTalk ) -------------------
+
+--- DATA , ITEM_ID: 3117 ---
+交谈\0
+
+
+------------------- GMST ( sVatsAimed ) -------------------
+
+--- DATA , ITEM_ID: 3120 ---
+瞄准\0
+
+
+------------------- GMST ( sVatsAiming ) -------------------
+
+--- DATA , ITEM_ID: 3123 ---
+瞄准中\0
+
+
+------------------- GMST ( sVatsBodyPart ) -------------------
+
+--- DATA , ITEM_ID: 3126 ---
+身体部分\0
+
+
+------------------- GMST ( sVATSMessageLowAP ) -------------------
+
+--- DATA , ITEM_ID: 3129 ---
+\cch\e0h\ebh\eeh\0
+
+
+------------------- GMST ( sVATSMessageNoAmmo ) -------------------
+
+--- DATA , ITEM_ID: 3132 ---
+你没有足够的弹药。\0
+
+
+------------------- GMST ( sVATSMessageZeroChance ) -------------------
+
+--- DATA , ITEM_ID: 3135 ---
+你只有零的机会击中。\0
+
+
+------------------- GMST ( sVatsSelect ) -------------------
+
+--- DATA , ITEM_ID: 3138 ---
+\c2h\fbh\e1h\f0h\e0h\f2h\fch\0
+
+
+------------------- GMST ( sVatsTarget ) -------------------
+
+--- DATA , ITEM_ID: 3141 ---
+\d6h\e5h\ebh\fch\0
+
+
+------------------- GMST ( sVideo ) -------------------
+
+--- DATA , ITEM_ID: 3144 ---
+视频\0
+
+
+------------------- GMST ( sVideoChange ) -------------------
+
+--- DATA , ITEM_ID: 3147 ---
+你必须退出并重启Fallout 3以使新的分辨率生效。\0
+
+
+------------------- GMST ( sViewDistance ) -------------------
+
+--- DATA , ITEM_ID: 3150 ---
+视野距离\0
+
+
+------------------- GMST ( sVoiceVolume ) -------------------
+
+--- DATA , ITEM_ID: 3153 ---
+对话\0
+
+
+------------------- GMST ( sWait ) -------------------
+
+--- DATA , ITEM_ID: 3156 ---
+等待\0
+
+
+------------------- GMST ( sWeaponBreak ) -------------------
+
+--- DATA , ITEM_ID: 3159 ---
+你的武器坏了。\0
+
+
+------------------- GMST ( sWeaponTypeHandToHandMelee ) -------------------
+
+--- DATA , ITEM_ID: 3162 ---
+近战－徒手\0
+
+
+------------------- GMST ( sWeaponTypeOneHandGrenade ) -------------------
+
+--- DATA , ITEM_ID: 3165 ---
+手榴弹\0
+
+
+------------------- GMST ( sWeaponTypeOneHandMelee ) -------------------
+
+--- DATA , ITEM_ID: 3168 ---
+近战－单手\0
+
+
+------------------- GMST ( sWeaponTypeOneHandMine ) -------------------
+
+--- DATA , ITEM_ID: 3171 ---
+\cch\e8h\edh\e0h\0
+
+
+------------------- GMST ( sWeaponTypeOneHandPistol ) -------------------
+
+--- DATA , ITEM_ID: 3174 ---
+手枪\0
+
+
+------------------- GMST ( sWeaponTypeOneHandPistolEnergy ) -------------------
+
+--- DATA , ITEM_ID: 3177 ---
+能量手枪\0
+
+
+------------------- GMST ( sWeaponTypeTwoHandAutomatic ) -------------------
+
+--- DATA , ITEM_ID: 3180 ---
+自动\0
+
+
+------------------- GMST ( sWeaponTypeTwoHandHandle ) -------------------
+
+--- DATA , ITEM_ID: 3183 ---
+拿起武器（拿起？）\0
+
+
+------------------- GMST ( sWeaponTypeTwoHandLauncher ) -------------------
+
+--- DATA , ITEM_ID: 3186 ---
+发射器\0
+
+
+------------------- GMST ( sWeaponTypeTwoHandMelee ) -------------------
+
+--- DATA , ITEM_ID: 3189 ---
+近战－双手\0
+
+
+------------------- GMST ( sWeaponTypeTwoHandRifle ) -------------------
+
+--- DATA , ITEM_ID: 3192 ---
+步枪\0
+
+
+------------------- GMST ( sWeaponTypeTwoHandRifleEnergy ) -------------------
+
+--- DATA , ITEM_ID: 3195 ---
+能量步枪\0
+
+
+------------------- GMST ( sWeight ) -------------------
+
+--- DATA , ITEM_ID: 3198 ---
+重量\0
+
+
+------------------- GMST ( sWhite ) -------------------
+
+--- DATA , ITEM_ID: 3201 ---
+白色\0
+
+
+------------------- GMST ( sWorldMapTabText ) -------------------
+
+--- DATA , ITEM_ID: 3204 ---
+世界地图\0
+
+
+------------------- GMST ( sXSensitivity ) -------------------
+
+--- DATA , ITEM_ID: 3207 ---
+Ｘ－灵敏度\0
+
+
+------------------- GMST ( sYes ) -------------------
+
+--- DATA , ITEM_ID: 3210 ---
+是\0
+
+
+------------------- GMST ( sYesRestart ) -------------------
+
+--- DATA , ITEM_ID: 3213 ---
+是的，重启游戏。\0
+
+
+------------------- GMST ( sYesText ) -------------------
+
+--- DATA , ITEM_ID: 3216 ---
+&是\0
+
+
+------------------- GMST ( sYesToAllText ) -------------------
+
+--- DATA , ITEM_ID: 3219 ---
+全部选&是\0
+
+
+------------------- GMST ( sYour ) -------------------
+
+--- DATA , ITEM_ID: 3222 ---
+你的\0
+
+
+------------------- GMST ( sYSensitivity ) -------------------
+
+--- DATA , ITEM_ID: 3225 ---
+Ｙ－灵敏度\0
+
+
+------------------- GMST ( sRSMShapeOption14 ) -------------------
+
+--- DATA , ITEM_ID: 3228 ---
+高／矮\0
+
+
+------------------- GMST ( sXBBackBtn ) -------------------
+
+--- DATA , ITEM_ID: 3231 ---
+\cdh\e0h\e7h\e0h\e4h\0
+
+
+------------------- GMST ( sXBDPadDown ) -------------------
+
+--- DATA , ITEM_ID: 3234 ---
+十字钮　下\0
+
+
+------------------- GMST ( sXBDPadLeft ) -------------------
+
+--- DATA , ITEM_ID: 3237 ---
+十字钮　左\0
+
+
+------------------- GMST ( sXBDPadRight ) -------------------
+
+--- DATA , ITEM_ID: 3240 ---
+十字钮　右\0
+
+
+------------------- GMST ( sXBDPadUp ) -------------------
+
+--- DATA , ITEM_ID: 3243 ---
+十字钮　上\0
+
+
+------------------- GMST ( sXBDPadX ) -------------------
+
+--- DATA , ITEM_ID: 3246 ---
+十字钮　左／右\0
+
+
+------------------- GMST ( sXBDPadY ) -------------------
+
+--- DATA , ITEM_ID: 3249 ---
+十字钮　上／下\0
+
+
+------------------- GMST ( sXBLThumbDown ) -------------------
+
+--- DATA , ITEM_ID: 3252 ---
+左摇杆　下\0
+
+
+------------------- GMST ( sXBLThumbLeft ) -------------------
+
+--- DATA , ITEM_ID: 3255 ---
+左摇杆　左\0
+
+
+------------------- GMST ( sXBLThumbRight ) -------------------
+
+--- DATA , ITEM_ID: 3258 ---
+左摇杆　右\0
+
+
+------------------- GMST ( sXBLThumbUp ) -------------------
+
+--- DATA , ITEM_ID: 3261 ---
+左摇杆　上\0
+
+
+------------------- GMST ( sXBLThumbX ) -------------------
+
+--- DATA , ITEM_ID: 3264 ---
+左摇杆　左／右\0
+
+
+------------------- GMST ( sXBLThumbY ) -------------------
+
+--- DATA , ITEM_ID: 3267 ---
+左摇杆　上／下\0
+
+
+------------------- GMST ( sXBRThumbDown ) -------------------
+
+--- DATA , ITEM_ID: 3270 ---
+右摇杆　下\0
+
+
+------------------- GMST ( sXBRThumbLeft ) -------------------
+
+--- DATA , ITEM_ID: 3273 ---
+右摇杆　左\0
+
+
+------------------- GMST ( sXBRThumbRight ) -------------------
+
+--- DATA , ITEM_ID: 3276 ---
+右摇杆　右\0
+
+
+------------------- GMST ( sXBRThumbUp ) -------------------
+
+--- DATA , ITEM_ID: 3279 ---
+右摇杆　上\0
+
+
+------------------- GMST ( sXBRThumbX ) -------------------
+
+--- DATA , ITEM_ID: 3282 ---
+右摇杆　左／右\0
+
+
+------------------- GMST ( sXBRThumbY ) -------------------
+
+--- DATA , ITEM_ID: 3285 ---
+右摇杆　上／下\0
+
+
+------------------- GMST ( sXBStartBtn ) -------------------
+
+--- DATA , ITEM_ID: 3288 ---
+开始\0
+
+
+------------------- GMST ( sXBUnboundBtn ) -------------------
+
+--- DATA , ITEM_ID: 3291 ---
+<\cdh\c5h\d2h \cfh\d0h\c8h\c2h\dfh\c7h\cah\c8h>\0
+
+
+------------------- GMST ( sPS3DPadDown ) -------------------
+
+--- DATA , ITEM_ID: 3294 ---
+\cah\f0h\e5h\f1h\f2h. \e2h\edh\e8h\e7h\0
+
+
+------------------- GMST ( sPS3DPadLeft ) -------------------
+
+--- DATA , ITEM_ID: 3297 ---
+\cah\f0h\e5h\f1h\f2h. \e2h\ebh\e5h\e2h\eeh\0
+
+
+------------------- GMST ( sPS3DPadRight ) -------------------
+
+--- DATA , ITEM_ID: 3300 ---
+\cah\f0h\e5h\f1h\f2h. \edh\e0h\efh\f0h\e0h\e2h\eeh\0
+
+
+------------------- GMST ( sPS3DPadUp ) -------------------
+
+--- DATA , ITEM_ID: 3303 ---
+\cah\f0h\e5h\f1h\f2h. \e2h\e2h\e5h\f0h\f5h\0
+
+
+------------------- GMST ( sPS3DPadX ) -------------------
+
+--- DATA , ITEM_ID: 3306 ---
+\cah\f0h\e5h\f1h\f2h. \edh\e0h\ebh\e5h\e2h\eeh / \edh\e0h\efh\f0h\e0h\e2h\eeh\0
+
+
+------------------- GMST ( sPS3DPadY ) -------------------
+
+--- DATA , ITEM_ID: 3309 ---
+\cah\f0h\e5h\f1h\f2h. \e2h\e2h\e5h\f0h\f5h / \e2h\edh\e8h\e7h\0
+
+
+------------------- GMST ( sPS3LThumbDown ) -------------------
+
+--- DATA , ITEM_ID: 3312 ---
+\cbh-\e4h\e6h\eeh\e9h\f1h\f2h\e8h\eah \e2h\edh\e8h\e7h\0
+
+
+------------------- GMST ( sPS3LThumbLeft ) -------------------
+
+--- DATA , ITEM_ID: 3315 ---
+\cbh-\e4h\e6h\eeh\e9h\f1h\f2h\e8h\eah \edh\e0h\ebh\e5h\e2h\eeh\0
+
+
+------------------- GMST ( sPS3LThumbRight ) -------------------
+
+--- DATA , ITEM_ID: 3318 ---
+\cbh-\e4h\e6h\eeh\e9h\f1h\f2h\e8h\eah \edh\e0h\efh\f0h\e0h\e2h\eeh\0
+
+
+------------------- GMST ( sPS3LThumbUp ) -------------------
+
+--- DATA , ITEM_ID: 3321 ---
+\cbh-\e4h\e6h\eeh\e9h\f1h\f2h\e8h\eah \e2h\e2h\e5h\f0h\f5h\0
+
+
+------------------- GMST ( sPS3LThumbX ) -------------------
+
+--- DATA , ITEM_ID: 3324 ---
+\cbh-\e4h\e6h\eeh\e9h\f1h\f2h\e8h\eah \edh\e0h\ebh\e5h\e2h\eeh / \edh\e0h\efh\f0h\e0h\e2h\eeh\0
+
+
+------------------- GMST ( sPS3LThumbY ) -------------------
+
+--- DATA , ITEM_ID: 3327 ---
+\cbh-\e4h\e6h\eeh\e9h\f1h\f2h\e8h\eah \e2h\e2h\e5h\f0h\f5h / \e2h\edh\e8h\e7h\0
+
+
+------------------- GMST ( sPS3RThumbDown ) -------------------
+
+--- DATA , ITEM_ID: 3330 ---
+\cfh-\e4h\e6h\eeh\e9h\f1h\f2h\e8h\eah \e2h\edh\e8h\e7h\0
+
+
+------------------- GMST ( sPS3RThumbLeft ) -------------------
+
+--- DATA , ITEM_ID: 3333 ---
+\cfh-\e4h\e6h\eeh\e9h\f1h\f2h\e8h\eah \edh\e0h\ebh\e5h\e2h\eeh\0
+
+
+------------------- GMST ( sPS3RThumbRight ) -------------------
+
+--- DATA , ITEM_ID: 3336 ---
+\cfh-\e4h\e6h\eeh\e9h\f1h\f2h\e8h\eah \edh\e0h\efh\f0h\e0h\e2h\eeh\0
+
+
+------------------- GMST ( sPS3RThumbUp ) -------------------
+
+--- DATA , ITEM_ID: 3339 ---
+\cfh-\e4h\e6h\eeh\e9h\f1h\f2h\e8h\eah \e2h\e2h\e5h\f0h\f5h\0
+
+
+------------------- GMST ( sPS3RThumbX ) -------------------
+
+--- DATA , ITEM_ID: 3342 ---
+\cfh-\e4h\e6h\eeh\e9h\f1h\f2h\e8h\eah \edh\e0h\ebh\e5h\e2h\eeh / \edh\e0h\efh\f0h\e0h\e2h\eeh\0
+
+
+------------------- GMST ( sPS3RThumbY ) -------------------
+
+--- DATA , ITEM_ID: 3345 ---
+\cfh-\e4h\e6h\eeh\e9h\f1h\f2h\e8h\eah \e2h\e2h\e5h\f0h\f5h / \e2h\edh\e8h\e7h\0
+
+
+------------------- GMST ( sPS3SelectBtn ) -------------------
+
+--- DATA , ITEM_ID: 3348 ---
+\c2h\fbh\e1h\eeh\f0h\0
+
+
+------------------- GMST ( sPS3StartBtn ) -------------------
+
+--- DATA , ITEM_ID: 3351 ---
+\d1h\f2h\e0h\f0h\f2h\0
+
+

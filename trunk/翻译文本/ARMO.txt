@@ -1,0 +1,1410 @@
+------------------- ARMO ( OutfitMerc06 ) -------------------
+
+--- FULL , ITEM_ID: 23030 ---
+巡游者佣兵套装Merc Cruiser Outfit\0
+
+
+------------------- ARMO ( OutfitMysteriousStranger ) -------------------
+
+--- FULL , ITEM_ID: 23054 ---
+神秘陌生人套装Mysterious Stranger Outfit\0
+
+
+------------------- ARMO ( OutfitMysteriousStrangerHat ) -------------------
+
+--- FULL , ITEM_ID: 23067 ---
+神秘陌生人帽子Mysterious Stranger Hat\0
+
+
+------------------- ARMO ( OutfitOasisDruid ) -------------------
+
+--- FULL , ITEM_ID: 23079 ---
+绿洲长袍Oasis Robe\0
+
+
+------------------- ARMO ( OutfitOasisExileHood ) -------------------
+
+--- FULL , ITEM_ID: 23102 ---
+绿洲流浪罩袍Oasis Exile Hood\0
+
+
+------------------- ARMO ( OutfitOasisVillager ) -------------------
+
+--- FULL , ITEM_ID: 23119 ---
+绿洲村民长袍Oasis Villager Robe\0
+
+
+------------------- ARMO ( OutfitOasisVillagerHood ) -------------------
+
+--- FULL , ITEM_ID: 23142 ---
+绿洲德鲁伊罩袍Oasis Druid Hood\0
+
+
+------------------- ARMO ( OutfitPrewarBusinesswearDirty ) -------------------
+
+--- FULL , ITEM_ID: 23159 ---
+弄脏的职业装（战前款）Dirty Pre-War Businesswear\0
+
+
+------------------- ARMO ( OutfitPrewarBusinesswearDirtyDARK ) -------------------
+
+--- FULL , ITEM_ID: 23180 ---
+肮脏的职业装（战前款）Grimy Pre-War Businesswear\0
+
+
+------------------- ARMO ( OutfitPrewarCasualwear ) -------------------
+
+--- FULL , ITEM_ID: 23204 ---
+便服（战前款）Pre-War Casualwear\0
+
+
+------------------- ARMO ( OutfitPrewarCasualwear2 ) -------------------
+
+--- FULL , ITEM_ID: 23225 ---
+休闲服（战前款）Pre-War Relaxedwear\0
+
+
+------------------- ARMO ( OutfitPrewarCasualwear2Dirty ) -------------------
+
+--- FULL , ITEM_ID: 23249 ---
+弄脏的休闲服（战前款）Dirty Pre-War Relaxedwear\0
+
+
+------------------- ARMO ( OutfitPrewarCasualwearDirty ) -------------------
+
+--- FULL , ITEM_ID: 23273 ---
+弄脏的便服（战前款）Dirty Pre-War Casualwear\0
+
+
+------------------- ARMO ( OutfitPrewarNegligee ) -------------------
+
+--- FULL , ITEM_ID: 23297 ---
+性感睡衣Sexy Sleepwear\0
+
+
+------------------- ARMO ( OutfitPrewarSpring ) -------------------
+
+--- FULL , ITEM_ID: 23318 ---
+春季套装（战前款）Pre-War Spring Outfit\0
+
+
+------------------- ARMO ( OutfitPrewarSpring2 ) -------------------
+
+--- FULL , ITEM_ID: 23339 ---
+游园套装（战前款）Pre-War Parkstroller Outfit\0
+
+
+------------------- ARMO ( OutfitPrewarSpring2Dirty ) -------------------
+
+--- FULL , ITEM_ID: 23363 ---
+弄脏的游园套装（战前款）Dirty Pre-War Parkstroller Outfit\0
+
+
+------------------- ARMO ( OutfitPrewarSpringDirty ) -------------------
+
+--- FULL , ITEM_ID: 23387 ---
+弄脏的春季套装（战前款）Dirty Pre-War Spring Outfit\0
+
+
+------------------- ARMO ( OutfitProjectPurityDoctor ) -------------------
+
+--- FULL , ITEM_ID: 23411 ---
+实验室技师套装Lab Technician Outfit\0
+
+
+------------------- ARMO ( OutfitRivetCityScientist ) -------------------
+
+--- FULL , ITEM_ID: 23432 ---
+科学家套装Scientist Outfit\0
+
+
+------------------- ARMO ( OutfitTenpenny ) -------------------
+
+--- FULL , ITEM_ID: 23460 ---
+Tenpenny's Suit\0
+
+
+------------------- ARMO ( OutfitTunnelSnake01 ) -------------------
+
+--- FULL , ITEM_ID: 23480 ---
+Tunnel Snake Outfit\0
+
+
+------------------- ARMO ( OutfitUniqueChineseCommandoHat ) -------------------
+
+--- FULL , ITEM_ID: 23500 ---
+人民帽Hat of the People\0
+
+
+------------------- ARMO ( OutfitUniqueChineseCommandoJumpsuitOld ) -------------------
+
+--- FULL , ITEM_ID: 23517 ---
+弄脏的中式连衫裤Dirty Chinese Jumpsuit\0
+
+
+------------------- ARMO ( OutfitUniqueEnclaveScientist ) -------------------
+
+--- FULL , ITEM_ID: 23540 ---
+全功能科学服All-Purpose Science Suit\0 全天候科学服？
+
+
+------------------- ARMO ( OutfitUniqueMerc01 ) -------------------
+
+--- FULL , ITEM_ID: 23563 ---
+魅惑者佣兵套装Merc Charmer Outfit\0
+
+
+------------------- ARMO ( OutfitUniqueMerc02 ) -------------------
+
+--- FULL , ITEM_ID: 23588 ---
+惹事者佣兵套装Merc Troublemaker Outfit\0
+
+
+------------------- ARMO ( OutfitUniqueMerc03 ) -------------------
+
+--- FULL , ITEM_ID: 23612 ---
+冒险者佣兵套装Merc Adventurer Outfit\0
+
+
+------------------- ARMO ( OutfitUniqueMerc04 ) -------------------
+
+--- FULL , ITEM_ID: 23636 ---
+荒野传奇套装Wasteland Legend Outfit\0
+
+
+------------------- ARMO ( OutfitUniqueMerc05 ) -------------------
+
+--- FULL , ITEM_ID: 23661 ---
+Merc Grunt Outfit\0
+
+
+------------------- ARMO ( OutfitUniqueMerc06 ) -------------------
+
+--- FULL , ITEM_ID: 23684 ---
+巡游者佣兵套装Merc Cruiser Outfit\0
+
+
+------------------- ARMO ( OutfitUniquePrewarBusinesswearDirtyDARK ) -------------------
+
+--- FULL , ITEM_ID: 23708 ---
+Power-Suit Armor\0
+
+
+------------------- ARMO ( OutfitUniquePrewarCasualwear ) -------------------
+
+--- FULL , ITEM_ID: 23732 ---
+便服（战前款）Pre-War Casualwear\0
+
+
+------------------- ARMO ( OutfitUniquePrewarNegligee ) -------------------
+
+--- FULL , ITEM_ID: 23753 ---
+睡衣Sleepwear\0
+
+
+------------------- ARMO ( OutfitUniquePrewarSpring2 ) -------------------
+
+--- FULL , ITEM_ID: 23773 ---
+游园套装（战前款）Pre-War Parkstroller Outfit\0
+
+
+------------------- ARMO ( OutfitWasteland01 ) -------------------
+
+--- FULL , ITEM_ID: 23795 ---
+双头牛皮套装Brahmin-Skin Outfit\0
+
+
+------------------- ARMO ( OutfitWasteland02 ) -------------------
+
+--- FULL , ITEM_ID: 23820 ---
+荒野展游者套装Wasteland Wanderer Outfit\0
+
+
+------------------- ARMO ( OutfitWasteland03 ) -------------------
+
+--- FULL , ITEM_ID: 23842 ---
+荒野开拓者套装Wasteland Settler Outfit\0
+
+
+------------------- ARMO ( OutfitWastelandDoctor01 ) -------------------
+
+--- FULL , ITEM_ID: 23865 ---
+荒野医师工作服Wasteland Doctor Fatigues\0
+
+
+------------------- ARMO ( OutfitWastelandDoctor02 ) -------------------
+
+--- FULL , ITEM_ID: 23889 ---
+荒野外科医师套装Wasteland Surgeon Outfit\0
+
+
+------------------- ARMO ( OutfitWastelandHat01 ) -------------------
+
+--- FULL , ITEM_ID: 23917 ---
+摩托车头盔Motorcycle Helmet\0
+
+
+------------------- ARMO ( OutfitWastelandHat02 ) -------------------
+
+--- FULL , ITEM_ID: 23938 ---
+逐风者之帽Stormchaser Hat\0 防风帽？
+
+
+------------------- ARMO ( OutfitWastelandHat03 ) -------------------
+
+--- FULL , ITEM_ID: 23959 ---
+车手风镜Biker Goggles\0
+
+
+------------------- ARMO ( OutfitWastelandHat04 ) -------------------
+
+--- FULL , ITEM_ID: 23977 ---
+Ballcap with Glasses\0
+
+
+------------------- ARMO ( OutfitWastelandHat05 ) -------------------
+
+--- FULL , ITEM_ID: 23993 ---
+印花头巾Bandana\0
+
+
+------------------- ARMO ( OutfitWastelandMerchant01 ) -------------------
+
+--- FULL , ITEM_ID: 24017 ---
+流浪商人套装Roving Trader Outfit\0
+
+
+------------------- ARMO ( OutfitWastelandMerchantHat ) -------------------
+
+--- FULL , ITEM_ID: 24036 ---
+流浪商人帽子Roving Trader Hat\0
+
+
+------------------- ARMO ( PipBoy ) -------------------
+
+--- FULL , ITEM_ID: 24053 ---
+哔哔小子3000Pip-Boy 3000\0
+
+
+------------------- ARMO ( PipBoyGlove ) -------------------
+
+--- FULL , ITEM_ID: 24070 ---
+哔哔小子手套Pip-Boy Glove\0
+
+
+------------------- ARMO ( PipBoyNPC ) -------------------
+
+--- FULL , ITEM_ID: 24084 ---
+哔哔小子3000Pip-Boy 3000\0
+
+
+------------------- ARMO ( RavenRockCorpseArmorEnclave ) -------------------
+
+--- FULL , ITEM_ID: 24100 ---
+英克雷动力装甲Enclave Power Armor\0
+
+
+------------------- ARMO ( RedRacerLabCoat ) -------------------
+
+--- FULL , ITEM_ID: 24119 ---
+外科医师实验室外套The Surgeon's Lab Coat\0
+
+
+------------------- ARMO ( RegulatorDuster ) -------------------
+
+--- FULL , ITEM_ID: 24140 ---
+Regulator Duster\0
+
+
+------------------- ARMO ( SlaveCollar ) -------------------
+
+--- FULL , ITEM_ID: 24163 ---
+奴隶项圈Slave Collar\0
+
+
+------------------- ARMO ( Underwear ) -------------------
+
+--- FULL , ITEM_ID: 24176 ---
+内衣Underwear\0
+
+
+------------------- ARMO ( UniqueArmorCommando ) -------------------
+
+--- FULL , ITEM_ID: 24194 ---
+突击队员盔甲Commando Armor\0
+
+
+------------------- ARMO ( UniqueArmorDefender ) -------------------
+
+--- FULL , ITEM_ID: 24216 ---
+防御者盔甲Defender Armor\0
+
+
+------------------- ARMO ( UniqueGlassesLuckyShades ) -------------------
+
+--- FULL , ITEM_ID: 24238 ---
+Lucky Shades\0
+
+
+------------------- ARMO ( Vault106GasMask ) -------------------
+
+--- FULL , ITEM_ID: 24254 ---
+简易防毒面具Makeshift Gas Mask\0
+
+
+------------------- ARMO ( VaultLabCoat ) -------------------
+
+--- FULL , ITEM_ID: 24274 ---
+避难所实验室制服Vault Lab Uniform\0
+
+
+------------------- ARMO ( VaultSuit101 ) -------------------
+
+--- FULL , ITEM_ID: 24295 ---
+101避难所连衫裤Vault 101 Jumpsuit\0
+
+
+------------------- ARMO ( VaultSuit101Utility ) -------------------
+
+--- FULL , ITEM_ID: 24316 ---
+101避难所作业连衫裤Vault 101 Utility Jumpsuit\0
+
+
+------------------- ARMO ( VaultSuit106 ) -------------------
+
+--- FULL , ITEM_ID: 24338 ---
+106避难所连衫裤Vault 106 Jumpsuit\0
+
+
+------------------- ARMO ( VaultSuit108 ) -------------------
+
+--- FULL , ITEM_ID: 24361 ---
+108避难所连衫裤Vault 108 Jumpsuit\0
+
+
+------------------- ARMO ( VaultSuit112 ) -------------------
+
+--- FULL , ITEM_ID: 24386 ---
+112避难所连衫裤Vault 112 Jumpsuit\0
+
+
+------------------- ARMO ( VaultSuit77 ) -------------------
+
+--- FULL , ITEM_ID: 24409 ---
+77避难所连衫裤Vault 77 Jumpsuit\0
+
+
+------------------- ARMO ( VaultSuit87 ) -------------------
+
+--- FULL , ITEM_ID: 24432 ---
+87避难所连衫裤Vault 87 Jumpsuit\0
+
+
+------------------- ARMO ( VaultSuit92 ) -------------------
+
+--- FULL , ITEM_ID: 24454 ---
+92避难所连衫裤Vault 92 Jumpsuit\0
+
+
+------------------- ARMO ( VaultSuitUtilityDad ) -------------------
+
+--- FULL , ITEM_ID: 24477 ---
+老爸的荒野套装Dad's Wasteland Outfit\0
+
+
+------------------- ARMO ( ArmorCombat ) -------------------
+
+--- FULL , ITEM_ID: 24499 ---
+战斗装甲Combat Armor\0
+
+
+------------------- ARMO ( ArmorCombatHelmet ) -------------------
+
+--- FULL , ITEM_ID: 24520 ---
+战斗头盔Combat Helmet\0
+
+
+------------------- ARMO ( ArmorCombatHelmetTalon ) -------------------
+
+--- FULL , ITEM_ID: 24538 ---
+利爪战斗头盔Talon Combat Helmet\0
+
+
+------------------- ARMO ( ArmorCombatTalon ) -------------------
+
+--- FULL , ITEM_ID: 24558 ---
+利爪战斗装甲Talon Combat Armor\0
+
+
+------------------- ARMO ( ArmorEnclave ) -------------------
+
+--- FULL , ITEM_ID: 24582 ---
+英克雷动力装甲Enclave Power Armor\0
+
+
+------------------- ARMO ( ArmorEnclaveHelmet ) -------------------
+
+--- FULL , ITEM_ID: 24602 ---
+英克雷动力头盔Enclave Power Helmet\0
+
+
+------------------- ARMO ( ArmorLeather ) -------------------
+
+--- FULL , ITEM_ID: 24620 ---
+皮夹克Leather Armor\0 2代的翻译 似乎还有个战斗夹克的
+
+
+------------------- ARMO ( ArmorLeatherUnplayable ) -------------------
+
+--- FULL , ITEM_ID: 24642 ---
+皮夹克Leather Armor\0
+
+
+------------------- ARMO ( ArmorMetal ) -------------------
+
+--- FULL , ITEM_ID: 24661 ---
+钢铁盔甲Metal Armor\0 铁装甲？
+
+
+------------------- ARMO ( ArmorMetalHelmet ) -------------------
+
+--- FULL , ITEM_ID: 24683 ---
+钢铁头盔Metal Helmet\0
+
+
+------------------- ARMO ( ArmorPower ) -------------------
+
+--- FULL , ITEM_ID: 24706 ---
+动力装甲Power Armor\0
+
+
+------------------- ARMO ( ArmorPowerArmy ) -------------------
+
+--- FULL , ITEM_ID: 24726 ---
+军方动力装甲Army Power Armor\0
+
+
+------------------- ARMO ( ArmorPowerBrotherhoodOfSteel ) -------------------
+
+--- FULL , ITEM_ID: 24746 ---
+兄弟会动力装甲Brotherhood Power Armor\0
+
+
+------------------- ARMO ( ArmorPowerHelmet ) -------------------
+
+--- FULL , ITEM_ID: 24769 ---
+动力头盔Power Helmet\0
+
+
+------------------- ARMO ( ArmorPowerHelmetBrotherhoodOfSteel ) -------------------
+
+--- FULL , ITEM_ID: 24787 ---
+兄弟会动力头盔Brotherhood Power Helmet\0
+
+
+------------------- ARMO ( ArmorPowerHelmetOutcast ) -------------------
+
+--- FULL , ITEM_ID: 24804 ---
+丢弃的动力头盔Outcast Power Helmet\0
+
+
+------------------- ARMO ( ArmorPowerLyons ) -------------------
+
+--- FULL , ITEM_ID: 24824 ---
+Lyon的动力装甲Lyons' Pride Power Armor\0
+
+
+------------------- ARMO ( ArmorPowerOutcast ) -------------------
+
+--- FULL , ITEM_ID: 24844 ---
+丢弃的动力装甲Outcast Power Armor\0
+
+
+------------------- ARMO ( ArmorPowerT51b ) -------------------
+
+--- FULL , ITEM_ID: 24866 ---
+T-51b动力装甲T-51b Power Armor\0
+
+
+------------------- ARMO ( ArmorPowerT51bHelmet ) -------------------
+
+--- FULL , ITEM_ID: 24886 ---
+T-51b动力头盔T-51b Power Helmet\0
+
+
+------------------- ARMO ( ArmorPowerUnplayable ) -------------------
+
+--- FULL , ITEM_ID: 24903 ---
+动力装甲Power Armor\0
+
+
+------------------- ARMO ( ArmorRadiationSuit ) -------------------
+
+--- FULL , ITEM_ID: 24923 ---
+防辐射服Radiation Suit\0
+
+
+------------------- ARMO ( ArmorRadiationSuitAdvanced ) -------------------
+
+--- FULL , ITEM_ID: 24949 ---
+高级防辐射服Advanced Radiation Suit\0
+
+
+------------------- ARMO ( ArmorRaider01 ) -------------------
+
+--- FULL , ITEM_ID: 24978 ---
+强盗盔甲Raider Painspike Armor\0
+
+
+------------------- ARMO ( ArmorRaider01Helmet ) -------------------
+
+--- FULL , ITEM_ID: 25000 ---
+Raider Psycho-Tic Helmet\0
+
+
+------------------- ARMO ( ArmorRaider02 ) -------------------
+
+--- FULL , ITEM_ID: 25017 ---
+Raider Sadist Armor\0
+
+
+------------------- ARMO ( ArmorRaider02Helmet ) -------------------
+
+--- FULL , ITEM_ID: 25039 ---
+Raider Arclight Helmet\0
+
+
+------------------- ARMO ( ArmorRaider03 ) -------------------
+
+--- FULL , ITEM_ID: 25058 ---
+Raider Badlands Armor\0
+
+
+------------------- ARMO ( ArmorRaider03Helmet ) -------------------
+
+--- FULL , ITEM_ID: 25080 ---
+Raider Wastehound Helmet\0
+
+
+------------------- ARMO ( ArmorRaider04 ) -------------------
+
+--- FULL , ITEM_ID: 25099 ---
+Raider Blastmaster Armor\0
+
+
+------------------- ARMO ( ArmorRaider04Helmet ) -------------------
+
+--- FULL , ITEM_ID: 25121 ---
+Raider Blastmaster Helmet\0
+
+
+------------------- ARMO ( ArmorRecon ) -------------------
+
+--- FULL , ITEM_ID: 25141 ---
+侦查装甲Recon Armor\0
+
+
+------------------- ARMO ( ArmorReconHelmet ) -------------------
+
+--- FULL , ITEM_ID: 25161 ---
+侦查头盔Recon Armor Helmet\0
+
+
+------------------- ARMO ( ArmorReconHelmetOutcast ) -------------------
+
+--- FULL , ITEM_ID: 25179 ---
+丢弃的侦察头盔Outcast Recon Helmet\0
+
+
+------------------- ARMO ( ArmorReconOutcast ) -------------------
+
+--- FULL , ITEM_ID: 25199 ---
+丢弃的侦查装甲Outcast Recon Armor\0
+
+
+------------------- ARMO ( ArmorRivetCitySecurity ) -------------------
+
+--- FULL , ITEM_ID: 25222 ---
+Rivet City保安制服Rivet City Security Uniform\0
+
+
+------------------- ARMO ( ArmorRivetCitySecurityHelmet ) -------------------
+
+--- FULL , ITEM_ID: 25247 ---
+Rivet City保安头盔Rivet City Security Helmet\0
+
+
+------------------- ARMO ( ArmorTenpennyHelmet ) -------------------
+
+--- FULL , ITEM_ID: 25264 ---
+Tenpenny保安头盔Tenpenny Security Helmet\0
+
+
+------------------- ARMO ( ArmorTenpennySecurity ) -------------------
+
+--- FULL , ITEM_ID: 25282 ---
+Tenpenny保安制服Tenpenny Security Uniform\0
+
+
+------------------- ARMO ( ArmorTeslaHelmet ) -------------------
+
+--- FULL , ITEM_ID: 25306 ---
+电磁头盔Tesla Helmet\0
+
+
+------------------- ARMO ( ArmorTeslaPower ) -------------------
+
+--- FULL , ITEM_ID: 25326 ---
+电磁装甲Tesla Armor\0
+
+
+------------------- ARMO ( ArmorTeslaPowerFX ) -------------------
+
+--- FULL , ITEM_ID: 25347 ---
+电磁装甲Tesla Armor\0
+
+
+------------------- ARMO ( ArmorTorcherMask ) -------------------
+
+--- FULL , ITEM_ID: 25365 ---
+Torcher's Mask\0
+
+
+------------------- ARMO ( ArmorUniqueCombat ) -------------------
+
+--- FULL , ITEM_ID: 25384 ---
+弹震战斗装甲Shellshocked Combat Armor\0
+
+
+------------------- ARMO ( ArmorUniqueCombatHelmet ) -------------------
+
+--- FULL , ITEM_ID: 25405 ---
+弹震战斗头盔Shellshocked Combat Helmet\0
+
+
+------------------- ARMO ( ArmorUniqueCombatHelmetTalon ) -------------------
+
+--- FULL , ITEM_ID: 25423 ---
+利爪战斗头盔Talon Combat Helmet\0
+
+
+------------------- ARMO ( ArmorUniqueCombatTalon ) -------------------
+
+--- FULL , ITEM_ID: 25443 ---
+利爪战斗装甲Talon Combat Armor\0
+
+
+------------------- ARMO ( ArmorUniqueEnclave ) -------------------
+
+--- FULL , ITEM_ID: 25467 ---
+英克雷突击部队装甲Enclave Shocktrooper Armor\0
+
+
+------------------- ARMO ( ArmorUniqueEnclaveHelmet ) -------------------
+
+--- FULL , ITEM_ID: 25487 ---
+英克雷突击部队头盔Enclave Shocktrooper Helmet\0
+
+
+------------------- ARMO ( ArmorUniqueExplorer ) -------------------
+
+--- FULL , ITEM_ID: 25505 ---
+探索者的装备Explorer's Gear\0
+
+
+------------------- ARMO ( ArmorUniqueLeather ) -------------------
+
+--- FULL , ITEM_ID: 25529 ---
+公路恶棍皮夹克Road Rascal Leather Armor\0 ？混混？
+
+
+------------------- ARMO ( ArmorUniqueMetal ) -------------------
+
+--- FULL , ITEM_ID: 25551 ---
+天启角斗士盔甲Apocalypse Gladiator Armor\0
+
+
+------------------- ARMO ( ArmorUniqueMetalHelmet ) -------------------
+
+--- FULL , ITEM_ID: 25573 ---
+天启角斗士头盔Apocalypse Gladiator Helmet\0
+
+
+------------------- ARMO ( ArmorUniqueRaider01 ) -------------------
+
+--- FULL , ITEM_ID: 25596 ---
+Sharp-Dressed Raider's Armor\0
+
+
+------------------- ARMO ( ArmorUniqueRaider01Helmet ) -------------------
+
+--- FULL , ITEM_ID: 25618 ---
+The Devil's Pigtails\0
+
+
+------------------- ARMO ( ArmorUniqueRaider02 ) -------------------
+
+--- FULL , ITEM_ID: 25635 ---
+Hand-Me-Down Raider Armor\0
+
+
+------------------- ARMO ( ArmorUniqueRaider04 ) -------------------
+
+--- FULL , ITEM_ID: 25657 ---
+Highway Scar Armor\0
+
+
+------------------- ARMO ( ArmorUniqueRaider04Helmet ) -------------------
+
+--- FULL , ITEM_ID: 25679 ---
+Pyro Helmet\0
+
+
+------------------- ARMO ( ArmorUniqueRecon ) -------------------
+
+--- FULL , ITEM_ID: 25698 ---
+复合侦查装甲Composite Recon Armor\0
+
+
+------------------- ARMO ( ArmorUniqueReconHelmet ) -------------------
+
+--- FULL , ITEM_ID: 25718 ---
+复合侦查头盔Composite Recon Helmet\0
+
+
+------------------- ARMO ( ArmorUniqueTeslaHelmet ) -------------------
+
+--- FULL , ITEM_ID: 25737 ---
+"Robo-Thor"头盔"Robo-Thor" Helmet\0
+
+
+------------------- ARMO ( ArmorUniqueTeslaPower ) -------------------
+
+--- FULL , ITEM_ID: 25757 ---
+"Robo-Thor"装甲"Robo-Thor" Armor\0
+
+
+------------------- ARMO ( ArmorUniqueWastelander ) -------------------
+
+--- FULL , ITEM_ID: 25778 ---
+荒野装备Wastelander's Gear\0
+
+
+------------------- ARMO ( ArmorVault101Security ) -------------------
+
+--- FULL , ITEM_ID: 25802 ---
+101避难所保安盔甲Vault 101 Security Armor\0
+
+
+------------------- ARMO ( ArmorVault101SecurityHelmet ) -------------------
+
+--- FULL , ITEM_ID: 25822 ---
+101避难所保安头盔Vault 101 Security Helmet\0
+
+
+------------------- ARMO ( ArmorWanderersLeather ) -------------------
+
+--- FULL , ITEM_ID: 25839 ---
+展游者的皮夹克Wanderer's Leather Armor\0
+
+
+------------------- ARMO ( CG00BirthSkirt ) -------------------
+
+--- FULL , ITEM_ID: 25862 ---
+BirthSkirt\0
+
+
+------------------- ARMO ( FollowersOutfitCharon ) -------------------
+
+--- FULL , ITEM_ID: 25878 ---
+皮夹克Leather Armor\0
+
+
+------------------- ARMO ( FollowersOutfitClover ) -------------------
+
+--- FULL , ITEM_ID: 25899 ---
+弄脏的春季套装（战前款）Dirty Pre-War Spring Outfit\0
+
+
+------------------- ARMO ( FollowersOutfitCross ) -------------------
+
+--- FULL , ITEM_ID: 25922 ---
+动力装甲Power Armor\0
+
+
+------------------- ARMO ( FollowersOutfitJericho ) -------------------
+
+--- FULL , ITEM_ID: 25941 ---
+皮夹克Leather Armor\0
+
+
+------------------- ARMO ( FollwerOutfitButch ) -------------------
+
+--- FULL , ITEM_ID: 25962 ---
+Tunnel Snake Outfit\0
+
+
+------------------- ARMO ( GlassesBlackrimmed ) -------------------
+
+--- FULL , ITEM_ID: 25982 ---
+眼镜Eyeglasses\0
+
+
+------------------- ARMO ( GlassesDoctorLi ) -------------------
+
+--- FULL , ITEM_ID: 25997 ---
+Doctor Li's Glasses\0
+
+
+------------------- ARMO ( GlassesReading ) -------------------
+
+--- FULL , ITEM_ID: 26012 ---
+Reading Glasses\0
+
+
+------------------- ARMO ( GlassesReadingChild ) -------------------
+
+--- FULL , ITEM_ID: 26032 ---
+GlassesReadingChild\0
+
+
+------------------- ARMO ( GlassesReadingClr ) -------------------
+
+--- FULL , ITEM_ID: 26046 ---
+Tinted Reading Glasses\0
+
+
+------------------- ARMO ( GlassesShades ) -------------------
+
+--- FULL , ITEM_ID: 26066 ---
+太阳眼镜Sunglasses\0
+
+
+------------------- ARMO ( GlassesThreeDog ) -------------------
+
+--- FULL , ITEM_ID: 26081 ---
+Three Dog's Glasses\0
+
+
+------------------- ARMO ( GlassesTortiseshell ) -------------------
+
+--- FULL , ITEM_ID: 26096 ---
+Tortiseshell Glasses\0
+
+
+------------------- ARMO ( HatParty ) -------------------
+
+--- FULL , ITEM_ID: 26111 ---
+派对帽Party Hat\0
+
+
+------------------- ARMO ( HatPartyStanley ) -------------------
+
+--- FULL , ITEM_ID: 26125 ---
+Party HatStanley\0
+
+
+------------------- ARMO ( HatPoliceAdult ) -------------------
+
+--- FULL , ITEM_ID: 26139 ---
+警帽Police Hat\0
+
+
+------------------- ARMO ( HatPrewarBaseballCap ) -------------------
+
+--- FULL , ITEM_ID: 26156 ---
+棒球帽（战前款）Pre-War Baseball Cap\0
+
+
+------------------- ARMO ( HatPrewarBonnet ) -------------------
+
+--- FULL , ITEM_ID: 26174 ---
+无边软帽（战前款）Pre-War Bonnet\0 包头软帽（战前款）
+
+
+------------------- ARMO ( HatPrewarHat ) -------------------
+
+--- FULL , ITEM_ID: 26197 ---
+帽子（战前款）Pre-War Hat\0
+
+
+------------------- ARMO ( HatTakomaBaseballCap ) -------------------
+
+--- FULL , ITEM_ID: 26215 ---
+Takoma Park Little Leaguer Cap\0
+
+
+------------------- ARMO ( HeadWrap01 ) -------------------
+
+--- FULL , ITEM_ID: 26233 ---
+包头巾Head Wrap\0
+
+
+------------------- ARMO ( HeadWrap02 ) -------------------
+
+--- FULL , ITEM_ID: 26248 ---
+包头巾Head Wrap\0
+
+
+------------------- ARMO ( HeadWrap03 ) -------------------
+
+--- FULL , ITEM_ID: 26265 ---
+包头巾Head Wrap\0
+
+
+------------------- ARMO ( HeadWrap04 ) -------------------
+
+--- FULL , ITEM_ID: 26282 ---
+包头巾Head Wrap\0
+
+
+------------------- ARMO ( HelmetEyebot ) -------------------
+
+--- FULL , ITEM_ID: 26299 ---
+Eyebot头盔Eyebot Helmet\0
+
+
+------------------- ARMO ( HelmetEyebotCaravanSpecial ) -------------------
+
+--- FULL , ITEM_ID: 26316 ---
+Crow的Eyebot头盔Crow's Eyebot Helmet\0
+
+
+------------------- ARMO ( HelmetHockeyMask ) -------------------
+
+--- FULL , ITEM_ID: 26334 ---
+曲棍球面具Hockey Mask\0 ？
+
+
+------------------- ARMO ( HelmetMayorMacCready ) -------------------
+
+--- FULL , ITEM_ID: 26352 ---
+MacCready的头盔MacCready's Helmet\0
+
+
+------------------- ARMO ( KIDHatPartyChild ) -------------------
+
+--- FULL , ITEM_ID: 26366 ---
+儿童派对帽Kid's Party Hat\0
+
+
+------------------- ARMO ( KIDHatPoliceChild ) -------------------
+
+--- FULL , ITEM_ID: 26386 ---
+儿童警察帽Kid's Police Hat\0
+
+
+------------------- ARMO ( KIDHatPrewarCapKid ) -------------------
+
+--- FULL , ITEM_ID: 26401 ---
+儿童棒球帽Kid's Baseball Cap\0
+
+
+------------------- ARMO ( KIDOutfitLittleLamplighter01 ) -------------------
+
+--- FULL , ITEM_ID: 26416 ---
+Kid's Cave Rat Outfit\0
+
+
+------------------- ARMO ( KIDOutfitLittleLamplighter01Hat ) -------------------
+
+--- FULL , ITEM_ID: 26435 ---
+Kid's Murray the Mole Hat\0
+
+
+------------------- ARMO ( KIDOutfitMayorMacCready ) -------------------
+
+--- FULL , ITEM_ID: 26451 ---
+MacCready市长套装Mayor MacCready's Outfit\0
+
+
+------------------- ARMO ( KIDOutfitPrewarChild ) -------------------
+
+--- FULL , ITEM_ID: 26470 ---
+儿童套装（战前款）Pre-War Kid's Outfit\0
+
+
+------------------- ARMO ( KIDOutfitPrewarChildandWatch ) -------------------
+
+--- FULL , ITEM_ID: 26492 ---
+Pre-War Outfit and Watch\0
+
+
+------------------- ARMO ( KIDOutfitPrewarChildOld ) -------------------
+
+--- FULL , ITEM_ID: 26513 ---
+弄脏的儿童套装（战前款）Dirty Pre-War Kid's Outfit\0
+
+
+------------------- ARMO ( KIDOutfitWastelandChild01 ) -------------------
+
+--- FULL , ITEM_ID: 26537 ---
+Ragamuffin Outfit\0
+
+
+------------------- ARMO ( KIDOutfitWastelandChild01Hat ) -------------------
+
+--- FULL , ITEM_ID: 26559 ---
+Ragamuffin Tophat\0
+
+
+------------------- ARMO ( KIDOutfitWastelandChild02 ) -------------------
+
+--- FULL , ITEM_ID: 26573 ---
+Junior Officer Outfit\0
+
+
+------------------- ARMO ( KIDOutfitWastelandChild03 ) -------------------
+
+--- FULL , ITEM_ID: 26594 ---
+荒野斥候制服Wasteland Scout Uniform\0
+
+
+------------------- ARMO ( KIDOutfitWastelandChild03Hat ) -------------------
+
+--- FULL , ITEM_ID: 26615 ---
+荒野斥候帽Wasteland Scout Hat\0
+
+
+------------------- ARMO ( KIDOutfitWastelandChild04 ) -------------------
+
+--- FULL , ITEM_ID: 26632 ---
+Athlete of the Wastes Outfit\0
+
+
+------------------- ARMO ( KIDOutfitWastelandChild04Hat ) -------------------
+
+--- FULL , ITEM_ID: 26653 ---
+Kid's Ballcap with Glasses\0
+
+
+------------------- ARMO ( KIDOutfitWastelandChild05 ) -------------------
+
+--- FULL , ITEM_ID: 26667 ---
+Blast Off睡衣裤Blast Off Pajamas\0
+
+
+------------------- ARMO ( KIDOutfitWastelandChild05Hat ) -------------------
+
+--- FULL , ITEM_ID: 26689 ---
+Blast Off头盔Blast Off Helmet\0
+
+
+------------------- ARMO ( KIDVaultSuitChild101 ) -------------------
+
+--- FULL , ITEM_ID: 26703 ---
+101避难所儿童连衫裤Vault 101 Child's Jumpsuit\0
+
+
+------------------- ARMO ( LLFFArmorRaider03Helmet ) -------------------
+
+--- FULL , ITEM_ID: 26722 ---
+Boogeyman的罩袍Boogeyman's Hood\0
+
+
+------------------- ARMO ( MountedVaultSuit101Armored ) -------------------
+
+--- FULL , ITEM_ID: 26740 ---
+101避难所武装连衫裤Armored Vault 101 Jumpsuit\0
+
+
+------------------- ARMO ( MQ02ThreeDogsHeadwrap ) -------------------
+
+--- FULL , ITEM_ID: 26763 ---
+Three Dog's Head Wrap\0
+
+
+------------------- ARMO ( MQ04PlayerOutfit ) -------------------
+
+--- FULL , ITEM_ID: 26781 ---
+Pre-War Outfit and Watch\0
+
+
+------------------- ARMO ( MQ04SlasherMask ) -------------------
+
+--- FULL , ITEM_ID: 26802 ---
+Pint-Sized Slasher Mask\0
+
+
+------------------- ARMO ( MS01OutfitRed ) -------------------
+
+--- FULL , ITEM_ID: 26816 ---
+Red的连衫裤Red's Jumpsuit\0
+
+
+------------------- ARMO ( MS01OutfitRedHat ) -------------------
+
+--- FULL , ITEM_ID: 26839 ---
+Red的印花头巾Red's Bandana\0
+
+
+------------------- ARMO ( MS02SuitAntagonizer ) -------------------
+
+--- FULL , ITEM_ID: 26859 ---
+The AntAgonizer's Costume\0
+
+
+------------------- ARMO ( MS02SuitHelmetAntagonizer ) -------------------
+
+--- FULL , ITEM_ID: 26883 ---
+The AntAgonizer's Helmet\0
+
+
+------------------- ARMO ( MS02SuitHelmetMechanist ) -------------------
+
+--- FULL , ITEM_ID: 26899 ---
+The Mechanist's Helmet\0
+
+
+------------------- ARMO ( MS02SuitMechanist ) -------------------
+
+--- FULL , ITEM_ID: 26916 ---
+The Mechanist's Costume\0
+
+
+------------------- ARMO ( MS03EnvironmentSuit ) -------------------
+
+--- FULL , ITEM_ID: 26936 ---
+环境服Environment Suit\0 环保装？！orz
+
+
+------------------- ARMO ( MS03StealthHat ) -------------------
+
+--- FULL , ITEM_ID: 26962 ---
+Shady Hat\0
+
+
+------------------- ARMO ( MS03SurgicalMask ) -------------------
+
+--- FULL , ITEM_ID: 26979 ---
+外科口罩Surgical Mask\0 整形面罩？
+
+
+------------------- ARMO ( MS03VaultSuit101Armored ) -------------------
+
+--- FULL , ITEM_ID: 26994 ---
+101避难所武装连衫裤Armored Vault 101 Jumpsuit\0
+
+
+------------------- ARMO ( MS04AmorousAttire ) -------------------
+
+--- FULL , ITEM_ID: 27016 ---
+Naughty Nightwear\0
+
+
+------------------- ARMO ( MS04LeskosLabCoat ) -------------------
+
+--- FULL , ITEM_ID: 27039 ---
+Lesko的实验室外套Lesko's Lab Coat\0
+
+
+------------------- ARMO ( MS06LincolnsHat ) -------------------
+
+--- FULL , ITEM_ID: 27065 ---
+Lincoln的帽子Lincoln's Hat\0 高筒帽？
+
+
+------------------- ARMO ( MS09VancesOutfit ) -------------------
+
+--- FULL , ITEM_ID: 27083 ---
+Vance的长衫套装Vance's Longcoat Outfit\0
+
+
+------------------- ARMO ( MS10LindensOutcastPowerArmor ) -------------------
+
+--- FULL , ITEM_ID: 27106 ---
+被Linden遗弃的动力装甲Linden's Outcast Power Armor\0
+
+
+------------------- ARMO ( MS10RewardOasisVillagerHood ) -------------------
+
+--- FULL , ITEM_ID: 27128 ---
+Poplar的罩袍Poplar's Hood\0
+
+
+------------------- ARMO ( MS10RewardOutfitOasisDruid ) -------------------
+
+--- FULL , ITEM_ID: 27146 ---
+Maple的制服Maple's Garb\0 Maple的祭祀服？
+
+
+------------------- ARMO ( MS12GhoulMask ) -------------------
+
+--- FULL , ITEM_ID: 27170 ---
+僵尸面具Ghoul Mask\0
+
+
+------------------- ARMO ( MS13Collar ) -------------------
+
+--- FULL , ITEM_ID: 27190 ---
+奴隶项圈Slave Collar\0
+
+
+------------------- ARMO ( MS14PowerArmorMorphine ) -------------------
+
+--- FULL , ITEM_ID: 27207 ---
+医疗动力装甲原型Prototype Medic Power Armor\0
+
+
+------------------- ARMO ( MS15ButtonsWig ) -------------------
+
+--- FULL , ITEM_ID: 27228 ---
+Button的假发Button's Wig\0
+
+
+------------------- ARMO ( MS16VaultSuit101Utility ) -------------------
+
+--- FULL , ITEM_ID: 27246 ---
+改过的作业连衫裤Modified Utility Jumpsuit\0
+
+
+------------------- ARMO ( MS18RangerBattlearmor ) -------------------
+
+--- FULL , ITEM_ID: 27268 ---
+游骑兵战斗盔甲Ranger Battle Armor\0
+
+
+------------------- ARMO ( MS18RangerHelmet ) -------------------
+
+--- FULL , ITEM_ID: 27292 ---
+游骑兵战斗头盔Ranger Battle Helmet\0
+
+
+------------------- ARMO ( MSMiniLedouxsMask ) -------------------
+
+--- FULL , ITEM_ID: 27309 ---
+Ledoux的曲棍球面具Ledoux's Hockey Mask\0
+
+
+------------------- ARMO ( OutfitBoSScribe ) -------------------
+
+--- FULL , ITEM_ID: 27325 ---
+兄弟会学者长袍Brotherhood Scribe Robe\0
+
+
+------------------- ARMO ( OutfitChineseCommandoHat ) -------------------
+
+--- FULL , ITEM_ID: 27346 ---
+中国突击队军帽Chinese Commando Hat\0
+
+
+------------------- ARMO ( OutfitChineseCommandoJumpsuit ) -------------------
+
+--- FULL , ITEM_ID: 27363 ---
+中式连衫裤Chinese Jumpsuit\0
+
+
+------------------- ARMO ( OutfitChineseCommandoJumpsuitOld ) -------------------
+
+--- FULL , ITEM_ID: 27383 ---
+弄脏的中式连衫裤Dirty Chinese Jumpsuit\0
+
+
+------------------- ARMO ( OutfitColonelAutumn ) -------------------
+
+--- FULL , ITEM_ID: 27406 ---
+Autumn上校的制服Colonel Autumn's Uniform\0
+
+
+------------------- ARMO ( OutfitDoctorLi ) -------------------
+
+--- FULL , ITEM_ID: 27426 ---
+Li医生的套装Doctor Li's Outfit\0
+
+
+------------------- ARMO ( OutfitElderLyons ) -------------------
+
+--- FULL , ITEM_ID: 27447 ---
+Lyons长老的长袍Elder Lyons' Robe\0
+
+
+------------------- ARMO ( OutfitEnclaveOfficer01 ) -------------------
+
+--- FULL , ITEM_ID: 27467 ---
+英克雷军官制服Enclave Officer Uniform\0
+
+
+------------------- ARMO ( OutfitEnclaveOfficer01Hat ) -------------------
+
+--- FULL , ITEM_ID: 27489 ---
+英克雷军官军帽Enclave Officer Hat\0
+
+
+------------------- ARMO ( OutfitEnclaveScientist ) -------------------
+
+--- FULL , ITEM_ID: 27505 ---
+英克雷科学家套装Enclave Scientist Outfit\0
+
+
+------------------- ARMO ( OutfitEulogyJones ) -------------------
+
+--- FULL , ITEM_ID: 27528 ---
+Eulogy Jones的套装Eulogy Jones' Suit\0
+
+
+------------------- ARMO ( OutfitEulogyJonesHat ) -------------------
+
+--- FULL , ITEM_ID: 27551 ---
+Eulogy Jones的帽子Eulogy Jones' Hat\0
+
+
+------------------- ARMO ( OutfitJumpsuitRedRacer ) -------------------
+
+--- FULL , ITEM_ID: 27569 ---
+红色的赛手连衫裤Red Racer Jumpsuit\0
+
+
+------------------- ARMO ( OutfitJumpsuitRobco ) -------------------
+
+--- FULL , ITEM_ID: 27593 ---
+RobCo连衫裤RobCo Jumpsuit\0
+
+
+------------------- ARMO ( OutfitJumpsuitTLHandyman ) -------------------
+
+--- FULL , ITEM_ID: 27614 ---
+巧匠连衫裤Handyman Jumpsuit\0
+
+
+------------------- ARMO ( OutfitLucasSimms ) -------------------
+
+--- FULL , ITEM_ID: 27638 ---
+警长的外套Sheriff's Duster\0
+
+
+------------------- ARMO ( OutfitLucasSimmsHat ) -------------------
+
+--- FULL , ITEM_ID: 27660 ---
+警长的帽子Sheriff's Hat\0
+
+
+------------------- ARMO ( OutfitMerc01 ) -------------------
+
+--- FULL , ITEM_ID: 27675 ---
+魅惑者佣兵套装Merc Charmer Outfit\0
+
+
+------------------- ARMO ( OutfitMerc02 ) -------------------
+
+--- FULL , ITEM_ID: 27700 ---
+惹事者佣兵套装Merc Troublemaker Outfit\0
+
+
+------------------- ARMO ( OutfitMerc03 ) -------------------
+
+--- FULL , ITEM_ID: 27724 ---
+探险者佣兵套装Merc Adventurer Outfit\0
+
+
+------------------- ARMO ( OutfitMerc04 ) -------------------
+
+--- FULL , ITEM_ID: 27748 ---
+老鸟佣兵套装Merc Veteran Outfit\0
+
+
+------------------- ARMO ( OutfitMerc05 ) -------------------
+
+--- FULL , ITEM_ID: 27773 ---
+Merc Grunt Outfit\0
+
+

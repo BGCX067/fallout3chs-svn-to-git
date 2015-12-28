@@ -1,0 +1,1888 @@
+------------------- QUST ( MQ01 ) -------------------
+
+--- FULL , ITEM_ID: 487514 ---
+Following in His Footsteps\0
+
+
+--- NNAM , ITEM_ID: 487876 ---
+Investigate the nearby town of Megaton for information about Dad.\0
+
+
+--- NNAM , ITEM_ID: 487880 ---
+Speak to Colin Moriarty about Dad.\0
+
+
+--- NNAM , ITEM_ID: 487883 ---
+Find Galaxy News Radio.\0
+
+
+--- NNAM , ITEM_ID: 487886 ---
+Help defeat the Super Mutant Behemoth.\0
+
+
+--- NNAM , ITEM_ID: 487889 ---
+Ask Three Dog about Dad.\0
+
+
+--- NNAM , ITEM_ID: 487892 ---
+Continue your search for Dad.\0
+
+
+--- NNAM , ITEM_ID: 487894 ---
+(Optional) Deal with Silver in Springvale.\0
+
+
+--- NNAM , ITEM_ID: 487898 ---
+Retrieve the Fat Man from the dead Brotherhood soldier.\0
+
+
+------------------- QUST ( MQ02 ) -------------------
+
+--- FULL , ITEM_ID: 487903 ---
+Galaxy News Radio\0
+
+
+--- CNAM , ITEM_ID: 487908 ---
+Find the Museum of Technology\0
+
+
+--- CNAM , ITEM_ID: 487921 ---
+Retrieve the Virgo II Communications Dish\0
+
+
+--- CNAM , ITEM_ID: 487930 ---
+Find the Washington Monument\0
+
+
+--- CNAM , ITEM_ID: 487937 ---
+Repair the damaged radio relay\0
+
+
+--- CNAM , ITEM_ID: 487944 ---
+Return to the Galaxy News Radio station and speak with Three Dog.\0
+
+
+--- NNAM , ITEM_ID: 487971 ---
+Find the Museum of Technology.\0
+
+
+--- NNAM , ITEM_ID: 487992 ---
+Retrieve the Communications Relay Dish.\0
+
+
+--- NNAM , ITEM_ID: 487995 ---
+Find the Washington Monument.\0
+
+
+--- NNAM , ITEM_ID: 487999 ---
+Repair the damaged radio relay.\0
+
+
+--- NNAM , ITEM_ID: 488003 ---
+Speak to Three Dog about Dad.\0
+
+
+--- NNAM , ITEM_ID: 488007 ---
+Speak to Three Dog about the Weapons Cache.\0
+
+
+------------------- QUST ( MQ03 ) -------------------
+
+--- FULL , ITEM_ID: 488013 ---
+Scientific Pursuits\0
+
+
+--- NNAM , ITEM_ID: 488103 ---
+Gain entrance to Rivet City.\0
+
+
+--- NNAM , ITEM_ID: 488106 ---
+Talk to Doctor Li about Dad and Project Purity.\0
+
+
+--- NNAM , ITEM_ID: 488109 ---
+Look for Dad in Project Purity's Control Room.\0
+
+
+--- NNAM , ITEM_ID: 488112 ---
+Search Dad's holotapes for clues to his location.\0
+
+
+--- NNAM , ITEM_ID: 488115 ---
+Listen to Dad's personal journal entry 10.\0
+
+
+--- NNAM , ITEM_ID: 488118 ---
+Gain access to Vault 112.\0
+
+
+--- NNAM , ITEM_ID: 488122 ---
+Sit in the unoccupied "Tranquility Lounger."\0
+
+
+--- NNAM , ITEM_ID: 488125 ---
+Put on a Vault 112 suit.\0
+
+
+------------------- QUST ( MQ04 ) -------------------
+
+--- FULL , ITEM_ID: 488129 ---
+Tranquility Lane\0
+
+
+--- NNAM , ITEM_ID: 488240 ---
+Find and speak to Betty.\0
+
+
+--- NNAM , ITEM_ID: 488243 ---
+Make Timmy Neusbaum cry.\0
+
+
+--- NNAM , ITEM_ID: 488246 ---
+Report back to Betty.\0
+
+
+--- NNAM , ITEM_ID: 488249 ---
+Break up the Rockwells' marriage, without killing either of them.\0
+
+
+--- NNAM , ITEM_ID: 488253 ---
+Report back to Betty.\0
+
+
+--- NNAM , ITEM_ID: 488256 ---
+Arrange a creative death for Mabel Henderson.\0
+
+
+--- NNAM , ITEM_ID: 488259 ---
+Report back to Betty.\0
+
+
+--- NNAM , ITEM_ID: 488262 ---
+Retrieve the mask and knife from behind the Abandoned House.\0
+
+
+--- NNAM , ITEM_ID: 488265 ---
+Kill all the residents of Tranquility Lane.\0
+
+
+--- NNAM , ITEM_ID: 488283 ---
+Report back to Betty.\0
+
+
+--- NNAM , ITEM_ID: 488286 ---
+Exit Tranquility Lane.\0
+
+
+--- NNAM , ITEM_ID: 488289 ---
+(Optional) Find and activate Tranquility Lane's Failsafe computer.\0
+
+
+--- NNAM , ITEM_ID: 488291 ---
+Find Dad.\0
+
+
+--- NNAM , ITEM_ID: 488293 ---
+Talk to Dad.\0
+
+
+------------------- QUST ( MQ05 ) -------------------
+
+--- FULL , ITEM_ID: 488298 ---
+The Waters of Life\0
+
+
+--- CNAM , ITEM_ID: 488510 ---
+Escort Doctor Li inside the Citadel.\0
+
+
+--- NNAM , ITEM_ID: 488525 ---
+Join the scientists at Project Purity.\0
+
+
+--- NNAM , ITEM_ID: 488545 ---
+Go to the Rivet City Science Lab.\0
+
+
+--- NNAM , ITEM_ID: 488551 ---
+Turn on the Flood Control Pump Power.\0
+
+
+--- NNAM , ITEM_ID: 488555 ---
+Get the fuses from Dad.\0
+
+
+--- NNAM , ITEM_ID: 488559 ---
+Replace the damaged fuses.\0
+
+
+--- NNAM , ITEM_ID: 488563 ---
+Boot up the mainframe.\0
+
+
+--- NNAM , ITEM_ID: 488567 ---
+Return to the control room.\0
+
+
+--- NNAM , ITEM_ID: 488571 ---
+Escort Doctor Li to the evacuation point.\0
+
+
+--- NNAM , ITEM_ID: 488575 ---
+Escort Doctor Li through Taft Tunnel to the Citadel.\0
+
+
+--- NNAM , ITEM_ID: 488590 ---
+Deal with the Garza "situation."\0
+
+
+--- NNAM , ITEM_ID: 488595 ---
+Escort Doctor Li through Taft Tunnel to the Citadel.\0
+
+
+--- NNAM , ITEM_ID: 488616 ---
+Drain the intake pipes.\0
+
+
+--- NNAM , ITEM_ID: 488627 ---
+Clear Project Purity of any remaining Mutant threat.\0
+
+
+--- NNAM , ITEM_ID: 488629 ---
+Escort the scientists inside Project Purity.\0
+
+
+--- NNAM , ITEM_ID: 488633 ---
+Tell Dad it's safe to enter Project Purity.\0
+
+
+--- NNAM , ITEM_ID: 488636 ---
+Speak with Dad over the intercom.\0
+
+
+------------------- QUST ( MQ06 ) -------------------
+
+--- FULL , ITEM_ID: 488641 ---
+Picking Up the Trail\0
+
+
+--- NNAM , ITEM_ID: 488702 ---
+Escort Doctor Li inside the Citadel.\0
+
+
+--- NNAM , ITEM_ID: 488704 ---
+Ask Scribe Rothchild for pre-war computer access.\0
+
+
+--- NNAM , ITEM_ID: 488708 ---
+Use the Vault-Tec computer in the Citadel Archives to locate a G.E.C.K.\0
+
+
+--- NNAM , ITEM_ID: 488712 ---
+Ask Scribe Rothchild for information about Vault 87.\0
+
+
+--- NNAM , ITEM_ID: 488716 ---
+Search Lamplight Caverns for a way into Vault 87.\0
+
+
+--- NNAM , ITEM_ID: 488720 ---
+Gain entrance to the town of Little Lamplight.\0
+
+
+--- NNAM , ITEM_ID: 488724 ---
+Enter Vault 87.\0
+
+
+------------------- QUST ( MQ07 ) -------------------
+
+--- FULL , ITEM_ID: 488737 ---
+Rescue from Paradise\0
+
+
+--- NNAM , ITEM_ID: 488851 ---
+Gain entrance to Paradise Falls.\0
+
+
+--- NNAM , ITEM_ID: 488856 ---
+Connect the department store computer to the Paradise Falls secure network.\0
+
+
+--- NNAM , ITEM_ID: 488860 ---
+Tell Squirrel the computer is now connected to the network.\0
+
+
+--- NNAM , ITEM_ID: 488863 ---
+Arrange for Forty to be away from the slave pen.\0
+
+
+--- NNAM , ITEM_ID: 488866 ---
+Find a way to release Rory Maclaren from the box.\0
+
+
+--- NNAM , ITEM_ID: 488869 ---
+Speak with Penny and convince her to leave Paradise Falls.\0
+
+
+--- NNAM , ITEM_ID: 488872 ---
+Meet the children southwest of Paradise Falls.\0
+
+
+--- NNAM , ITEM_ID: 488875 ---
+Talk to Penny and tell her to leave Paradise Falls.\0
+
+
+--- NNAM , ITEM_ID: 488878 ---
+Escort the children out of Paradise Falls.\0
+
+
+--- NNAM , ITEM_ID: 488881 ---
+Tell Squirrel the guard has been distracted.\0
+
+
+--- NNAM , ITEM_ID: 488884 ---
+Reach the slave pen and speak with the children.\0
+
+
+--- NNAM , ITEM_ID: 488886 ---
+Find and speak with the kidnapped Lamplighters.\0
+
+
+--- NNAM , ITEM_ID: 488889 ---
+Tell the children to escape Paradise Falls.\0
+
+
+--- NNAM , ITEM_ID: 488892 ---
+Unlock the slave pen gate.\0
+
+
+--- NNAM , ITEM_ID: 488901 ---
+Meet the children southwest of Paradise Falls.\0
+
+
+------------------- QUST ( MQ08 ) -------------------
+
+--- FULL , ITEM_ID: 488906 ---
+Finding the Garden of Eden\0
+
+
+--- CNAM , ITEM_ID: 488911 ---
+Locate the underground entrance to Vault 87\0
+
+
+--- CNAM , ITEM_ID: 488918 ---
+Retrieve the G.E.C.K.\0
+
+
+--- CNAM , ITEM_ID: 488925 ---
+Rescue Fawkes from the Observation Cells (Optional)\0
+
+
+--- CNAM , ITEM_ID: 488932 ---
+Escape from Vault 87\0
+
+
+--- NNAM , ITEM_ID: 488956 ---
+Locate the underground entrance to Vault 87.\0
+
+
+--- NNAM , ITEM_ID: 488959 ---
+ (Optional) Rescue Fawkes from the Observation Cells.\0
+
+
+--- NNAM , ITEM_ID: 488963 ---
+Escape from Vault 87.\0
+
+
+--- NNAM , ITEM_ID: 488966 ---
+Retrieve the G.E.C.K.\0
+
+
+------------------- QUST ( MQ09 ) -------------------
+
+--- FULL , ITEM_ID: 488972 ---
+The American Dream\0
+
+
+--- CNAM , ITEM_ID: 488977 ---
+If the player has rescued Fawkes, he is moved outside Raven Rock, and set to wait for the player.\0
+
+
+--- NNAM , ITEM_ID: 489060 ---
+Get free from the chair.\0
+
+
+--- NNAM , ITEM_ID: 489062 ---
+Retrieve equipment from the locker.\0
+
+
+--- NNAM , ITEM_ID: 489065 ---
+Meet President Eden in his office.\0
+
+
+--- NNAM , ITEM_ID: 489068 ---
+Take the vial of modified FEV.\0
+
+
+--- NNAM , ITEM_ID: 489071 ---
+Escape the Enclave base.\0
+
+
+--- NNAM , ITEM_ID: 489078 ---
+Report to Elder Lyons at the Citadel.\0
+
+
+------------------- QUST ( MQ11 ) -------------------
+
+--- FULL , ITEM_ID: 489083 ---
+Take it Back!\0
+
+
+--- NNAM , ITEM_ID: 489203 ---
+Speak with Sarah Lyons for the mission briefing.\0
+
+
+--- NNAM , ITEM_ID: 489206 ---
+Prepare for battle, and then report to Sarah Lyons.\0
+
+
+--- NNAM , ITEM_ID: 489209 ---
+Follow Liberty Prime as he makes his way to the Purifier.\0
+
+
+--- NNAM , ITEM_ID: 489219 ---
+Reach the Project Purity Control Room.\0
+
+
+--- NNAM , ITEM_ID: 489222 ---
+Secure the Project Purity Control Room.\0
+
+
+--- NNAM , ITEM_ID: 489224 ---
+Activate Project Purity!\0
+
+
+--- NNAM , ITEM_ID: 489227 ---
+Follow Elder Lyons to the Citadel Lab.\0
+
+
+--- NNAM , ITEM_ID: 489229 ---
+Cycle the airlock for Sarah.\0
+
+
+------------------- QUST ( MQA ) -------------------
+
+--- FULL , ITEM_ID: 489233 ---
+Project Impurity\0
+
+
+--- NNAM , ITEM_ID: 489250 ---
+Infect the Project Purity water supply... Or not.\0
+
+
+--- NNAM , ITEM_ID: 489253 ---
+You have infected the Project Purity water supply.\0
+
+
+--- NNAM , ITEM_ID: 489255 ---
+You have turned the FEV virus over to Elder Lyons.\0
+
+
+------------------- QUST ( MS01 ) -------------------
+
+--- FULL , ITEM_ID: 489259 ---
+Big Trouble in Big Town\0
+
+
+--- CNAM , ITEM_ID: 489267 ---
+start big town quest\0
+
+
+--- NNAM , ITEM_ID: 489493 ---
+Rescue the Big Town captives from the Super Mutants.\0
+
+
+--- NNAM , ITEM_ID: 489497 ---
+Escort Red safely back to Big Town.\0
+
+
+--- NNAM , ITEM_ID: 489502 ---
+[Optional] Rescue Shorty.\0
+
+
+--- NNAM , ITEM_ID: 489505 ---
+Escort Shorty safely back to Big Town\0
+
+
+--- NNAM , ITEM_ID: 489510 ---
+Ask the people of Big Town about their captured friends.\0
+
+
+--- NNAM , ITEM_ID: 489512 ---
+Explain Red's death to the people of Big Town.\0
+
+
+--- NNAM , ITEM_ID: 489515 ---
+Rescue Red.\0
+
+
+--- NNAM , ITEM_ID: 489518 ---
+Speak to Red about your reward.\0
+
+
+------------------- QUST ( MS02 ) -------------------
+
+--- FULL , ITEM_ID: 489523 ---
+The Superhuman Gambit\0
+
+
+--- CNAM , ITEM_ID: 489527 ---
+Called when the player begins the quest and agrees to stop the "heroes".\0
+
+
+--- CNAM , ITEM_ID: 489536 ---
+Uncle Roe has been killed, somehow... I'm looking at you, player.\0
+
+
+--- CNAM , ITEM_ID: 489543 ---
+The Mechanist raids the AntAgonizer's base! Just when the player said he'd join up with the AntAgonizer! What are the odds?!?! Time for a fight!\0
+
+
+--- CNAM , ITEM_ID: 489556 ---
+The AntAgonizer raids the Mechanist's base! Just when the player said he'd join up with the Mechanist! What are the odds?!?! Time for a fight!\0
+
+
+--- CNAM , ITEM_ID: 489573 ---
+Player has convinced the AntAgonizer to retire\0
+
+
+--- CNAM , ITEM_ID: 489581 ---
+Player has let the AntAgonizer continue on into the Wasteland\0
+
+
+--- CNAM , ITEM_ID: 489589 ---
+Player has convinced the Mechanist to retire\0
+
+
+--- CNAM , ITEM_ID: 489597 ---
+Player has let the Mechanist continue on, into the wasteland.\0
+
+
+--- CNAM , ITEM_ID: 489605 ---
+Player has killed the AntAgonizer.\0
+
+
+--- CNAM , ITEM_ID: 489613 ---
+The player has killed the Mechanist\0
+
+
+--- CNAM , ITEM_ID: 489621 ---
+One of the supers has been dealt with - the player can collect the basic reward and end the quest.\0
+
+
+--- CNAM , ITEM_ID: 489628 ---
+Both of the supers have been dealt with - the player can collect the bonus reward and end the quest.\0
+
+
+--- CNAM , ITEM_ID: 489646 ---
+The player has killed the Mechanist and/or AntAgonizer before the quest began, and is immediately rewarded by Roe. CHANGED! If the player does this, now they don't even get the quest, the rewardxp, or the achievement. CHOICE & CONSEQUENCES, PUNK!\0
+
+
+--- NNAM , ITEM_ID: 489657 ---
+Find the Mechanist or Antagonizer, and stop their rivalry.\0
+
+
+--- NNAM , ITEM_ID: 489663 ---
+Report back to town for your reward.\0
+
+
+--- NNAM , ITEM_ID: 489669 ---
+(Optional) Find the Mechanist and stop him.\0
+
+
+--- NNAM , ITEM_ID: 489673 ---
+(Optional) Find the AntAgonizer and stop her.\0
+
+
+--- NNAM , ITEM_ID: 489677 ---
+(Optional) Ask Derek for information about the Mechanist and Antagonizer.\0
+
+
+--- NNAM , ITEM_ID: 489680 ---
+Defend the Forge from the AntAgonizer!\0
+
+
+--- NNAM , ITEM_ID: 489683 ---
+Defend the Lair from the Mechanist!\0
+
+
+------------------- QUST ( MS03 ) -------------------
+
+--- FULL , ITEM_ID: 489688 ---
+Wasteland Survival Guide\0
+
+
+--- CNAM , ITEM_ID: 489693 ---
+Ask Moira about her book.\0
+
+
+--- CNAM , ITEM_ID: 489700 ---
+Help Moira with Chapter 1.\0
+
+
+--- CNAM , ITEM_ID: 489707 ---
+MS03a1 basic completion\0
+
+
+--- CNAM , ITEM_ID: 489716 ---
+MS03a1 bonus completion\0
+
+
+--- CNAM , ITEM_ID: 489727 ---
+MS03a2 set up for fade and basic completion\0
+
+
+--- CNAM , ITEM_ID: 489734 ---
+MS03a2 basic completion after fade up\0
+
+
+--- CNAM , ITEM_ID: 489744 ---
+MS03a2 fade out for bonus completion\0
+
+
+--- CNAM , ITEM_ID: 489751 ---
+MS03a2 bonus completion after fade-out\0
+
+
+--- CNAM , ITEM_ID: 489763 ---
+MS03a3 basic completion\0
+
+
+--- CNAM , ITEM_ID: 489772 ---
+MS03a3 bonus completion\0
+
+
+--- CNAM , ITEM_ID: 489782 ---
+Help Moira with Chapter 2.\0
+
+
+--- CNAM , ITEM_ID: 489787 ---
+MS03b1 basic completion\0
+
+
+--- CNAM , ITEM_ID: 489799 ---
+MS03b1 bonus completion\0
+
+
+--- CNAM , ITEM_ID: 489810 ---
+MS03b2 basic completion\0
+
+
+--- CNAM , ITEM_ID: 489819 ---
+MS03b2 bonus completion\0
+
+
+--- CNAM , ITEM_ID: 489829 ---
+MS03b3 basic fade-out\0
+
+
+--- CNAM , ITEM_ID: 489836 ---
+MS03b3 basic completion after fade-out\0
+
+
+--- CNAM , ITEM_ID: 489845 ---
+MS03b3 bonus fade-out\0
+
+
+--- CNAM , ITEM_ID: 489852 ---
+MS03b3 bonus completion after fade-out\0
+
+
+--- CNAM , ITEM_ID: 489862 ---
+Help Moira with the last chapter.\0
+
+
+--- CNAM , ITEM_ID: 489867 ---
+MS03c1 basic completion\0
+
+
+--- CNAM , ITEM_ID: 489876 ---
+MS03c1 bonus completion\0
+
+
+--- CNAM , ITEM_ID: 489885 ---
+MS03c2 basic completion\0
+
+
+--- CNAM , ITEM_ID: 489894 ---
+MS03c2 bonus completion\0
+
+
+--- CNAM , ITEM_ID: 489904 ---
+MS03c3 basic completion\0
+
+
+--- CNAM , ITEM_ID: 489915 ---
+MS03c3 bonus completion\0
+
+
+--- CNAM , ITEM_ID: 489927 ---
+Print the manuscript at Hubris Comics Publishing.\0
+
+
+--- CNAM , ITEM_ID: 489934 ---
+Bring the printed books back to Lea.\0
+
+
+--- CNAM , ITEM_ID: 489949 ---
+Moira Brown is dead. Her book will never be written. NO ACHIEVEMENT - QUEST FAILED!\0
+
+
+--- CNAM , ITEM_ID: 489964 ---
+Moira Brown has been convinced to give up on her book.\0
+
+
+--- CNAM , ITEM_ID: 489978 ---
+The Wasteland Survival Guide has been distributed throughout the Capitol Wastes, where it may help survivors.\0
+
+
+--- CNAM , ITEM_ID: 490048 ---
+The Wasteland Survival Guide has been researched and spread throughout the Capitol Wasteland, where it will help countless survivors.\0
+
+
+--- NNAM , ITEM_ID: 490119 ---
+Ask Moira Brown about her book.\0
+
+
+--- NNAM , ITEM_ID: 490122 ---
+Help Moira with Chapter 1.\0
+
+
+--- NNAM , ITEM_ID: 490125 ---
+Find food in the Super-Duper Mart.\0
+
+
+--- NNAM , ITEM_ID: 490129 ---
+(Optional) Find medicine in the Super-Duper Mart.\0
+
+
+--- NNAM , ITEM_ID: 490133 ---
+Return to Moira.\0
+
+
+--- NNAM , ITEM_ID: 490136 ---
+Contract radiation sickness (200 rads).\0
+
+
+--- NNAM , ITEM_ID: 490140 ---
+(Optional) Contract more severe radiation sickness (600 rads).\0
+
+
+--- NNAM , ITEM_ID: 490142 ---
+Return to Moira.\0
+
+
+--- NNAM , ITEM_ID: 490145 ---
+Travel to the playground in Minefield.\0
+
+
+--- NNAM , ITEM_ID: 490148 ---
+(Optional) Bring a landmine to Moira.\0
+
+
+--- NNAM , ITEM_ID: 490150 ---
+Return to Moira.\0
+
+
+--- NNAM , ITEM_ID: 490153 ---
+Help Moira with Chapter 2.\0
+
+
+--- NNAM , ITEM_ID: 490156 ---
+Test the repellent on three Mole Rats.\0
+
+
+--- NNAM , ITEM_ID: 490160 ---
+(Optional) Test the repellent on seven more Mole Rats.\0
+
+
+--- NNAM , ITEM_ID: 490164 ---
+Return to Moira.\0
+
+
+--- NNAM , ITEM_ID: 490167 ---
+Place the observer in a spawning pod in the Anchorage War Memorial.\0
+
+
+--- NNAM , ITEM_ID: 490174 ---
+(Optional) Do not kill any Mirelurks in the Anchorage War Memorial.\0
+
+
+--- NNAM , ITEM_ID: 490176 ---
+Return to Moira.\0
+
+
+--- NNAM , ITEM_ID: 490179 ---
+Become seriously injured (50% health or less).\0
+
+
+--- NNAM , ITEM_ID: 490181 ---
+(Optional) Receive a crippling injury.\0
+
+
+--- NNAM , ITEM_ID: 490183 ---
+Return to Moira with your injuries.\0
+
+
+--- NNAM , ITEM_ID: 490186 ---
+Help Moira with the last chapter.\0
+
+
+--- NNAM , ITEM_ID: 490189 ---
+Learn the history of Rivet City.\0
+
+
+--- NNAM , ITEM_ID: 490197 ---
+(Optional) Check other sources to confirm Rivet City's history.\0
+
+
+--- NNAM , ITEM_ID: 490203 ---
+(Optional) Uncover Rivet City's true history.\0
+
+
+--- NNAM , ITEM_ID: 490210 ---
+Return to Moira.\0
+
+
+--- NNAM , ITEM_ID: 490213 ---
+Install the processor widget in the RobCo production facility mainframe.\0
+
+
+--- NNAM , ITEM_ID: 490216 ---
+(Optional) Reprogram the RobCo facility mainframe.\0
+
+
+--- NNAM , ITEM_ID: 490219 ---
+Return to Moira.\0
+
+
+--- NNAM , ITEM_ID: 490222 ---
+Access the card catalogue in Arlington Public Library.\0
+
+
+--- NNAM , ITEM_ID: 490225 ---
+(Optional) Retrieve complete library archives.\0
+
+
+--- NNAM , ITEM_ID: 490228 ---
+Return to Moira.\0
+
+
+------------------- QUST ( MS04 ) -------------------
+
+--- FULL , ITEM_ID: 490233 ---
+Those!\0
+
+
+--- CNAM , ITEM_ID: 490250 ---
+Remove the source of Fire Ants\0
+
+
+--- NNAM , ITEM_ID: 490301 ---
+Find Bryan Wilks's father.\0
+
+
+--- NNAM , ITEM_ID: 490304 ---
+Remove the source of the Fire Ants.\0
+
+
+--- NNAM , ITEM_ID: 490306 ---
+Eliminate all five Nest Guardians from the Ant Queen's Hatchery.\0
+
+
+--- NNAM , ITEM_ID: 490318 ---
+Return to Bryan Wilks.\0
+
+
+--- NNAM , ITEM_ID: 490321 ---
+Deliver the bad news to Bryan Wilks.\0
+
+
+--- NNAM , ITEM_ID: 490324 ---
+Find a home for Bryan Wilks.\0
+
+
+--- NNAM , ITEM_ID: 490327 ---
+Return to Doctor Lesko.\0
+
+
+--- NNAM , ITEM_ID: 490330 ---
+Investigate Marigold Metro Station and remove the source of the Fire Ants.\0
+
+
+--- NNAM , ITEM_ID: 490332 ---
+(Optional) Do not harm the Ant Queen.\0
+
+
+--- NNAM , ITEM_ID: 490334 ---
+Find Bryan Wilks in Grayditch.\0
+
+
+--- NNAM , ITEM_ID: 490337 ---
+Send the Inhibitor Pulse from Lesko's portable terminal or Kill the Ant Queen.\0
+
+
+------------------- QUST ( MS05 ) -------------------
+
+--- FULL , ITEM_ID: 490343 ---
+The Nuka-Cola Challenge\0
+
+
+--- NNAM , ITEM_ID: 490394 ---
+Take Sierra's Nuka-Cola Tour.\0
+
+
+--- NNAM , ITEM_ID: 490397 ---
+(Optional) Find the ruins of the Nuka-Cola Bottling Facility.\0
+
+
+--- NNAM , ITEM_ID: 490400 ---
+(Optional) Recover the Nuka-Cola Quantum shipping manifests.\0
+
+
+--- NNAM , ITEM_ID: 490403 ---
+Recover 30 bottles of Nuka-Cola Quantum and bring them to Sierra Petrovita.\0
+
+
+--- NNAM , ITEM_ID: 490407 ---
+Speak to Sierra Petrovita.\0
+
+
+--- NNAM , ITEM_ID: 490410 ---
+(Optional) Recover 30 bottles of Nuka-Cola Quantum and bring them to Ronald Laren.\0
+
+
+------------------- QUST ( MS06 ) -------------------
+
+--- FULL , ITEM_ID: 490416 ---
+Head of State\0
+
+
+--- NNAM , ITEM_ID: 490527 ---
+Make sure the Lincoln Memorial is free of Super Mutants.\0
+
+
+--- NNAM , ITEM_ID: 490530 ---
+Get a picture of the Lincoln Memorial.\0
+
+
+--- NNAM , ITEM_ID: 490533 ---
+Kill all the slavers near the Lincoln Memorial.\0
+
+
+--- NNAM , ITEM_ID: 490557 ---
+Take the picture of the Lincoln Memorial to Caleb.\0
+
+
+--- NNAM , ITEM_ID: 490563 ---
+Meet Hannibal at the Memorial.\0
+
+
+--- NNAM , ITEM_ID: 490566 ---
+Sell Lincoln artifacts to Leroy Walker.\0
+
+
+--- NNAM , ITEM_ID: 490574 ---
+Find Hannibal Hamlin and the Temple of the Union.\0
+
+
+--- NNAM , ITEM_ID: 490578 ---
+Report Hannibal Hamlin's location to Leroy Walker.\0
+
+
+--- NNAM , ITEM_ID: 490581 ---
+Talk to Caleb Smith.\0
+
+
+--- NNAM , ITEM_ID: 490584 ---
+Tell Hannibal the Memorial is free of Super Mutants.\0
+
+
+--- NNAM , ITEM_ID: 490587 ---
+Tell Hannibal that Caleb is ready.\0
+
+
+--- NNAM , ITEM_ID: 490590 ---
+Join Leroy Walker in attacking the Temple of the Union.\0
+
+
+--- NNAM , ITEM_ID: 490615 ---
+Find at least one Lincoln artifact in Museum of History.\0
+
+
+--- NNAM , ITEM_ID: 490619 ---
+Talk to Hannibal Hamlin.\0
+
+
+--- NNAM , ITEM_ID: 490622 ---
+Talk to Leroy Walker.\0
+
+
+--- NNAM , ITEM_ID: 490625 ---
+Find the runaway slaves.\0
+
+
+------------------- QUST ( MS08 ) -------------------
+
+--- FULL , ITEM_ID: 490629 ---
+The Replicated Man\0
+
+
+--- CNAM , ITEM_ID: 490704 ---
+NOTE: The quest is actually marked completed in dialog options where you tell Zimmer or Harkness that Harkness is an Android. This quest stays running until the end confrontation scene is resolved, after which this quest is also stopped. This is because you can tell Harkness "your secret is safe with me" which should seem like the quest is complete, but no confrontation occurs, allowing the player to also tell Zimmer about Harkness, in which a confrontation does occur. The confrontation is handled in MS08Fin.\0
+
+
+--- NNAM , ITEM_ID: 490726 ---
+Search for clues about Zimmer's missing android.\0
+
+
+--- NNAM , ITEM_ID: 490728 ---
+Find out what Pinkerton at Rivet City knows about the android.\0
+
+
+--- NNAM , ITEM_ID: 490730 ---
+Report to Zimmer OR warn Harkness about Zimmer.\0
+
+
+--- NNAM , ITEM_ID: 490734 ---
+Learn more about the escaped android.\0
+
+
+--- NNAM , ITEM_ID: 490736 ---
+Visit Rivet City to learn more about the android from the Commonwealth.\0
+
+
+--- NNAM , ITEM_ID: 490738 ---
+Continue to search for clues to the android's identity OR tell Zimmer he's dead.\0
+
+
+--- NNAM , ITEM_ID: 490740 ---
+[Optional] Discover what Dr. Preston knows about the android.\0
+
+
+------------------- QUST ( MS09 ) -------------------
+
+--- FULL , ITEM_ID: 490747 ---
+Blood Ties\0
+
+
+--- CNAM , ITEM_ID: 490751 ---
+Deliver Lucy's message to Arefu.\0
+
+
+--- CNAM , ITEM_ID: 490759 ---
+Search the West Residence in Arefu.\0
+
+
+--- CNAM , ITEM_ID: 490766 ---
+Report the status of Arefu's residents to Evan King.\0
+
+
+--- CNAM , ITEM_ID: 490773 ---
+Find The Family.\0
+
+
+--- CNAM , ITEM_ID: 490781 ---
+Find Ian West.\0
+
+
+--- CNAM , ITEM_ID: 490788 ---
+Speak to Vance\0
+
+
+--- CNAM , ITEM_ID: 490795 ---
+Return to Evan King\0
+
+
+--- NNAM , ITEM_ID: 490827 ---
+Deliver Lucy's message.\0
+
+
+--- NNAM , ITEM_ID: 490831 ---
+Check the West Residence.\0
+
+
+--- NNAM , ITEM_ID: 490834 ---
+Locate the Family.\0
+
+
+--- NNAM , ITEM_ID: 490838 ---
+Locate Ian West.\0
+
+
+--- NNAM , ITEM_ID: 490842 ---
+Speak to Vance about Ian's decision.\0
+
+
+--- NNAM , ITEM_ID: 490845 ---
+Return to Evan King.\0
+
+
+--- NNAM , ITEM_ID: 490848 ---
+Check the Schenzy Residence.\0
+
+
+--- NNAM , ITEM_ID: 490851 ---
+Check the Ewers Residence.\0
+
+
+--- NNAM , ITEM_ID: 490854 ---
+Report to Evan King.\0
+
+
+--- NNAM , ITEM_ID: 490857 ---
+Discover what the Family did in Arefu.\0
+
+
+------------------- QUST ( MS11 ) -------------------
+
+--- FULL , ITEM_ID: 490862 ---
+The Power of the Atom\0
+
+
+--- CNAM , ITEM_ID: 490912 ---
+Activate the detonator at Tenpenny Tower.\0
+
+
+--- NNAM , ITEM_ID: 491061 ---
+Disarm Megaton's atomic bomb.\0
+
+
+--- NNAM , ITEM_ID: 491064 ---
+Rig Megaton's atomic bomb to explode.\0
+
+
+--- NNAM , ITEM_ID: 491067 ---
+Report to Lucas Simms in Megaton.\0
+
+
+--- NNAM , ITEM_ID: 491070 ---
+Report to Mister Burke in Tenpenny Tower.\0
+
+
+--- NNAM , ITEM_ID: 491081 ---
+Activate the detonator at Tenpenny Tower.\0
+
+
+--- NNAM , ITEM_ID: 491092 ---
+Receive reward from Mister Burke in Tenpenny Tower.\0
+
+
+--- NNAM , ITEM_ID: 491103 ---
+Disarm Megaton's atomic bomb... or rig it to explode.\0
+
+
+--- NNAM , ITEM_ID: 491106 ---
+Report to Lucas Simms' son, Harden, in Megaton.\0
+
+
+--- NNAM , ITEM_ID: 491109 ---
+[Optional] Ask Leo Stahl at the Brass Lantern about buying Mentats.\0
+
+
+--- NNAM , ITEM_ID: 491114 ---
+[Optional] Meet Leo Stahl at the water treatment plant for Mentats .\0
+
+
+--- NNAM , ITEM_ID: 491117 ---
+[Optional] Loot Leo Stahl's stash at the water treatment plant for Mentats.\0
+
+
+------------------- QUST ( MS12 ) -------------------
+
+--- FULL , ITEM_ID: 491122 ---
+Tenpenny Tower\0
+
+
+--- NNAM , ITEM_ID: 491176 ---
+Help the Ghouls get into Tenpenny Tower.\0
+
+
+--- NNAM , ITEM_ID: 491189 ---
+Kill Roy Phillips and his followers.\0
+
+
+--- NNAM , ITEM_ID: 491201 ---
+Kill Roy Phillips and his followers, or Help the Ghouls get into Tenpenny Tower.\0
+
+
+--- NNAM , ITEM_ID: 491224 ---
+Help the Ghouls get into Tenpenny Tower, or Kill Roy Phillips and his followers.\0
+
+
+--- NNAM , ITEM_ID: 491247 ---
+Report back to Chief Gustavo.\0
+
+
+--- NNAM , ITEM_ID: 491250 ---
+Tell Roy Phillips the Ghouls can move in.\0
+
+
+------------------- QUST ( MS13 ) -------------------
+
+--- FULL , ITEM_ID: 491255 ---
+Strictly Business\0
+
+
+--- NNAM , ITEM_ID: 491494 ---
+Enslave the sniper Arkansas from Minefield.\0
+
+
+--- NNAM , ITEM_ID: 491497 ---
+Enslave Susan Lancaster from Tenpenny Tower.\0
+
+
+--- NNAM , ITEM_ID: 491500 ---
+Enslave Red from Big Town.\0
+
+
+--- NNAM , ITEM_ID: 491506 ---
+Enslave Flak from Rivet City.\0
+
+
+------------------- QUST ( MS14 ) -------------------
+
+--- FULL , ITEM_ID: 491511 ---
+You Gotta Shoot 'Em in the Head\0
+
+
+--- NNAM , ITEM_ID: 491558 ---
+Kill Allistair Tenpenny.\0
+
+
+--- NNAM , ITEM_ID: 491561 ---
+Kill Dukov and get his key.\0
+
+
+--- NNAM , ITEM_ID: 491564 ---
+Kill Ted Strayer and get his key.\0
+
+
+--- NNAM , ITEM_ID: 491567 ---
+Kill Dave and get his key.\0
+
+
+--- NNAM , ITEM_ID: 491570 ---
+Bring Dukov's key to Mister Crowley.\0
+
+
+--- NNAM , ITEM_ID: 491573 ---
+Bring Ted Strayer's key to Mister Crowley.\0
+
+
+--- NNAM , ITEM_ID: 491576 ---
+Bring Dave's key to Mister Crowley.\0
+
+
+--- NNAM , ITEM_ID: 491579 ---
+Tell Mister Crowley that Allistair Tenpenny is dead.\0
+
+
+--- NNAM , ITEM_ID: 491582 ---
+Find Dukov's key.\0
+
+
+--- NNAM , ITEM_ID: 491585 ---
+Find Ted Strayer's key.\0
+
+
+--- NNAM , ITEM_ID: 491588 ---
+Find Dave's key.\0
+
+
+--- NNAM , ITEM_ID: 491591 ---
+(Optional) Kill Mister Crowley.\0
+
+
+--- NNAM , ITEM_ID: 491594 ---
+Collect reward from Allistair Tenpenny.\0
+
+
+------------------- QUST ( MS15 ) -------------------
+
+--- FULL , ITEM_ID: 491599 ---
+Stealing Independence\0
+
+
+--- CNAM , ITEM_ID: 491609 ---
+Defend the Rotunda\0
+
+
+--- NNAM , ITEM_ID: 491646 ---
+Retrieve the Declaration of Independence from the National Archives.\0
+
+
+--- NNAM , ITEM_ID: 491652 ---
+Defend the Rotunda.\0
+
+
+--- NNAM , ITEM_ID: 491654 ---
+Return to Abraham Washington in Rivet City.\0
+
+
+--- NNAM , ITEM_ID: 491657 ---
+(Optional) Bring Button Gwinnett the ink.\0
+
+
+------------------- QUST ( MS16 ) -------------------
+
+--- FULL , ITEM_ID: 491665 ---
+Trouble on the Homefront\0
+
+
+--- CNAM , ITEM_ID: 491671 ---
+This is called to prepare the quest, once the player has completed MQ05.\0
+
+
+--- CNAM , ITEM_ID: 491726 ---
+Vault 101 door can be opened\0
+
+
+--- CNAM , ITEM_ID: 491762 ---
+Vault 101 door has been opened. Player will be greeted by Officer Gomez.\0
+
+
+--- CNAM , ITEM_ID: 491776 ---
+Through talking with one of Vault 101's residents, the lockdown's reasons have been explained, as well as one or two possible solutions.\0
+
+
+--- CNAM , ITEM_ID: 491783 ---
+The player has pledged to stop the Overseer.\0
+
+
+--- CNAM , ITEM_ID: 491790 ---
+The player has pledged to stop the rebels.\0
+
+
+--- CNAM , ITEM_ID: 491797 ---
+The player has learned that he could sabotage Vault 101's water chip and force people to leave.\0
+
+
+--- CNAM , ITEM_ID: 491804 ---
+The player has voluntarily chosen to leave the Vault forever. He can still change his mind by talking to a rebel or Gomez and saying he won't actually leave.\0
+
+
+--- CNAM , ITEM_ID: 491811 ---
+The player has stopped or killed the Overseer. Now he must report back to the head of the rebels, Amata.\0
+
+
+--- CNAM , ITEM_ID: 491818 ---
+The player has stopped or killed Amata. Now he must report back to the head of the vault, the Overseer.\0
+
+
+--- CNAM , ITEM_ID: 491825 ---
+The player has sabotaged the vault's water chip. Everyone evacuates the Vault, and the Overseer comes to attack the player. Amata will meet the player at the Vault entrance.\0
+
+
+--- CNAM , ITEM_ID: 491861 ---
+For one reason or another, the player must leave Vault 101 forever.\0
+
+
+--- CNAM , ITEM_ID: 491868 ---
+Both faction leaders are dead - Amata and Overseer/Allen Mack\0
+
+
+--- CNAM , ITEM_ID: 491880 ---
+The player has been barred from Vault 101, either by killing the Overseer and being banished by Amata, stopping the rebels and allowing the Overseer to close the vault, or by simply refusing to be involved and leaving.\0
+
+
+--- CNAM , ITEM_ID: 491902 ---
+The player has voluntarily left Vault 101, and the passwords have been changed behind him. QUEST FAILED - NO ACHIEVEMENT OR REWARD!\0
+
+
+--- CNAM , ITEM_ID: 491919 ---
+The events inside have been resolved peacefully, but the player is still exiled from Vault 101.\0
+
+
+--- CNAM , ITEM_ID: 491941 ---
+The Overseer has been told to evacuate Vault 101, and it is now empty and poisoned, and its citizens are all either dead or wandering the wastes.\0
+
+
+--- NNAM , ITEM_ID: 491960 ---
+Return to Vault 101.\0
+
+
+--- NNAM , ITEM_ID: 491963 ---
+Learn what happened to Vault 101.\0
+
+
+--- NNAM , ITEM_ID: 491966 ---
+End Vault 101's troubles.\0
+
+
+--- NNAM , ITEM_ID: 491973 ---
+Stop the Overseer.\0
+
+
+--- NNAM , ITEM_ID: 491979 ---
+Talk to Amata.\0
+
+
+--- NNAM , ITEM_ID: 491982 ---
+Stop the Rebels.\0
+
+
+--- NNAM , ITEM_ID: 491985 ---
+Talk to the Overseer.\0
+
+
+--- NNAM , ITEM_ID: 491991 ---
+(Optional) Sabotage Vault 101.\0
+
+
+--- NNAM , ITEM_ID: 491994 ---
+Evacuate the Vault\0
+
+
+--- NNAM , ITEM_ID: 491997 ---
+Leave Vault 101 forever.\0
+
+
+--- NNAM , ITEM_ID: 492000 ---
+Everyone in Vault 101 has been killed.\0
+
+
+--- NNAM , ITEM_ID: 492014 ---
+(Optional) Leave Vault 101 forever.\0
+
+
+------------------- QUST ( MS17 ) -------------------
+
+--- FULL , ITEM_ID: 492019 ---
+Agatha's Song\0
+
+
+--- CNAM , ITEM_ID: 492023 ---
+Recover the Soil Stradivarius from Vault 92\0
+
+
+--- CNAM , ITEM_ID: 492044 ---
+Return to Agatha\0
+
+
+--- NNAM , ITEM_ID: 492072 ---
+Recover the Soil Stradivarius from Vault 92.\0
+
+
+--- NNAM , ITEM_ID: 492081 ---
+(Optional) Locate Vault-Tec Headquarters.\0
+
+
+--- NNAM , ITEM_ID: 492084 ---
+Return to Agatha.\0
+
+
+--- NNAM , ITEM_ID: 492087 ---
+(Optional) Discover the location of Vault 92.\0
+
+
+--- NNAM , ITEM_ID: 492089 ---
+Find a buyer for the Soil Stradivarius.\0
+
+
+------------------- QUST ( MS18 ) -------------------
+
+--- FULL , ITEM_ID: 492093 ---
+Reilly's Rangers\0
+
+
+--- CNAM , ITEM_ID: 492106 ---
+Find the Statesman Hotel\0
+
+
+--- CNAM , ITEM_ID: 492118 ---
+Locate Reilly's Rangers\0
+
+
+--- CNAM , ITEM_ID: 492125 ---
+Lead Reilly's Rangers to safety\0
+
+
+--- CNAM , ITEM_ID: 492132 ---
+Get to the Metro Entrance\0
+
+
+--- CNAM , ITEM_ID: 492140 ---
+Return to Reilly at Ranger Compound\0
+
+
+--- NNAM , ITEM_ID: 492170 ---
+Find Our Lady of Hope Hospital.\0
+
+
+--- NNAM , ITEM_ID: 492173 ---
+Locate Reilly's Rangers.\0
+
+
+--- NNAM , ITEM_ID: 492181 ---
+Lead Reilly's Rangers to safety.\0
+
+
+--- NNAM , ITEM_ID: 492183 ---
+Get to the Statesman Hotel exit.\0
+
+
+--- NNAM , ITEM_ID: 492185 ---
+Return to Reilly at Ranger Compound.\0
+
+
+--- NNAM , ITEM_ID: 492188 ---
+(Optional) Gear up at Ranger Compound.\0
+
+
+--- NNAM , ITEM_ID: 492191 ---
+(Optional) Locate the Ranger's ammo crate.\0
+
+
+--- NNAM , ITEM_ID: 492193 ---
+Locate a Fission Battery.\0
+
+
+--- NNAM , ITEM_ID: 492196 ---
+Find Reilly in Underworld inside the Museum of History.\0
+
+
+--- NNAM , ITEM_ID: 492199 ---
+Give a Fission Battery to Donovan\0
+
+
+------------------- QUST ( MQSearch ) -------------------
+
+--- FULL , ITEM_ID: 492203 ---
+The Search Continues\0
+
+
+--- NNAM , ITEM_ID: 492212 ---
+Continue your search for Dad.\0
+
+
+------------------- QUST ( MQ10 ) -------------------
+
+--- FULL , ITEM_ID: 492215 ---
+Infiltration\0
+
+
+--- CNAM , ITEM_ID: 492220 ---
+Enter Rivet City through the underwater diving hatch.\0
+
+
+--- CNAM , ITEM_ID: 492224 ---
+Obtain the prototype power source.\0
+
+
+--- CNAM , ITEM_ID: 492228 ---
+Return the prototype power source to Scribe Rothchild at the Citadel.\0
+
+
+--- CNAM , ITEM_ID: 492232 ---
+Meet with Elder Lyons in his solar.\0
+
+
+------------------- QUST ( MQ12 ) -------------------
+
+--- FULL , ITEM_ID: 492240 ---
+Last Rites\0
+
+
+------------------- QUST ( MS01EscortSticky ) -------------------
+
+--- FULL , ITEM_ID: 492244 ---
+Happy Birthday to You\0
+
+
+------------------- QUST ( MS06LincolnArtifacts ) -------------------
+
+--- FULL , ITEM_ID: 492248 ---
+Lincoln Artifacts\0
+
+
+------------------- QUST ( MS15Museum ) -------------------
+
+--- FULL , ITEM_ID: 492252 ---
+Abraham Washington Buys Stuff\0
+
+
+------------------- QUST ( MS16fin ) -------------------
+
+--- FULL , ITEM_ID: 492257 ---
+Vault 101\0
+
+
+------------------- QUST ( MS17Radio ) -------------------
+
+--- FULL , ITEM_ID: 492264 ---
+Agatha's Radio\0
+
+
+------------------- QUST ( PerkContractKiller ) -------------------
+
+--- FULL , ITEM_ID: 492270 ---
+Contract Killer\0
+
+
+------------------- QUST ( PerkLawbringer ) -------------------
+
+--- FULL , ITEM_ID: 492298 ---
+Lawbringer\0
+
+
+------------------- QUST ( RadioEnclaveQuest ) -------------------
+
+--- FULL , ITEM_ID: 492326 ---
+Enclave Radio\0
+
+
+------------------- QUST ( RadioGalaxyNewsQuest ) -------------------
+
+--- FULL , ITEM_ID: 492332 ---
+Galaxy News Radio\0
+
+
+------------------- QUST ( MS10 ) -------------------
+
+--- FULL , ITEM_ID: 492338 ---
+Oasis\0
+
+
+--- NNAM , ITEM_ID: 492420 ---
+Enter the caves below and destroy Harold's Heart.\0
+
+
+--- NNAM , ITEM_ID: 492423 ---
+(Optional) Apply Birch's Sap to Harold's Heart and stop his growth.\0
+
+
+--- NNAM , ITEM_ID: 492426 ---
+(Optional) Apply Laurel's Liniment to Harold's Heart and accelerate his growth.\0
+
+
+--- NNAM , ITEM_ID: 492429 ---
+Speak with Tree Father Birch.\0
+
+
+--- NNAM , ITEM_ID: 492432 ---
+Speak with Leaf Mother Laurel.\0
+
+
+--- NNAM , ITEM_ID: 492435 ---
+Undertake the Treeminder's Ceremony.\0
+
+
+--- NNAM , ITEM_ID: 492438 ---
+(Optional) Obtain the key to the caves from Branchtender Cypress.\0
+
+
+--- NNAM , ITEM_ID: 492440 ---
+(Optional) Kill Harold by burning him.\0
+
+
+------------------- QUST ( CG01 ) -------------------
+
+--- FULL , ITEM_ID: 492444 ---
+Baby Steps\0
+
+
+--- CNAM , ITEM_ID: 492466 ---
+Walk to Dad.\0
+
+
+--- CNAM , ITEM_ID: 492503 ---
+Open the crib's gate.\0
+
+
+--- CNAM , ITEM_ID: 492511 ---
+Exit the crib.\0
+
+
+--- CNAM , ITEM_ID: 492519 ---
+Look at the S.P.E.C.I.A.L. book.\0
+
+
+--- CNAM , ITEM_ID: 492533 ---
+Grab a toy and drag it to the play mat.\0
+
+
+--- CNAM , ITEM_ID: 492540 ---
+Trigger Dad's return\0
+
+
+--- CNAM , ITEM_ID: 492575 ---
+Follow Dad.\0
+
+
+--- NNAM , ITEM_ID: 492601 ---
+Walk to Dad.\0
+
+
+--- NNAM , ITEM_ID: 492604 ---
+Open the playpen's gate.\0
+
+
+--- NNAM , ITEM_ID: 492607 ---
+Exit the playpen.\0
+
+
+--- NNAM , ITEM_ID: 492609 ---
+Jump onto the chair to reach inside the toy box.\0
+
+
+--- NNAM , ITEM_ID: 492612 ---
+Grab a toy and drag it into the playpen.\0
+
+
+--- NNAM , ITEM_ID: 492614 ---
+Play with your toys.\0
+
+
+--- NNAM , ITEM_ID: 492616 ---
+Follow Dad.\0
+
+
+--- NNAM , ITEM_ID: 492619 ---
+Look at the "You're SPECIAL!" book.\0
+
+
+------------------- QUST ( CG02 ) -------------------
+
+--- FULL , ITEM_ID: 492624 ---
+Growing Up Fast\0
+
+
+--- CNAM , ITEM_ID: 492712 ---
+Enjoy the party and speak with the guests.\0
+
+
+--- CNAM , ITEM_ID: 492737 ---
+Dad finished talking to player\0
+
+
+--- CNAM , ITEM_ID: 492854 ---
+Follow Dad to my surprise present.\0
+
+
+--- CNAM , ITEM_ID: 492884 ---
+Shoot all 3 targets with the BB gun.\0
+
+
+--- CNAM , ITEM_ID: 492900 ---
+Use the BB gun to kill the radroach.\0
+
+
+--- CNAM , ITEM_ID: 492916 ---
+Stand next to Dad so Jonas can take the picture.\0
+
+
+--- NNAM , ITEM_ID: 492966 ---
+Enjoy the party and speak with the guests.\0
+
+
+--- NNAM , ITEM_ID: 492974 ---
+Meet Jonas on the Reactor Level.\0
+
+
+--- NNAM , ITEM_ID: 492977 ---
+Use the BB Gun to kill the Radroach.\0
+
+
+--- NNAM , ITEM_ID: 492981 ---
+Stand next to Dad so Jonas can take the picture.\0
+
+
+--- NNAM , ITEM_ID: 492984 ---
+Shoot all three targets with the BB Gun.\0
+
+
+------------------- QUST ( CG03 ) -------------------
+
+--- FULL , ITEM_ID: 492994 ---
+Future Imperfect\0
+
+
+--- NNAM , ITEM_ID: 493208 ---
+Sit down and take the G.O.A.T.\0
+
+
+--- NNAM , ITEM_ID: 493210 ---
+Get to class and talk to Mr. Brotch about the G.O.A.T.\0
+
+
+--- NNAM , ITEM_ID: 493213 ---
+Exit the classroom.\0
+
+
+--- NNAM , ITEM_ID: 493215 ---
+Turn in the G.O.A.T. to Mr. Brotch.\0
+
+
+------------------- QUST ( CG04 ) -------------------
+
+--- FULL , ITEM_ID: 493222 ---
+Escape!\0
+
+
+--- CNAM , ITEM_ID: 493301 ---
+Enter the Overseer's office.\0
+
+
+--- CNAM , ITEM_ID: 493495 ---
+Use the Overseer's computer to access the secret tunnel.\0
+
+
+--- CNAM , ITEM_ID: 493502 ---
+Enter the reactor room.\0
+
+
+--- CNAM , ITEM_ID: 493509 ---
+Turn the power back on.\0
+
+
+--- CNAM , ITEM_ID: 493516 ---
+Player flips first reactor switch -- guards react\0
+
+
+--- CNAM , ITEM_ID: 493528 ---
+Open the vault door.\0
+
+
+--- CNAM , ITEM_ID: 493536 ---
+Escape from Vault 101.\0
+
+
+--- NNAM , ITEM_ID: 493602 ---
+Talk to Amata about her plan to escape the Vault.\0
+
+
+--- NNAM , ITEM_ID: 493605 ---
+Enter the Overseer's office.\0
+
+
+--- NNAM , ITEM_ID: 493608 ---
+Enter the reactor control room.\0
+
+
+--- NNAM , ITEM_ID: 493611 ---
+Turn the power back on.\0
+
+
+--- NNAM , ITEM_ID: 493619 ---
+Open the Vault door.\0
+
+
+--- NNAM , ITEM_ID: 493622 ---
+Use the Overseer's computer to access the secret tunnel.\0
+
+
+--- NNAM , ITEM_ID: 493625 ---
+Escape the Vault.\0
+
+

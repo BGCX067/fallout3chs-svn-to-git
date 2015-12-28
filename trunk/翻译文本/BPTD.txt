@@ -1,0 +1,892 @@
+------------------- BPTD ( PlayerBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 495537 ---
+左腿\0
+
+
+--- BPTN , ITEM_ID: 495545 ---
+右腿\0
+
+
+--- BPTN , ITEM_ID: 495553 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 495561 ---
+右臂\0
+
+
+--- BPTN , ITEM_ID: 495569 ---
+左臂\0
+
+
+--- BPTN , ITEM_ID: 495577 ---
+头部\0
+
+
+------------------- BPTD ( DefaultBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 495588 ---
+头部\0
+
+
+--- BPTN , ITEM_ID: 495596 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 495604 ---
+左臂\0
+
+
+--- BPTN , ITEM_ID: 495612 ---
+左腿\0
+
+
+--- BPTN , ITEM_ID: 495620 ---
+右腿\0
+
+
+--- BPTN , ITEM_ID: 495628 ---
+右臂\0
+
+
+------------------- BPTD ( SupermutantrBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 495640 ---
+头部\0
+
+
+--- BPTN , ITEM_ID: 495648 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 495656 ---
+左臂\0
+
+
+--- BPTN , ITEM_ID: 495664 ---
+左腿\0
+
+
+--- BPTN , ITEM_ID: 495672 ---
+右腿\0
+
+
+--- BPTN , ITEM_ID: 495680 ---
+右臂\0
+
+
+------------------- BPTD ( YaoGuaiBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 495691 ---
+头部\0
+
+
+--- BPTN , ITEM_ID: 495699 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 495707 ---
+左臂\0
+
+
+--- BPTN , ITEM_ID: 495715 ---
+左腿\0
+
+
+--- BPTN , ITEM_ID: 495723 ---
+右腿\0
+
+
+--- BPTN , ITEM_ID: 495731 ---
+右臂\0
+
+
+------------------- BPTD ( BehemothrBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 495743 ---
+右臂\0
+
+
+--- BPTN , ITEM_ID: 495751 ---
+右腿\0
+
+
+--- BPTN , ITEM_ID: 495759 ---
+左腿\0
+
+
+--- BPTN , ITEM_ID: 495767 ---
+左臂\0
+
+
+--- BPTN , ITEM_ID: 495775 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 495783 ---
+头部\0
+
+
+------------------- BPTD ( MQ03Robobrainbodypartdata ) -------------------
+
+--- BPTN , ITEM_ID: 495795 ---
+右履带\0
+
+
+--- BPTN , ITEM_ID: 495803 ---
+左履带\0
+
+
+--- BPTN , ITEM_ID: 495811 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 495819 ---
+头部\0
+
+
+--- BPTN , ITEM_ID: 495827 ---
+右臂\0
+
+
+--- BPTN , ITEM_ID: 495835 ---
+左臂\0
+
+
+------------------- BPTD ( FeralGlowingOneBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 495847 ---
+右臂\0
+
+
+--- BPTN , ITEM_ID: 495855 ---
+右腿\0
+
+
+--- BPTN , ITEM_ID: 495863 ---
+左腿\0
+
+
+--- BPTN , ITEM_ID: 495871 ---
+左臂\0
+
+
+--- BPTN , ITEM_ID: 495879 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 495887 ---
+头部\0
+
+
+------------------- BPTD ( EnclaveDeathclawBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 495899 ---
+英克雷意识控制器\0
+
+
+--- BPTN , ITEM_ID: 495907 ---
+头部\0
+
+
+--- BPTN , ITEM_ID: 495915 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 495923 ---
+左臂\0
+
+
+--- BPTN , ITEM_ID: 495931 ---
+左腿\0
+
+
+--- BPTN , ITEM_ID: 495939 ---
+右腿\0
+
+
+--- BPTN , ITEM_ID: 495947 ---
+右臂\0
+
+
+------------------- BPTD ( BloatFlyBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 495959 ---
+躯体\0
+
+
+--- BPTN , ITEM_ID: 495967 ---
+右翼\0
+
+
+--- BPTN , ITEM_ID: 495975 ---
+左翼\0
+
+
+--- BPTN , ITEM_ID: 495983 ---
+头部\0
+
+
+--- BPTN , ITEM_ID: 495991 ---
+脑\0
+
+
+--- BPTN , ITEM_ID: 495999 ---
+螫刺\0
+
+
+------------------- BPTD ( TurretCeilingBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 496011 ---
+壳体\0
+
+
+--- BPTN , ITEM_ID: 496019 ---
+瞄准系统\0
+
+
+------------------- BPTD ( DogBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 496030 ---
+右腿\0
+
+
+--- BPTN , ITEM_ID: 496038 ---
+右腿\0
+
+
+--- BPTN , ITEM_ID: 496046 ---
+左腿\0
+
+
+--- BPTN , ITEM_ID: 496054 ---
+左腿\0
+
+
+--- BPTN , ITEM_ID: 496062 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 496070 ---
+头部\0
+
+
+------------------- BPTD ( MoleRat ) -------------------
+
+--- BPTN , ITEM_ID: 496082 ---
+头部\0
+
+
+--- BPTN , ITEM_ID: 496090 ---
+右后腿\0
+
+
+--- BPTN , ITEM_ID: 496098 ---
+右前腿\0
+
+
+--- BPTN , ITEM_ID: 496106 ---
+左后腿\0
+
+
+--- BPTN , ITEM_ID: 496114 ---
+左前腿\0
+
+
+--- BPTN , ITEM_ID: 496122 ---
+躯干\0
+
+
+------------------- BPTD ( Robobrainbodypartdata ) -------------------
+
+--- BPTN , ITEM_ID: 496134 ---
+战斗抑制剂\0
+
+
+--- BPTN , ITEM_ID: 496142 ---
+右履带\0
+
+
+--- BPTN , ITEM_ID: 496150 ---
+左履带\0
+
+
+--- BPTN , ITEM_ID: 496158 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 496166 ---
+头部\0
+
+
+--- BPTN , ITEM_ID: 496174 ---
+右臂\0
+
+
+--- BPTN , ITEM_ID: 496182 ---
+左臂\0
+
+
+------------------- BPTD ( ZaxEyeBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 496194 ---
+头部\0
+
+
+------------------- BPTD ( QueenAntBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 496205 ---
+右足\0
+
+
+--- BPTN , ITEM_ID: 496213 ---
+右足\0
+
+
+--- BPTN , ITEM_ID: 496221 ---
+右足\0
+
+
+--- BPTN , ITEM_ID: 496229 ---
+左足\0
+
+
+--- BPTN , ITEM_ID: 496237 ---
+左足\0
+
+
+--- BPTN , ITEM_ID: 496245 ---
+左足\0
+
+
+--- BPTN , ITEM_ID: 496253 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 496261 ---
+触角\0
+
+
+--- BPTN , ITEM_ID: 496269 ---
+头部\0
+
+
+------------------- BPTD ( EyebotBodypartdata ) -------------------
+
+--- BPTN , ITEM_ID: 496281 ---
+战斗抑制剂\0
+
+
+--- BPTN , ITEM_ID: 496289 ---
+微波除草器\0
+
+
+--- BPTN , ITEM_ID: 496297 ---
+装甲\0
+
+
+------------------- BPTD ( MRHandyBodyPartDataNoBrain ) -------------------
+
+--- BPTN , ITEM_ID: 496309 ---
+追踪传感器\0
+
+
+--- BPTN , ITEM_ID: 496317 ---
+追踪传感器\0
+
+
+--- BPTN , ITEM_ID: 496325 ---
+追踪传感器\0
+
+
+--- BPTN , ITEM_ID: 496333 ---
+主护甲\0
+
+
+--- BPTN , ITEM_ID: 496341 ---
+机械臂\0
+
+
+--- BPTN , ITEM_ID: 496349 ---
+机械臂\0
+
+
+--- BPTN , ITEM_ID: 496357 ---
+机械臂\0
+
+
+--- BPTN , ITEM_ID: 496365 ---
+推进器\0
+
+
+------------------- BPTD ( FeralGhoulBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 496377 ---
+头部\0
+
+
+--- BPTN , ITEM_ID: 496385 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 496393 ---
+左臂\0
+
+
+--- BPTN , ITEM_ID: 496401 ---
+左腿\0
+
+
+--- BPTN , ITEM_ID: 496409 ---
+右腿\0
+
+
+--- BPTN , ITEM_ID: 496417 ---
+右臂\0
+
+
+------------------- BPTD ( RadScorpionBodyPart ) -------------------
+
+--- BPTN , ITEM_ID: 496429 ---
+右足\0
+
+
+--- BPTN , ITEM_ID: 496437 ---
+右足\0
+
+
+--- BPTN , ITEM_ID: 496445 ---
+右足\0
+
+
+--- BPTN , ITEM_ID: 496453 ---
+右足\0
+
+
+--- BPTN , ITEM_ID: 496461 ---
+左足\0
+
+
+--- BPTN , ITEM_ID: 496469 ---
+左足\0
+
+
+--- BPTN , ITEM_ID: 496477 ---
+左足\0
+
+
+--- BPTN , ITEM_ID: 496485 ---
+左足\0
+
+
+--- BPTN , ITEM_ID: 496493 ---
+右钳\0
+
+
+--- BPTN , ITEM_ID: 496501 ---
+左钳\0
+
+
+--- BPTN , ITEM_ID: 496509 ---
+螫刺\0
+
+
+--- BPTN , ITEM_ID: 496517 ---
+躯体\0
+
+
+------------------- BPTD ( SentryBotBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 496529 ---
+腿部\0
+
+
+--- BPTN , ITEM_ID: 496537 ---
+左臂\0
+
+
+--- BPTN , ITEM_ID: 496545 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 496553 ---
+右臂\0
+
+
+--- BPTN , ITEM_ID: 496561 ---
+头部\0
+
+
+--- BPTN , ITEM_ID: 496569 ---
+战斗抑制剂\0
+
+
+------------------- BPTD ( DogMeatBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 496580 ---
+头部\0
+
+
+--- BPTN , ITEM_ID: 496588 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 496596 ---
+左腿\0
+
+
+--- BPTN , ITEM_ID: 496604 ---
+左腿\0
+
+
+--- BPTN , ITEM_ID: 496612 ---
+右腿\0
+
+
+--- BPTN , ITEM_ID: 496620 ---
+右腿\0
+
+
+------------------- BPTD ( MirelurkKingBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 496632 ---
+右臂\0
+
+
+--- BPTN , ITEM_ID: 496640 ---
+右腿\0
+
+
+--- BPTN , ITEM_ID: 496648 ---
+左腿\0
+
+
+--- BPTN , ITEM_ID: 496656 ---
+左臂\0
+
+
+--- BPTN , ITEM_ID: 496664 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 496672 ---
+头部\0
+
+
+------------------- BPTD ( LibertyPrimeBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 496684 ---
+头部\0
+
+
+--- BPTN , ITEM_ID: 496692 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 496700 ---
+左臂\0
+
+
+--- BPTN , ITEM_ID: 496708 ---
+左腿\0
+
+
+--- BPTN , ITEM_ID: 496716 ---
+右腿\0
+
+
+--- BPTN , ITEM_ID: 496724 ---
+右臂\0
+
+
+------------------- BPTD ( RoachBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 496735 ---
+头部\0
+
+
+--- BPTN , ITEM_ID: 496743 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 496751 ---
+左足\0
+
+
+--- BPTN , ITEM_ID: 496759 ---
+左足\0
+
+
+--- BPTN , ITEM_ID: 496767 ---
+右足\0
+
+
+--- BPTN , ITEM_ID: 496775 ---
+右足\0
+
+
+--- BPTN , ITEM_ID: 496783 ---
+右足\0
+
+
+--- BPTN , ITEM_ID: 496791 ---
+左足\0
+
+
+------------------- BPTD ( AntBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 496803 ---
+左足\0
+
+
+--- BPTN , ITEM_ID: 496811 ---
+左足\0
+
+
+--- BPTN , ITEM_ID: 496819 ---
+左足\0
+
+
+--- BPTN , ITEM_ID: 496827 ---
+右足\0
+
+
+--- BPTN , ITEM_ID: 496835 ---
+右足\0
+
+
+--- BPTN , ITEM_ID: 496843 ---
+右足\0
+
+
+--- BPTN , ITEM_ID: 496851 ---
+触角\0
+
+
+--- BPTN , ITEM_ID: 496859 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 496867 ---
+头部\0
+
+
+------------------- BPTD ( MirelurkBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 496879 ---
+右臂\0
+
+
+--- BPTN , ITEM_ID: 496887 ---
+右腿\0
+
+
+--- BPTN , ITEM_ID: 496895 ---
+左腿\0
+
+
+--- BPTN , ITEM_ID: 496903 ---
+左臂\0
+
+
+--- BPTN , ITEM_ID: 496911 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 496919 ---
+脸部\0
+
+
+------------------- BPTD ( BrahminBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 496931 ---
+头部\0
+
+
+--- BPTN , ITEM_ID: 496939 ---
+头部\0
+
+
+--- BPTN , ITEM_ID: 496947 ---
+右腿\0
+
+
+--- BPTN , ITEM_ID: 496955 ---
+左腿\0
+
+
+--- BPTN , ITEM_ID: 496963 ---
+右腿\0
+
+
+--- BPTN , ITEM_ID: 496971 ---
+左腿\0
+
+
+--- BPTN , ITEM_ID: 496979 ---
+躯干\0
+
+
+------------------- BPTD ( TurretBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 496991 ---
+底盘\0
+
+
+--- BPTN , ITEM_ID: 496999 ---
+光学镜头\0
+
+
+------------------- BPTD ( MRGutsyBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 497010 ---
+战斗抑制剂\0
+
+
+--- BPTN , ITEM_ID: 497018 ---
+追踪传感器\0
+
+
+--- BPTN , ITEM_ID: 497026 ---
+追踪传感器\0
+
+
+--- BPTN , ITEM_ID: 497034 ---
+追踪传感器\0
+
+
+--- BPTN , ITEM_ID: 497042 ---
+主护甲\0
+
+
+--- BPTN , ITEM_ID: 497050 ---
+机械臂\0
+
+
+--- BPTN , ITEM_ID: 497058 ---
+机械臂\0
+
+
+--- BPTN , ITEM_ID: 497066 ---
+机械臂\0
+
+
+--- BPTN , ITEM_ID: 497074 ---
+推进器\0
+
+
+------------------- BPTD ( MRHandyBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 497086 ---
+推进器\0
+
+
+--- BPTN , ITEM_ID: 497094 ---
+机械臂\0
+
+
+--- BPTN , ITEM_ID: 497102 ---
+机械臂\0
+
+
+--- BPTN , ITEM_ID: 497110 ---
+机械臂\0
+
+
+--- BPTN , ITEM_ID: 497118 ---
+主护甲\0
+
+
+--- BPTN , ITEM_ID: 497126 ---
+追踪传感器\0
+
+
+--- BPTN , ITEM_ID: 497134 ---
+追踪传感器\0
+
+
+--- BPTN , ITEM_ID: 497142 ---
+追踪传感器\0
+
+
+--- BPTN , ITEM_ID: 497150 ---
+战斗抑制剂\0
+
+
+------------------- BPTD ( ProtectronBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 497162 ---
+头部\0
+
+
+--- BPTN , ITEM_ID: 497170 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 497178 ---
+左臂\0
+
+
+--- BPTN , ITEM_ID: 497186 ---
+左腿\0
+
+
+--- BPTN , ITEM_ID: 497194 ---
+右腿\0
+
+
+--- BPTN , ITEM_ID: 497202 ---
+右臂\0
+
+
+--- BPTN , ITEM_ID: 497210 ---
+战斗抑制剂\0
+
+
+------------------- BPTD ( CentaurBodyPartData ) -------------------
+
+--- BPTN , ITEM_ID: 497222 ---
+头部\0
+
+
+--- BPTN , ITEM_ID: 497230 ---
+躯干\0
+
+
+--- BPTN , ITEM_ID: 497238 ---
+左足\0
+
+
+--- BPTN , ITEM_ID: 497246 ---
+左足\0
+
+
+--- BPTN , ITEM_ID: 497254 ---
+右足\0
+
+
+--- BPTN , ITEM_ID: 497262 ---
+右足\0
+
+
+--- BPTN , ITEM_ID: 497270 ---
+左足\0
+
+
+--- BPTN , ITEM_ID: 497278 ---
+右足\0
+
+
+--- BPTN , ITEM_ID: 497286 ---
+长舌\0
+
+
+--- BPTN , ITEM_ID: 497294 ---
+长舌\0
+
+
+--- BPTN , ITEM_ID: 497302 ---
+长舌\0
+
+

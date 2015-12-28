@@ -1,0 +1,522 @@
+------------------- ENCH ( CentaurRadiationPoison ) -------------------
+
+--- FULL , ITEM_ID: 7501 ---
+半人马的唾液\0
+
+
+------------------- ENCH ( EMP ) -------------------
+
+--- FULL , ITEM_ID: 7507 ---
+电磁脉冲\0
+
+
+------------------- ENCH ( EnchAntSting ) -------------------
+
+--- FULL , ITEM_ID: 7517 ---
+毒镖\0
+
+
+------------------- ENCH ( EnchBehemothWeapon ) -------------------
+
+--- FULL , ITEM_ID: 7523 ---
+消防栓\0
+
+
+------------------- ENCH ( EnchCaravanEyebotHelmet ) -------------------
+
+--- FULL , ITEM_ID: 7529 ---
+Crow's Eyebot Helmet\0          
+
+
+------------------- ENCH ( EnchClothingAdventurerWear ) -------------------
+
+--- FULL , ITEM_ID: 7535 ---
+雇佣兵套装\0
+
+
+------------------- ENCH ( EnchClothingAutumnOutfit ) -------------------
+
+--- FULL , ITEM_ID: 7543 ---
+上校秋季制服\0
+
+
+------------------- ENCH ( EnchClothingBarter ) -------------------
+
+--- FULL , ITEM_ID: 7551 ---
+交易套装\0
+
+
+------------------- ENCH ( EnchClothingBaseballCap ) -------------------
+
+--- FULL , ITEM_ID: 7557 ---
+棒球帽\0
+
+
+------------------- ENCH ( EnchClothingBusinessSuit ) -------------------
+
+--- FULL , ITEM_ID: 7563 ---
+西装\0
+
+
+------------------- ENCH ( EnchClothingChinComSuit ) -------------------
+
+--- FULL , ITEM_ID: 7569 ---
+作战服\0
+
+
+------------------- ENCH ( EnchClothingChinOffUniform ) -------------------
+
+--- FULL , ITEM_ID: 7575 ---
+军官制服\0
+
+
+------------------- ENCH ( EnchClothingClownMask ) -------------------
+
+--- FULL , ITEM_ID: 7581 ---
+肢解者面具\0      Slasher Mask
+
+
+------------------- ENCH ( EnchClothingComfortable ) -------------------
+
+--- FULL , ITEM_ID: 7587 ---
+便装\0
+
+
+------------------- ENCH ( EnchClothingCommandoJumpsuit ) -------------------
+
+--- FULL , ITEM_ID: 7593 ---
+军服\0
+
+
+------------------- ENCH ( EnchClothingDoctorsLabCoat ) -------------------
+
+--- FULL , ITEM_ID: 7599 ---
+Dr. Barrow's 实验室工作服\0
+
+
+------------------- ENCH ( EnchClothingDunceCap ) -------------------
+
+--- FULL , ITEM_ID: 7605 ---
+惩戒小帽\0
+
+
+------------------- ENCH ( EnchClothingDuster ) -------------------
+
+--- FULL , ITEM_ID: 7611 ---
+防尘外衣\0
+
+
+------------------- ENCH ( EnchClothingEulogyHat ) -------------------
+
+--- FULL , ITEM_ID: 7619 ---
+赞颂之帽\0
+
+
+------------------- ENCH ( EnchClothingEulogySuit ) -------------------
+
+--- FULL , ITEM_ID: 7625 ---
+赞颂服饰\0
+
+
+------------------- ENCH ( EnchClothingHeadSunGuard ) -------------------
+
+--- FULL , ITEM_ID: 7633 ---
+头饰\0
+
+
+------------------- ENCH ( EnchClothingLincolnsHat ) -------------------
+
+--- FULL , ITEM_ID: 7639 ---
+大礼帽\0                 （林肯的帽子）
+
+
+------------------- ENCH ( EnchClothingLingerie ) -------------------
+
+--- FULL , ITEM_ID: 7647 ---
+睡衣\0
+
+
+------------------- ENCH ( EnchClothingLuckyShades ) -------------------
+
+--- FULL , ITEM_ID: 7653 ---
+幸运墨镜\0            (unsure)lucky shades
+
+
+------------------- ENCH ( EnchClothingOfficersUniform ) -------------------
+
+--- FULL , ITEM_ID: 7659 ---
+英克雷军官制服\0
+
+
+------------------- ENCH ( EnchClothingRaider ) -------------------
+
+--- FULL , ITEM_ID: 7665 ---
+洞穴毒蛇夹克\0		（tunnel snake	）
+
+
+------------------- ENCH ( EnchClothingRepair ) -------------------
+
+--- FULL , ITEM_ID: 7671 ---
+连身衣\0
+
+
+------------------- ENCH ( EnchClothingScienceLabCoat ) -------------------
+
+--- FULL , ITEM_ID: 7677 ---
+实验室工作服\0
+
+
+------------------- ENCH ( EnchClothingShadySunGuard ) -------------------
+
+--- FULL , ITEM_ID: 7683 ---
+头饰\0
+
+
+------------------- ENCH ( EnchClothingSimmsOutfit ) -------------------
+
+--- FULL , ITEM_ID: 7691 ---
+防尘大衣\0
+
+
+------------------- ENCH ( EnchClothingSpeech ) -------------------
+
+--- FULL , ITEM_ID: 7699 ---
+商人服装\0
+
+
+------------------- ENCH ( EnchClothingVault106GasMask ) -------------------
+
+--- FULL , ITEM_ID: 7705 ---
+连身衣\0
+
+
+------------------- ENCH ( EnchClothingVaultSuit77 ) -------------------
+
+--- FULL , ITEM_ID: 7711 ---
+避难所连身衣\0
+
+
+------------------- ENCH ( EnchClothingVaultSuitNormal ) -------------------
+
+--- FULL , ITEM_ID: 7719 ---
+避难所连身衣\0
+
+
+------------------- ENCH ( EnchClothingVaultSuitSecurity ) -------------------
+
+--- FULL , ITEM_ID: 7727 ---
+警卫制服\0
+
+
+------------------- ENCH ( EnchClothingVaultSuitUtility ) -------------------
+
+--- FULL , ITEM_ID: 7733 ---
+避难所实用服装\0
+
+
+------------------- ENCH ( EnchClothingWastelandMerchant ) -------------------
+
+--- FULL , ITEM_ID: 7741 ---
+商人套装\0
+
+
+------------------- ENCH ( EnchClothingWastelandWear ) -------------------
+
+--- FULL , ITEM_ID: 7747 ---
+废土套装\0
+
+
+------------------- ENCH ( EnchDartGun ) -------------------
+
+--- FULL , ITEM_ID: 7755 ---
+毒镖\0
+
+
+------------------- ENCH ( EnchEnclaveArmor ) -------------------
+
+--- FULL , ITEM_ID: 7767 ---
+英克雷军用装甲\0
+
+
+------------------- ENCH ( EnchEnclaveArmorHelmet ) -------------------
+
+--- FULL , ITEM_ID: 7777 ---
+英克雷军用头盔\0
+
+
+------------------- ENCH ( EnchEnvironmentSuit ) -------------------
+
+--- FULL , ITEM_ID: 7785 ---
+环境装甲\0
+
+
+------------------- ENCH ( EnchFlamerEffect ) -------------------
+
+--- FULL , ITEM_ID: 7797 ---
+燃烧\0
+
+
+------------------- ENCH ( EnchFootballHelmet ) -------------------
+
+--- FULL , ITEM_ID: 7805 ---
+橄榄球头盔\0
+
+
+------------------- ENCH ( EnchGlowingOneAttack ) -------------------
+
+--- FULL , ITEM_ID: 7811 ---
+放射物迸发\0              （radiation burst）
+
+
+------------------- ENCH ( EnchHockeyMask ) -------------------
+
+--- FULL , ITEM_ID: 7819 ---
+曲棍球面罩\0
+
+
+------------------- ENCH ( EnchMetalArmor ) -------------------
+
+--- FULL , ITEM_ID: 7825 ---
+铁装甲\0
+
+
+------------------- ENCH ( EnchPowerArmor ) -------------------
+
+--- FULL , ITEM_ID: 7831 ---
+动力装甲\0
+
+
+------------------- ENCH ( EnchPowerArmorHelmet ) -------------------
+
+--- FULL , ITEM_ID: 7841 ---
+动力装甲头盔\0
+
+
+------------------- ENCH ( EnchRadiationAdvSuit ) -------------------
+
+--- FULL , ITEM_ID: 7847 ---
+高放射衣服\0
+
+
+------------------- ENCH ( EnchRadiationSuit ) -------------------
+
+--- FULL , ITEM_ID: 7856 ---
+放射物衣服\0
+
+
+------------------- ENCH ( EnchReconArmor ) -------------------
+
+--- FULL , ITEM_ID: 7866 ---
+初期装甲\0        Initiate Armor
+
+
+------------------- ENCH ( EnchRedRacerLabCoat ) -------------------
+
+--- FULL , ITEM_ID: 7872 ---
+实验室工作服\0
+
+
+------------------- ENCH ( EnchRobobrainAttack ) -------------------
+
+--- FULL , ITEM_ID: 7880 ---
+精神侵袭\0
+
+
+------------------- ENCH ( EnchShocker ) -------------------
+
+--- FULL , ITEM_ID: 7886 ---
+受惊吓\0
+
+
+------------------- ENCH ( EnchSilencedMetalArmor ) -------------------
+
+--- FULL , ITEM_ID: 7892 ---
+铁装甲\0
+
+
+------------------- ENCH ( EnchSuitAntAgonizer ) -------------------
+
+--- FULL , ITEM_ID: 7900 ---
+敌对者服装\0           AntAgonizer Costume
+
+
+------------------- ENCH ( EnchSuitMechanist ) -------------------
+
+--- FULL , ITEM_ID: 7908 ---
+机械师装束\0      Mechanist Costume
+
+
+------------------- ENCH ( EnchT51bArmor ) -------------------
+
+--- FULL , ITEM_ID: 7916 ---
+T-51b 装甲\0
+
+
+------------------- ENCH ( EnchT51bArmorHelmet ) -------------------
+
+--- FULL , ITEM_ID: 7922 ---
+T-51b 头盔\0
+
+
+------------------- ENCH ( EnchTenpennySuit ) -------------------
+
+--- FULL , ITEM_ID: 7930 ---
+Tenpenny's 服装\0
+
+
+------------------- ENCH ( EnchTeslaArmor ) -------------------
+
+--- FULL , ITEM_ID: 7938 ---
+特斯拉装甲\0              
+
+
+------------------- ENCH ( EnchTeslaArmorHelmet ) -------------------
+
+--- FULL , ITEM_ID: 7946 ---
+特斯拉装甲头盔\0
+
+
+------------------- ENCH ( EnchTorchersMask ) -------------------
+
+--- FULL , ITEM_ID: 7954 ---
+防弹头盔\0           （帽）
+
+
+------------------- ENCH ( EnchWanderersArmor ) -------------------
+
+--- FULL , ITEM_ID: 7962 ---
+游荡者的皮甲\0          Wand. Leather Arm.可能错了，应是 Wanderers' Leather Armor
+
+
+------------------- ENCH ( EnchWeapUniqueTenderizer ) -------------------
+
+--- FULL , ITEM_ID: 7968 ---
+护甲受损\0           词很简单，armor damage
+
+
+------------------- ENCH ( FollowersCharonShotgunENCH ) -------------------
+
+--- FULL , ITEM_ID: 7974 ---
+Charon's 霰弹枪\0
+
+
+------------------- ENCH ( ForgeEMP ) -------------------
+
+--- FULL , ITEM_ID: 7980 ---
+电磁脉冲\0
+
+
+------------------- ENCH ( LiberyPrimeMess ) -------------------
+
+--- FULL , ITEM_ID: 7987 ---
+Liberty Prime mess\0		Liberty Prime为一个机器人，需要统一翻译
+
+
+------------------- ENCH ( MirelurkShriek ) -------------------
+
+--- FULL , ITEM_ID: 7993 ---
+Mirelurk Shriek\0		Mirelurk专有词，需统一翻译，可能翻译：“泥潭潜伏者的尖叫”
+
+
+------------------- ENCH ( MQ02ThreeDogHeadWrapEnch ) -------------------
+
+--- FULL , ITEM_ID: 8001 ---
+Three Dog's 头巾\0
+
+
+------------------- ENCH ( MS03ClothingSurgicalMask ) -------------------
+
+--- FULL , ITEM_ID: 8009 ---
+手术口罩\0
+
+
+------------------- ENCH ( MS03ClothingVaultSuitCombat ) -------------------
+
+--- FULL , ITEM_ID: 8019 ---
+避难所作战服\0
+
+
+------------------- ENCH ( MS03MoleRatRepellantEnchantment ) -------------------
+
+--- FULL , ITEM_ID: 8027 ---
+驱鼠剂\0
+
+
+------------------- ENCH ( MS04EnchClothingAAttire ) -------------------
+
+--- FULL , ITEM_ID: 8033 ---
+顽皮的夜语\0     Naughty Nightspeech
+
+
+------------------- ENCH ( MS04EnchClothingLeskosLabCoat ) -------------------
+
+--- FULL , ITEM_ID: 8041 ---
+实验室工作服\0
+
+
+------------------- ENCH ( MS09EnchClothingVancesCoat ) -------------------
+
+--- FULL , ITEM_ID: 8049 ---
+Covenleader's Aid\0
+
+
+------------------- ENCH ( MS10EnchClothingOasisGarb ) -------------------
+
+--- FULL , ITEM_ID: 8059 ---
+看守的视野\0                Mindersight
+
+
+------------------- ENCH ( MS10EnchClothingOasisHood ) -------------------
+
+--- FULL , ITEM_ID: 8067 ---
+Minderlithe\0                Minderlithe
+
+
+------------------- ENCH ( MS10EnchLindenPowerArmor ) -------------------
+
+--- FULL , ITEM_ID: 8075 ---
+Linden's 动力装甲\0
+
+
+------------------- ENCH ( MS13CollarEnchantment ) -------------------
+
+--- FULL , ITEM_ID: 8087 ---
+奴隶项圈\0
+
+
+------------------- ENCH ( MS13MesmetronEnch ) -------------------
+
+--- FULL , ITEM_ID: 8093 ---
+Mesmetron\0           不知，说是迷魂枪
+
+
+------------------- ENCH ( MS14EnchPowerArmor ) -------------------
+
+--- FULL , ITEM_ID: 8102 ---
+动力装甲\0
+
+
+------------------- ENCH ( MS15EnchClothingButtonsWig ) -------------------
+
+--- FULL , ITEM_ID: 8112 ---
+绅士风度\0
+
+
+------------------- ENCH ( MS16EnchVaultSuitUtility ) -------------------
+
+--- FULL , ITEM_ID: 8124 ---
+避难所多用途服装\0		（实用）
+
+
+------------------- ENCH ( MS18EnchRangerArmor ) -------------------
+
+--- FULL , ITEM_ID: 8134 ---
+突击队战斗装甲\0
+
+
+------------------- ENCH ( MSMiniEnchLedouxHockeyMask ) -------------------
+
+--- FULL , ITEM_ID: 8144 ---
+Ledoux's 曲棍球面罩\0
+
+

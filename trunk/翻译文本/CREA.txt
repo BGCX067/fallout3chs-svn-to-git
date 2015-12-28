@@ -1,0 +1,2094 @@
+------------------- CREA ( MS15SupermutantMelee ) -------------------
+
+--- FULL , ITEM_ID: 85547 ---
+超级变种人\0
+
+
+------------------- CREA ( MS15ThomasJefferson ) -------------------
+
+--- FULL , ITEM_ID: 85568 ---
+Thomas Jefferson\0
+
+
+------------------- CREA ( MS15Turret ) -------------------
+
+--- FULL , ITEM_ID: 85601 ---
+第二代炮台\0
+
+
+------------------- CREA ( MS16Andy ) -------------------
+
+--- FULL , ITEM_ID: 85634 ---
+Andy\0
+
+
+------------------- CREA ( MS17VaultTecMasterbrain ) -------------------
+
+--- FULL , ITEM_ID: 85666 ---
+教主大脑\0
+
+
+------------------- CREA ( MS18WreckedProtectron01 ) -------------------
+
+--- FULL , ITEM_ID: 85700 ---
+维持保护装置\0
+
+
+------------------- CREA ( NtlGuardDepotCrMisterGutsy ) -------------------
+
+--- FULL , ITEM_ID: 85727 ---
+Mister Gutsy\0
+
+
+------------------- CREA ( NtlGuardDepotCrProtectron ) -------------------
+
+--- FULL , ITEM_ID: 85763 ---
+保护器\0
+
+
+------------------- CREA ( NtlGuardDepotCrRobobrain ) -------------------
+
+--- FULL , ITEM_ID: 85797 ---
+机器人大脑\0
+
+
+------------------- CREA ( NtlGuardDepotCrSentryBotGL ) -------------------
+
+--- FULL , ITEM_ID: 85831 ---
+哨兵机器人\0
+
+
+------------------- CREA ( NtlGuardDepotCrSentryBotMG ) -------------------
+
+--- FULL , ITEM_ID: 85866 ---
+哨兵机器人\0
+
+
+------------------- CREA ( NukaColaProtectron ) -------------------
+
+--- FULL , ITEM_ID: 85901 ---
+核子可乐保安\0
+
+
+------------------- CREA ( OasisKingSniper ) -------------------
+
+--- FULL , ITEM_ID: 85933 ---
+泥潭潜伏者之王\0
+
+
+------------------- CREA ( OasisMirelurkAmbusher ) -------------------
+
+--- FULL , ITEM_ID: 85963 ---
+泥潭潜伏者\0
+
+
+------------------- CREA ( OurLadyHopeMisterHandy ) -------------------
+
+--- FULL , ITEM_ID: 85991 ---
+Mister Handy\0
+
+
+------------------- CREA ( OutcastWastelandPatrolA1 ) -------------------
+
+--- FULL , ITEM_ID: 86025 ---
+保护器弃民\0
+
+
+------------------- CREA ( OutcastWastelandPatrolB1 ) -------------------
+
+--- FULL , ITEM_ID: 86060 ---
+机器人大脑弃民\0
+
+
+------------------- CREA ( RadroachGoldRibbon ) -------------------
+
+--- FULL , ITEM_ID: 86093 ---
+幅射蟑螂\0
+
+
+------------------- CREA ( RadroachTravel ) -------------------
+
+--- FULL , ITEM_ID: 86132 ---
+幅射蟑螂\0
+
+
+------------------- CREA ( RadscorpionHunterPrey ) -------------------
+
+--- FULL , ITEM_ID: 86173 ---
+鼹鼠\0
+
+
+------------------- CREA ( RaiderBrahmin ) -------------------
+
+--- FULL , ITEM_ID: 86201 ---
+双头牛\0
+
+
+------------------- CREA ( RaiderMoleRatRace01 ) -------------------
+
+--- FULL , ITEM_ID: 86231 ---
+鼹鼠\0
+
+
+------------------- CREA ( RaiderMoleRatRace02 ) -------------------
+
+--- FULL , ITEM_ID: 86262 ---
+鼹鼠\0
+
+
+------------------- CREA ( RavenRockCrDeathClawEnclave01 ) -------------------
+
+--- FULL , ITEM_ID: 86293 ---
+死亡爪\0
+
+
+------------------- CREA ( RavenRockCrSentryBotGLEnclave ) -------------------
+
+--- FULL , ITEM_ID: 86327 ---
+英克雷哨岗机器人\0
+
+
+------------------- CREA ( RavenRockCrSentryBotGLEnclave02 ) -------------------
+
+--- FULL , ITEM_ID: 86363 ---
+英克雷哨岗机器人\0
+
+
+------------------- CREA ( RavenRockCrSentryBotMGEnclave ) -------------------
+
+--- FULL , ITEM_ID: 86399 ---
+英克雷哨岗机器人\0
+
+
+------------------- CREA ( RavenRockCrSentryBotMGEnclave02 ) -------------------
+
+--- FULL , ITEM_ID: 86435 ---
+英克雷哨岗机器人\0
+
+
+------------------- CREA ( RCMisterBuckingham ) -------------------
+
+--- FULL , ITEM_ID: 86471 ---
+Mister Buckingham\0
+
+
+------------------- CREA ( RCPrivateJones ) -------------------
+
+--- FULL , ITEM_ID: 86520 ---
+Private Jones\0
+
+
+------------------- CREA ( RCTurret01 ) -------------------
+
+--- FULL , ITEM_ID: 86558 ---
+第二代炮台\0
+
+
+------------------- CREA ( redRacerMonster ) -------------------
+
+--- FULL , ITEM_ID: 86587 ---
+Stefan\0
+
+
+------------------- CREA ( RHSProtectron ) -------------------
+
+--- FULL , ITEM_ID: 86620 ---
+Dean Dewey\0
+
+
+------------------- CREA ( RL3Follower ) -------------------
+
+--- FULL , ITEM_ID: 86656 ---
+警官RL-3\0
+
+
+------------------- CREA ( RobcoMoleRat ) -------------------
+
+--- FULL , ITEM_ID: 86697 ---
+鼹鼠\0
+
+
+------------------- CREA ( RobcoProtectron ) -------------------
+
+--- FULL , ITEM_ID: 86727 ---
+保护器\0
+
+
+------------------- CREA ( robcoRoach ) -------------------
+
+--- FULL , ITEM_ID: 86763 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( RobcoRobot ) -------------------
+
+--- FULL , ITEM_ID: 86802 ---
+保护器\0
+
+
+------------------- CREA ( RobcoTurretCeiling ) -------------------
+
+--- FULL , ITEM_ID: 86837 ---
+第一代炮台\0
+
+
+------------------- CREA ( SamuelFeralGhoulGlowingOne ) -------------------
+
+--- FULL , ITEM_ID: 86868 ---
+Samuel\0
+
+
+------------------- CREA ( Sawbones ) -------------------
+
+--- FULL , ITEM_ID: 86899 ---
+外科医生\0
+
+
+------------------- CREA ( Shakes ) -------------------
+
+--- FULL , ITEM_ID: 86932 ---
+震动\0
+
+
+------------------- CREA ( ShalebridgeAntQueen ) -------------------
+
+--- FULL , ITEM_ID: 86968 ---
+巨型蚂蚁女皇\0
+
+
+------------------- CREA ( ShalebridgeBlackAnt ) -------------------
+
+--- FULL , ITEM_ID: 86997 ---
+变种抢夺者蚂蚁\0
+
+
+------------------- CREA ( ShalebridgeFFAntInvader ) -------------------
+
+--- FULL , ITEM_ID: 87022 ---
+入侵者蚂蚁\0
+
+
+------------------- CREA ( SniperShackRadroach01 ) -------------------
+
+--- FULL , ITEM_ID: 87052 ---
+软毛毛\0
+
+
+------------------- CREA ( SniperShackRadroach02 ) -------------------
+
+--- FULL , ITEM_ID: 87092 ---
+Jitters\0
+
+
+------------------- CREA ( TLHendersonRobot ) -------------------
+
+--- FULL , ITEM_ID: 87132 ---
+Mr. Handy\0
+
+
+------------------- CREA ( UnderworldEthyl ) -------------------
+
+--- FULL , ITEM_ID: 87167 ---
+乙烷基\0
+
+
+------------------- CREA ( UnderworldMeat ) -------------------
+
+--- FULL , ITEM_ID: 87197 ---
+肉\0
+
+
+------------------- CREA ( Vault87aCentaur ) -------------------
+
+--- FULL , ITEM_ID: 87227 ---
+半人马\0
+
+
+------------------- CREA ( WastelandCraterScorpion ) -------------------
+
+--- FULL , ITEM_ID: 87257 ---
+辐射蝎\0
+
+
+------------------- CREA ( wastelandRoachKingRoach ) -------------------
+
+--- FULL , ITEM_ID: 87286 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( YaoGuaiDenRunner ) -------------------
+
+--- FULL , ITEM_ID: 87325 ---
+妖怪\0
+
+
+------------------- CREA ( YaoGuaiScavenger ) -------------------
+
+--- FULL , ITEM_ID: 87354 ---
+食腐妖怪\0
+
+
+------------------- CREA ( adamsMorganRoach ) -------------------
+
+--- FULL , ITEM_ID: 87382 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( BrahminWasteland ) -------------------
+
+--- FULL , ITEM_ID: 87420 ---
+双头牛\0
+
+
+------------------- CREA ( CagedDeathclawEnclave ) -------------------
+
+--- FULL , ITEM_ID: 87450 ---
+死亡爪\0
+
+
+------------------- CREA ( CaravanCrowBrahmin ) -------------------
+
+--- FULL , ITEM_ID: 87481 ---
+Crow's Pack Brahmin\0
+
+
+------------------- CREA ( CaravanHarithBrahmin ) -------------------
+
+--- FULL , ITEM_ID: 87512 ---
+Harith's Pack Brahmin\0
+
+
+------------------- CREA ( CaravanHoffBrahmin ) -------------------
+
+--- FULL , ITEM_ID: 87543 ---
+Hoff's Pack Brahmin\0
+
+
+------------------- CREA ( CaravanWolfgangBrahmin ) -------------------
+
+--- FULL , ITEM_ID: 87574 ---
+Wolfgang's Pack Brahmin\0
+
+
+------------------- CREA ( Cerberus ) -------------------
+
+--- FULL , ITEM_ID: 87604 ---
+三头犬\0
+
+
+------------------- CREA ( CG02Andy ) -------------------
+
+--- FULL , ITEM_ID: 87639 ---
+Andy\0
+
+
+------------------- CREA ( CG02Radroach ) -------------------
+
+--- FULL , ITEM_ID: 87674 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( CG03Andy ) -------------------
+
+--- FULL , ITEM_ID: 87714 ---
+Andy\0
+
+
+------------------- CREA ( CG04Andy ) -------------------
+
+--- FULL , ITEM_ID: 87747 ---
+Andy\0
+
+
+------------------- CREA ( CG04ButchRadroach ) -------------------
+
+--- FULL , ITEM_ID: 87782 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( CG04Radroach ) -------------------
+
+--- FULL , ITEM_ID: 87823 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( CG04RadroachAmbushA ) -------------------
+
+--- FULL , ITEM_ID: 87863 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( CG04RadroachGloriaMack ) -------------------
+
+--- FULL , ITEM_ID: 87905 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( CG04RadroachGuard ) -------------------
+
+--- FULL , ITEM_ID: 87947 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( CG04RadroachSpawn ) -------------------
+
+--- FULL , ITEM_ID: 87986 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( CG04RadroachStanley ) -------------------
+
+--- FULL , ITEM_ID: 88027 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( CrAnt1Worker ) -------------------
+
+--- FULL , ITEM_ID: 88070 ---
+巨型工蚁\0
+
+
+------------------- CREA ( CrAnt2Soldier ) -------------------
+
+--- FULL , ITEM_ID: 88098 ---
+巨型兵蚁\0
+
+
+------------------- CREA ( CrAnt3Queen ) -------------------
+
+--- FULL , ITEM_ID: 88126 ---
+巨型蚁后\0
+
+
+------------------- CREA ( CrBloatFly ) -------------------
+
+--- FULL , ITEM_ID: 88154 ---
+飞艇\0
+
+
+------------------- CREA ( CrBrahmin ) -------------------
+
+--- FULL , ITEM_ID: 88185 ---
+双头牛\0
+
+
+------------------- CREA ( CrBrahminPackA ) -------------------
+
+--- FULL , ITEM_ID: 88214 ---
+双头牛\0
+
+
+------------------- CREA ( CrBrahminPackB ) -------------------
+
+--- FULL , ITEM_ID: 88243 ---
+双头牛\0
+
+
+------------------- CREA ( CrCentaur ) -------------------
+
+--- FULL , ITEM_ID: 88272 ---
+半人马\0
+
+
+------------------- CREA ( CrDeathClaw ) -------------------
+
+--- FULL , ITEM_ID: 88300 ---
+死亡爪\0
+
+
+------------------- CREA ( CrDeathClawEnclave ) -------------------
+
+--- FULL , ITEM_ID: 88327 ---
+死亡爪\0
+
+
+------------------- CREA ( CrDog ) -------------------
+
+--- FULL , ITEM_ID: 88355 ---
+狗\0
+
+
+------------------- CREA ( CrDogRaider ) -------------------
+
+--- FULL , ITEM_ID: 88383 ---
+匪徒看门狗\0
+
+
+------------------- CREA ( CrDogTalonCompany ) -------------------
+
+--- FULL , ITEM_ID: 88412 ---
+利爪公司看门狗\0
+
+
+------------------- CREA ( CrDogVicious ) -------------------
+
+--- FULL , ITEM_ID: 88441 ---
+恶狗\0
+
+
+------------------- CREA ( CrDogWastelander ) -------------------
+
+--- FULL , ITEM_ID: 88469 ---
+狗\0
+
+
+------------------- CREA ( CrEyebotEnclave ) -------------------
+
+--- FULL , ITEM_ID: 88497 ---
+英克雷监视机器人\0
+
+
+------------------- CREA ( CrEyebotEnclaveVertibird ) -------------------
+
+--- FULL , ITEM_ID: 88531 ---
+英克雷监视机器人\0
+
+
+------------------- CREA ( CrFeralGhoul1A ) -------------------
+
+--- FULL , ITEM_ID: 88567 ---
+野僵尸\0
+
+
+------------------- CREA ( CrFeralGhoul1B ) -------------------
+
+--- FULL , ITEM_ID: 88595 ---
+野僵尸\0
+
+
+------------------- CREA ( CrFeralGhoul2A ) -------------------
+
+--- FULL , ITEM_ID: 88624 ---
+野僵尸旅人\0
+
+
+------------------- CREA ( CrFeralGhoul2B ) -------------------
+
+--- FULL , ITEM_ID: 88652 ---
+野僵尸旅人\0
+
+
+------------------- CREA ( CrFeralGhoulGlowingOne ) -------------------
+
+--- FULL , ITEM_ID: 88681 ---
+闪光者\0
+
+
+------------------- CREA ( CrMirelurk1 ) -------------------
+
+--- FULL , ITEM_ID: 88711 ---
+泥潭潜伏者\0
+
+
+------------------- CREA ( CrMirelurk2 ) -------------------
+
+--- FULL , ITEM_ID: 88737 ---
+泥潭潜伏者猎手\0
+
+
+------------------- CREA ( CrMirelurk3King ) -------------------
+
+--- FULL , ITEM_ID: 88764 ---
+泥潭潜伏者之王\0
+
+
+------------------- CREA ( CrMisterGutsy ) -------------------
+
+--- FULL , ITEM_ID: 88793 ---
+Mister Gutsy\0
+
+
+------------------- CREA ( CrMisterGutsyEnclave ) -------------------
+
+--- FULL , ITEM_ID: 88829 ---
+Mister Gutsy\0
+
+
+------------------- CREA ( CrMisterGutsyOutcast ) -------------------
+
+--- FULL , ITEM_ID: 88863 ---
+Mister Gutsy\0
+
+
+------------------- CREA ( CrMisterGutsySteel ) -------------------
+
+--- FULL , ITEM_ID: 88897 ---
+Mister Gutsy\0
+
+
+------------------- CREA ( CrMisterHandy ) -------------------
+
+--- FULL , ITEM_ID: 88931 ---
+Mister Handy\0
+
+
+------------------- CREA ( CrMoleRat ) -------------------
+
+--- FULL , ITEM_ID: 88965 ---
+鼹鼠\0
+
+
+------------------- CREA ( CrProtectron ) -------------------
+
+--- FULL , ITEM_ID: 88993 ---
+保护器\0
+
+
+------------------- CREA ( CrProtectronArmy ) -------------------
+
+--- FULL , ITEM_ID: 89027 ---
+保护器\0
+
+
+------------------- CREA ( CrProtectronEnclave ) -------------------
+
+--- FULL , ITEM_ID: 89061 ---
+保护器\0
+
+
+------------------- CREA ( CrProtectronOutcast ) -------------------
+
+--- FULL , ITEM_ID: 89093 ---
+保护器\0
+
+
+------------------- CREA ( CrProtectronSteel ) -------------------
+
+--- FULL , ITEM_ID: 89125 ---
+保护器\0
+
+
+------------------- CREA ( CrRadroach ) -------------------
+
+--- FULL , ITEM_ID: 89157 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( CrRadscorpion1Small ) -------------------
+
+--- FULL , ITEM_ID: 89196 ---
+辐射蝎\0
+
+
+------------------- CREA ( CrRadscorpion2Large ) -------------------
+
+--- FULL , ITEM_ID: 89224 ---
+巨型辐射蝎\0
+
+
+------------------- CREA ( CrRobobrain ) -------------------
+
+--- FULL , ITEM_ID: 89252 ---
+机器人大脑\0
+
+
+------------------- CREA ( CrRobobrainArmy ) -------------------
+
+--- FULL , ITEM_ID: 89285 ---
+机器人大脑\0
+
+
+------------------- CREA ( CrRobobrainEnclave ) -------------------
+
+--- FULL , ITEM_ID: 89318 ---
+机器人大脑\0
+
+
+------------------- CREA ( CrRobobrainOutcast ) -------------------
+
+--- FULL , ITEM_ID: 89349 ---
+机器人大脑\0
+
+
+------------------- CREA ( CrRobobrainSteel ) -------------------
+
+--- FULL , ITEM_ID: 89380 ---
+机器人大脑\0
+
+
+------------------- CREA ( CrSentryBotGL ) -------------------
+
+--- FULL , ITEM_ID: 89411 ---
+哨兵机器人\0
+
+
+------------------- CREA ( CrSentryBotGLArmy ) -------------------
+
+--- FULL , ITEM_ID: 89446 ---
+哨兵机器人\0
+
+
+------------------- CREA ( CrSentryBotGLEnclave ) -------------------
+
+--- FULL , ITEM_ID: 89481 ---
+哨兵机器人\0
+
+
+------------------- CREA ( CrSentryBotGLOutcast ) -------------------
+
+--- FULL , ITEM_ID: 89516 ---
+哨兵机器人\0
+
+
+------------------- CREA ( CrSentryBotGLSteel ) -------------------
+
+--- FULL , ITEM_ID: 89549 ---
+哨兵机器人\0
+
+
+------------------- CREA ( CrSentryBotMG ) -------------------
+
+--- FULL , ITEM_ID: 89583 ---
+哨兵机器人\0
+
+
+------------------- CREA ( CrSentryBotMGArmy ) -------------------
+
+--- FULL , ITEM_ID: 89618 ---
+哨兵机器人\0
+
+
+------------------- CREA ( CrSentryBotMGEnclave ) -------------------
+
+--- FULL , ITEM_ID: 89653 ---
+哨兵机器人\0
+
+
+------------------- CREA ( CrSentryBotMGOutcast ) -------------------
+
+--- FULL , ITEM_ID: 89686 ---
+哨兵机器人\0
+
+
+------------------- CREA ( CrSentryBotMGSteel ) -------------------
+
+--- FULL , ITEM_ID: 89719 ---
+哨兵机器人\0
+
+
+------------------- CREA ( CrSuperMutant1GunA ) -------------------
+
+--- FULL , ITEM_ID: 89752 ---
+超级变种人\0
+
+
+------------------- CREA ( CrSuperMutant1GunB ) -------------------
+
+--- FULL , ITEM_ID: 89781 ---
+超级变种人\0
+
+
+------------------- CREA ( CrSuperMutant1GunC ) -------------------
+
+--- FULL , ITEM_ID: 89811 ---
+超级变种人\0
+
+
+------------------- CREA ( CrSuperMutant1GunD ) -------------------
+
+--- FULL , ITEM_ID: 89841 ---
+超级变种人\0
+
+
+------------------- CREA ( CrSuperMutant1GunE ) -------------------
+
+--- FULL , ITEM_ID: 89871 ---
+超级变种人\0
+
+
+------------------- CREA ( CrSuperMutant1GunF ) -------------------
+
+--- FULL , ITEM_ID: 89901 ---
+超级变种人\0
+
+
+------------------- CREA ( CrSuperMutant1MeleeA ) -------------------
+
+--- FULL , ITEM_ID: 89931 ---
+超级变种人\0
+
+
+------------------- CREA ( CrSuperMutant1MeleeB ) -------------------
+
+--- FULL , ITEM_ID: 89961 ---
+超级变种人\0
+
+
+------------------- CREA ( CrSuperMutant1MeleeC ) -------------------
+
+--- FULL , ITEM_ID: 89992 ---
+超级变种人\0
+
+
+------------------- CREA ( CrSuperMutant1MeleeD ) -------------------
+
+--- FULL , ITEM_ID: 90023 ---
+超级变种人\0
+
+
+------------------- CREA ( CrSuperMutant1MeleeE ) -------------------
+
+--- FULL , ITEM_ID: 90054 ---
+超级变种人\0
+
+
+------------------- CREA ( CrSuperMutant1MeleeF ) -------------------
+
+--- FULL , ITEM_ID: 90085 ---
+超级变种人\0
+
+
+------------------- CREA ( CrSuperMutant2GunA ) -------------------
+
+--- FULL , ITEM_ID: 90116 ---
+超级变种人杂碎\0
+
+
+------------------- CREA ( CrSuperMutant2GunB ) -------------------
+
+--- FULL , ITEM_ID: 90145 ---
+超级变种人杂碎\0
+
+
+------------------- CREA ( CrSuperMutant2GunC ) -------------------
+
+--- FULL , ITEM_ID: 90175 ---
+超级变种人杂碎\0
+
+
+------------------- CREA ( CrSuperMutant2MeleeA ) -------------------
+
+--- FULL , ITEM_ID: 90205 ---
+超级变种人杂碎\0
+
+
+------------------- CREA ( CrSuperMutant2MeleeB ) -------------------
+
+--- FULL , ITEM_ID: 90235 ---
+超级变种人杂碎\0
+
+
+------------------- CREA ( CrSuperMutant2MeleeC ) -------------------
+
+--- FULL , ITEM_ID: 90266 ---
+超级变种人杂碎\0
+
+
+------------------- CREA ( CrSuperMutant2MinigunA ) -------------------
+
+--- FULL , ITEM_ID: 90297 ---
+超级变种人杂碎\0
+
+
+------------------- CREA ( CrSuperMutant2MinigunB ) -------------------
+
+--- FULL , ITEM_ID: 90326 ---
+超级变种人杂碎\0
+
+
+------------------- CREA ( CrSuperMutant2MinigunC ) -------------------
+
+--- FULL , ITEM_ID: 90356 ---
+超级变种人杂碎\0
+
+
+------------------- CREA ( CrSuperMutant2MissileLauncherA ) -------------------
+
+--- FULL , ITEM_ID: 90386 ---
+超级变种人杂碎\0
+
+
+------------------- CREA ( CrSuperMutant2MissileLauncherB ) -------------------
+
+--- FULL , ITEM_ID: 90415 ---
+超级变种人杂碎\0
+
+
+------------------- CREA ( CrSuperMutant2MissileLauncherC ) -------------------
+
+--- FULL , ITEM_ID: 90445 ---
+超级变种人杂碎\0
+
+
+------------------- CREA ( CrSuperMutant3GunA ) -------------------
+
+--- FULL , ITEM_ID: 90475 ---
+超级变种人大师\0
+
+
+------------------- CREA ( CrSuperMutant3GunB ) -------------------
+
+--- FULL , ITEM_ID: 90504 ---
+超级变种人大师\0
+
+
+------------------- CREA ( CrSuperMutant3MeleeA ) -------------------
+
+--- FULL , ITEM_ID: 90534 ---
+超级变种人大师\0
+
+
+------------------- CREA ( CrSuperMutant3MeleeB ) -------------------
+
+--- FULL , ITEM_ID: 90564 ---
+超级变种人大师\0
+
+
+------------------- CREA ( CrSuperMutant3MinigunA ) -------------------
+
+--- FULL , ITEM_ID: 90595 ---
+超级变种人大师\0
+
+
+------------------- CREA ( CrSuperMutant3MinigunB ) -------------------
+
+--- FULL , ITEM_ID: 90624 ---
+超级变种人大师\0
+
+
+------------------- CREA ( CrSuperMutant3MissileLauncherA ) -------------------
+
+--- FULL , ITEM_ID: 90654 ---
+超级变种人大师\0
+
+
+------------------- CREA ( CrSuperMutant3MissileLauncherB ) -------------------
+
+--- FULL , ITEM_ID: 90683 ---
+超级变种人大师\0
+
+
+------------------- CREA ( CrSuperMutantBehemoth ) -------------------
+
+--- FULL , ITEM_ID: 90713 ---
+超级变种人巨人\0
+
+
+------------------- CREA ( CrTurret01 ) -------------------
+
+--- FULL , ITEM_ID: 90755 ---
+第二代炮台\0
+
+
+------------------- CREA ( CrTurret01Enclave ) -------------------
+
+--- FULL , ITEM_ID: 90788 ---
+第二代炮台\0
+
+
+------------------- CREA ( CrTurret01Outcast ) -------------------
+
+--- FULL , ITEM_ID: 90816 ---
+第二代炮台\0
+
+
+------------------- CREA ( CrTurret01Steel ) -------------------
+
+--- FULL , ITEM_ID: 90844 ---
+第二代炮台\0
+
+
+------------------- CREA ( CrTurret02 ) -------------------
+
+--- FULL , ITEM_ID: 90872 ---
+第四代炮台\0
+
+
+------------------- CREA ( CrTurret02Enclave ) -------------------
+
+--- FULL , ITEM_ID: 90905 ---
+第四代炮台\0
+
+
+------------------- CREA ( CrTurret02Outcast ) -------------------
+
+--- FULL , ITEM_ID: 90934 ---
+第四代炮台\0
+
+
+------------------- CREA ( CrTurret02Steel ) -------------------
+
+--- FULL , ITEM_ID: 90963 ---
+第四代炮台\0
+
+
+------------------- CREA ( CrTurret03 ) -------------------
+
+--- FULL , ITEM_ID: 90992 ---
+第六代炮台\0
+
+
+------------------- CREA ( CrTurret03Enclave ) -------------------
+
+--- FULL , ITEM_ID: 91025 ---
+第六代炮台\0
+
+
+------------------- CREA ( CrTurret03Outcast ) -------------------
+
+--- FULL , ITEM_ID: 91056 ---
+第六代炮台\0
+
+
+------------------- CREA ( CrTurret03Steel ) -------------------
+
+--- FULL , ITEM_ID: 91087 ---
+第六代炮台\0
+
+
+------------------- CREA ( CrTurretCeiling01 ) -------------------
+
+--- FULL , ITEM_ID: 91118 ---
+第一代炮台\0
+
+
+------------------- CREA ( CrTurretCeiling02 ) -------------------
+
+--- FULL , ITEM_ID: 91150 ---
+第三代炮台\0
+
+
+------------------- CREA ( CrTurretCeiling03 ) -------------------
+
+--- FULL , ITEM_ID: 91183 ---
+第五代炮台\0
+
+
+------------------- CREA ( CrYaoGuai ) -------------------
+
+--- FULL , ITEM_ID: 91216 ---
+妖怪\0
+
+
+------------------- CREA ( CrZaxEye ) -------------------
+
+--- FULL , ITEM_ID: 91244 ---
+Eye Intercom\0
+
+
+------------------- CREA ( DCSDeathClaw ) -------------------
+
+--- FULL , ITEM_ID: 91264 ---
+死亡爪\0
+
+
+------------------- CREA ( DCWorld05Behemoth ) -------------------
+
+--- FULL , ITEM_ID: 91292 ---
+超级变种人巨人\0
+
+
+------------------- CREA ( DeadAnt1 ) -------------------
+
+--- FULL , ITEM_ID: 91335 ---
+巨型蚂蚁\0
+
+
+------------------- CREA ( DeadAnt2 ) -------------------
+
+--- FULL , ITEM_ID: 91363 ---
+火焰蚂蚁\0
+
+
+------------------- CREA ( DeadBrahmin ) -------------------
+
+--- FULL , ITEM_ID: 91392 ---
+正在腐烂的双头牛尸体\0
+
+
+------------------- CREA ( DEADCrYaoGuai ) -------------------
+
+--- FULL , ITEM_ID: 91417 ---
+妖怪\0
+
+
+------------------- CREA ( DEADDeathClaw ) -------------------
+
+--- FULL , ITEM_ID: 91446 ---
+死亡爪\0
+
+
+------------------- CREA ( DEADDeathClawEnclave ) -------------------
+
+--- FULL , ITEM_ID: 91474 ---
+死亡爪\0
+
+
+------------------- CREA ( DeadDogVicious ) -------------------
+
+--- FULL , ITEM_ID: 91502 ---
+恶狗\0
+
+
+------------------- CREA ( DeadEyebotEnclave ) -------------------
+
+--- FULL , ITEM_ID: 91529 ---
+英克雷监视机器人\0
+
+
+------------------- CREA ( DeadMirelurk01 ) -------------------
+
+--- FULL , ITEM_ID: 91560 ---
+泥潭潜伏者\0
+
+
+------------------- CREA ( DeadMirelurk02 ) -------------------
+
+--- FULL , ITEM_ID: 91586 ---
+泥潭潜伏者\0
+
+
+------------------- CREA ( DeadMoleRat ) -------------------
+
+--- FULL , ITEM_ID: 91613 ---
+鼹鼠\0
+
+
+------------------- CREA ( DeadMuffy ) -------------------
+
+--- FULL , ITEM_ID: 91639 ---
+Muffy\0
+
+
+------------------- CREA ( DeadProtectron ) -------------------
+
+--- FULL , ITEM_ID: 91665 ---
+保护器\0
+
+
+------------------- CREA ( DeadSuperMutant1Gun ) -------------------
+
+--- FULL , ITEM_ID: 91699 ---
+超级变种人\0
+
+
+------------------- CREA ( DeadSuperMutant1GunNOAMMO ) -------------------
+
+--- FULL , ITEM_ID: 91727 ---
+超级变种人\0
+
+
+------------------- CREA ( DeadSuperMutant2Melee ) -------------------
+
+--- FULL , ITEM_ID: 91755 ---
+超级变种人杂碎\0
+
+
+------------------- CREA ( DemoAnt1 ) -------------------
+
+--- FULL , ITEM_ID: 91785 ---
+巨型蚂蚁\0
+
+
+------------------- CREA ( DemoAnt2 ) -------------------
+
+--- FULL , ITEM_ID: 91813 ---
+巨型蚂蚁\0
+
+
+------------------- CREA ( DemoDeadAnt1 ) -------------------
+
+--- FULL , ITEM_ID: 91841 ---
+巨型蚂蚁\0
+
+
+------------------- CREA ( DeputySteel ) -------------------
+
+--- FULL , ITEM_ID: 91869 ---
+钢铁副手\0
+
+
+------------------- CREA ( DeputyWeld ) -------------------
+
+--- FULL , ITEM_ID: 91906 ---
+锻造副手\0
+
+
+------------------- CREA ( DogScavenger ) -------------------
+
+--- FULL , ITEM_ID: 91941 ---
+食腐狗\0
+
+
+------------------- CREA ( Dunwich02FeralGhoulGlowingOne ) -------------------
+
+--- FULL , ITEM_ID: 91970 ---
+闪光者\0
+
+
+------------------- CREA ( EnclaveWastelandPatrolC1 ) -------------------
+
+--- FULL , ITEM_ID: 92001 ---
+英克雷监视机器人\0
+
+
+------------------- CREA ( EnclaveWastelandPatrolD1 ) -------------------
+
+--- FULL , ITEM_ID: 92034 ---
+英克雷监视机器人\0
+
+
+------------------- CREA ( EvergreenAntSoldierGladiator ) -------------------
+
+--- FULL , ITEM_ID: 92067 ---
+巨型兵蚁\0
+
+
+------------------- CREA ( EvergreenMillsBehemoth ) -------------------
+
+--- FULL , ITEM_ID: 92095 ---
+超级变种人巨人\0
+
+
+------------------- CREA ( EvergreenSuperMutantGladiator ) -------------------
+
+--- FULL , ITEM_ID: 92128 ---
+超级变种人\0
+
+
+------------------- CREA ( FallsChurchSuperMutantDEAD ) -------------------
+
+--- FULL , ITEM_ID: 92148 ---
+超级变种人\0
+
+
+------------------- CREA ( FallsChurchSuperMutantDEAD02 ) -------------------
+
+--- FULL , ITEM_ID: 92177 ---
+超级变种人\0
+
+
+------------------- CREA ( FeralGhoulDEAD ) -------------------
+
+--- FULL , ITEM_ID: 92206 ---
+野蛮僵尸\0
+
+
+------------------- CREA ( FEVSubject ) -------------------
+
+--- FULL , ITEM_ID: 92234 ---
+放弃的FEV项目\0
+
+
+------------------- CREA ( FFCorpseRoach ) -------------------
+
+--- FULL , ITEM_ID: 92259 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( FFDCworld11ServantBot ) -------------------
+
+--- FULL , ITEM_ID: 92298 ---
+Mister Handy\0
+
+
+------------------- CREA ( FFEnclaveCampTurret ) -------------------
+
+--- FULL , ITEM_ID: 92338 ---
+第六代炮台\0
+
+
+------------------- CREA ( FFER01Radscorpion ) -------------------
+
+--- FULL , ITEM_ID: 92369 ---
+巨型辐射蝎\0
+
+
+------------------- CREA ( FFER02Ant ) -------------------
+
+--- FULL , ITEM_ID: 92398 ---
+巨型兵蚁\0
+
+
+------------------- CREA ( FFER04Radroach ) -------------------
+
+--- FULL , ITEM_ID: 92428 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( FFER05Dog ) -------------------
+
+--- FULL , ITEM_ID: 92467 ---
+食腐狗\0
+
+
+------------------- CREA ( FFER05YaoGuai ) -------------------
+
+--- FULL , ITEM_ID: 92495 ---
+食腐妖怪\0
+
+
+------------------- CREA ( FFER07Dog ) -------------------
+
+--- FULL , ITEM_ID: 92522 ---
+恶狗\0
+
+
+------------------- CREA ( FFER10Dog ) -------------------
+
+--- FULL , ITEM_ID: 92551 ---
+食腐狗\0
+
+
+------------------- CREA ( FFER10YaoGuai ) -------------------
+
+--- FULL , ITEM_ID: 92580 ---
+食腐妖怪\0
+
+
+------------------- CREA ( FFER11Eyebot ) -------------------
+
+--- FULL , ITEM_ID: 92608 ---
+英克雷监视机器人\0
+
+
+------------------- CREA ( FFER15Dog ) -------------------
+
+--- FULL , ITEM_ID: 92643 ---
+食腐狗\0
+
+
+------------------- CREA ( FFER15YaoGuai ) -------------------
+
+--- FULL , ITEM_ID: 92672 ---
+食腐妖怪\0
+
+
+------------------- CREA ( FFER53DeathClaw ) -------------------
+
+--- FULL , ITEM_ID: 92699 ---
+死亡爪\0
+
+
+------------------- CREA ( FFER54Robot1 ) -------------------
+
+--- FULL , ITEM_ID: 92728 ---
+Mister Handy\0
+
+
+------------------- CREA ( FFER54Robot2 ) -------------------
+
+--- FULL , ITEM_ID: 92763 ---
+保护器\0
+
+
+------------------- CREA ( FFER58Dog ) -------------------
+
+--- FULL , ITEM_ID: 92798 ---
+食腐狗\0
+
+
+------------------- CREA ( FFER58YaoGuai ) -------------------
+
+--- FULL , ITEM_ID: 92827 ---
+食腐妖怪\0
+
+
+------------------- CREA ( FFER61Dog ) -------------------
+
+--- FULL , ITEM_ID: 92853 ---
+恶狗\0
+
+
+------------------- CREA ( FFER62Eyebot ) -------------------
+
+--- FULL , ITEM_ID: 92882 ---
+英克雷监视机器人\0
+
+
+------------------- CREA ( FFER65EnclaveDeathclaw ) -------------------
+
+--- FULL , ITEM_ID: 92918 ---
+死亡爪\0
+
+
+------------------- CREA ( FFER66UncleLeo ) -------------------
+
+--- FULL , ITEM_ID: 92945 ---
+Uncle Leo\0
+
+
+------------------- CREA ( FFER67EnclaveDeathclaw ) -------------------
+
+--- FULL , ITEM_ID: 92977 ---
+死亡爪\0
+
+
+------------------- CREA ( FFER73Dog ) -------------------
+
+--- FULL , ITEM_ID: 93004 ---
+食腐狗\0
+
+
+------------------- CREA ( FFER73YaoGuai ) -------------------
+
+--- FULL , ITEM_ID: 93034 ---
+食腐妖怪\0
+
+
+------------------- CREA ( FFER74FireAntSoldier ) -------------------
+
+--- FULL , ITEM_ID: 93061 ---
+火焰兵蚁\0
+
+
+------------------- CREA ( FFER74FireAntWorker ) -------------------
+
+--- FULL , ITEM_ID: 93093 ---
+火焰工蚁\0
+
+
+------------------- CREA ( FFER78Brahmin ) -------------------
+
+--- FULL , ITEM_ID: 93125 ---
+双头牛\0
+
+
+------------------- CREA ( FFEU02DeathClaw ) -------------------
+
+--- FULL , ITEM_ID: 93156 ---
+死亡爪\0
+
+
+------------------- CREA ( FFEU04DeathClaw ) -------------------
+
+--- FULL , ITEM_ID: 93184 ---
+死亡爪\0
+
+
+------------------- CREA ( FFEU05Radscorpion ) -------------------
+
+--- FULL , ITEM_ID: 93212 ---
+巨型辐射蝎\0
+
+
+------------------- CREA ( FFEU10Robot1 ) -------------------
+
+--- FULL , ITEM_ID: 93241 ---
+Mister Handy\0
+
+
+------------------- CREA ( FFEU11YaoGuai ) -------------------
+
+--- FULL , ITEM_ID: 93276 ---
+食腐妖怪\0
+
+
+------------------- CREA ( FFEU12YaoGuai ) -------------------
+
+--- FULL , ITEM_ID: 93302 ---
+食腐妖怪\0
+
+
+------------------- CREA ( FFEU16Dog ) -------------------
+
+--- FULL , ITEM_ID: 93328 ---
+恶狗\0
+
+
+------------------- CREA ( FFEU255Dogmeat ) -------------------
+
+--- FULL , ITEM_ID: 93357 ---
+狗肉\0
+
+
+------------------- CREA ( FFEU58Brahmin ) -------------------
+
+--- FULL , ITEM_ID: 93397 ---
+Mad Brahmin\0
+
+
+------------------- CREA ( FFMutantCamp01Behemoth ) -------------------
+
+--- FULL , ITEM_ID: 93428 ---
+超级变种人巨人\0
+
+
+------------------- CREA ( FFRaiderCamp17SuperMutantDead ) -------------------
+
+--- FULL , ITEM_ID: 93471 ---
+超级变种人\0
+
+
+------------------- CREA ( ForgeCrProtectronDEAD ) -------------------
+
+--- FULL , ITEM_ID: 93501 ---
+保护器\0
+
+
+------------------- CREA ( ForgeCrProtectronDEAD02 ) -------------------
+
+--- FULL , ITEM_ID: 93535 ---
+保护器\0
+
+
+------------------- CREA ( ForgeCrProtectronDEAD03 ) -------------------
+
+--- FULL , ITEM_ID: 93569 ---
+保护器\0
+
+
+------------------- CREA ( ForgeGenericProtectron ) -------------------
+
+--- FULL , ITEM_ID: 93603 ---
+保护器\0
+
+
+------------------- CREA ( ForgeGenericProtectron02 ) -------------------
+
+--- FULL , ITEM_ID: 93641 ---
+保护器\0
+
+
+------------------- CREA ( fortBMisterGutsySteel ) -------------------
+
+--- FULL , ITEM_ID: 93679 ---
+Mister Gutsy\0
+
+
+------------------- CREA ( FriendshipCaptiveRadroach ) -------------------
+
+--- FULL , ITEM_ID: 93714 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( FriendshipMetroMetroRoach ) -------------------
+
+--- FULL , ITEM_ID: 93753 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( FriendshipMetroRoach02 ) -------------------
+
+--- FULL , ITEM_ID: 93792 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( GenericFactoryProtectron ) -------------------
+
+--- FULL , ITEM_ID: 93831 ---
+工厂保护器\0
+
+
+------------------- CREA ( GenericMetroProtectron ) -------------------
+
+--- FULL , ITEM_ID: 93868 ---
+地铁保护器\0
+
+
+------------------- CREA ( genericMilitaryMrGutsy ) -------------------
+
+--- FULL , ITEM_ID: 93905 ---
+Mister Gutsy\0
+
+
+------------------- CREA ( genericOfficeProtectron ) -------------------
+
+--- FULL , ITEM_ID: 93941 ---
+保护器\0
+
+
+------------------- CREA ( genericPodProtectron ) -------------------
+
+--- FULL , ITEM_ID: 93978 ---
+保护器\0
+
+
+------------------- CREA ( genericUtilityProtectron ) -------------------
+
+--- FULL , ITEM_ID: 94012 ---
+保护器\0
+
+
+------------------- CREA ( GenericVaultProtectron ) -------------------
+
+--- FULL , ITEM_ID: 94049 ---
+保护器\0
+
+
+------------------- CREA ( germPoliceHQRadRoach ) -------------------
+
+--- FULL , ITEM_ID: 94086 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( HD00MrHandyGodfrey ) -------------------
+
+--- FULL , ITEM_ID: 94127 ---
+Godfrey\0
+
+
+------------------- CREA ( HD00MrHandyWadsworth ) -------------------
+
+--- FULL , ITEM_ID: 94161 ---
+Wadsworth\0
+
+
+------------------- CREA ( LDCrSuperMutantBehemothCapitolBuilding ) -------------------
+
+--- FULL , ITEM_ID: 94195 ---
+超级变种人巨人\0
+
+
+------------------- CREA ( LDDeadMolerat ) -------------------
+
+--- FULL , ITEM_ID: 94243 ---
+鼹鼠\0
+
+
+------------------- CREA ( LDFortCDeadGhoul01 ) -------------------
+
+--- FULL , ITEM_ID: 94269 ---
+野蛮僵尸\0
+
+
+------------------- CREA ( LDJuryBossPet ) -------------------
+
+--- FULL , ITEM_ID: 94298 ---
+南瓜\0
+
+
+------------------- CREA ( LLDog1 ) -------------------
+
+--- FULL , ITEM_ID: 94327 ---
+流氓\0
+
+
+------------------- CREA ( LLDog2 ) -------------------
+
+--- FULL , ITEM_ID: 94358 ---
+土匪\0
+
+
+------------------- CREA ( LLDog3 ) -------------------
+
+--- FULL , ITEM_ID: 94389 ---
+生姜\0
+
+
+------------------- CREA ( LLDog4 ) -------------------
+
+--- FULL , ITEM_ID: 94420 ---
+傻瓜脸\0
+
+
+------------------- CREA ( LLDog5 ) -------------------
+
+--- FULL , ITEM_ID: 94451 ---
+Pete\0
+
+
+------------------- CREA ( LLDog6 ) -------------------
+
+--- FULL , ITEM_ID: 94482 ---
+Rex\0
+
+
+------------------- CREA ( LvlSupermutantGunDISMEMBER ) -------------------
+
+--- FULL , ITEM_ID: 94513 ---
+超级变种人\0
+
+
+------------------- CREA ( LvlSupermutantGunDISMEMBERNOAMMO ) -------------------
+
+--- FULL , ITEM_ID: 94531 ---
+超级变种人\0
+
+
+------------------- CREA ( LvlSupermutantMeleeDISMEMBER ) -------------------
+
+--- FULL , ITEM_ID: 94549 ---
+超级变种人\0
+
+
+------------------- CREA ( LvlSupermutantMeleeDISMEMBERNOAMMO ) -------------------
+
+--- FULL , ITEM_ID: 94567 ---
+超级变种人\0
+
+
+------------------- CREA ( MegatonBrahmin ) -------------------
+
+--- FULL , ITEM_ID: 94585 ---
+双头牛\0
+
+
+------------------- CREA ( MegatonMisterMulberry ) -------------------
+
+--- FULL , ITEM_ID: 94614 ---
+Mister Mulberry\0
+
+
+------------------- CREA ( MetroCenter02Protectron ) -------------------
+
+--- FULL , ITEM_ID: 94646 ---
+地铁保护器\0
+
+
+------------------- CREA ( MetroCenter02SuperMutant01 ) -------------------
+
+--- FULL , ITEM_ID: 94684 ---
+超级变种人\0
+
+
+------------------- CREA ( MetroCenter02SuperMutant02 ) -------------------
+
+--- FULL , ITEM_ID: 94707 ---
+超级变种人\0
+
+
+------------------- CREA ( MisterKellerGlowingOne ) -------------------
+
+--- FULL , ITEM_ID: 94729 ---
+闪光者\0
+
+
+------------------- CREA ( MQ01Behemoth ) -------------------
+
+--- FULL , ITEM_ID: 94761 ---
+超级变种人巨人\0
+
+
+------------------- CREA ( MQ03Robobrain ) -------------------
+
+--- FULL , ITEM_ID: 94801 ---
+机器人大脑\0
+
+
+------------------- CREA ( MQ03Robobrain2 ) -------------------
+
+--- FULL , ITEM_ID: 94837 ---
+机器人大脑\0
+
+
+------------------- CREA ( MQ04Doc ) -------------------
+
+--- FULL , ITEM_ID: 94872 ---
+医生\0
+
+
+------------------- CREA ( MQ04RoboCustodian ) -------------------
+
+--- FULL , ITEM_ID: 94899 ---
+机器人大脑\0
+
+
+------------------- CREA ( MQ05TunnelBot ) -------------------
+
+--- FULL , ITEM_ID: 94933 ---
+英克雷监视机器人\0
+
+
+------------------- CREA ( MQ08Fawkes ) -------------------
+
+--- FULL , ITEM_ID: 94968 ---
+Fawkes\0
+
+
+------------------- CREA ( MQ09ControlRoomSentryBot ) -------------------
+
+--- FULL , ITEM_ID: 95014 ---
+哨兵机器人\0
+
+
+------------------- CREA ( MQ09ControlRoomSentryBot2 ) -------------------
+
+--- FULL , ITEM_ID: 95050 ---
+哨兵机器人\0
+
+
+------------------- CREA ( MQ09HoldingCellZaxEye ) -------------------
+
+--- FULL , ITEM_ID: 95086 ---
+Eye Intercom\0
+
+
+------------------- CREA ( MQ09ZAXEyeMasterControl ) -------------------
+
+--- FULL , ITEM_ID: 95108 ---
+Eye Intercom\0
+
+
+------------------- CREA ( MQ11EyebotKamikaze ) -------------------
+
+--- FULL , ITEM_ID: 95130 ---
+英克雷监视机器人\0
+
+
+------------------- CREA ( MQ11LibertyPrime ) -------------------
+
+--- FULL , ITEM_ID: 95164 ---
+自由总理\0
+
+
+------------------- CREA ( MS01BigTownSuperMutant1 ) -------------------
+
+--- FULL , ITEM_ID: 95206 ---
+超级变种人\0
+
+
+------------------- CREA ( MS01BigTownSuperMutant2 ) -------------------
+
+--- FULL , ITEM_ID: 95233 ---
+超级变种人\0
+
+
+------------------- CREA ( MS01BigTownSuperMutant3 ) -------------------
+
+--- FULL , ITEM_ID: 95261 ---
+超级变种人\0
+
+
+------------------- CREA ( MS01KitchenSuperMutant ) -------------------
+
+--- FULL , ITEM_ID: 95286 ---
+超级变种人\0
+
+
+------------------- CREA ( MS01RobotDefender1 ) -------------------
+
+--- FULL , ITEM_ID: 95309 ---
+哨兵机器人\0
+
+
+------------------- CREA ( MS01RobotDefender2 ) -------------------
+
+--- FULL , ITEM_ID: 95346 ---
+保护器\0
+
+
+------------------- CREA ( MS02Protectron1 ) -------------------
+
+--- FULL , ITEM_ID: 95382 ---
+保护器\0
+
+
+------------------- CREA ( MS02Protectron2 ) -------------------
+
+--- FULL , ITEM_ID: 95415 ---
+保护器\0
+
+
+------------------- CREA ( MS02Protectron3 ) -------------------
+
+--- FULL , ITEM_ID: 95448 ---
+保护器\0
+
+
+------------------- CREA ( MS02Protectron4 ) -------------------
+
+--- FULL , ITEM_ID: 95481 ---
+保护器\0
+
+
+------------------- CREA ( MS03Centaur ) -------------------
+
+--- FULL , ITEM_ID: 95514 ---
+Clancy\0
+
+
+------------------- CREA ( MS03MirelurkKing ) -------------------
+
+--- FULL , ITEM_ID: 95540 ---
+泥潭潜伏者皇帝\0
+
+
+------------------- CREA ( MS03Radroach ) -------------------
+
+--- FULL , ITEM_ID: 95571 ---
+辐射蟑螂\0
+
+
+------------------- CREA ( MS04CrAnt1MarigoldWorker ) -------------------
+
+--- FULL , ITEM_ID: 95613 ---
+火焰工蚁\0
+
+
+------------------- CREA ( MS04CrAnt1Worker ) -------------------
+
+--- FULL , ITEM_ID: 95645 ---
+火焰工蚁\0
+
+
+------------------- CREA ( MS04CrAnt2MarigoldSoldier ) -------------------
+
+--- FULL , ITEM_ID: 95680 ---
+火焰兵蚁\0
+
+
+------------------- CREA ( MS04CrAnt2Soldier ) -------------------
+
+--- FULL , ITEM_ID: 95712 ---
+火焰兵蚁\0
+
+
+------------------- CREA ( MS04CrAnt3MarigoldWarrior ) -------------------
+
+--- FULL , ITEM_ID: 95747 ---
+火焰蚁勇士\0
+
+
+------------------- CREA ( MS04CrAnt3NestGuard ) -------------------
+
+--- FULL , ITEM_ID: 95779 ---
+火焰蚁巢守卫\0
+
+
+------------------- CREA ( MS04CrAnt3Warrior ) -------------------
+
+--- FULL , ITEM_ID: 95813 ---
+火焰蚁勇士\0
+
+
+------------------- CREA ( MS04CrQueenAnt ) -------------------
+
+--- FULL , ITEM_ID: 95847 ---
+金盏花蚁后\0
+
+
+------------------- CREA ( MS04DoctorLeskosRobot ) -------------------
+
+--- FULL , ITEM_ID: 95878 ---
+保护器\0
+
+
+------------------- CREA ( MS05NukaColaFactoryForeman ) -------------------
+
+--- FULL , ITEM_ID: 95913 ---
+远洋工头\0
+
+
+------------------- CREA ( MS05NukaColaMireLurk1 ) -------------------
+
+--- FULL , ITEM_ID: 95947 ---
+NukaLurk\0
+
+
+------------------- CREA ( MS05NukaColaMireLurk2 ) -------------------
+
+--- FULL , ITEM_ID: 95973 ---
+NukaLurk\0
+
+
+------------------- CREA ( MS06Brahmin ) -------------------
+
+--- FULL , ITEM_ID: 95999 ---
+双头牛\0
+
+
+------------------- CREA ( MS06BrahminLoaded ) -------------------
+
+--- FULL , ITEM_ID: 96033 ---
+双头牛\0
+
+
+------------------- CREA ( MS06SuperMutantGunDEAD ) -------------------
+
+--- FULL , ITEM_ID: 96067 ---
+超级变种人\0
+
+
+------------------- CREA ( MS06SuperMutantMeleeDEAD ) -------------------
+
+--- FULL , ITEM_ID: 96097 ---
+超级变种人杂碎\0
+
+
+------------------- CREA ( MS06TempleDog ) -------------------
+
+--- FULL , ITEM_ID: 96129 ---
+四分\0
+
+
+------------------- CREA ( MS12FeralGhoul1A ) -------------------
+
+--- FULL , ITEM_ID: 96169 ---
+野蛮僵尸\0
+
+
+------------------- CREA ( MS12FeralGhoul1B ) -------------------
+
+--- FULL , ITEM_ID: 96201 ---
+野蛮僵尸\0
+
+
+------------------- CREA ( MS12FeralGhoul2A ) -------------------
+
+--- FULL , ITEM_ID: 96233 ---
+野蛮僵尸旅人\0
+
+
+------------------- CREA ( MS12FeralGhoul2B ) -------------------
+
+--- FULL , ITEM_ID: 96265 ---
+野蛮僵尸旅人\0
+
+
+------------------- CREA ( MS12FeralGhoulAttack1A ) -------------------
+
+--- FULL , ITEM_ID: 96297 ---
+野蛮僵尸\0
+
+
+------------------- CREA ( MS12FeralGhoulAttack1B ) -------------------
+
+--- FULL , ITEM_ID: 96327 ---
+野蛮僵尸\0
+
+
+------------------- CREA ( MS12FeralGhoulAttack2A ) -------------------
+
+--- FULL , ITEM_ID: 96357 ---
+野蛮僵尸旅人\0
+
+
+------------------- CREA ( MS12FeralGhoulAttack2B ) -------------------
+
+--- FULL , ITEM_ID: 96387 ---
+野蛮僵尸旅人\0
+
+
+------------------- CREA ( MS12FeralGhoulAttackGlowingOne ) -------------------
+
+--- FULL , ITEM_ID: 96417 ---
+闪光者\0
+
+
+------------------- CREA ( MS12FeralGhoulCorpseBasement ) -------------------
+
+--- FULL , ITEM_ID: 96449 ---
+野蛮僵尸\0
+
+
+------------------- CREA ( MS12FeralGhoulGlowingOne ) -------------------
+
+--- FULL , ITEM_ID: 96479 ---
+闪光者\0
+
+
+------------------- CREA ( MS15BackupProtectron ) -------------------
+
+--- FULL , ITEM_ID: 96513 ---
+备用保护单元\0
+
+
+------------------- CREA ( MS15ButtonGwinnett ) -------------------
+
+--- FULL , ITEM_ID: 96547 ---
+Button Gwinnett\0
+
+
+------------------- CREA ( MS15Supermutant1AssaultRifle ) -------------------
+
+--- FULL , ITEM_ID: 96582 ---
+超级变种人\0
+
+
+------------------- CREA ( MS15SupermutantBigGun ) -------------------
+
+--- FULL , ITEM_ID: 96603 ---
+超级变种人\0
+
+

@@ -1,0 +1,252 @@
+------------------- PROJ ( 10mmBulletAutoProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105186 ---
+10mm ×Óµ¯\0
+
+
+------------------- PROJ ( 10mmBulletProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105196 ---
+À´¸£²½Ç¹×Óµ¯\0
+
+
+------------------- PROJ ( 10mmBulletSilencedProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105206 ---
+À´¸£²½Ç¹×Óµ¯\0
+
+
+------------------- PROJ ( 32CalPistolBulletProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105216 ---
+.32 ×Óµ¯\0
+
+
+------------------- PROJ ( 32CalRifleBulletProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105226 ---
+.32 ×Óµ¯\0
+
+
+------------------- PROJ ( 44MagnumBulletProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105236 ---
+.44 Magnum ×Óµ¯\0
+
+
+------------------- PROJ ( 556mmBulletProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105246 ---
+5.56mm ×Óµ¯\0
+
+
+------------------- PROJ ( AlienBlasterProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105256 ---
+ÍâÐÇÕñµ´²¨\0
+
+
+------------------- PROJ ( AntFireSpitProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105266 ---
+ÂìÒÏÕ³Òº\0
+
+
+------------------- PROJ ( AntSpitProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105275 ---
+ÂìÒÏÕ³Òº\0
+
+
+------------------- PROJ ( BBProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105284 ---
+BB µ¯\0
+
+
+------------------- PROJ ( BeamLaserAutoProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105294 ---
+¼¤¹âÊø\0
+
+
+------------------- PROJ ( BeamLaserProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105304 ---
+¼¤¹âÊø\0
+
+
+------------------- PROJ ( BloatflyDart ) -------------------
+
+--- FULL , ITEM_ID: 105314 ---
+·ÉïÚ\0
+
+
+------------------- PROJ ( BoulderProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105323 ---
+ÀùÊ¯\0
+
+
+------------------- PROJ ( CentaurSpitProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105335 ---
+¶à½ÅÊÞµÄÕ³Òº\0
+
+
+------------------- PROJ ( DartGun ) -------------------
+
+--- FULL , ITEM_ID: 105344 ---
+·ÉïÚ\0
+
+
+------------------- PROJ ( FatMan ) -------------------
+
+--- FULL , ITEM_ID: 105353 ---
+Ð¡ÐÍºËµ¯\0
+
+
+------------------- PROJ ( FlameProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105362 ---
+»ðÑæ\0
+
+
+------------------- PROJ ( FlameProjectileANT ) -------------------
+
+--- FULL , ITEM_ID: 105372 ---
+»ðÑæ\0
+
+
+------------------- PROJ ( FusionCarBatteryProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105382 ---
+ºËÈÚÆû³µµç³Ø\0
+
+
+------------------- PROJ ( GrenadeFragProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105394 ---
+ÊÖÁñµ¯(ÆÆÆ¬)\0
+
+
+------------------- PROJ ( GrenadeNukaProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105406 ---
+ÊÖÁñµ¯(ºË×Ó)\0
+
+
+------------------- PROJ ( GrenadePlasmaProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105418 ---
+ÊÖÁñµ¯(µç½¬)\0
+
+
+------------------- PROJ ( GrenadePulseProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105430 ---
+ÊÖÁñµ¯(Âö³å)\0
+
+
+------------------- PROJ ( MineBottleCapProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105442 ---
+µØÀ×(Æ¿¸Ç)\0
+
+
+------------------- PROJ ( MineFragProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105454 ---
+µØÀ×(ÆÆÆ¬)\0
+
+
+------------------- PROJ ( MinePlasmaProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105466 ---
+µØÀ×(µç½¬)\0
+
+
+------------------- PROJ ( MinePulseProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105478 ---
+µØÀ×(Âö³å)\0
+
+
+------------------- PROJ ( MinigunBulletProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105490 ---
+À´¸£Ç¹×Óµ¯\0
+
+
+------------------- PROJ ( MissLauncherProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105500 ---
+»ð¼ýµ¯\0
+
+
+------------------- PROJ ( MLMissileProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105510 ---
+»ð¼ýµ¯\0
+
+
+------------------- PROJ ( PlasmaProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105520 ---
+µç½¬Êø\0
+
+
+------------------- PROJ ( PlasmaProjectile02 ) -------------------
+
+--- FULL , ITEM_ID: 105530 ---
+µç½¬Êø\0
+
+
+------------------- PROJ ( PrimeLaserProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105540 ---
+¼¤¹âÊø\0
+
+
+------------------- PROJ ( ProtectronHeadLaserProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105550 ---
+¼¤¹âÊø\0
+
+
+------------------- PROJ ( RockitLauncherProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105560 ---
+»õ½¦·¢ÉäÆ÷ ×°ÌîÎï\0
+
+
+------------------- PROJ ( ShotgunShellProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105569 ---
+ö±µ¯Ç¹µ¯Ò©\0
+
+
+------------------- PROJ ( SniperRifleBulletProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105579 ---
+5.56mm ×Óµ¯\0
+
+
+------------------- PROJ ( Stranger44MagnumBulletProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105589 ---
+.44 Magnum×Óµ¯\0
+
+
+------------------- PROJ ( TrapBaseballProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105599 ---
+°ôÇò\0
+
+
+------------------- PROJ ( ZhuRong10mmBulletProjectile ) -------------------
+
+--- FULL , ITEM_ID: 105608 ---
+Ã«ÉªÇ¹×Óµ¯\0
+
+

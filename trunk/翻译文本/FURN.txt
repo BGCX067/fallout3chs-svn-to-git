@@ -1,0 +1,954 @@
+------------------- FURN ( SubDiningChairL ) -------------------
+
+--- FULL , ITEM_ID: 37684 ---
+餐椅\0
+
+
+------------------- FURN ( SubDiningChairR ) -------------------
+
+--- FULL , ITEM_ID: 37691 ---
+餐椅\0
+
+
+------------------- FURN ( SubDiningChairTableL ) -------------------
+
+--- FULL , ITEM_ID: 37698 ---
+餐椅\0
+
+
+------------------- FURN ( SubDiningChairTableR ) -------------------
+
+--- FULL , ITEM_ID: 37705 ---
+餐椅\0
+
+
+------------------- FURN ( SubQueenBed01BothSides ) -------------------
+
+--- FULL , ITEM_ID: 37712 ---
+小床\0
+
+
+------------------- FURN ( SubQueenBed01DirtyBothSides ) -------------------
+
+--- FULL , ITEM_ID: 37719 ---
+大号双人床\0
+
+
+------------------- FURN ( SubQueenBed01DirtyL ) -------------------
+
+--- FULL , ITEM_ID: 37726 ---
+大号双人床\0
+
+
+------------------- FURN ( SubQueenBed01DirtyR ) -------------------
+
+--- FULL , ITEM_ID: 37733 ---
+大号双人床\0
+
+
+------------------- FURN ( SubQueenBed01L ) -------------------
+
+--- FULL , ITEM_ID: 37740 ---
+大号双人床\0
+
+
+------------------- FURN ( SubQueenBed01R ) -------------------
+
+--- FULL , ITEM_ID: 37747 ---
+大号双人床\0
+
+
+------------------- FURN ( SubSingleBed01DirtyL ) -------------------
+
+--- FULL , ITEM_ID: 37754 ---
+小床\0
+
+
+------------------- FURN ( SubSingleBed01DirtyR ) -------------------
+
+--- FULL , ITEM_ID: 37761 ---
+小床\0
+
+
+------------------- FURN ( SubSingleBed01L ) -------------------
+
+--- FULL , ITEM_ID: 37768 ---
+小床\0
+
+
+------------------- FURN ( SubSingleBed01R ) -------------------
+
+--- FULL , ITEM_ID: 37775 ---
+小床\0
+
+
+------------------- FURN ( SuperMutantBedL ) -------------------
+
+--- FULL , ITEM_ID: 37782 ---
+简易寝具\0
+
+
+------------------- FURN ( SuperMutantBedR ) -------------------
+
+--- FULL , ITEM_ID: 37789 ---
+简易寝具\0
+
+
+------------------- FURN ( VaultSchoolDeskDirtyL ) -------------------
+
+--- FULL , ITEM_ID: 37796 ---
+桌子\0
+
+
+------------------- FURN ( VaultSchoolDeskDirtyR ) -------------------
+
+--- FULL , ITEM_ID: 37803 ---
+桌子\0
+
+
+------------------- FURN ( VaultSchoolDeskLeft ) -------------------
+
+--- FULL , ITEM_ID: 37810 ---
+桌子\0
+
+
+------------------- FURN ( VaultSchoolDeskRight ) -------------------
+
+--- FULL , ITEM_ID: 37817 ---
+桌子\0
+
+
+------------------- FURN ( VBedSingle01 ) -------------------
+
+--- FULL , ITEM_ID: 37824 ---
+小床\0
+
+
+------------------- FURN ( VBedSingleL01 ) -------------------
+
+--- FULL , ITEM_ID: 37831 ---
+小床\0
+
+
+------------------- FURN ( VBedSingleR01 ) -------------------
+
+--- FULL , ITEM_ID: 37838 ---
+小床\0
+
+
+------------------- FURN ( VBench01 ) -------------------
+
+--- FULL , ITEM_ID: 37845 ---
+小床\0
+
+
+------------------- FURN ( WallMarker ) -------------------
+
+--- FULL , ITEM_ID: 37852 ---
+WallLean\0
+
+
+------------------- FURN ( BedFrame01Bunk ) -------------------
+
+--- FULL , ITEM_ID: 37858 ---
+双层床\0
+
+
+------------------- FURN ( BedHeart ) -------------------
+
+--- FULL , ITEM_ID: 37865 ---
+小床\0
+
+
+------------------- FURN ( BedMattress01BB ) -------------------
+
+--- FULL , ITEM_ID: 37872 ---
+小床\0
+
+
+------------------- FURN ( BedMattress01BT ) -------------------
+
+--- FULL , ITEM_ID: 37879 ---
+小床\0
+
+
+------------------- FURN ( BedMattress01FloorL ) -------------------
+
+--- FULL , ITEM_ID: 37886 ---
+小床\0
+
+
+------------------- FURN ( BedMattress01FloorR ) -------------------
+
+--- FULL , ITEM_ID: 37893 ---
+小床\0
+
+
+------------------- FURN ( BedMattress01L ) -------------------
+
+--- FULL , ITEM_ID: 37900 ---
+小床\0
+
+
+------------------- FURN ( BedMattress01R ) -------------------
+
+--- FULL , ITEM_ID: 37907 ---
+小床\0
+
+
+------------------- FURN ( BedQueenBothSides ) -------------------
+
+--- FULL , ITEM_ID: 37914 ---
+小床\0
+
+
+------------------- FURN ( BedQueenLeft ) -------------------
+
+--- FULL , ITEM_ID: 37921 ---
+小床\0
+
+
+------------------- FURN ( BedQueenRight ) -------------------
+
+--- FULL , ITEM_ID: 37928 ---
+小床\0
+
+
+------------------- FURN ( BedTwin01L ) -------------------
+
+--- FULL , ITEM_ID: 37935 ---
+小床\0
+
+
+------------------- FURN ( BedTwin01R ) -------------------
+
+--- FULL , ITEM_ID: 37942 ---
+小床\0
+
+
+------------------- FURN ( BenchMetro01 ) -------------------
+
+--- FULL , ITEM_ID: 37949 ---
+长椅\0
+
+
+------------------- FURN ( BenchMuseum01 ) -------------------
+
+--- FULL , ITEM_ID: 37956 ---
+长椅\0
+
+
+------------------- FURN ( BenchMuseum02 ) -------------------
+
+--- FULL , ITEM_ID: 37963 ---
+长椅\0
+
+
+------------------- FURN ( BenchSuburban01 ) -------------------
+
+--- FULL , ITEM_ID: 37970 ---
+长椅\0
+
+
+------------------- FURN ( BenchSuburban01Clean ) -------------------
+
+--- FULL , ITEM_ID: 37977 ---
+长椅\0
+
+
+------------------- FURN ( BenchSuburban02 ) -------------------
+
+--- FULL , ITEM_ID: 37984 ---
+长椅\0
+
+
+------------------- FURN ( BenchUrban01 ) -------------------
+
+--- FULL , ITEM_ID: 37991 ---
+长椅\0
+
+
+------------------- FURN ( CG03Chair ) -------------------
+
+--- FULL , ITEM_ID: 37998 ---
+椅子\0
+
+
+------------------- FURN ( Chair01F ) -------------------
+
+--- FULL , ITEM_ID: 38005 ---
+椅子\0
+
+
+------------------- FURN ( Chair01L ) -------------------
+
+--- FULL , ITEM_ID: 38012 ---
+椅子\0
+
+
+------------------- FURN ( Chair01R ) -------------------
+
+--- FULL , ITEM_ID: 38019 ---
+椅子\0
+
+
+------------------- FURN ( Chair01TableL ) -------------------
+
+--- FULL , ITEM_ID: 38026 ---
+椅子\0
+
+
+------------------- FURN ( Chair01TableR ) -------------------
+
+--- FULL , ITEM_ID: 38033 ---
+椅子\0
+
+
+------------------- FURN ( Chair02F ) -------------------
+
+--- FULL , ITEM_ID: 38040 ---
+椅子\0
+
+
+------------------- FURN ( Chair02L ) -------------------
+
+--- FULL , ITEM_ID: 38047 ---
+椅子\0
+
+
+------------------- FURN ( Chair02R ) -------------------
+
+--- FULL , ITEM_ID: 38054 ---
+椅子\0
+
+
+------------------- FURN ( Chair02TableL ) -------------------
+
+--- FULL , ITEM_ID: 38061 ---
+椅子\0
+
+
+------------------- FURN ( Chair02TableR ) -------------------
+
+--- FULL , ITEM_ID: 38068 ---
+椅子\0
+
+
+------------------- FURN ( Chair03F ) -------------------
+
+--- FULL , ITEM_ID: 38075 ---
+椅子\0
+
+
+------------------- FURN ( ChairVault01L ) -------------------
+
+--- FULL , ITEM_ID: 38082 ---
+椅子\0
+
+
+------------------- FURN ( ChairVault01R ) -------------------
+
+--- FULL , ITEM_ID: 38089 ---
+椅子\0
+
+
+------------------- FURN ( ChairVault01TableL ) -------------------
+
+--- FULL , ITEM_ID: 38096 ---
+椅子\0
+
+
+------------------- FURN ( ComputerChair01L ) -------------------
+
+--- FULL , ITEM_ID: 38103 ---
+椅子\0
+
+
+------------------- FURN ( ComputerChair01R ) -------------------
+
+--- FULL , ITEM_ID: 38110 ---
+椅子\0
+
+
+------------------- FURN ( ComputerChair02L ) -------------------
+
+--- FULL , ITEM_ID: 38117 ---
+椅子\0
+
+
+------------------- FURN ( ComputerChair02R ) -------------------
+
+--- FULL , ITEM_ID: 38124 ---
+椅子\0
+
+
+------------------- FURN ( ComputerEnclaveChair01L ) -------------------
+
+--- FULL , ITEM_ID: 38131 ---
+椅子\0
+
+
+------------------- FURN ( ComputerEnclaveChair01R ) -------------------
+
+--- FULL , ITEM_ID: 38138 ---
+椅子\0
+
+
+------------------- FURN ( ComputerHotelChair01L ) -------------------
+
+--- FULL , ITEM_ID: 38145 ---
+椅子\0
+
+
+------------------- FURN ( ComputerHotelChair01R ) -------------------
+
+--- FULL , ITEM_ID: 38152 ---
+椅子\0
+
+
+------------------- FURN ( ComputerNavalChair01L ) -------------------
+
+--- FULL , ITEM_ID: 38159 ---
+椅子\0
+
+
+------------------- FURN ( ComputerNavalChair01R ) -------------------
+
+--- FULL , ITEM_ID: 38166 ---
+椅子\0
+
+
+------------------- FURN ( ComputerNavalChair02L ) -------------------
+
+--- FULL , ITEM_ID: 38173 ---
+椅子\0
+
+
+------------------- FURN ( ComputerNavalChair02R ) -------------------
+
+--- FULL , ITEM_ID: 38180 ---
+椅子\0
+
+
+------------------- FURN ( ComputerOfficeChairRuined01L ) -------------------
+
+--- FULL , ITEM_ID: 38187 ---
+椅子\0
+
+
+------------------- FURN ( ComputerOfficeChairRuined01R ) -------------------
+
+--- FULL , ITEM_ID: 38194 ---
+椅子\0
+
+
+------------------- FURN ( DinerBooth01TableL ) -------------------
+
+--- FULL , ITEM_ID: 38201 ---
+货摊\0
+
+
+------------------- FURN ( DinerBooth01TableR ) -------------------
+
+--- FULL , ITEM_ID: 38208 ---
+货摊\0
+
+
+------------------- FURN ( DinerBooth01TableRL ) -------------------
+
+--- FULL , ITEM_ID: 38215 ---
+货摊\0
+
+
+------------------- FURN ( DinerBooth02TableL ) -------------------
+
+--- FULL , ITEM_ID: 38222 ---
+货摊\0
+
+
+------------------- FURN ( DinerBooth02TableR ) -------------------
+
+--- FULL , ITEM_ID: 38229 ---
+货摊\0
+
+
+------------------- FURN ( DinerBooth03TableL ) -------------------
+
+--- FULL , ITEM_ID: 38236 ---
+货摊\0
+
+
+------------------- FURN ( DinerBooth03TableR ) -------------------
+
+--- FULL , ITEM_ID: 38243 ---
+货摊\0
+
+
+------------------- FURN ( DinerBooth04TableL ) -------------------
+
+--- FULL , ITEM_ID: 38250 ---
+货摊\0
+
+
+------------------- FURN ( DinerBooth04TableR ) -------------------
+
+--- FULL , ITEM_ID: 38257 ---
+货摊\0
+
+
+------------------- FURN ( DinerStool01L ) -------------------
+
+--- FULL , ITEM_ID: 38264 ---
+餐凳\0
+
+
+------------------- FURN ( DukovsBed01 ) -------------------
+
+--- FULL , ITEM_ID: 38271 ---
+小床\0
+
+
+------------------- FURN ( DukovsBed01SingleSide ) -------------------
+
+--- FULL , ITEM_ID: 38278 ---
+小床\0
+
+
+------------------- FURN ( EnclaveBedL01 ) -------------------
+
+--- FULL , ITEM_ID: 38285 ---
+小床\0
+
+
+------------------- FURN ( EnclaveBedR01 ) -------------------
+
+--- FULL , ITEM_ID: 38292 ---
+小床\0
+
+
+------------------- FURN ( EnclaveChair01F ) -------------------
+
+--- FULL , ITEM_ID: 38299 ---
+椅子\0
+
+
+------------------- FURN ( EnclaveChair01L ) -------------------
+
+--- FULL , ITEM_ID: 38306 ---
+椅子\0
+
+
+------------------- FURN ( EnclaveChair01R ) -------------------
+
+--- FULL , ITEM_ID: 38313 ---
+椅子\0
+
+
+------------------- FURN ( EnclaveChair01TableL ) -------------------
+
+--- FULL , ITEM_ID: 38320 ---
+椅子\0
+
+
+------------------- FURN ( EnclaveChair01TableR ) -------------------
+
+--- FULL , ITEM_ID: 38327 ---
+椅子\0
+
+
+------------------- FURN ( FFCaptiveMarker ) -------------------
+
+--- FULL , ITEM_ID: 38334 ---
+Rstrained Sit\0
+
+
+------------------- FURN ( FloorSitMarker ) -------------------
+
+--- FULL , ITEM_ID: 38340 ---
+Floor Sit\0
+
+
+------------------- FURN ( HD01BedHeart ) -------------------
+
+--- FULL , ITEM_ID: 38346 ---
+我的床\0
+
+
+------------------- FURN ( HD01DukovsBed01SingleSide ) -------------------
+
+--- FULL , ITEM_ID: 38353 ---
+我的床\0
+
+
+------------------- FURN ( HD01PlayerBed01 ) -------------------
+
+--- FULL , ITEM_ID: 38360 ---
+我的床\0
+
+
+------------------- FURN ( HD01PlayerBed02 ) -------------------
+
+--- FULL , ITEM_ID: 38368 ---
+我的床\0
+
+
+------------------- FURN ( HD02PlayerBed01 ) -------------------
+
+--- FULL , ITEM_ID: 38376 ---
+我的床\0
+
+
+------------------- FURN ( HD02PlayerBed02 ) -------------------
+
+--- FULL , ITEM_ID: 38384 ---
+我的床\0
+
+
+------------------- FURN ( HotelBedQueenBothSides ) -------------------
+
+--- FULL , ITEM_ID: 38392 ---
+大号双人床\0
+
+
+------------------- FURN ( HotelBedQueenLeft ) -------------------
+
+--- FULL , ITEM_ID: 38399 ---
+大号双人床\0
+
+
+------------------- FURN ( HotelBedQueenRight ) -------------------
+
+--- FULL , ITEM_ID: 38407 ---
+大号双人床\0
+
+
+------------------- FURN ( HotelChair01F ) -------------------
+
+--- FULL , ITEM_ID: 38414 ---
+椅子\0
+
+
+------------------- FURN ( HotelChair01L ) -------------------
+
+--- FULL , ITEM_ID: 38421 ---
+椅子\0
+
+
+------------------- FURN ( HotelChair01R ) -------------------
+
+--- FULL , ITEM_ID: 38428 ---
+椅子\0
+
+
+------------------- FURN ( HotelChair01TableL ) -------------------
+
+--- FULL , ITEM_ID: 38435 ---
+椅子\0
+
+
+------------------- FURN ( HotelChair01TableR ) -------------------
+
+--- FULL , ITEM_ID: 38442 ---
+椅子\0
+
+
+------------------- FURN ( MQ04TranquillityPod ) -------------------
+
+--- FULL , ITEM_ID: 38449 ---
+月球岩石仓\0
+
+
+------------------- FURN ( MQ04TranquillityPodPLAYER ) -------------------
+
+--- FULL , ITEM_ID: 38456 ---
+躺椅\0
+
+
+------------------- FURN ( NavalBench01TableBothSides ) -------------------
+
+--- FULL , ITEM_ID: 38464 ---
+货摊\0
+
+
+------------------- FURN ( NavalBench01TableL ) -------------------
+
+--- FULL , ITEM_ID: 38471 ---
+货摊\0
+
+
+------------------- FURN ( NavalBench01TableR ) -------------------
+
+--- FULL , ITEM_ID: 38478 ---
+货摊\0
+
+
+------------------- FURN ( NavalBench02BothSides ) -------------------
+
+--- FULL , ITEM_ID: 38485 ---
+货摊\0
+
+
+------------------- FURN ( NavalBench02L ) -------------------
+
+--- FULL , ITEM_ID: 38492 ---
+货摊\0
+
+
+------------------- FURN ( NavalBench02R ) -------------------
+
+--- FULL , ITEM_ID: 38499 ---
+货摊\0
+
+
+------------------- FURN ( NavalChair01F ) -------------------
+
+--- FULL , ITEM_ID: 38506 ---
+椅子\0
+
+
+------------------- FURN ( NavalChair01L ) -------------------
+
+--- FULL , ITEM_ID: 38513 ---
+椅子\0
+
+
+------------------- FURN ( NavalChair01LTable ) -------------------
+
+--- FULL , ITEM_ID: 38520 ---
+椅子\0
+
+
+------------------- FURN ( NavalChair01R ) -------------------
+
+--- FULL , ITEM_ID: 38527 ---
+椅子\0
+
+
+------------------- FURN ( NavalChair01RTable ) -------------------
+
+--- FULL , ITEM_ID: 38534 ---
+椅子\0
+
+
+------------------- FURN ( NavalChair02F ) -------------------
+
+--- FULL , ITEM_ID: 38541 ---
+椅子\0
+
+
+------------------- FURN ( NavalChair02L ) -------------------
+
+--- FULL , ITEM_ID: 38548 ---
+椅子\0
+
+
+------------------- FURN ( NavalChair02LTable ) -------------------
+
+--- FULL , ITEM_ID: 38555 ---
+椅子\0
+
+
+------------------- FURN ( NavalChair02R ) -------------------
+
+--- FULL , ITEM_ID: 38562 ---
+椅子\0
+
+
+------------------- FURN ( NavalChair02RTable ) -------------------
+
+--- FULL , ITEM_ID: 38569 ---
+椅子\0
+
+
+------------------- FURN ( NavalCot01L ) -------------------
+
+--- FULL , ITEM_ID: 38576 ---
+海员床铺\0
+
+
+------------------- FURN ( NavalCot01R ) -------------------
+
+--- FULL , ITEM_ID: 38583 ---
+海员床铺\0
+
+
+------------------- FURN ( NavalCot02 ) -------------------
+
+--- FULL , ITEM_ID: 38590 ---
+海员床铺\0
+
+
+------------------- FURN ( NukaStool ) -------------------
+
+--- FULL , ITEM_ID: 38597 ---
+核子可乐摊\0
+
+
+------------------- FURN ( OasisBed01 ) -------------------
+
+--- FULL , ITEM_ID: 38604 ---
+小床\0
+
+
+------------------- FURN ( OasisChair01 ) -------------------
+
+--- FULL , ITEM_ID: 38611 ---
+树桩\0
+
+
+------------------- FURN ( OasisCouch01 ) -------------------
+
+--- FULL , ITEM_ID: 38618 ---
+原木\0
+
+
+------------------- FURN ( OasisThrone01 ) -------------------
+
+--- FULL , ITEM_ID: 38625 ---
+宝座\0
+
+
+------------------- FURN ( OfficeChairRuined01L ) -------------------
+
+--- FULL , ITEM_ID: 38632 ---
+椅子\0
+
+
+------------------- FURN ( OfficeChairRuined01R ) -------------------
+
+--- FULL , ITEM_ID: 38639 ---
+椅子\0
+
+
+------------------- FURN ( OfficeChairRuined01TableL ) -------------------
+
+--- FULL , ITEM_ID: 38646 ---
+椅子\0
+
+
+------------------- FURN ( OfficeChairRuined01TableR ) -------------------
+
+--- FULL , ITEM_ID: 38653 ---
+椅子\0
+
+
+------------------- FURN ( Outhouse0000 ) -------------------
+
+--- FULL , ITEM_ID: 38660 ---
+茅厕\0
+
+
+------------------- FURN ( Stool01L ) -------------------
+
+--- FULL , ITEM_ID: 38667 ---
+货摊\0
+
+
+------------------- FURN ( SubChairDirtyF ) -------------------
+
+--- FULL , ITEM_ID: 38674 ---
+破旧的椅子\0
+
+
+------------------- FURN ( SubChairDirtyL ) -------------------
+
+--- FULL , ITEM_ID: 38681 ---
+破旧的椅子\0
+
+
+------------------- FURN ( SubChairDirtyR ) -------------------
+
+--- FULL , ITEM_ID: 38688 ---
+破旧的椅子\0
+
+
+------------------- FURN ( SubChairDirtyTableL ) -------------------
+
+--- FULL , ITEM_ID: 38695 ---
+破旧的椅子\0
+
+
+------------------- FURN ( SubChairDirtyTableR ) -------------------
+
+--- FULL , ITEM_ID: 38702 ---
+破旧的椅子\0
+
+
+------------------- FURN ( SubChairF ) -------------------
+
+--- FULL , ITEM_ID: 38709 ---
+椅子\0
+
+
+------------------- FURN ( SubChairL ) -------------------
+
+--- FULL , ITEM_ID: 38716 ---
+椅子\0
+
+
+------------------- FURN ( SubChairR ) -------------------
+
+--- FULL , ITEM_ID: 38723 ---
+椅子\0
+
+
+------------------- FURN ( SubChairTableL ) -------------------
+
+--- FULL , ITEM_ID: 38730 ---
+椅子\0
+
+
+------------------- FURN ( SubChairTableR ) -------------------
+
+--- FULL , ITEM_ID: 38737 ---
+椅子\0
+
+
+------------------- FURN ( SubCouch01F ) -------------------
+
+--- FULL , ITEM_ID: 38744 ---
+沙发\0
+
+
+------------------- FURN ( SubCouchDirty01F ) -------------------
+
+--- FULL , ITEM_ID: 38751 ---
+破旧的沙发\0
+
+
+------------------- FURN ( SubDiningChairDirtyF ) -------------------
+
+--- FULL , ITEM_ID: 38758 ---
+餐椅\0
+
+
+------------------- FURN ( SubDiningChairDirtyL ) -------------------
+
+--- FULL , ITEM_ID: 38765 ---
+餐椅\0
+
+
+------------------- FURN ( SubDiningChairDirtyR ) -------------------
+
+--- FULL , ITEM_ID: 38772 ---
+餐椅\0
+
+
+------------------- FURN ( SubDiningChairDirtyTableL ) -------------------
+
+--- FULL , ITEM_ID: 38779 ---
+餐椅\0
+
+
+------------------- FURN ( SubDiningChairDirtyTableR ) -------------------
+
+--- FULL , ITEM_ID: 38786 ---
+餐椅\0
+
+
+------------------- FURN ( SubDiningChairF ) -------------------
+
+--- FULL , ITEM_ID: 38793 ---
+餐椅\0
+
+

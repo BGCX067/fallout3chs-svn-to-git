@@ -1,0 +1,633 @@
+------------------- AVIF ( AVPerceptionCondition ) -------------------
+
+--- FULL , ITEM_ID: 497314 ---
+头部Head\0
+
+
+--- ANAM , ITEM_ID: 497316 ---
+头部Head\0
+
+
+------------------- AVIF ( AVPoisonResist ) -------------------
+
+--- FULL , ITEM_ID: 497319 ---
+毒物抗性Posion Resistance\0
+
+
+--- ANAM , ITEM_ID: 497321 ---
+毒物抗性Pois. Res.\0
+
+
+------------------- AVIF ( AVRadiationRads ) -------------------
+
+--- FULL , ITEM_ID: 497324 ---
+辐射Rads\0
+
+
+--- ANAM , ITEM_ID: 497326 ---
+辐射Rads\0
+
+
+------------------- AVIF ( AVRadResist ) -------------------
+
+--- FULL , ITEM_ID: 497329 ---
+辐射抗性Radiation Resistance\0
+
+
+--- ANAM , ITEM_ID: 497331 ---
+辐射抗性Rad. Res.\0
+
+
+------------------- AVIF ( AVRepair ) -------------------
+
+--- FULL , ITEM_ID: 497334 ---
+修理Repair\0
+
+
+--- DESC , ITEM_ID: 497335 ---
+修理技能让你能够整备你的武器和服装。此外，你的修理技能越高，你自制武器的初始状态就越好。\0
+The Repair skill allows you to maintain any weapons and apparel. In addition, the higher your Repair skill, the better the starting condition of any custom-made weapons.\0
+
+
+--- ANAM , ITEM_ID: 497337 ---
+修理Repair\0
+
+
+------------------- AVIF ( AVRightAttackCondition ) -------------------
+
+--- FULL , ITEM_ID: 497340 ---
+右臂Right Arm\0
+
+
+--- ANAM , ITEM_ID: 497342 ---
+右臂Right Arm\0
+
+
+------------------- AVIF ( AVRightMobilityCondition ) -------------------
+
+--- FULL , ITEM_ID: 497345 ---
+右腿RightLeg\0
+
+
+--- ANAM , ITEM_ID: 497347 ---
+右腿Right Leg\0
+
+
+------------------- AVIF ( AVScience ) -------------------
+
+--- FULL , ITEM_ID: 497350 ---
+科学Science\0
+
+
+--- DESC , ITEM_ID: 497351 ---
+科学技能代表你掌握的科学知识，主要用于入侵受限的电脑终端。\0
+The Science skill represents your combined scientific knowledge, and is primarily used to hack restricted computer terminals. \0
+
+
+--- ANAM , ITEM_ID: 497353 ---
+科学Science\0
+
+
+------------------- AVIF ( AVAggression ) -------------------
+
+--- ANAM , ITEM_ID: 497357 ---
+激进Aggr.\0
+
+
+------------------- AVIF ( AVConfidence ) -------------------
+
+--- ANAM , ITEM_ID: 497361 ---
+自信Conf.\0
+
+
+------------------- AVIF ( AVEnergy ) -------------------
+
+--- ANAM , ITEM_ID: 497365 ---
+能量Energy\0 体力？
+
+
+------------------- AVIF ( AVResponsibility ) -------------------
+
+--- ANAM , ITEM_ID: 497369 ---
+责任Respons.\0
+
+
+------------------- AVIF ( AVMood ) -------------------
+
+--- ANAM , ITEM_ID: 497373 ---
+心情Mood\0
+
+
+------------------- AVIF ( AVBrainCondition ) -------------------
+
+--- ANAM , ITEM_ID: 497377 ---
+脑部状态Brain Cond.\0
+
+
+------------------- AVIF ( AVInvisibility ) -------------------
+
+--- ANAM , ITEM_ID: 497381 ---
+隐形Invis.\0
+
+
+------------------- AVIF ( AVChameleon ) -------------------
+
+--- ANAM , ITEM_ID: 497385 ---
+隐匿范围Stealth Field\0
+
+
+------------------- AVIF ( AVNightEye ) -------------------
+
+--- ANAM , ITEM_ID: 497389 ---
+夜视Night Sight\0
+
+
+------------------- AVIF ( AVDetectLifeRange ) -------------------
+
+--- ANAM , ITEM_ID: 497393 ---
+感知距离Detect Range\0
+
+
+------------------- AVIF ( AVFireResist ) -------------------
+
+--- ANAM , ITEM_ID: 497397 ---
+火焰抗性Fire Resis.\0
+
+
+------------------- AVIF ( AVWaterBreathing ) -------------------
+
+--- ANAM , ITEM_ID: 497401 ---
+水下呼吸Wtr. Breathe.  \0
+
+
+------------------- AVIF ( AVBloodyMess ) -------------------
+
+--- ANAM , ITEM_ID: 497405 ---
+狂乱Bloody Mess\0
+
+
+------------------- AVIF ( AVUnarmedDamage ) -------------------
+
+--- ANAM , ITEM_ID: 497409 ---
+徒手伤害Unarmed Dam.\0
+
+
+------------------- AVIF ( AVAssistance ) -------------------
+
+--- ANAM , ITEM_ID: 497413 ---
+协助Assis.\0
+
+
+------------------- AVIF ( AVEnergyResist ) -------------------
+
+--- ANAM , ITEM_ID: 497417 ---
+能量武器抗性Ener. Resis\0
+
+
+------------------- AVIF ( AVSmallGuns ) -------------------
+
+--- FULL , ITEM_ID: 497420 ---
+小型武器Small Guns\0
+
+
+--- DESC , ITEM_ID: 497421 ---
+小型武器决定了你使用常规武器的效率，例如10mm手枪，BB枪，突击步枪和战斗散弹枪等。\0
+Small Guns determines your effectiveness with all conventional projectile weapons, such as the 10mm pistol, BB Gun, Assault Rifle, and Combat Shotgun.\0
+
+
+--- ANAM , ITEM_ID: 497423 ---
+小型武器Sm. Guns.\0
+
+
+------------------- AVIF ( AVSneak ) -------------------
+
+--- FULL , ITEM_ID: 497426 ---
+潜行Sneak\0
+
+
+--- DESC , ITEM_ID: 497427 ---
+你的潜行技能越高，在偷东西和翻别人口袋时就越容易不被发现。在未被发现的情况下发动一次成功的攻击将自动获得致命一击加成。\0The higher your Sneak skill, the easier it is to remain undetected, steal an item, or pick someone's pocket. Successfully attacking while undetected grants an automatic critical hit.\0
+
+
+
+--- ANAM , ITEM_ID: 497429 ---
+潜行Sneak\0
+
+
+------------------- AVIF ( AVSpeech ) -------------------
+
+--- FULL , ITEM_ID: 497432 ---
+口才Speech\0
+
+
+--- DESC , ITEM_ID: 497433 ---
+口才技能将左右你在对话中影响对方的程度，并由此获得一些他们在平时不一定愿意分享的消息。\0
+The Speech skill governs how much you can influence someone through dialogue, and gain access to information they might otherwise not want to share.   \0
+
+
+--- ANAM , ITEM_ID: 497435 ---
+口才Speech\0
+
+
+------------------- AVIF ( AVStrength ) -------------------
+
+--- FULL , ITEM_ID: 497438 ---
+力量Strength\0
+
+
+--- DESC , ITEM_ID: 497439 ---
+力量用来衡量你原始的物理力量。它将影响你的负重并且决定你的近战格斗的效率。\0
+Strength is a measure of your raw physical power. It affects how much you can carry, and determines the effectiveness of all melee attacks.\0
+
+
+--- ANAM , ITEM_ID: 497441 ---
+力量STR\0
+
+
+------------------- AVIF ( AVThrowing ) -------------------
+
+--- FULL , ITEM_ID: 497444 ---
+投掷武器Throwing\0
+
+
+--- DESC , ITEM_ID: 497445 ---
+你的投掷武器技能越高，你就越容易把诸如石块，燃烧弹以及手雷这类武器扔到你想的地方。\0
+The higher your Throwing skill, the more likely you are to hurl a thrown weapon like a rock, Molotov cocktail or grenade exactly where you want to.   \0
+
+
+--- ANAM , ITEM_ID: 497447 ---
+投掷武器Throw.\0
+
+
+------------------- AVIF ( AVUnarmed ) -------------------
+
+--- FULL , ITEM_ID: 497450 ---
+徒手格斗Unarmed\0
+
+
+--- DESC , ITEM_ID: 497451 ---
+徒手格斗技能用于非持械斗殴，或者使用一些为徒手格斗特别设计的武器，像手指虎或者动力拳套。\0
+The Unarmed skill is used for fighting without a weapon, or with the few weapons specifically designed for hand-to-hand combat, like Brass Knuckles or the Power Fist.\0
+
+
+--- ANAM , ITEM_ID: 497453 ---
+徒手格斗Unarmed\0
+
+
+------------------- AVIF ( AVXP ) -------------------
+
+--- FULL , ITEM_ID: 497456 ---
+经验点数Experience Points\0
+
+
+--- ANAM , ITEM_ID: 497458 ---
+XP\0
+
+
+------------------- AVIF ( AVActionPoints ) -------------------
+
+--- FULL , ITEM_ID: 497461 ---
+行动点数Action Points\0
+
+
+--- ANAM , ITEM_ID: 497463 ---
+AP\0
+
+
+------------------- AVIF ( AVAgility ) -------------------
+
+--- FULL , ITEM_ID: 497466 ---
+灵活Agility\0
+
+
+--- DESC , ITEM_ID: 497467 ---
+灵活影响你的小型武器和潜行技能，以及在V.A.T.S.中可用的行动点数。\0
+Agility affects your Small Guns and Sneak skills, and the number of Action Points available for V.A.T.S.\0
+
+
+--- ANAM , ITEM_ID: 497469 ---
+AGL\0
+
+
+------------------- AVIF ( AVBarter ) -------------------
+
+--- FULL , ITEM_ID: 497472 ---
+讨价还价Barter\0
+
+
+--- DESC , ITEM_ID: 497473 ---
+讨价还价技能影响你买卖物品时候的价格。一般而言，此项技能越高你买东西所花的钱就越少。\0
+The Barter skill affects the prices you get for buying and selling items. In general, the higher your Barter skill, the lower your prices on purchased items.  \0
+
+
+--- ANAM , ITEM_ID: 497475 ---
+讨价还价Barter\0
+
+
+------------------- AVIF ( AVBigGuns ) -------------------
+
+--- FULL , ITEM_ID: 497478 ---
+大型武器Big Guns\0
+
+
+--- DESC , ITEM_ID: 497479 ---
+大型武器决定了你使用那些超大武器的效率，比如说“胖子”，导弹发射器，火焰枪，转管机枪以及格林激光枪。\0
+The Big Guns skill determines your combat effectiveness with all oversized weapons such as the Fat Man, Missile Launcher, Flamer, Minigun and Gatling Laser.  \0
+
+
+--- ANAM , ITEM_ID: 497481 ---
+大型武器Big Guns\0
+
+
+------------------- AVIF ( AVCarryWeight ) -------------------
+
+--- FULL , ITEM_ID: 497484 ---
+负重Carry Weight\0
+
+
+--- ANAM , ITEM_ID: 497486 ---
+磅Lbs.\0
+
+
+------------------- AVIF ( AVCharisma ) -------------------
+
+--- FULL , ITEM_ID: 497489 ---
+魅力Charisma\0
+
+
+--- DESC , ITEM_ID: 497490 ---
+拥有较高的魅力可以提高他人对你的态度，并且为讨价还价和口才提供加成。\0
+Having a high Charisma will improve people's disposition toward you, and give bonuses to both the Barter and Speech skills.  \0
+
+
+--- ANAM , ITEM_ID: 497492 ---
+CHR\0
+
+
+------------------- AVIF ( AVCritChance ) -------------------
+
+--- FULL , ITEM_ID: 497495 ---
+致命几率Critical Chance\0
+
+
+--- ANAM , ITEM_ID: 497497 ---
+致命几率Crit. Chan.\0
+
+
+------------------- AVIF ( AVDamageResist ) -------------------
+
+--- FULL , ITEM_ID: 497500 ---
+伤害抗性Damage Resistance\0
+
+
+--- ANAM , ITEM_ID: 497502 ---
+伤害抗性Dam. Res.\0
+
+
+------------------- AVIF ( AVEndurance ) -------------------
+
+--- FULL , ITEM_ID: 497505 ---
+耐力Endurance\0
+
+
+--- DESC , ITEM_ID: 497506 ---
+耐力用来衡量你的物理适应性。较高的耐力能够提高你的生命值，环境抗性以及大型武器和徒手格斗技能。\0
+Endurance is a measure of your overall physical fitness. A high Endurance gives bonuses to health, environmental resistances, and the Big Guns and Unarmed skills.\0
+
+
+--- ANAM , ITEM_ID: 497508 ---
+END\0
+
+
+------------------- AVIF ( AVEnduranceCondition ) -------------------
+
+--- FULL , ITEM_ID: 497511 ---
+Chest\0
+
+
+--- ANAM , ITEM_ID: 497513 ---
+Chest\0
+
+
+------------------- AVIF ( AVEnergyWeapons ) -------------------
+
+--- FULL , ITEM_ID: 497516 ---
+能量武器Energy Weapons\0
+
+
+--- DESC , ITEM_ID: 497517 ---
+能量武器决定你使用诸如激光手枪，激光步枪，电浆步枪以及电浆手枪的效率。\0
+The Energy Weapons skill determines your effectiveness with weapons such as the Laser Pistol, Laser Rifle, Plasma Rifle and Plasma Pistol.  \0
+
+
+--- ANAM , ITEM_ID: 497519 ---
+能量武器Ener. Weap.\0
+
+
+------------------- AVIF ( AVExplosives ) -------------------
+
+--- FULL , ITEM_ID: 497522 ---
+爆炸物Explosives\0
+
+
+--- DESC , ITEM_ID: 497523 ---
+爆炸物技能决定了你设置地雷的威力，解除地雷的难易度以及投掷手雷的效率。\0
+The Explosives skill determines the power of any set mines, the ease of disarming any hostile mines, and the effectiveness of any thrown grenades.\0
+
+
+--- ANAM , ITEM_ID: 497525 ---
+爆炸物Explos.\0
+
+
+------------------- AVIF ( AVFatigue ) -------------------
+
+--- FULL , ITEM_ID: 497528 ---
+疲劳Fatigue\0
+
+
+--- ANAM , ITEM_ID: 497530 ---
+疲劳Fatigue\0
+
+
+------------------- AVIF ( AVHealRate ) -------------------
+
+--- FULL , ITEM_ID: 497533 ---
+回复速率Heal Rate\0
+
+
+--- ANAM , ITEM_ID: 497535 ---
+回复速率Heal Rate\0
+
+
+------------------- AVIF ( AVHealth ) -------------------
+
+--- FULL , ITEM_ID: 497538 ---
+生命点数Health\0
+
+
+--- ANAM , ITEM_ID: 497540 ---
+HP\0
+
+
+------------------- AVIF ( AVIgnoreCrippledLimbs ) -------------------
+
+--- FULL , ITEM_ID: 497543 ---
+无视负面效果Ignore Negative Effects\0
+
+
+--- ANAM , ITEM_ID: 497545 ---
+无视负面效果Ignore Neg Eff\0
+
+
+------------------- AVIF ( AVIntelligence ) -------------------
+
+--- FULL , ITEM_ID: 497548 ---
+智力Intelligence\0
+
+
+--- DESC , ITEM_ID: 497549 ---
+智力影响科学，修理以及医疗技能。你的智力越高，每次升级所获得的技能点数也就越多。\0
+Intelligence affects the Science, Repair and Medicine skills. The higher your Intelligence, the more Skill Points you'll be able to distribute when you level up.\0
+
+
+--- ANAM , ITEM_ID: 497551 ---
+INT\0
+
+
+------------------- AVIF ( AVInventoryWeight ) -------------------
+
+--- FULL , ITEM_ID: 497554 ---
+重量Weight\0
+
+
+--- ANAM , ITEM_ID: 497556 ---
+重量Wght.\0
+
+
+------------------- AVIF ( AVKarma ) -------------------
+
+--- FULL , ITEM_ID: 497559 ---
+因果Karma\0 善恶值？
+
+
+--- ANAM , ITEM_ID: 497561 ---
+因果Karma\0
+
+
+------------------- AVIF ( AVLeftAttackCondition ) -------------------
+
+--- FULL , ITEM_ID: 497564 ---
+左臂Left Arm\0
+
+
+--- ANAM , ITEM_ID: 497566 ---
+左臂Left Arm\0
+
+
+------------------- AVIF ( AVLeftMobilityCondition ) -------------------
+
+--- FULL , ITEM_ID: 497569 ---
+左腿Left Leg\0
+
+
+--- ANAM , ITEM_ID: 497571 ---
+左腿Left Leg\0
+
+
+------------------- AVIF ( AVLockpick ) -------------------
+
+--- FULL , ITEM_ID: 497574 ---
+开锁Lockpick\0
+
+
+--- DESC , ITEM_ID: 497575 ---
+开锁可以用来打开各种被锁上的门和箱子。\0
+The Lockpick skill is used to open locked doors and containers.  \0
+
+
+--- ANAM , ITEM_ID: 497577 ---
+开锁Lockpick\0
+
+
+------------------- AVIF ( AVLuck ) -------------------
+
+--- FULL , ITEM_ID: 497580 ---
+运气Luck\0
+
+
+--- DESC , ITEM_ID: 497581 ---
+提高你的运气能够略微提高你的各项技能，较高的运气也能提高你各类武器的致命一击的几率。\0
+Raising your Luck will raise all of your skills a little. Having a high Luck will also improve your critical chance with all weapons.    \0
+
+
+--- ANAM , ITEM_ID: 497583 ---
+LCK\0
+
+
+------------------- AVIF ( AVMedicine ) -------------------
+
+--- FULL , ITEM_ID: 497586 ---
+医疗Medicine\0
+
+
+--- DESC , ITEM_ID: 497587 ---
+医疗技能决定了你使用医疗针能够回复的生命点数，以及使用Rad-X何RadAway的效果。\0
+The Medicine skill determines how many Hit Points you'll replenish upon using a Stimpak, and the effectiveness of Rad-X and RadAway.\0
+
+
+--- ANAM , ITEM_ID: 497589 ---
+医疗Med.\0
+
+
+------------------- AVIF ( AVMeleeDamage ) -------------------
+
+--- FULL , ITEM_ID: 497592 ---
+近战伤害Melee Damage\0
+
+
+--- ANAM , ITEM_ID: 497594 ---
+近战伤害Melee Dam.\0
+
+
+------------------- AVIF ( AVVariable01 ) -------------------
+
+--- DESC , ITEM_ID: 497597 ---
+Used for medical services.\0
+
+
+------------------- AVIF ( AVMeleeWeapons ) -------------------
+
+--- FULL , ITEM_ID: 497600 ---
+近战武器Melee Weapons\0
+
+
+--- DESC , ITEM_ID: 497601 ---
+近战武器技能决定了你使用各种进展武器的效率，从各种简单水管的到高科技的超级大锤。\0
+The Melee Weapons skill determines your effectiveness with any melee weapon, from the simple lead pipe all the way up to the high-tech Super Sledge.\0
+
+
+--- ANAM , ITEM_ID: 497603 ---
+近战武器Melee Weap.\0
+
+
+------------------- AVIF ( AVParalysis ) -------------------
+
+--- ANAM , ITEM_ID: 497608 ---
+麻痹Paralysis\0
+
+
+------------------- AVIF ( AVPerception ) -------------------
+
+--- FULL , ITEM_ID: 497611 ---
+感知Perception\0
+
+
+--- DESC , ITEM_ID: 497612 ---
+较高的感知能够提高你的爆炸物，开锁和能量武器技能，并且影响显示红色标记（暗示威胁）的时机。\0
+A high Perception grants a bonus to the Explosives, Lockpick and Energy Weapons skills, and determines when red compass markings appear (which indicate threats).\0
+
+
+--- ANAM , ITEM_ID: 497614 ---
+PER\0
+
+

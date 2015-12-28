@@ -1,0 +1,1590 @@
+------------------- ACTI ( DrinkFireHydrant ) -------------------
+
+--- FULL , ITEM_ID: 9302 ---
+消防栓\0
+
+
+------------------- ACTI ( DrinkFireHydrantClean ) -------------------
+
+--- FULL , ITEM_ID: 9310 ---
+消防栓\0
+
+
+------------------- ACTI ( DrinkReservoir01 ) -------------------
+
+--- FULL , ITEM_ID: 9318 ---
+蓄水池入口阀门\0
+
+
+------------------- ACTI ( DrinkSink ) -------------------
+
+--- FULL , ITEM_ID: 9326 ---
+污水槽\0
+
+
+------------------- ACTI ( DrinkSinkClean ) -------------------
+
+--- FULL , ITEM_ID: 9334 ---
+污水槽\0
+
+
+------------------- ACTI ( DrinkSinkCleaner ) -------------------
+
+--- FULL , ITEM_ID: 9342 ---
+污水槽\0
+
+
+------------------- ACTI ( DrinkSinkMetal ) -------------------
+
+--- FULL , ITEM_ID: 9350 ---
+污水槽\0
+
+
+------------------- ACTI ( DrinkSinkMetalV101 ) -------------------
+
+--- FULL , ITEM_ID: 9357 ---
+污水槽\0
+
+
+------------------- ACTI ( DrinkSinkSettlement ) -------------------
+
+--- FULL , ITEM_ID: 9364 ---
+污水槽\0
+
+
+------------------- ACTI ( DrinkToilet ) -------------------
+
+--- FULL , ITEM_ID: 9372 ---
+厕所\0
+
+
+------------------- ACTI ( DrinkToiletClean ) -------------------
+
+--- FULL , ITEM_ID: 9380 ---
+厕所\0
+
+
+------------------- ACTI ( DrinkToiletCleaner ) -------------------
+
+--- FULL , ITEM_ID: 9388 ---
+厕所\0
+
+
+------------------- ACTI ( DrinkToiletMetal ) -------------------
+
+--- FULL , ITEM_ID: 9396 ---
+厕所\0
+
+
+------------------- ACTI ( DrinkToiletMetalV101 ) -------------------
+
+--- FULL , ITEM_ID: 9403 ---
+厕所\0
+
+
+------------------- ACTI ( DrinkToiletSettlement ) -------------------
+
+--- FULL , ITEM_ID: 9410 ---
+厕所\0
+
+
+------------------- ACTI ( DrinkTowerPipe01 ) -------------------
+
+--- FULL , ITEM_ID: 9418 ---
+水塔阀门\0
+
+
+------------------- ACTI ( DrinkUrinal ) -------------------
+
+--- FULL , ITEM_ID: 9426 ---
+小便池\0
+
+
+------------------- ACTI ( DrinkUrinalSettlement ) -------------------
+
+--- FULL , ITEM_ID: 9434 ---
+小便池\0
+
+
+------------------- ACTI ( DrinkWaterfountain ) -------------------
+
+--- FULL , ITEM_ID: 9442 ---
+水泉\0
+
+
+------------------- ACTI ( DrinkWaterfountainNORAD ) -------------------
+
+--- FULL , ITEM_ID: 9450 ---
+水泉\0
+
+
+------------------- ACTI ( DrinkWaterFoutnainSettlement ) -------------------
+
+--- FULL , ITEM_ID: 9458 ---
+水泉\0
+
+
+------------------- ACTI ( Dunwich02MoverTrig01 ) -------------------
+
+--- FULL , ITEM_ID: 9466 ---
+瓦斯阀门\0
+
+
+------------------- ACTI ( Dunwich02PastManPrepTrig ) -------------------
+
+--- FULL , ITEM_ID: 9472 ---
+瓦斯阀门\0
+
+
+------------------- ACTI ( DunwichBuildingNote09Activator ) -------------------
+
+--- FULL , ITEM_ID: 9478 ---
+按下以发生突变\0
+
+
+------------------- ACTI ( DunwichPastTrigger01 ) -------------------
+
+--- FULL , ITEM_ID: 9485 ---
+瓦斯阀门\0
+
+
+------------------- ACTI ( EcvControlRoomZaxFEVPanel01 ) -------------------
+
+--- FULL , ITEM_ID: 9491 ---
+石控制板\0
+
+
+------------------- ACTI ( ElectricalSwitch ) -------------------
+
+--- FULL , ITEM_ID: 9498 ---
+电闸\0
+
+
+------------------- ACTI ( ElectricalSwitch02 ) -------------------
+
+--- FULL , ITEM_ID: 9505 ---
+电闸\0
+
+
+------------------- ACTI ( EvergreenMillsElectricalSwitch01 ) -------------------
+
+--- FULL , ITEM_ID: 9511 ---
+电闸\0
+
+
+------------------- ACTI ( FairfaxValve01 ) -------------------
+
+--- FULL , ITEM_ID: 9517 ---
+瓦斯阀门\0
+
+
+------------------- ACTI ( FF02CitadelCourtyardTarget ) -------------------
+
+--- FULL , ITEM_ID: 9525 ---
+指标\0
+
+
+------------------- ACTI ( FFDCRockCreekIntern01 ) -------------------
+
+--- FULL , ITEM_ID: 9531 ---
+被拘留者\0
+
+
+------------------- ACTI ( FFDCRockCreekIntern02 ) -------------------
+
+--- FULL , ITEM_ID: 9537 ---
+被拘留者\0
+
+
+------------------- ACTI ( FFDCRockCreekIntern03 ) -------------------
+
+--- FULL , ITEM_ID: 9543 ---
+被拘留者\0
+
+
+------------------- ACTI ( FFHamRadio01 ) -------------------
+
+--- FULL , ITEM_ID: 9549 ---
+无线电信号 Kilo Bravo\0
+
+
+------------------- ACTI ( FFHamRadio02 ) -------------------
+
+--- FULL , ITEM_ID: 9556 ---
+无线电信号 Oscar Zulu\0
+
+
+------------------- ACTI ( FFHamRadio03 ) -------------------
+
+--- FULL , ITEM_ID: 9563 ---
+无线电信号 Alfa Lima\0
+
+
+------------------- ACTI ( FFHamRadio04 ) -------------------
+
+--- FULL , ITEM_ID: 9570 ---
+无线电信号 Echo Foxtrot\0
+
+
+------------------- ACTI ( FFHamRadio05 ) -------------------
+
+--- FULL , ITEM_ID: 9577 ---
+无线电信号 Oscar Tango\0
+
+
+------------------- ACTI ( FFHamRadio06 ) -------------------
+
+--- FULL , ITEM_ID: 9584 ---
+无线电信号 Sierra Romeo\0
+
+
+------------------- ACTI ( FFHamRadio07 ) -------------------
+
+--- FULL , ITEM_ID: 9591 ---
+无线电信号 Yankee Bravo\0
+
+
+------------------- ACTI ( FFHamRadio08 ) -------------------
+
+--- FULL , ITEM_ID: 9598 ---
+无线电信号 Sierra Victor\0
+
+
+------------------- ACTI ( FFHamRadio09 ) -------------------
+
+--- FULL , ITEM_ID: 9605 ---
+无线电信号 爸爸 十一月\0
+
+
+------------------- ACTI ( FFRadioSignal01Switch01 ) -------------------
+
+--- FULL , ITEM_ID: 9612 ---
+电闸\0
+
+
+------------------- ACTI ( FFRadioSignal02Switch01 ) -------------------
+
+--- FULL , ITEM_ID: 9619 ---
+电闸\0
+
+
+------------------- ACTI ( FFRadioSignal03Switch01 ) -------------------
+
+--- FULL , ITEM_ID: 9626 ---
+电闸\0
+
+
+------------------- ACTI ( FFRadioSignal04Switch01 ) -------------------
+
+--- FULL , ITEM_ID: 9633 ---
+电闸\0
+
+
+------------------- ACTI ( FFRadioSignal05Switch01 ) -------------------
+
+--- FULL , ITEM_ID: 9640 ---
+电闸\0
+
+
+------------------- ACTI ( FFRadioSignal06Switch01 ) -------------------
+
+--- FULL , ITEM_ID: 9647 ---
+电闸\0
+
+
+------------------- ACTI ( FFRadioSignal07Switch01 ) -------------------
+
+--- FULL , ITEM_ID: 9654 ---
+电闸\0
+
+
+------------------- ACTI ( FFRadioSignal08Switch01 ) -------------------
+
+--- FULL , ITEM_ID: 9661 ---
+电闸\0
+
+
+------------------- ACTI ( FFRadioSignal09Switch01 ) -------------------
+
+--- FULL , ITEM_ID: 9668 ---
+电闸\0
+
+
+------------------- ACTI ( ForgeMechanistDoorSwitch01 ) -------------------
+
+--- FULL , ITEM_ID: 9675 ---
+咖啡壶\0
+
+
+------------------- ACTI ( FriendshipChainActivator ) -------------------
+
+--- FULL , ITEM_ID: 9682 ---
+开关\0
+
+
+------------------- ACTI ( FriendshipChainActivatorDisable ) -------------------
+
+--- FULL , ITEM_ID: 9689 ---
+开关\0
+
+
+------------------- ACTI ( FxFlashGrenade01 ) -------------------
+
+--- FULL , ITEM_ID: 9696 ---
+闪光弹\0
+
+
+------------------- ACTI ( GenElecSwitch01 ) -------------------
+
+--- FULL , ITEM_ID: 9703 ---
+开关\0
+
+
+------------------- ACTI ( GenElecSwitch02 ) -------------------
+
+--- FULL , ITEM_ID: 9710 ---
+开关\0
+
+
+------------------- ACTI ( GenericConsolPanelOnOff02 ) -------------------
+
+--- FULL , ITEM_ID: 9717 ---
+控制台\0
+
+
+------------------- ACTI ( GuardDepotBunkerControl ) -------------------
+
+--- FULL , ITEM_ID: 9723 ---
+储仓控制板\0
+
+
+------------------- ACTI ( HamRadio01 ) -------------------
+
+--- FULL , ITEM_ID: 9729 ---
+肉脚电台\0
+
+
+------------------- ACTI ( HD00InfirmSet ) -------------------
+
+--- FULL , ITEM_ID: 9735 ---
+我第一个养老院\0
+
+
+------------------- ACTI ( HD00LabSet ) -------------------
+
+--- FULL , ITEM_ID: 9742 ---
+我第一个实验室\0
+
+
+------------------- ACTI ( HubrisComics02DoorUnlockTrig ) -------------------
+
+--- FULL , ITEM_ID: 9749 ---
+瓦斯阀门\0
+
+
+------------------- ACTI ( IndRmSmMechanistEntranceGear1 ) -------------------
+
+--- FULL , ITEM_ID: 9755 ---
+门齿轮\0
+
+
+------------------- ACTI ( IndRmSmMechanistEntranceGear2 ) -------------------
+
+--- FULL , ITEM_ID: 9761 ---
+机械齿轮 2\0
+
+
+------------------- ACTI ( JukeBoxDirty01 ) -------------------
+
+--- FULL , ITEM_ID: 9767 ---
+自动唱机\0
+
+
+------------------- ACTI ( LDWonderMeatMaker ) -------------------
+
+--- FULL , ITEM_ID: 9774 ---
+神奇肉类制作者\0
+
+
+------------------- ACTI ( LLBackDoorPulley01 ) -------------------
+
+--- FULL , ITEM_ID: 9781 ---
+滑轮\0
+
+
+------------------- ACTI ( LLBackDoorPulley02 ) -------------------
+
+--- FULL , ITEM_ID: 9789 ---
+滑轮\0
+
+
+------------------- ACTI ( MegatonBomb ) -------------------
+
+--- FULL , ITEM_ID: 9797 ---
+未引爆的原子弹\0
+
+
+------------------- ACTI ( MegatonPipeJointLrgToLrgACT ) -------------------
+
+--- FULL , ITEM_ID: 9804 ---
+管道接口\0
+
+
+------------------- ACTI ( MegatonPipeJointY01ACT ) -------------------
+
+--- FULL , ITEM_ID: 9811 ---
+管道接口\0
+
+
+------------------- ACTI ( MegatonPipeStraightRegSmlACT ) -------------------
+
+--- FULL , ITEM_ID: 9818 ---
+泄露的管道\0
+
+
+------------------- ACTI ( MotionDetector01 ) -------------------
+
+--- FULL , ITEM_ID: 9825 ---
+动态探测器\0
+
+
+------------------- ACTI ( MQ02ElevatorControl01BottomOutside ) -------------------
+
+--- FULL , ITEM_ID: 9832 ---
+升降机控制\0
+
+
+------------------- ACTI ( MQ02ElevatorControlBottomInside ) -------------------
+
+--- FULL , ITEM_ID: 9840 ---
+升降机控制\0
+
+
+------------------- ACTI ( MQ02ElevatorControlTopInside ) -------------------
+
+--- FULL , ITEM_ID: 9848 ---
+升降机控制\0
+
+
+------------------- ACTI ( MQ02ElevatorControlTopOutside ) -------------------
+
+--- FULL , ITEM_ID: 9855 ---
+升降机控制\0
+
+
+------------------- ACTI ( MQ02MuseumPlaqueArms01 ) -------------------
+
+--- FULL , ITEM_ID: 9862 ---
+1861 "斯普林菲尔德" 前膛来福枪\0
+
+
+------------------- ACTI ( MQ02MuseumPlaqueArms02 ) -------------------
+
+--- FULL , ITEM_ID: 9869 ---
+M199 突击步枪\0
+
+
+------------------- ACTI ( MQ02MuseumPlaqueArms03 ) -------------------
+
+--- FULL , ITEM_ID: 9876 ---
+X277 "蝰蛇" 磁性轨道炮\0
+
+
+------------------- ACTI ( MQ02MuseumPlaqueFlag01 ) -------------------
+
+--- FULL , ITEM_ID: 9883 ---
+U.S.S. Ebon Atoll 的旗帜\0
+
+
+------------------- ACTI ( MQ02MuseumPlaqueFlag02 ) -------------------
+
+--- FULL , ITEM_ID: 9890 ---
+勇者 12 旗帜\0
+
+
+------------------- ACTI ( MQ02MuseumPlaqueMedals01 ) -------------------
+
+--- FULL , ITEM_ID: 9897 ---
+二战战斗勋章\0
+
+
+------------------- ACTI ( MQ02MuseumPlaquePortraits01 ) -------------------
+
+--- FULL , ITEM_ID: 9904 ---
+没注意到的发明家\0
+
+
+------------------- ACTI ( MQ02MuseumPlaqueRenovation01 ) -------------------
+
+--- FULL , ITEM_ID: 9911 ---
+建筑下的展览\0
+
+
+------------------- ACTI ( MQ02MuseumPlaqueRocket01 ) -------------------
+
+--- FULL , ITEM_ID: 9918 ---
+德尔塔 IX 火箭\0
+
+
+------------------- ACTI ( MQ02MuseumPlaqueSkeleton01 ) -------------------
+
+--- FULL , ITEM_ID: 9925 ---
+指挥官 Carl Bell\0
+
+
+------------------- ACTI ( MQ02MuseumPlaqueSpacesuit01 ) -------------------
+
+--- FULL , ITEM_ID: 9932 ---
+宇宙套装\0
+
+
+------------------- ACTI ( MQ02MuseumPlaqueStealth01 ) -------------------
+
+--- FULL , ITEM_ID: 9939 ---
+RobCo 秘密小子 3001 说明书\0
+
+
+------------------- ACTI ( MQ02MuseumPlaqueVertibirdProto01 ) -------------------
+
+--- FULL , ITEM_ID: 9946 ---
+XVB02 "Verti鸟" 原型\0
+
+
+------------------- ACTI ( MQ02MuseumPlaqueVirgoII01 ) -------------------
+
+--- FULL , ITEM_ID: 9953 ---
+处女座 II型 月球登陆器\0
+
+
+------------------- ACTI ( MQ02MuseumPlaqueWright01 ) -------------------
+
+--- FULL , ITEM_ID: 9960 ---
+莱特飞行器 I型\0
+
+
+------------------- ACTI ( MQ02Relay ) -------------------
+
+--- FULL , ITEM_ID: 9967 ---
+银河新闻电台转播\0
+
+
+------------------- ACTI ( MQ02RelayDone ) -------------------
+
+--- FULL , ITEM_ID: 9974 ---
+修复的转播\0
+
+
+------------------- ACTI ( MQ02VirgoDish ) -------------------
+
+--- FULL , ITEM_ID: 9980 ---
+处女座 II型 通讯盘\0
+
+
+------------------- ACTI ( MQ04Chandellier01 ) -------------------
+
+--- FULL , ITEM_ID: 9987 ---
+Chandellier\0
+
+
+------------------- ACTI ( MQ04Diary ) -------------------
+
+--- FULL , ITEM_ID: 9994 ---
+Janet Rockwell 的日记\0
+
+
+------------------- ACTI ( MQ04DoghouseActivator ) -------------------
+
+--- FULL , ITEM_ID: 10001 ---
+狗窝\0
+
+
+------------------- ACTI ( MQ04FailsafeObject1 ) -------------------
+
+--- FULL , ITEM_ID: 10008 ---
+空瓶子\0
+
+
+------------------- ACTI ( MQ04FailsafeObject2 ) -------------------
+
+--- FULL , ITEM_ID: 10015 ---
+灰堆\0
+
+
+------------------- ACTI ( MQ04FailsafeObject3 ) -------------------
+
+--- FULL , ITEM_ID: 10022 ---
+玻璃罐\0
+
+
+------------------- ACTI ( MQ04FailsafeObject4 ) -------------------
+
+--- FULL , ITEM_ID: 10029 ---
+花园格言？\0
+
+
+------------------- ACTI ( MQ04FailsafeObject5 ) -------------------
+
+--- FULL , ITEM_ID: 10036 ---
+坏收音机\0
+
+
+------------------- ACTI ( MQ04Gnome ) -------------------
+
+--- FULL , ITEM_ID: 10043 ---
+Timmy格言\0
+
+
+------------------- ACTI ( MQ04MabelRadio ) -------------------
+
+--- FULL , ITEM_ID: 10049 ---
+收音机\0
+
+
+------------------- ACTI ( MQ04PlayerPodActivator ) -------------------
+
+--- FULL , ITEM_ID: 10057 ---
+宁静闲逛者？\0
+
+
+------------------- ACTI ( MQ04PodDad ) -------------------
+
+--- FULL , ITEM_ID: 10064 ---
+宁静闲逛者？\0
+
+
+------------------- ACTI ( MQ04RockwellDesk ) -------------------
+
+--- FULL , ITEM_ID: 10071 ---
+Roger 的办公桌\0
+
+
+------------------- ACTI ( MQ04RollerskateActivator ) -------------------
+
+--- FULL , ITEM_ID: 10078 ---
+旱冰鞋\0
+
+
+------------------- ACTI ( MQ05FloodControlPumpSwitch ) -------------------
+
+--- FULL , ITEM_ID: 10085 ---
+潮水控制动力开关\0
+
+
+------------------- ACTI ( MQ05FuseBox ) -------------------
+
+--- FULL , ITEM_ID: 10093 ---
+辅助动力保险箱\0
+
+
+------------------- ACTI ( MQ05MainframeControlPanel ) -------------------
+
+--- FULL , ITEM_ID: 10101 ---
+主机动力开关\0
+
+
+------------------- ACTI ( MQ05PipeControl ) -------------------
+
+--- FULL , ITEM_ID: 10109 ---
+管道控制\0
+
+
+------------------- ACTI ( MQ07JunctionBox ) -------------------
+
+--- FULL , ITEM_ID: 10117 ---
+电缆连接箱\0
+
+
+------------------- ACTI ( MQ08CellConsole ) -------------------
+
+--- FULL , ITEM_ID: 10125 ---
+控火控制台\0
+
+
+------------------- ACTI ( MQ09RavenRockPARadio ) -------------------
+
+--- FULL , ITEM_ID: 10133 ---
+内部通信\0
+
+
+------------------- ACTI ( MQ11AirlockControl1 ) -------------------
+
+--- FULL , ITEM_ID: 10140 ---
+气阀控制\0
+
+
+------------------- ACTI ( MQAFiltrationInput ) -------------------
+
+--- FULL , ITEM_ID: 10147 ---
+辅助过滤输入电路\0
+
+
+------------------- ACTI ( MQPPurityControlPanel ) -------------------
+
+--- FULL , ITEM_ID: 10154 ---
+纯度控制板方案？\0
+
+
+------------------- ACTI ( MS03PrintingPress01 ) -------------------
+
+--- FULL , ITEM_ID: 10161 ---
+战前印刷机\0
+
+
+------------------- ACTI ( MS03PrintingPressTread ) -------------------
+
+--- FULL , ITEM_ID: 10168 ---
+印刷机踏板\0
+
+
+------------------- ACTI ( MS03SpawningBall01 ) -------------------
+
+--- FULL , ITEM_ID: 10174 ---
+泥沼潜伏产卵球？\0
+
+
+------------------- ACTI ( MS03SpawningBall02 ) -------------------
+
+--- FULL , ITEM_ID: 10181 ---
+泥沼潜伏产卵球？\0
+
+
+------------------- ACTI ( MS03SpawningBall03 ) -------------------
+
+--- FULL , ITEM_ID: 10188 ---
+泥沼潜伏产卵球？\0
+
+
+------------------- ACTI ( MS03SurvivalGuideBookActivator ) -------------------
+
+--- FULL , ITEM_ID: 10195 ---
+荒野生存指南\0
+
+
+------------------- ACTI ( MS04GiantAntEgg ) -------------------
+
+--- FULL , ITEM_ID: 10201 ---
+奇怪的蚂蚁卵\0
+
+
+------------------- ACTI ( MS04MutagenGelGreen ) -------------------
+
+--- FULL , ITEM_ID: 10207 ---
+绿色液体\0
+
+
+------------------- ACTI ( MS04MutagenGelRed ) -------------------
+
+--- FULL , ITEM_ID: 10213 ---
+红色液体\0
+
+
+------------------- ACTI ( MS04MutagenTank ) -------------------
+
+--- FULL , ITEM_ID: 10219 ---
+诱变剂罐\0
+
+
+------------------- ACTI ( MS04MutagenTankGlass ) -------------------
+
+--- FULL , ITEM_ID: 10225 ---
+诱变剂玻璃罐\0
+
+
+------------------- ACTI ( MS06LincolnGunDisplayCase ) -------------------
+
+--- FULL , ITEM_ID: 10231 ---
+显示器外壳\0
+
+
+------------------- ACTI ( MS06NoiseMaker01 ) -------------------
+
+--- FULL , ITEM_ID: 10238 ---
+门铃\0
+
+
+------------------- ACTI ( MS09DavisWest ) -------------------
+
+--- FULL , ITEM_ID: 10246 ---
+Davis West\0
+
+
+------------------- ACTI ( MS09MatildaWest ) -------------------
+
+--- FULL , ITEM_ID: 10253 ---
+Matilda West\0
+
+
+------------------- ACTI ( MS10HaroldsHeartNoDD ) -------------------
+
+--- FULL , ITEM_ID: 10260 ---
+Harold 的心脏\0
+
+
+------------------- ACTI ( MS11Detonator ) -------------------
+
+--- FULL , ITEM_ID: 10267 ---
+微量炸药\0
+
+
+------------------- ACTI ( MS14DukovSign ) -------------------
+
+--- FULL , ITEM_ID: 10274 ---
+把你的枪枪放在套套里还是吃蛋蛋\0
+
+
+------------------- ACTI ( MS15ArchivesIntercom01 ) -------------------
+
+--- FULL , ITEM_ID: 10280 ---
+档案馆内部通信\0
+
+
+------------------- ACTI ( MS15ArchivesIntercom02 ) -------------------
+
+--- FULL , ITEM_ID: 10288 ---
+档案馆内部通信\0
+
+
+------------------- ACTI ( MS15ArchivesIntercom03 ) -------------------
+
+--- FULL , ITEM_ID: 10296 ---
+档案室内部通信\0
+
+
+------------------- ACTI ( MS15ArchivesIntercom04 ) -------------------
+
+--- FULL , ITEM_ID: 10304 ---
+档案室内部通信\0
+
+
+------------------- ACTI ( MS15BillofRightsFinal ) -------------------
+
+--- FULL , ITEM_ID: 10312 ---
+人权宣言\0
+
+
+------------------- ACTI ( MS15Constitution ) -------------------
+
+--- FULL , ITEM_ID: 10318 ---
+联邦宪法\0
+
+
+------------------- ACTI ( MS15DeclarationFinal ) -------------------
+
+--- FULL , ITEM_ID: 10324 ---
+独立宣言\0
+
+
+------------------- ACTI ( MS15MagnaCarta ) -------------------
+
+--- FULL , ITEM_ID: 10331 ---
+Magna Carta\0
+
+
+------------------- ACTI ( MS15MuseumActivator01 ) -------------------
+
+--- FULL , ITEM_ID: 10337 ---
+放入一个瓶盖或博物馆的代币\0
+
+
+------------------- ACTI ( MS15MuseumActivator02 ) -------------------
+
+--- FULL , ITEM_ID: 10344 ---
+放入一个瓶盖或博物馆的代币\0
+
+
+------------------- ACTI ( MS15MuseumActivator03 ) -------------------
+
+--- FULL , ITEM_ID: 10351 ---
+放入一个瓶盖或博物馆的代币\0
+
+
+------------------- ACTI ( MS15MuseumActivator04 ) -------------------
+
+--- FULL , ITEM_ID: 10358 ---
+放入一个瓶盖或博物馆的代币\0
+
+
+------------------- ACTI ( MS15MuseumActivator05 ) -------------------
+
+--- FULL , ITEM_ID: 10365 ---
+放入一个瓶盖或博物馆的代币\0
+
+
+------------------- ACTI ( MS15MuseumActivator06 ) -------------------
+
+--- FULL , ITEM_ID: 10372 ---
+放入一个瓶盖或博物馆的代币\0
+
+
+------------------- ACTI ( MS15MuseumPlaquePrize01 ) -------------------
+
+--- FULL , ITEM_ID: 10379 ---
+国家历史有奖竞猜!\0
+
+
+------------------- ACTI ( MS15MuseumPlaqueRedeem01 ) -------------------
+
+--- FULL , ITEM_ID: 10385 ---
+国家历史奖品领取\0
+
+
+------------------- ACTI ( MS15TurretGenerator ) -------------------
+
+--- FULL , ITEM_ID: 10391 ---
+塔楼发电机\0
+
+
+------------------- ACTI ( MS16ControlPanelVault01 ) -------------------
+
+--- FULL , ITEM_ID: 10398 ---
+避难所大门控制键\0
+
+
+------------------- ACTI ( MS17SoilStradCase ) -------------------
+
+--- FULL , ITEM_ID: 10405 ---
+弄脏弦乐器\0
+
+
+------------------- ACTI ( MS17SoilStradCaseEmpty ) -------------------
+
+--- FULL , ITEM_ID: 10412 ---
+空箱子\0
+
+
+------------------- ACTI ( MS17VaultTecMainframe01 ) -------------------
+
+--- FULL , ITEM_ID: 10418 ---
+避难所科技主机\0
+
+
+------------------- ACTI ( MS18ElevatorPanel ) -------------------
+
+--- FULL , ITEM_ID: 10426 ---
+毁坏的升降机控制板\0
+
+
+------------------- ACTI ( MS18ElevatorPanel02 ) -------------------
+
+--- FULL , ITEM_ID: 10433 ---
+毁坏的升降机控制板\0
+
+
+------------------- ACTI ( MS18ElevatorRoofPanel ) -------------------
+
+--- FULL , ITEM_ID: 10440 ---
+升降机控制板\0
+
+
+------------------- ACTI ( MuseumTech01InteractiveButton01 ) -------------------
+
+--- FULL , ITEM_ID: 10447 ---
+交互键\0
+
+
+------------------- ACTI ( MuseumTech01InteractiveButton02 ) -------------------
+
+--- FULL , ITEM_ID: 10455 ---
+交互键\0
+
+
+------------------- ACTI ( MuseumTech01InteractiveButton03 ) -------------------
+
+--- FULL , ITEM_ID: 10464 ---
+交互键\0
+
+
+------------------- ACTI ( NtlGuardDepotElectricalSwitch01 ) -------------------
+
+--- FULL , ITEM_ID: 10473 ---
+电闸\0
+
+
+------------------- ACTI ( NtlGuardDepotElectricalSwitch02 ) -------------------
+
+--- FULL , ITEM_ID: 10480 ---
+电闸\0
+
+
+------------------- ACTI ( NtlGuardDepotWorldElectricalSwitch01 ) -------------------
+
+--- FULL , ITEM_ID: 10487 ---
+电闸\0
+
+
+------------------- ACTI ( NukaCola01DoorSwitch ) -------------------
+
+--- FULL , ITEM_ID: 10494 ---
+大门开关\0
+
+
+------------------- ACTI ( NukaRepairPod ) -------------------
+
+--- FULL , ITEM_ID: 10501 ---
+RobCo 工业维修系统\0
+
+
+------------------- ACTI ( OasisBasinActivator ) -------------------
+
+--- FULL , ITEM_ID: 10507 ---
+净化之盆\0
+
+
+------------------- ACTI ( ParkingMeter01 ) -------------------
+
+--- FULL , ITEM_ID: 10514 ---
+停车计量器\0
+
+
+------------------- ACTI ( PFallsTheBox ) -------------------
+
+--- FULL , ITEM_ID: 10521 ---
+盒子\0
+
+
+------------------- ACTI ( PinkertonDoorSwitch ) -------------------
+
+--- FULL , ITEM_ID: 10528 ---
+锁定机械开关\0
+
+
+------------------- ACTI ( PortaShelter01 ) -------------------
+
+--- FULL , ITEM_ID: 10535 ---
+Pulowski 庇护所\0
+
+
+------------------- ACTI ( PPurityFEVPanel01 ) -------------------
+
+--- FULL , ITEM_ID: 10543 ---
+辅助过滤输入电路\0
+
+
+------------------- ACTI ( PrintingPress01 ) -------------------
+
+--- FULL , ITEM_ID: 10550 ---
+战前印刷机\0
+
+
+------------------- ACTI ( PrintingPressTread ) -------------------
+
+--- FULL , ITEM_ID: 10558 ---
+印刷机踏板\0
+
+
+------------------- ACTI ( RavenRockTrapLaserTripwire ) -------------------
+
+--- FULL , ITEM_ID: 10564 ---
+镭射绊网\0
+
+
+------------------- ACTI ( RavenRockTrapLaserTripwireEmitter01 ) -------------------
+
+--- FULL , ITEM_ID: 10571 ---
+镭射绊网发射器\0
+
+
+------------------- ACTI ( RHSPod01 ) -------------------
+
+--- FULL , ITEM_ID: 10578 ---
+RobCo 工业先生手机系统\0
+
+
+------------------- ACTI ( SewardSqTalonFight01Switch01 ) -------------------
+
+--- FULL , ITEM_ID: 10584 ---
+开关\0
+
+
+------------------- ACTI ( ShalebridgeAntPileActivator01a ) -------------------
+
+--- FULL , ITEM_ID: 10592 ---
+巨大的蚂蚁卵堆\0
+
+
+------------------- ACTI ( ShalebridgeAntPileActivator02a ) -------------------
+
+--- FULL , ITEM_ID: 10598 ---
+巨大的蚂蚁卵堆\0
+
+
+------------------- ACTI ( ShalebridgeEggPile ) -------------------
+
+--- FULL , ITEM_ID: 10604 ---
+卵堆\0
+
+
+------------------- ACTI ( SuperDuperMartIntercom ) -------------------
+
+--- FULL , ITEM_ID: 10611 ---
+内部通讯扬声器\0
+
+
+------------------- ACTI ( SuperDuperMartIntercomMicrophone ) -------------------
+
+--- FULL , ITEM_ID: 10617 ---
+内部通讯\0
+
+
+------------------- ACTI ( SuperDuperMartIntercomTRIG ) -------------------
+
+--- FULL , ITEM_ID: 10623 ---
+瓦斯阀门\0
+
+
+------------------- ACTI ( TakomaArtillerySwitch01 ) -------------------
+
+--- FULL , ITEM_ID: 10629 ---
+开关\0
+
+
+------------------- ACTI ( TakomaTrapBabyCarriage ) -------------------
+
+--- FULL , ITEM_ID: 10637 ---
+婴儿车\0
+
+
+------------------- ACTI ( TenpennyGateSwitch ) -------------------
+
+--- FULL , ITEM_ID: 10651 ---
+内部通讯\0
+
+
+------------------- ACTI ( Terminal01 ) -------------------
+
+--- FULL , ITEM_ID: 10659 ---
+Hack Terminal\0
+
+
+------------------- ACTI ( Terminal02 ) -------------------
+
+--- FULL , ITEM_ID: 10667 ---
+出租车通道\0
+
+
+------------------- ACTI ( TLpod01 ) -------------------
+
+--- FULL , ITEM_ID: 10675 ---
+宁静闲荡者\0
+
+
+------------------- ACTI ( TLpodBroken ) -------------------
+
+--- FULL , ITEM_ID: 10682 ---
+损坏的宁静闲荡者Tranquility Lounger\0
+
+
+------------------- ACTI ( TranqExitDoorFX ) -------------------
+
+--- FULL , ITEM_ID: 10689 ---
+出口\0
+
+
+------------------- ACTI ( TrapBabyCarriage ) -------------------
+
+--- FULL , ITEM_ID: 10696 ---
+婴儿车\0
+
+
+------------------- ACTI ( TrapBearTrap ) -------------------
+
+--- FULL , ITEM_ID: 10710 ---
+捕熊陷阱\0
+
+
+------------------- ACTI ( TrapComputer ) -------------------
+
+--- FULL , ITEM_ID: 10718 ---
+通道\0
+
+
+------------------- ACTI ( TrapComputerBack ) -------------------
+
+--- FULL , ITEM_ID: 10726 ---
+后部仪表板\0
+
+
+------------------- ACTI ( TrapElectrifiedToiletTop01 ) -------------------
+
+--- FULL , ITEM_ID: 10738 ---
+微型核融电池\0
+
+
+------------------- ACTI ( TrapGasValve ) -------------------
+
+--- FULL , ITEM_ID: 10745 ---
+瓦斯阀门\0
+
+
+------------------- ACTI ( TrapGrenadeBunch ) -------------------
+
+--- FULL , ITEM_ID: 10753 ---
+集束手榴弹？\0
+
+
+------------------- ACTI ( TrapLaserTripwire01256 ) -------------------
+
+--- FULL , ITEM_ID: 10769 ---
+镭射绊网\0
+
+
+------------------- ACTI ( TrapLaserTripwire01512 ) -------------------
+
+--- FULL , ITEM_ID: 10776 ---
+镭射绊网\0
+
+
+------------------- ACTI ( TrapLaserTripwireEmitter01 ) -------------------
+
+--- FULL , ITEM_ID: 10783 ---
+镭射绊网发生器\0
+
+
+------------------- ACTI ( TrapMailboxBomb01 ) -------------------
+
+--- FULL , ITEM_ID: 10797 ---
+邮箱\0
+
+
+------------------- ACTI ( trapMineBuried01 ) -------------------
+
+--- FULL , ITEM_ID: 10809 ---
+隐蔽的地雷\0
+
+
+------------------- ACTI ( TrapPitchingMachine01 ) -------------------
+
+--- FULL , ITEM_ID: 10819 ---
+布雷器\0
+
+
+------------------- ACTI ( TrapPressurePlate ) -------------------
+
+--- FULL , ITEM_ID: 10826 ---
+压力板\0
+
+
+------------------- ACTI ( trapShotgun ) -------------------
+
+--- FULL , ITEM_ID: 10833 ---
+锯过的散弹枪？\0
+
+
+------------------- ACTI ( TrapTripwire01 ) -------------------
+
+--- FULL , ITEM_ID: 10840 ---
+绊网\0
+
+
+------------------- ACTI ( UnderworldCarolsPlaceRadio ) -------------------
+
+--- FULL , ITEM_ID: 10848 ---
+收音机\0
+
+
+------------------- ACTI ( UnderworldNinthCircleRadio ) -------------------
+
+--- FULL , ITEM_ID: 10856 ---
+收音机\0
+
+
+------------------- ACTI ( UtlDoorBigActivator ) -------------------
+
+--- FULL , ITEM_ID: 10864 ---
+多用门？\0
+
+
+------------------- ACTI ( UtlDoorBigSciencePass ) -------------------
+
+--- FULL , ITEM_ID: 10870 ---
+多用门？\0
+
+
+------------------- ACTI ( Vault101Loudspeaker ) -------------------
+
+--- FULL , ITEM_ID: 10877 ---
+扬声器\0
+
+
+------------------- ACTI ( VaultGearDoor ) -------------------
+
+--- FULL , ITEM_ID: 10884 ---
+避难所门\0
+
+
+------------------- ACTI ( VGearDoorControlPanel ) -------------------
+
+--- FULL , ITEM_ID: 10891 ---
+避难所门控制器\0
+
+
+------------------- ACTI ( VintageRadioEnclave01 ) -------------------
+
+--- FULL , ITEM_ID: 10898 ---
+收音机\0
+
+
+------------------- ACTI ( VintageRadioEnclave01STARTON ) -------------------
+
+--- FULL , ITEM_ID: 10906 ---
+收音机\0
+
+
+------------------- ACTI ( VintageRadioGNR01 ) -------------------
+
+--- FULL , ITEM_ID: 10915 ---
+收音机\0
+
+
+------------------- ACTI ( VintageRadioGNR01STARTON ) -------------------
+
+--- FULL , ITEM_ID: 10923 ---
+收音机\0
+
+
+------------------- ACTI ( WoodenSwitch ) -------------------
+
+--- FULL , ITEM_ID: 10932 ---
+开关\0
+
+
+------------------- ACTI ( WorkBench ) -------------------
+
+--- FULL , ITEM_ID: 10938 ---
+工作台\0
+
+
+------------------- ACTI ( zFairfaxSewerAshTrayTrig ) -------------------
+
+--- FULL , ITEM_ID: 10945 ---
+瓦斯阀门\0
+
+
+------------------- ACTI ( AbandonedSewerValve01 ) -------------------
+
+--- FULL , ITEM_ID: 10951 ---
+瓦斯阀门\0
+
+
+------------------- ACTI ( ArmoredVaultSuitMountedACTIVATOR ) -------------------
+
+--- FULL , ITEM_ID: 10959 ---
+装甲的避难所套装\0
+
+
+------------------- ACTI ( Automat01 ) -------------------
+
+--- FULL , ITEM_ID: 10966 ---
+Eat'o'tronic 3000\0
+
+
+------------------- ACTI ( BabyBookActivator ) -------------------
+
+--- FULL , ITEM_ID: 10973 ---
+你是 特别的!\0
+
+
+------------------- ACTI ( BobbleheadDisplayMegaton ) -------------------
+
+--- FULL , ITEM_ID: 10980 ---
+人偶收集柜\0
+
+
+------------------- ACTI ( BobbleheadDisplayTenpenny ) -------------------
+
+--- FULL , ITEM_ID: 10987 ---
+人偶收集柜\0
+
+
+------------------- ACTI ( BobbleheadPlacedAGL ) -------------------
+
+--- FULL , ITEM_ID: 10994 ---
+敏捷人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedBART ) -------------------
+
+--- FULL , ITEM_ID: 11001 ---
+交易人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedBGUN ) -------------------
+
+--- FULL , ITEM_ID: 11008 ---
+大枪人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedCHA ) -------------------
+
+--- FULL , ITEM_ID: 11015 ---
+魅力人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedEND ) -------------------
+
+--- FULL , ITEM_ID: 11022 ---
+耐力人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedERGW ) -------------------
+
+--- FULL , ITEM_ID: 11029 ---
+能量武器人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedEXPL ) -------------------
+
+--- FULL , ITEM_ID: 11036 ---
+炸药人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedINT ) -------------------
+
+--- FULL , ITEM_ID: 11043 ---
+智力人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedLOCK ) -------------------
+
+--- FULL , ITEM_ID: 11050 ---
+开锁人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedLUK ) -------------------
+
+--- FULL , ITEM_ID: 11057 ---
+幸运人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedMEDI ) -------------------
+
+--- FULL , ITEM_ID: 11064 ---
+医疗人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedMELE ) -------------------
+
+--- FULL , ITEM_ID: 11071 ---
+近战武器人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedPER ) -------------------
+
+--- FULL , ITEM_ID: 11078 ---
+感知力人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedREPR ) -------------------
+
+--- FULL , ITEM_ID: 11085 ---
+维修人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedSCNC ) -------------------
+
+--- FULL , ITEM_ID: 11092 ---
+科技人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedSGUN ) -------------------
+
+--- FULL , ITEM_ID: 11099 ---
+小枪人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedSNEK ) -------------------
+
+--- FULL , ITEM_ID: 11106 ---
+潜行人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedSPCH ) -------------------
+
+--- FULL , ITEM_ID: 11113 ---
+口才人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedSTR ) -------------------
+
+--- FULL , ITEM_ID: 11120 ---
+力量人偶\0
+
+
+------------------- ACTI ( BobbleheadPlacedUARM ) -------------------
+
+--- FULL , ITEM_ID: 11127 ---
+肉搏人偶\0
+
+
+------------------- ACTI ( CapitolBuildingBehemothHideTrigger01 ) -------------------
+
+--- FULL , ITEM_ID: 11134 ---
+瓦斯阀门\0
+
+
+------------------- ACTI ( CapitolBuildingBehemothHideTrigger02 ) -------------------
+
+--- FULL , ITEM_ID: 11140 ---
+瓦斯阀门\0
+
+
+------------------- ACTI ( CapitolBuildingBehemothHideTrigger03 ) -------------------
+
+--- FULL , ITEM_ID: 11146 ---
+瓦斯阀门\0
+
+
+------------------- ACTI ( CapitolBuildingBehemothHideTrigger04 ) -------------------
+
+--- FULL , ITEM_ID: 11152 ---
+瓦斯阀门\0
+
+
+------------------- ACTI ( CG04ControlPanelVault01 ) -------------------
+
+--- FULL , ITEM_ID: 11158 ---
+避难所大门控制装置\0
+
+
+------------------- ACTI ( CG04DoorSwitch ) -------------------
+
+--- FULL , ITEM_ID: 11165 ---
+大门开关\0
+
+
+------------------- ACTI ( CG04ReactorSwitch ) -------------------
+
+--- FULL , ITEM_ID: 11171 ---
+反应器动力开关\0
+
+
+------------------- ACTI ( ControlPanelVault01 ) -------------------
+
+--- FULL , ITEM_ID: 11178 ---
+避难所大门控制装置\0
+
+
+------------------- ACTI ( ControlPanelVaultOFF01 ) -------------------
+
+--- FULL , ITEM_ID: 11185 ---
+避难所大门控制装置\0
+
+
+------------------- ACTI ( DefaultAshPile1 ) -------------------
+
+--- FULL , ITEM_ID: 11191 ---
+灰堆\0
+
+
+------------------- ACTI ( DefaultAshPile2 ) -------------------
+
+--- FULL , ITEM_ID: 11197 ---
+粘液堆\0
+
+
+------------------- ACTI ( DemoTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 11204 ---
+出租车通道\0
+
+

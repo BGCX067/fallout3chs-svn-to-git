@@ -1,0 +1,941 @@
+------------------- WEAP ( WeapUniqueBurnmaster ) -------------------
+
+--- FULL , ITEM_ID: 38801 ---
+燃烧大师\0
+
+
+------------------- WEAP ( WeapUniqueButchToothpick ) -------------------
+
+--- FULL , ITEM_ID: 38823 ---
+巴奇的牙签\0
+
+
+------------------- WEAP ( WeapUniqueCloversCleaver ) -------------------
+
+--- FULL , ITEM_ID: 38844 ---
+格洛弗的菜刀\0
+
+
+------------------- WEAP ( WeapUniqueColAutumns10mmPistol ) -------------------
+
+--- FULL , ITEM_ID: 38865 ---
+奥顿上校的10毫米手枪\0
+
+
+------------------- WEAP ( WeapUniqueCursebreaker ) -------------------
+
+--- FULL , ITEM_ID: 38890 ---
+破咒者\0
+
+
+------------------- WEAP ( WeapUniqueExcalibat ) -------------------
+
+--- FULL , ITEM_ID: 38910 ---
+亚瑟王的魔法棒球棍\0
+
+
+------------------- WEAP ( WeapUniqueFawkesSuperSledge ) -------------------
+
+--- FULL , ITEM_ID: 38930 ---
+福克斯的超级铁鎚\0
+
+
+------------------- WEAP ( WeapUniqueFirelance ) -------------------
+
+--- FULL , ITEM_ID: 38949 ---
+火焰长矛\0
+
+
+------------------- WEAP ( WeapUniqueHighwaymansFriendTireIron ) -------------------
+
+--- FULL , ITEM_ID: 38973 ---
+路匪之友\0
+
+
+------------------- WEAP ( WeapUniqueJackTheRipper ) -------------------
+
+--- FULL , ITEM_ID: 38993 ---
+千斤顶\0
+
+
+------------------- WEAP ( WeapUniqueJundersBrassKnuckles ) -------------------
+
+--- FULL , ITEM_ID: 39016 ---
+普伦基特的有效分\0
+
+
+------------------- WEAP ( WeapUniqueKneecapper ) -------------------
+
+--- FULL , ITEM_ID: 39035 ---
+护膝\0
+
+
+------------------- WEAP ( WeapUniqueKnifeCombat ) -------------------
+
+--- FULL , ITEM_ID: 39061 ---
+奥克姆的剃刀\0
+
+
+------------------- WEAP ( WeapUniqueLawDog32CalPistol ) -------------------
+
+--- FULL , ITEM_ID: 39083 ---
+法犬\0
+
+
+------------------- WEAP ( WeapUniqueLoveTap ) -------------------
+
+--- FULL , ITEM_ID: 39107 ---
+爱之击\0
+
+
+------------------- WEAP ( WeapUniqueMIRV ) -------------------
+
+--- FULL , ITEM_ID: 39127 ---
+实验性的分导式多弹头导弹\0
+
+
+------------------- WEAP ( WeapUniqueMissLauncher ) -------------------
+
+--- FULL , ITEM_ID: 39148 ---
+小姐发射器\0
+
+
+------------------- WEAP ( WeapUniqueMS18Minigun ) -------------------
+
+--- FULL , ITEM_ID: 39171 ---
+尤金\0
+
+
+------------------- WEAP ( WeapUniqueOGradysPoliceBaton ) -------------------
+
+--- FULL , ITEM_ID: 39195 ---
+奥格雷迪的调解者\0
+
+
+------------------- WEAP ( WeapUniqueOlPainless ) -------------------
+
+--- FULL , ITEM_ID: 39215 ---
+老女人的无痛（什么东西）\0
+
+
+------------------- WEAP ( WeapUniquePowerFist ) -------------------
+
+--- FULL , ITEM_ID: 39241 ---
+费斯托！\0
+
+
+------------------- WEAP ( WeapUniqueProtectronGaze ) -------------------
+
+--- FULL , ITEM_ID: 39260 ---
+保卫机器人的凝视\0
+
+
+------------------- WEAP ( WeapUniqueReservistsRifle ) -------------------
+
+--- FULL , ITEM_ID: 39284 ---
+后备役军人的步枪\0
+
+
+------------------- WEAP ( WeapUniqueShocker ) -------------------
+
+--- FULL , ITEM_ID: 39311 ---
+骇人者\0
+
+
+------------------- WEAP ( WeapUniqueSmugglersEndLaserPistol ) -------------------
+
+--- FULL , ITEM_ID: 39331 ---
+走私犯的下场\0
+
+
+------------------- WEAP ( WeapUniqueStabhappy ) -------------------
+
+--- FULL , ITEM_ID: 39355 ---
+刺刺乐\0
+
+
+------------------- WEAP ( WeapUniqueSydneys10mmSubGun ) -------------------
+
+--- FULL , ITEM_ID: 39377 ---
+西德尼的10毫米“终极”冲锋枪\0
+
+
+------------------- WEAP ( WeapUniqueSydneys10mmSubGunFollwerVersion ) -------------------
+
+--- FULL , ITEM_ID: 39403 ---
+西德尼的10毫米“终极”冲锋枪\0
+
+
+------------------- WEAP ( WeapUniqueTenderizer ) -------------------
+
+--- FULL , ITEM_ID: 39429 ---
+整平机\0
+
+
+------------------- WEAP ( WeapUniqueTerribleShotgun ) -------------------
+
+--- FULL , ITEM_ID: 39449 ---
+糟糕的散弹枪\0
+
+
+------------------- WEAP ( WeapUniqueTheBreak ) -------------------
+
+--- FULL , ITEM_ID: 39474 ---
+绝裂\0
+
+
+------------------- WEAP ( WeapUniqueVancesChineseSword ) -------------------
+
+--- FULL , ITEM_ID: 39494 ---
+吸血鬼的刀刃\0
+
+
+------------------- WEAP ( WeapUniqueVengeance ) -------------------
+
+--- FULL , ITEM_ID: 39515 ---
+复仇\0
+
+
+------------------- WEAP ( WeapUniqueVictoryRifle ) -------------------
+
+--- FULL , ITEM_ID: 39538 ---
+胜利步枪\0
+
+
+------------------- WEAP ( WeapUniqueWandaAssaultRifle ) -------------------
+
+--- FULL , ITEM_ID: 39565 ---
+旺达\0
+
+
+------------------- WEAP ( WeapUniqueWazerWifle ) -------------------
+
+--- FULL , ITEM_ID: 39591 ---
+泪射布枪\0
+
+------------------- WEAP ( WeapUniqueXuanlongAssaultRifle ) -------------------
+
+--- FULL , ITEM_ID: 39617 ---
+宣龙突击步枪\0
+
+
+------------------- WEAP ( WeapUniqueZhuRongChinesePistol ) -------------------
+
+--- FULL , ITEM_ID: 39641 ---
+祝融v418盒子炮\0
+
+
+------------------- WEAP ( BehemothFireHydrant ) -------------------
+
+--- FULL , ITEM_ID: 39668 ---
+消防水龙头\0
+
+
+------------------- WEAP ( CentaurSpitMissile ) -------------------
+
+--- FULL , ITEM_ID: 39683 ---
+放射性唾液\0
+
+
+------------------- WEAP ( CG02WeapBBGun ) -------------------
+
+--- FULL , ITEM_ID: 39697 ---
+BB枪\0
+
+
+------------------- WEAP ( DemoLaserRifle ) -------------------
+
+--- FULL , ITEM_ID: 39721 ---
+雷射步枪\0
+
+
+------------------- WEAP ( ElderLyonsLaserPistol ) -------------------
+
+--- FULL , ITEM_ID: 39747 ---
+雷射手枪\0
+
+
+------------------- WEAP ( EyeBot1HP ) -------------------
+
+--- FULL , ITEM_ID: 39771 ---
+电震\0
+
+
+------------------- WEAP ( FollowerRL3Flamer2HL ) -------------------
+
+--- FULL , ITEM_ID: 39784 ---
+火焰喷射器\0
+
+
+------------------- WEAP ( FollowerRL3Plasma1HP ) -------------------
+
+--- FULL , ITEM_ID: 39798 ---
+电浆枪\0
+
+
+------------------- WEAP ( FollowersButch10mmPistol ) -------------------
+
+--- FULL , ITEM_ID: 39811 ---
+10毫米手枪\0
+
+
+------------------- WEAP ( FollowersButchSwitchblade ) -------------------
+
+--- FULL , ITEM_ID: 39836 ---
+弹簧刀\0
+
+
+------------------- WEAP ( FollowersCharonCombatKnife ) -------------------
+
+--- FULL , ITEM_ID: 39857 ---
+战斗刀\0
+
+
+------------------- WEAP ( FollowersCharonShotgun ) -------------------
+
+--- FULL , ITEM_ID: 39878 ---
+战斗散弹枪\0
+
+
+------------------- WEAP ( FollowersCharonShotgunScene ) -------------------
+
+--- FULL , ITEM_ID: 39901 ---
+战斗散弹枪\0
+
+
+------------------- WEAP ( FollowersCloverChineseOfficerSword ) -------------------
+
+--- FULL , ITEM_ID: 39925 ---
+中国军官刀\0
+
+
+------------------- WEAP ( FollowersCloverShotgun ) -------------------
+
+--- FULL , ITEM_ID: 39945 ---
+锯过的散弹枪\0
+
+
+------------------- WEAP ( FollowersCrossLaserPistol ) -------------------
+
+--- FULL , ITEM_ID: 39970 ---
+雷射手枪\0
+
+
+------------------- WEAP ( FollowersCrossSuperSledge ) -------------------
+
+--- FULL , ITEM_ID: 39993 ---
+超级铁鎚\0
+
+
+------------------- WEAP ( FollowersFawkesGatlingLaser ) -------------------
+
+--- FULL , ITEM_ID: 40012 ---
+加特林雷射机枪\0
+
+
+------------------- WEAP ( FollowersFawkesSledgehammer ) -------------------
+
+--- FULL , ITEM_ID: 40035 ---
+大鎚子\0
+
+
+------------------- WEAP ( FollowersJerichoChineseAssaultRifle ) -------------------
+
+--- FULL , ITEM_ID: 40054 ---
+中国突击步枪\0
+
+
+------------------- WEAP ( FollowersJerichoNailBoard ) -------------------
+
+--- FULL , ITEM_ID: 40078 ---
+钉板\0
+
+
+------------------- WEAP ( GasTrapDummy ) -------------------
+
+--- FULL , ITEM_ID: 40095 ---
+毒气娃娃\0
+
+
+------------------- WEAP ( LibertyPrimeLaser ) -------------------
+
+--- FULL , ITEM_ID: 40104 ---
+自由雷射枪\0
+
+
+------------------- WEAP ( LibertyPrimeWeapBomb ) -------------------
+
+--- FULL , ITEM_ID: 40118 ---
+LibertyPrimeWeapBomb\0
+
+
+------------------- WEAP ( MirelurkSonic2HL ) -------------------
+
+--- FULL , ITEM_ID: 40129 ---
+尖叫\0
+
+
+------------------- WEAP ( MisterGutsyFlamer2HL ) -------------------
+
+--- FULL , ITEM_ID: 40143 ---
+火焰喷射器\0
+
+
+------------------- WEAP ( MisterGutsyPlasma1HP ) -------------------
+
+--- FULL , ITEM_ID: 40157 ---
+电浆枪\0
+
+
+------------------- WEAP ( MisterHandyBuzzsaw ) -------------------
+
+--- FULL , ITEM_ID: 40170 ---
+圆锯\0
+
+
+------------------- WEAP ( MisterHandyFlamer2HL ) -------------------
+
+--- FULL , ITEM_ID: 40180 ---
+火焰喷射器\0
+
+
+------------------- WEAP ( MQ04Mine ) -------------------
+
+--- FULL , ITEM_ID: 40194 ---
+破片地雷\0
+
+
+------------------- WEAP ( MQ04RollingPin ) -------------------
+
+--- FULL , ITEM_ID: 40209 ---
+擀面杖\0
+
+
+------------------- WEAP ( MQ04SlasherKnife ) -------------------
+
+--- FULL , ITEM_ID: 40229 ---
+开膛手\0
+
+
+------------------- WEAP ( MQ11AutumnLaserPistol ) -------------------
+
+--- FULL , ITEM_ID: 40250 ---
+奥顿上校的雷射手枪\0
+
+
+------------------- WEAP ( MS03BaitGrenade ) -------------------
+
+--- FULL , ITEM_ID: 40274 ---
+Mirelurk诱饵手雷\0
+
+
+------------------- WEAP ( MS03Repellent ) -------------------
+
+--- FULL , ITEM_ID: 40297 ---
+驱虫棍\0
+
+
+------------------- WEAP ( MS04FireAntGuardFlame2HL ) -------------------
+
+--- FULL , ITEM_ID: 40315 ---
+火焰喷射器\0
+
+
+------------------- WEAP ( MS04FireAntSoldierFlame2HL ) -------------------
+
+--- FULL , ITEM_ID: 40329 ---
+火焰喷射器\0
+
+
+------------------- WEAP ( MS04FireAntWorkerFlame2HL ) -------------------
+
+--- FULL , ITEM_ID: 40343 ---
+火焰喷射器\0
+
+
+------------------- WEAP ( MS04QueenAnt2HL ) -------------------
+
+--- FULL , ITEM_ID: 40357 ---
+酸性唾液\0
+
+
+------------------- WEAP ( MS06LincolnsRifle ) -------------------
+
+--- FULL , ITEM_ID: 40370 ---
+林肯的连发枪\0
+
+
+------------------- WEAP ( MysteriousStranger44Magnum ) -------------------
+
+--- FULL , ITEM_ID: 40397 ---
+.44 Magnum左轮\0
+
+
+------------------- WEAP ( ProtectronHandLaser1HP ) -------------------
+
+--- FULL , ITEM_ID: 40416 ---
+雷射手臂\0
+
+
+------------------- WEAP ( ProtectronHeadLaser2HL ) -------------------
+
+--- FULL , ITEM_ID: 40429 ---
+雷射头\0
+
+
+------------------- WEAP ( QueenAnt2HL ) -------------------
+
+--- FULL , ITEM_ID: 40442 ---
+酸性唾液\0
+
+
+------------------- WEAP ( RobobrainLaser1HPRight ) -------------------
+
+--- FULL , ITEM_ID: 40455 ---
+雷射\0
+
+
+------------------- WEAP ( RobobrainMesmetron ) -------------------
+
+--- FULL , ITEM_ID: 40468 ---
+催眠机器\0
+
+
+------------------- WEAP ( SentryBotGatling2HH ) -------------------
+
+--- FULL , ITEM_ID: 40484 ---
+哨兵机器人加特林雷射机枪\0
+
+
+------------------- WEAP ( SentryBotMinigun2HR ) -------------------
+
+--- FULL , ITEM_ID: 40498 ---
+哨兵机器人加特林机枪\0
+
+
+------------------- WEAP ( SentryBotMissileLauncher2HL ) -------------------
+
+--- FULL , ITEM_ID: 40513 ---
+火箭发射器\0
+
+
+------------------- WEAP ( SonoraCruzWeap10mmPistol ) -------------------
+
+--- FULL , ITEM_ID: 40526 ---
+10毫米手枪\0
+
+
+------------------- WEAP ( TrapBaseball ) -------------------
+
+--- FULL , ITEM_ID: 40551 ---
+棒球\0
+
+
+------------------- WEAP ( Turret01Laser2HR ) -------------------
+
+--- FULL , ITEM_ID: 40568 ---
+雷射\0
+
+
+------------------- WEAP ( Turret02Laser2HR ) -------------------
+
+--- FULL , ITEM_ID: 40581 ---
+雷射\0
+
+
+------------------- WEAP ( Turret03Laser2HR ) -------------------
+
+--- FULL , ITEM_ID: 40594 ---
+雷射\0
+
+
+------------------- WEAP ( TurretGunCeiling01 ) -------------------
+
+--- FULL , ITEM_ID: 40607 ---
+塔炮\0
+
+
+------------------- WEAP ( TurretGunCeiling02 ) -------------------
+
+--- FULL , ITEM_ID: 40627 ---
+塔炮\0
+
+
+------------------- WEAP ( TurretGunCeiling03 ) -------------------
+
+--- FULL , ITEM_ID: 40647 ---
+塔炮\0
+
+
+------------------- WEAP ( VertibirdBombGun ) -------------------
+
+--- FULL , ITEM_ID: 40667 ---
+Vertibird炸弹枪\0
+
+
+------------------- WEAP ( VertibirdGun ) -------------------
+
+--- FULL , ITEM_ID: 40689 ---
+Vertibird枪\0
+
+
+------------------- WEAP ( Weap10mmPistol ) -------------------
+
+--- FULL , ITEM_ID: 40707 ---
+10毫米手枪\0
+
+
+------------------- WEAP ( Weap10mmPistolSilenced ) -------------------
+
+--- FULL , ITEM_ID: 40732 ---
+消音10毫米手枪\0
+
+
+------------------- WEAP ( Weap10mmSubmachineGun ) -------------------
+
+--- FULL , ITEM_ID: 40757 ---
+10毫米冲锋枪\0
+
+
+------------------- WEAP ( Weap32CaliberPistol ) -------------------
+
+--- FULL , ITEM_ID: 40783 ---
+.32手枪\0
+
+
+------------------- WEAP ( Weap44MagnumScoped ) -------------------
+
+--- FULL , ITEM_ID: 40807 ---
+带狙击镜的.44 Magnum左轮\0
+
+
+------------------- WEAP ( WeapAlienBlaster ) -------------------
+
+--- FULL , ITEM_ID: 40833 ---
+外星人射线枪\0
+
+
+------------------- WEAP ( WeapAssaultRifle ) -------------------
+
+--- FULL , ITEM_ID: 40856 ---
+突击步枪\0
+
+
+------------------- WEAP ( WeapBaseballBat ) -------------------
+
+--- FULL , ITEM_ID: 40882 ---
+棒球棍\0
+
+
+------------------- WEAP ( WeapBBGun ) -------------------
+
+--- FULL , ITEM_ID: 40902 ---
+BB枪\0
+
+
+------------------- WEAP ( WeapBrassKnuckles ) -------------------
+
+--- FULL , ITEM_ID: 40926 ---
+铜护膝\0
+
+
+------------------- WEAP ( WeapChineseAssaultRifle ) -------------------
+
+--- FULL , ITEM_ID: 40943 ---
+中国突击步枪\0
+
+
+------------------- WEAP ( WeapChineseOfficerSword ) -------------------
+
+--- FULL , ITEM_ID: 40967 ---
+中国军官刀\0
+
+
+------------------- WEAP ( WeapChinesePistol ) -------------------
+
+--- FULL , ITEM_ID: 40988 ---
+盒子炮\0
+
+
+------------------- WEAP ( WeapDartGun ) -------------------
+
+--- FULL , ITEM_ID: 41014 ---
+镖枪\0
+
+
+------------------- WEAP ( WeapDeathclawGauntlet ) -------------------
+
+--- FULL , ITEM_ID: 41037 ---
+死亡爪护手\0
+
+
+------------------- WEAP ( WeapFatman ) -------------------
+
+--- FULL , ITEM_ID: 41052 ---
+胖子\0
+
+
+------------------- WEAP ( WeapFlamer ) -------------------
+
+--- FULL , ITEM_ID: 41073 ---
+火焰喷射器\0
+
+
+------------------- WEAP ( WeapGatlingLaser ) -------------------
+
+--- FULL , ITEM_ID: 41097 ---
+加特林雷射机枪\0
+
+
+------------------- WEAP ( WeapGrenadeFrag ) -------------------
+
+--- FULL , ITEM_ID: 41120 ---
+破片手雷\0
+
+
+------------------- WEAP ( WeapGrenadePlasma ) -------------------
+
+--- FULL , ITEM_ID: 41141 ---
+电浆手雷\0
+
+
+------------------- WEAP ( WeapGrenadePulse ) -------------------
+
+--- FULL , ITEM_ID: 41157 ---
+脉冲手雷\0
+
+
+------------------- WEAP ( WeapHuntingRifle ) -------------------
+
+--- FULL , ITEM_ID: 41176 ---
+猎枪\0
+
+
+------------------- WEAP ( WeapKnife ) -------------------
+
+--- FULL , ITEM_ID: 41202 ---
+刀\0
+
+
+------------------- WEAP ( WeapKnifeCombat ) -------------------
+
+--- FULL , ITEM_ID: 41223 ---
+战斗刀\0
+
+
+------------------- WEAP ( WeapLaserPistol ) -------------------
+
+--- FULL , ITEM_ID: 41245 ---
+雷射手枪\0
+
+
+------------------- WEAP ( WeapLaserRifle ) -------------------
+
+--- FULL , ITEM_ID: 41269 ---
+雷射步枪\0
+
+
+------------------- WEAP ( WeapLeadPipe ) -------------------
+
+--- FULL , ITEM_ID: 41295 ---
+铅管\0
+
+
+------------------- WEAP ( WeapMesmetron ) -------------------
+
+--- FULL , ITEM_ID: 41315 ---
+催眠机器\0
+
+
+------------------- WEAP ( WeapMineBottlecap ) -------------------
+
+--- FULL , ITEM_ID: 41340 ---
+瓶盖地雷\0
+
+
+------------------- WEAP ( WeapMineFrag ) -------------------
+
+--- FULL , ITEM_ID: 41356 ---
+破片地雷\0
+
+
+------------------- WEAP ( WeapMinePlasma ) -------------------
+
+--- FULL , ITEM_ID: 41372 ---
+电浆地雷\0
+
+
+------------------- WEAP ( WeapMinePulse ) -------------------
+
+--- FULL , ITEM_ID: 41387 ---
+脉冲地雷\0
+
+
+------------------- WEAP ( WeapMinigun ) -------------------
+
+--- FULL , ITEM_ID: 41402 ---
+加特林机关枪\0
+
+
+------------------- WEAP ( WeapMissileLauncher ) -------------------
+
+--- FULL , ITEM_ID: 41426 ---
+导弹发射器\0
+
+
+------------------- WEAP ( WeapNailBoard ) -------------------
+
+--- FULL , ITEM_ID: 41449 ---
+钉板\0
+
+
+------------------- WEAP ( WeapNukaCocktail ) -------------------
+
+--- FULL , ITEM_ID: 41467 ---
+核子可乐手雷\0
+
+
+------------------- WEAP ( WeapPlasmaPistol ) -------------------
+
+--- FULL , ITEM_ID: 41485 ---
+电浆手枪\0
+
+
+------------------- WEAP ( WeapPlasmaRifle ) -------------------
+
+--- FULL , ITEM_ID: 41508 ---
+电浆步枪\0
+
+
+------------------- WEAP ( WeapPoliceBaton ) -------------------
+
+--- FULL , ITEM_ID: 41532 ---
+警棍\0
+
+
+------------------- WEAP ( WeapPoolCue ) -------------------
+
+--- FULL , ITEM_ID: 41552 ---
+台球杆\0
+
+
+------------------- WEAP ( WeapPowerFist ) -------------------
+
+--- FULL , ITEM_ID: 41572 ---
+动力拳套\0
+
+
+------------------- WEAP ( WeapRailwayRifle ) -------------------
+
+--- FULL , ITEM_ID: 41591 ---
+铁道步枪\0
+
+
+------------------- WEAP ( WeapRipper ) -------------------
+
+--- FULL , ITEM_ID: 41614 ---
+粗齿锯\0
+
+
+------------------- WEAP ( WeapRockItLauncher ) -------------------
+
+--- FULL , ITEM_ID: 41637 ---
+贱货发射器\0
+
+
+------------------- WEAP ( WeapRollingPin ) -------------------
+
+--- FULL , ITEM_ID: 41662 ---
+擀面杖\0
+
+
+------------------- WEAP ( WeapShishkebab ) -------------------
+
+--- FULL , ITEM_ID: 41681 ---
+Shishkebab烤肉\0
+
+
+------------------- WEAP ( WeapShotgunCombat ) -------------------
+
+--- FULL , ITEM_ID: 41704 ---
+战斗散弹枪\0
+
+
+------------------- WEAP ( WeapShotgunSawedOff ) -------------------
+
+--- FULL , ITEM_ID: 41729 ---
+锯过的散弹枪\0
+
+
+------------------- WEAP ( WeapSledgehammer ) -------------------
+
+--- FULL , ITEM_ID: 41755 ---
+大鎚子\0
+
+
+------------------- WEAP ( WeapSniperRifle ) -------------------
+
+--- FULL , ITEM_ID: 41775 ---
+狙击步枪\0
+
+
+------------------- WEAP ( WeapSpikedKnuckles ) -------------------
+
+--- FULL , ITEM_ID: 41802 ---
+带钉护膝\0
+
+
+------------------- WEAP ( WeapSuperSledge ) -------------------
+
+--- FULL , ITEM_ID: 41819 ---
+超级铁鎚\0
+
+
+------------------- WEAP ( WeapSwitchBlade ) -------------------
+
+--- FULL , ITEM_ID: 41838 ---
+弹簧刀\0
+
+
+------------------- WEAP ( WeapTireIron ) -------------------
+
+--- FULL , ITEM_ID: 41860 ---
+拆轮胎铁棒\0
+
+
+------------------- WEAP ( WeapUniqueA321PlasmaRifle ) -------------------
+
+--- FULL , ITEM_ID: 41880 ---
+A3-21的电浆步枪\0
+
+
+------------------- WEAP ( WeapUniqueAntSting ) -------------------
+
+--- FULL , ITEM_ID: 41903 ---
+蚂蚁刺\0
+
+
+------------------- WEAP ( WeapUniqueBlackBartsBBGun ) -------------------
+
+--- FULL , ITEM_ID: 41925 ---
+布莱克巴特的克星\0
+
+
+------------------- WEAP ( WeapUniqueBlackhawk ) -------------------
+
+--- FULL , ITEM_ID: 41949 ---
+黑鹰\0
+
+
+------------------- WEAP ( WeapUniqueBoardOfEducation ) -------------------
+
+--- FULL , ITEM_ID: 41973 ---
+校董事会\0
+
+
+------------------- WEAP ( WeapUniqueBreaker ) -------------------
+
+--- FULL , ITEM_ID: 41991 ---
+破坏者\0
+
+

@@ -1,0 +1,11636 @@
+------------------- TERM ( CGDadsTerminalPatients ) -------------------
+
+--- FULL , ITEM_ID: 11498 ---
+患者档案\0
+
+
+--- ITXT , ITEM_ID: 11501 ---
+弗雷迪·戈麦斯\0
+
+
+--- ITXT , ITEM_ID: 11506 ---
+斯坦利\0
+
+
+--- ITXT , ITEM_ID: 11511 ---
+阿玛塔\0
+
+
+------------------- TERM ( CitadelArchiveTerminal1 ) -------------------
+
+--- FULL , ITEM_ID: 11519 ---
+五角大楼图书馆终端\0
+
+
+--- DESC , ITEM_ID: 11522 ---
+Welcome to the Pentagon Library, General \0
+
+
+--- ITXT , ITEM_ID: 11525 ---
+U.F.O报告，代号“Palandine”\0
+
+
+--- ITXT , ITEM_ID: 11530 ---
+突发奇想工程报告\0
+
+
+--- ITXT , ITEM_ID: 11535 ---
+Cloacina任务报告\0
+
+
+------------------- TERM ( CitadelComputerBase ) -------------------
+
+--- FULL , ITEM_ID: 11543 ---
+五角大本营信息终端\0
+
+
+--- DESC , ITEM_ID: 11546 ---
+欢迎，兄弟\0
+
+
+--- ITXT , ITEM_ID: 11549 ---
+英克雷战术评估\0
+
+
+--- ITXT , ITEM_ID: 11554 ---
+G.N.R.战斗报告\0
+
+
+--- ITXT , ITEM_ID: 11559 ---
+一般机器人的诊断-更新\0
+
+
+--- ITXT , ITEM_ID: 11564 ---
+G.N.R.士兵换岗\0
+
+
+--- ITXT , ITEM_ID: 11569 ---
+注意：瑞丁葬礼取消\0
+
+
+------------------- TERM ( CitadelComputerBaseLab ) -------------------
+
+--- FULL , ITEM_ID: 11577 ---
+五角大本营实验室\0
+
+
+--- DESC , ITEM_ID: 11580 ---
+欢迎，兄弟\0
+
+
+--- ITXT , ITEM_ID: 11583 ---
+AVF 问题\0
+
+
+--- ITXT , ITEM_ID: 11588 ---
+警告！ ：液压泄漏\0
+
+
+--- ITXT , ITEM_ID: 11593 ---
+英克雷战术评估\0
+
+
+--- ITXT , ITEM_ID: 11598 ---
+G.N.R.战斗报告\0
+
+
+--- ITXT , ITEM_ID: 11603 ---
+一般机器人的诊断-更新\0
+
+
+--- ITXT , ITEM_ID: 11608 ---
+注意：瑞丁葬礼取消\0
+
+
+------------------- TERM ( CitadelComputerBaseLabDesk ) -------------------
+
+--- FULL , ITEM_ID: 11616 ---
+五角大本营实验室\0
+
+
+--- DESC , ITEM_ID: 11619 ---
+欢迎，兄弟\0
+
+
+--- ITXT , ITEM_ID: 11622 ---
+AVF 问题\0
+
+
+--- ITXT , ITEM_ID: 11627 ---
+警告！ ：液压泄漏\0
+
+
+--- ITXT , ITEM_ID: 11632 ---
+英克雷战术评估\0
+
+
+--- ITXT , ITEM_ID: 11637 ---
+G.N.R.战斗报告\0
+
+
+--- ITXT , ITEM_ID: 11642 ---
+一般机器人的诊断-更新\0
+
+
+--- ITXT , ITEM_ID: 11647 ---
+注意：瑞丁葬礼取消\0
+
+
+------------------- TERM ( CitadelComputerBasePersonnel ) -------------------
+
+--- FULL , ITEM_ID: 11655 ---
+五角大本营人员终端\0
+
+
+--- DESC , ITEM_ID: 11658 ---
+欢迎，兄弟\0
+
+
+--- ITXT , ITEM_ID: 11661 ---
+G.N.R.士兵换岗\0
+
+
+--- ITXT , ITEM_ID: 11666 ---
+重要通知：治安官马克松·贝雷来访\0
+
+
+--- ITXT , ITEM_ID: 11671 ---
+里昂斯加入\0
+
+
+--- ITXT , ITEM_ID: 11676 ---
+注意：瑞丁葬礼取消\0
+
+
+------------------- TERM ( CitadelElderTerminal ) -------------------
+
+--- FULL , ITEM_ID: 11684 ---
+里昂斯长老的终端\0
+
+
+--- DESC , ITEM_ID: 11687 ---
+祝福您，里昂斯长老\0
+
+
+--- ITXT , ITEM_ID: 11690 ---
+治安官马克松进展报告\0
+
+
+--- ITXT , ITEM_ID: 11695 ---
+萨拉的诞生\0
+
+
+--- ITXT , ITEM_ID: 11700 ---
+撤销保险柜锁\0
+
+
+--- RNAM , ITEM_ID: 11701 ---
+保险柜解锁\0
+
+
+------------------- TERM ( CitadelLibertyPrimeTerminal ) -------------------
+
+--- FULL , ITEM_ID: 11710 ---
+总理行动自由\0
+
+
+--- DESC , ITEM_ID: 11713 ---
+五角大本营系统连接39L\r\n\r\n欢迎，文员罗斯查德\0
+
+
+--- ITXT , ITEM_ID: 11716 ---
+历史记录\0
+
+
+--- ITXT , ITEM_ID: 11721 ---
+诊断报告\0
+
+
+--- ITXT , ITEM_ID: 11726 ---
+领导文员的记录\0
+
+
+--- ITXT , ITEM_ID: 11731 ---
+声发射测试\0
+
+
+--- RNAM , ITEM_ID: 11732 ---
+声发射测试预置…\0
+
+
+--- ITXT , ITEM_ID: 11739 ---
+启动激活序列\0
+
+
+--- RNAM , ITEM_ID: 11740 ---
+失败：*电力不足*\0
+
+
+------------------- TERM ( CitadelLibertyPrimeTerminalDiagnostic ) -------------------
+
+--- FULL , ITEM_ID: 11746 ---
+总理行动自由\0
+
+
+--- DESC , ITEM_ID: 11749 ---
+五角大本营系统连接39L\r\n\r\n欢迎，文员罗斯查德\0
+
+
+--- ITXT , ITEM_ID: 11752 ---
+May 8, 2277\0
+
+
+--- ITXT , ITEM_ID: 11757 ---
+July 13, 2277\0
+
+
+--- ITXT , ITEM_ID: 11762 ---
+Current  \0
+
+
+------------------- TERM ( CitadelLibertyPrimeTerminalHistorical ) -------------------
+
+--- FULL , ITEM_ID: 11770 ---
+总理行动自由\0
+
+
+--- DESC , ITEM_ID: 11773 ---
+五角大本营系统连接39L\r\n\r\n欢迎，文员罗斯查德\0
+
+
+--- ITXT , ITEM_ID: 11776 ---
+工程摘要\0
+
+
+--- ITXT , ITEM_ID: 11781 ---
+重要的邮报文章－2072-6-3\0
+
+
+--- ITXT , ITEM_ID: 11786 ---
+信件：布鲁姆·非欧德至彻斯将军\0
+
+
+------------------- TERM ( CitadelLibertyPrimeTerminalScribeJournal ) -------------------
+
+--- FULL , ITEM_ID: 11794 ---
+总理行动自由\0
+
+
+--- DESC , ITEM_ID: 11797 ---
+五角大本营系统连接39L\r\n\r\n欢迎，文员罗斯查德\0
+
+
+--- ITXT , ITEM_ID: 11800 ---
+May 9, 2277\0
+
+
+--- ITXT , ITEM_ID: 11805 ---
+July 14, 2277\0
+
+
+--- ITXT , ITEM_ID: 11810 ---
+August 1, 2277\0
+
+
+------------------- TERM ( CitadelMaxsonDiary ) -------------------
+
+--- FULL , ITEM_ID: 11818 ---
+罗杰·马克松日记\0
+
+
+--- DESC , ITEM_ID: 11821 ---
+欢迎，兄弟\0
+
+
+--- ITXT , ITEM_ID: 11824 ---
+2277-10-10\0
+
+
+--- ITXT , ITEM_ID: 11829 ---
+2277-10-12\0
+
+
+--- ITXT , ITEM_ID: 11834 ---
+2277-10-13\0
+
+
+--- ITXT , ITEM_ID: 11839 ---
+2277-10-15\0
+
+
+--- ITXT , ITEM_ID: 11844 ---
+2277-10-18\0
+
+
+--- ITXT , ITEM_ID: 11849 ---
+2277-10-20\0
+
+
+------------------- TERM ( CitadelMaxsonDiary2 ) -------------------
+
+--- FULL , ITEM_ID: 11857 ---
+罗杰·马克松日记\0
+
+
+--- DESC , ITEM_ID: 11860 ---
+欢迎，兄弟\0
+
+
+--- ITXT , ITEM_ID: 11863 ---
+2277-10-22\0
+
+
+--- ITXT , ITEM_ID: 11868 ---
+2277-10-23\0
+
+
+--- ITXT , ITEM_ID: 11873 ---
+2277-10-25\0
+
+
+--- ITXT , ITEM_ID: 11878 ---
+2277-10-26\0
+
+
+--- ITXT , ITEM_ID: 11883 ---
+2277-10-27\0
+
+
+------------------- TERM ( CitadelMaxsonDossiers ) -------------------
+
+--- FULL , ITEM_ID: 11891 ---
+罗杰·马克松日记\0
+
+
+--- DESC , ITEM_ID: 11894 ---
+欢迎，兄弟\0
+
+
+--- ITXT , ITEM_ID: 11897 ---
+罗杰·马克松\0
+
+
+--- ITXT , ITEM_ID: 11902 ---
+马克松II\0
+
+
+--- ITXT , ITEM_ID: 11907 ---
+约翰·马克松\0
+
+
+--- ITXT , ITEM_ID: 11912 ---
+新人：文员阿瑟·马克松\0
+
+
+------------------- TERM ( CitadelMaxsonTerminal ) -------------------
+
+--- FULL , ITEM_ID: 11920 ---
+马克松档案终端\0
+
+
+--- DESC , ITEM_ID: 11923 ---
+欢迎，兄弟\0
+
+
+--- ITXT , ITEM_ID: 11926 ---
+马克松家族材料\0
+
+
+--- ITXT , ITEM_ID: 11931 ---
+马克松的国度\0
+
+
+--- ITXT , ITEM_ID: 11936 ---
+罗杰·马克松日记－卷.1\0
+
+
+--- ITXT , ITEM_ID: 11941 ---
+罗杰·马克松日记－卷.2\0
+
+
+------------------- TERM ( CitadelMedicalTerminal ) -------------------
+
+--- FULL , ITEM_ID: 11949 ---
+五角大本营医学终端\0
+
+
+--- DESC , ITEM_ID: 11952 ---
+嘿！外科医生，你他妈的笨蛋！这是格拉德－我又一次破解了你的终端。在改掉你的密码之前，我先删了你所有的白痴机器人诗歌。;P\0
+
+
+--- ITXT , ITEM_ID: 11955 ---
+故障报告\0
+
+
+--- ITXT , ITEM_ID: 11960 ---
+注：彭德尔顿阑尾切除手术\0
+
+
+--- ITXT , ITEM_ID: 11965 ---
+使沉思凝结 ，一首诗\0
+
+
+--- ITXT , ITEM_ID: 11970 ---
+撤销医疗储藏库锁\0
+
+
+--- RNAM , ITEM_ID: 11971 ---
+医疗储藏库锁解开\0
+
+
+------------------- TERM ( CitadelSquireTerminal ) -------------------
+
+--- FULL , ITEM_ID: 11980 ---
+治安官马克松的终端\0
+
+
+--- DESC , ITEM_ID: 11983 ---
+嗨，治安官马克松！今天这个最好的年轻人在五角大本营干的怎么样？\0
+
+
+--- ITXT , ITEM_ID: 11986 ---
+日记条目1\0
+
+
+--- ITXT , ITEM_ID: 11991 ---
+日记条目2\0
+
+
+--- ITXT , ITEM_ID: 11996 ---
+故事：马戏团大车的看守人\0
+
+
+--- ITXT , ITEM_ID: 12001 ---
+诗歌：光人之歌\0
+
+
+--- ITXT , ITEM_ID: 12006 ---
+枪和子弹\0
+
+
+------------------- TERM ( CitadelTerminalArmory ) -------------------
+
+--- FULL , ITEM_ID: 12014 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 12017 ---
+武器信息研究数据库\r\n\r\n选择武器\0
+
+
+--- ITXT , ITEM_ID: 12020 ---
+N99 10mm手枪\0
+
+
+--- ITXT , ITEM_ID: 12025 ---
+R91 5.56mm攻击来复枪\0
+
+
+--- ITXT , ITEM_ID: 12030 ---
+AEP7镭射手枪\0
+
+
+--- ITXT , ITEM_ID: 12035 ---
+AER9镭射步枪\0
+
+
+------------------- TERM ( CitadelTerminalLyonsDen ) -------------------
+
+--- FULL , ITEM_ID: 12043 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 12046 ---
+错误 0x03C663A1\r\n“网络连接没有找到”\r\n“终端接入点无效”\0
+
+
+------------------- TERM ( CitadelTerminalSmithy ) -------------------
+
+--- FULL , ITEM_ID: 12052 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 12055 ---
+错误 0x03C663A1\r\n“网络连接没有找到”\r\n“终端接入点无效”\0
+
+
+------------------- TERM ( CommuneTerm ) -------------------
+
+--- FULL , ITEM_ID: 12061 ---
+终端\0
+
+
+--- ITXT , ITEM_ID: 12066 ---
+（条目：埃德加）\0
+
+
+--- RNAM , ITEM_ID: 12067 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 12071 ---
+（条目：洛希尔）\0
+
+
+--- RNAM , ITEM_ID: 12072 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 12076 ---
+（条目：狄龙）\0
+
+
+--- RNAM , ITEM_ID: 12077 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 12081 ---
+（条目：J博士）\0
+
+
+--- RNAM , ITEM_ID: 12082 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 12086 ---
+（条目：泰勒）\0
+
+
+--- RNAM , ITEM_ID: 12087 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 12091 ---
+（条目：泰勒）\0
+
+
+--- RNAM , ITEM_ID: 12092 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 12096 ---
+（条目：吉姆）\0
+
+
+--- RNAM , ITEM_ID: 12097 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 12101 ---
+（条目：埃德加）\0
+
+
+--- RNAM , ITEM_ID: 12102 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 12106 ---
+（条目：吉姆）\0
+
+
+--- RNAM , ITEM_ID: 12107 ---
+埃德加 读取中…\0
+
+
+------------------- TERM ( ComputerGermantown911A ) -------------------
+
+--- FULL , ITEM_ID: 12114 ---
+911 终端\0
+
+
+--- DESC , ITEM_ID: 12117 ---
+感谢您致电日耳曼镇911呼叫中心，请问您有什么紧急情况？\0
+
+
+--- ITXT , ITEM_ID: 12119 ---
+911呼叫日志<最新t>\0
+
+
+--- RNAM , ITEM_ID: 12120 ---
+正在读取...\0
+
+
+--- ITXT , ITEM_ID: 12124 ---
+站台警报\0
+
+
+--- RNAM , ITEM_ID: 12125 ---
+开始实施…\0
+
+
+------------------- TERM ( ComputerGermantown911B ) -------------------
+
+--- FULL , ITEM_ID: 12135 ---
+911 终端\0
+
+
+--- DESC , ITEM_ID: 12138 ---
+感谢您致电日耳曼镇911呼叫中心，请问您有什么紧急情况？\0
+
+
+--- ITXT , ITEM_ID: 12140 ---
+911呼叫日志<最新t>\0
+
+
+--- RNAM , ITEM_ID: 12141 ---
+正在读取...\0
+
+
+--- ITXT , ITEM_ID: 12145 ---
+站台警报\0
+
+
+--- RNAM , ITEM_ID: 12146 ---
+开始实施…\0
+
+
+------------------- TERM ( ComputerGermantown911C ) -------------------
+
+--- FULL , ITEM_ID: 12156 ---
+911 终端\0
+
+
+--- DESC , ITEM_ID: 12159 ---
+感谢您致电日耳曼镇911呼叫中心，请问您有什么紧急情况？\0
+
+
+--- ITXT , ITEM_ID: 12161 ---
+911呼叫日志<最新t>\0
+
+
+--- RNAM , ITEM_ID: 12162 ---
+正在读取...\0
+
+
+--- ITXT , ITEM_ID: 12166 ---
+站台警报\0
+
+
+--- RNAM , ITEM_ID: 12167 ---
+开始实施…\0
+
+
+------------------- TERM ( DashwoodTerminal ) -------------------
+
+--- FULL , ITEM_ID: 12177 ---
+探索数据库\0
+
+
+--- DESC , ITEM_ID: 12180 ---
+您好，“大胆”！您的晚年就像您的年轻时代一样充满无尽的奇迹和历险。\0
+
+
+--- ITXT , ITEM_ID: 12183 ---
+家族人员\0
+
+
+--- ITXT , ITEM_ID: 12188 ---
+地点\0
+
+
+--- ITXT , ITEM_ID: 12193 ---
+害虫\0
+
+
+------------------- TERM ( DefaultDeskTerminalBadData ) -------------------
+
+--- FULL , ITEM_ID: 12201 ---
+破解终端\0
+
+
+--- DESC , ITEM_ID: 12204 ---
+错误 0x07F6BAAC\r\n“数据损坏，不能读取。”\0
+
+
+------------------- TERM ( DefaultDeskTerminalBadLoad ) -------------------
+
+--- FULL , ITEM_ID: 12210 ---
+破解终端\0
+
+
+--- DESC , ITEM_ID: 12213 ---
+错误 0xFFFFF710\r\n“处理器Corru ; xsfkleg ， ， g364 [ 735 ） 3__ 。”\0
+
+
+------------------- TERM ( DefaultDeskTerminalBadSector ) -------------------
+
+--- FULL , ITEM_ID: 12219 ---
+破解终端\0
+
+
+--- DESC , ITEM_ID: 12222 ---
+错误 0x357C5001\r\n“在引导块发现坏扇区.”\r\n“终端错误。”\r\n\0
+
+
+------------------- TERM ( DefaultDeskTerminalNoInput ) -------------------
+
+--- FULL , ITEM_ID: 12228 ---
+破解终端\0
+
+
+--- DESC , ITEM_ID: 12231 ---
+错误 0x00B636C6\r\n“没有发现输入设备”\r\n“重新连接键盘。”\0
+
+
+------------------- TERM ( DefaultDeskTerminalNoNetwork ) -------------------
+
+--- FULL , ITEM_ID: 12237 ---
+破解终端\0
+
+
+--- DESC , ITEM_ID: 12240 ---
+错误 0x03C663A1\r\n“网络连接没有找到”\r\n“终端接入点无效”\0
+
+
+------------------- TERM ( DefaultDeskTerminalNoPower ) -------------------
+
+--- FULL , ITEM_ID: 12246 ---
+破解终端\0
+
+
+--- DESC , ITEM_ID: 12249 ---
+错误 0x0AABFF00\r\n“主电源无效”\r\n“检查所有电缆和插头的连接。”\0
+
+
+------------------- TERM ( DefaultDeskTerminalNoStorage ) -------------------
+
+--- FULL , ITEM_ID: 12255 ---
+破解终端\0
+
+
+--- DESC , ITEM_ID: 12258 ---
+错误 0xF141A013\r\n“无数据存储器连接”\r\n“检查磁带驱动器连接。”\0
+
+
+------------------- TERM ( DefaultDeskTerminalVirus ) -------------------
+
+--- FULL , ITEM_ID: 12264 ---
+破解终端\0
+
+
+--- DESC , ITEM_ID: 12267 ---
+错误 0xBA53FFFA\r\n“发现恶意程序。”\r\n“发现病毒，正在关闭系统。”\0
+
+
+------------------- TERM ( DefaultTerminalBadData ) -------------------
+
+--- FULL , ITEM_ID: 12273 ---
+破解终端\0
+
+
+--- DESC , ITEM_ID: 12276 ---
+错误 0x07F6BAAC\r\n“数据损坏，不能读取。”\0
+
+
+------------------- TERM ( MS15PodBackupRobotTerminal01 ) -------------------
+
+--- DESC , ITEM_ID: 12284 ---
+为下载子程序数据关联数据源\0
+
+
+--- ITXT , ITEM_ID: 12287 ---
+JADAM002 约翰·亚当斯\0
+
+
+--- RNAM , ITEM_ID: 12288 ---
+单位不存在\0
+
+
+--- ITXT , ITEM_ID: 12291 ---
+BGWIN009 巴顿·格温耐特\0
+
+
+--- RNAM , ITEM_ID: 12292 ---
+单位不存在\0
+
+
+--- ITXT , ITEM_ID: 12295 ---
+BFRAN001 本杰明·富兰克林\0
+
+
+--- RNAM , ITEM_ID: 12296 ---
+单位不存在\0
+
+
+--- ITXT , ITEM_ID: 12299 ---
+JHANC003 约翰·汉考克\0
+
+
+--- RNAM , ITEM_ID: 12300 ---
+单位不存在\0
+
+
+--- ITXT , ITEM_ID: 12303 ---
+TJEFF002 托马斯·杰斐逊\0
+
+
+--- ITXT , ITEM_ID: 12308 ---
+ERUTL001 爱德华·拉特利奇\0
+
+
+--- RNAM , ITEM_ID: 12309 ---
+单位不存在\0
+
+
+--- ITXT , ITEM_ID: 12312 ---
+JWILS002 约翰·威尔逊\0
+
+
+--- RNAM , ITEM_ID: 12313 ---
+单位不存在\0
+
+
+------------------- TERM ( MS15PodBackupRobotTerminal02 ) -------------------
+
+--- DESC , ITEM_ID: 12321 ---
+TJEFF002 托马斯·杰斐逊连接柄确认\0
+
+
+--- ITXT , ITEM_ID: 12324 ---
+执行转移\0
+
+
+--- RNAM , ITEM_ID: 12325 ---
+转移完成\0
+
+
+--- ITXT , ITEM_ID: 12331 ---
+取消转移\0
+
+
+--- RNAM , ITEM_ID: 12332 ---
+转移被取消\0
+
+
+------------------- TERM ( MQ02MuseumInfoTerminalHacked01 ) -------------------
+
+--- DESC , ITEM_ID: 12342 ---
+#好运\0
+
+
+--- ITXT , ITEM_ID: 12345 ---
+#009\0
+
+
+--- ITXT , ITEM_ID: 12352 ---
+#019\0
+
+
+--- ITXT , ITEM_ID: 12360 ---
+#030\0
+
+
+--- ITXT , ITEM_ID: 12367 ---
+#049\0
+
+
+------------------- TERM ( MQ02MuseumInfoTerminalHacked02 ) -------------------
+
+--- DESC , ITEM_ID: 12379 ---
+#好运\0
+
+
+--- ITXT , ITEM_ID: 12382 ---
+#024\0
+
+
+--- ITXT , ITEM_ID: 12389 ---
+#038\0
+
+
+--- ITXT , ITEM_ID: 12396 ---
+#053\0
+
+
+--- ITXT , ITEM_ID: 12404 ---
+#088\0
+
+
+------------------- TERM ( MQ02MuseumInfoTerminalHacked03 ) -------------------
+
+--- DESC , ITEM_ID: 12416 ---
+#好运\0
+
+
+--- ITXT , ITEM_ID: 12419 ---
+#099\0
+
+
+--- ITXT , ITEM_ID: 12426 ---
+#105\0
+
+
+--- ITXT , ITEM_ID: 12433 ---
+#111\0
+
+
+--- ITXT , ITEM_ID: 12440 ---
+#113\0
+
+
+------------------- TERM ( DefaultTerminalBadLoad ) -------------------
+
+--- FULL , ITEM_ID: 12451 ---
+破解终端\0
+
+
+--- DESC , ITEM_ID: 12454 ---
+错误 0xFFFFF710\r\n“处理器Corru ; xsfkleg ， ， g364 [ 735 ） 3__ 。”\0
+
+
+------------------- TERM ( FFDCUrbanPlanningTerminal01 ) -------------------
+
+--- DESC , ITEM_ID: 12462 ---
+DC地铁办公室城市规划\r\n罗杰克管理系统\r\n首都环线改造工程\r\n您是已登录的工程负责人\r\n请您选择：\0
+
+
+--- ITXT , ITEM_ID: 12465 ---
+工程概述\0
+
+
+--- ITXT , ITEM_ID: 12469 ---
+工程任务声明\0
+
+
+--- ITXT , ITEM_ID: 12473 ---
+工程状况\0
+
+
+--- ITXT , ITEM_ID: 12477 ---
+关于系统\0
+
+
+--- ITXT , ITEM_ID: 12481 ---
+重新引导系统\0
+
+
+------------------- TERM ( DashwoodTerminalPeople ) -------------------
+
+--- DESC , ITEM_ID: 12490 ---
+您好，“大胆”！您的晚年就像您的年轻时代一样充满无尽的奇迹和历险。\0
+
+
+--- ITXT , ITEM_ID: 12493 ---
+金·凯格\0
+
+
+--- ITXT , ITEM_ID: 12498 ---
+佩内洛普·彻丝小姐\0
+
+
+--- ITXT , ITEM_ID: 12503 ---
+命运·超\0
+
+
+--- ITXT , ITEM_ID: 12508 ---
+阿盖尔\0
+
+
+--- ITXT , ITEM_ID: 12513 ---
+哈蒙·杰尔伊\0
+
+
+------------------- TERM ( DashwoodTerminalPlaces ) -------------------
+
+--- DESC , ITEM_ID: 12523 ---
+您好，“大胆”！您的晚年就像您的年轻时代一样充满无尽的奇迹和历险。\0
+
+
+--- ITXT , ITEM_ID: 12526 ---
+堕落天堂\0
+
+
+--- ITXT , ITEM_ID: 12531 ---
+罗克波利斯\0
+
+
+--- ITXT , ITEM_ID: 12536 ---
+蓝色命运妓院\0
+
+
+--- ITXT , ITEM_ID: 12541 ---
+黑社会\0
+
+
+--- ITXT , ITEM_ID: 12546 ---
+核弹镇\0
+
+
+------------------- TERM ( DashwoodTerminalPests ) -------------------
+
+--- DESC , ITEM_ID: 12556 ---
+您好，“大胆”！您的晚年就像您的年轻时代一样充满无尽的奇迹和历险。\0
+
+
+--- ITXT , ITEM_ID: 12559 ---
+蟹人\0
+
+
+--- ITXT , ITEM_ID: 12564 ---
+凶猛僵尸\0
+
+
+--- ITXT , ITEM_ID: 12569 ---
+辐射蝎\0
+
+
+--- ITXT , ITEM_ID: 12574 ---
+妖怪\0
+
+
+--- ITXT , ITEM_ID: 12579 ---
+生化脑机器人\0
+
+
+------------------- TERM ( evergreenSecretTerminal ) -------------------
+
+--- ITXT , ITEM_ID: 12592 ---
+这是大家的一个秘密。\0
+
+
+------------------- TERM ( GameTerminalInventory ) -------------------
+
+--- ITXT , ITEM_ID: 12605 ---
+生锈的剑\0
+
+
+--- RNAM , ITEM_ID: 12606 ---
+你的武器生锈，但依然可靠。\0
+
+
+--- ITXT , ITEM_ID: 12610 ---
+饮用水瓶\0
+
+
+--- RNAM , ITEM_ID: 12611 ---
+一个装水的小瓶子。\0
+
+
+--- ITXT , ITEM_ID: 12615 ---
+饮用水瓶\0
+
+
+--- RNAM , ITEM_ID: 12616 ---
+你的小瓶装满圣水。\0
+
+
+--- ITXT , ITEM_ID: 12620 ---
+蛇头\0
+
+
+--- RNAM , ITEM_ID: 12621 ---
+这气味可能会让别人讨厌你…\0
+
+
+--- ITXT , ITEM_ID: 12625 ---
+精炼宝石\0
+
+
+--- RNAM , ITEM_ID: 12626 ---
+卓越的，钻石\0
+
+
+--- ITXT , ITEM_ID: 12630 ---
+宝石碎片\0
+
+
+--- RNAM , ITEM_ID: 12631 ---
+宝石碎片神奇的脉冲光...\0
+
+
+--- ITXT , ITEM_ID: 12635 ---
+神剑\0
+
+
+--- RNAM , ITEM_ID: 12636 ---
+一件神奇武器击败了Grelok\0
+
+
+--- ITXT , ITEM_ID: 12640 ---
+铜钥匙\0
+
+
+--- RNAM , ITEM_ID: 12641 ---
+主要考虑到你的牧师\0
+
+
+--- ITXT , ITEM_ID: 12645 ---
+未加工的宝石\0
+
+
+--- RNAM , ITEM_ID: 12646 ---
+这宝石很有价值…\0
+
+
+------------------- TERM ( GameTerminalSubMenuEast ) -------------------
+
+--- ITXT , ITEM_ID: 12658 ---
+（礼拜堂）寻找\0
+
+
+--- RNAM , ITEM_ID: 12659 ---
+你检查你的周围…\0
+
+
+--- ITXT , ITEM_ID: 12667 ---
+（礼拜堂）寻找\0
+
+
+--- RNAM , ITEM_ID: 12668 ---
+你检查你的周围…\0
+
+
+--- ITXT , ITEM_ID: 12674 ---
+（礼拜堂）寻找\0
+
+
+--- RNAM , ITEM_ID: 12675 ---
+你检查你的周围…\0
+
+
+--- ITXT , ITEM_ID: 12684 ---
+使用蟒神剑\0
+
+
+--- RNAM , ITEM_ID: 12685 ---
+你用剑敲击这蟒神变为一个墓穴\0
+
+
+--- ITXT , ITEM_ID: 12693 ---
+检查礼拜堂\0
+
+
+--- RNAM , ITEM_ID: 12694 ---
+你步入这个空荡的墓穴…\0
+
+
+--- ITXT , ITEM_ID: 12703 ---
+检查墓穴\0
+
+
+--- RNAM , ITEM_ID: 12704 ---
+你小心的进入这打开的墓穴…\0
+
+
+--- ITXT , ITEM_ID: 12710 ---
+检查墓穴\0
+
+
+--- RNAM , ITEM_ID: 12711 ---
+你小心的进入这打开的墓穴…\0
+
+
+--- ITXT , ITEM_ID: 12722 ---
+检查墓穴\0
+
+
+--- RNAM , ITEM_ID: 12723 ---
+你小心的进入这打开的墓穴…\0
+
+
+--- ITXT , ITEM_ID: 12730 ---
+去西侧\0
+
+
+--- RNAM , ITEM_ID: 12731 ---
+你走到西侧\0
+
+
+--- ITXT , ITEM_ID: 12736 ---
+清单\0
+
+
+------------------- TERM ( GameTerminalSubMenuSouth ) -------------------
+
+--- ITXT , ITEM_ID: 12749 ---
+（城镇）寻找\0
+
+
+--- RNAM , ITEM_ID: 12750 ---
+你检查你的周围…\0
+
+
+--- ITXT , ITEM_ID: 12757 ---
+和铁匠说话\0
+
+
+--- RNAM , ITEM_ID: 12758 ---
+您的铁匠铺的办法…\0
+
+
+--- ITXT , ITEM_ID: 12764 ---
+和铁匠说话\0
+
+
+--- RNAM , ITEM_ID: 12765 ---
+和铁匠说话\0
+
+
+--- ITXT , ITEM_ID: 12774 ---
+和牧师说话\0
+
+
+--- RNAM , ITEM_ID: 12775 ---
+你靠近牧师…\0
+
+
+--- ITXT , ITEM_ID: 12782 ---
+和牧师说话\0
+
+
+--- RNAM , ITEM_ID: 12783 ---
+你靠近牧师…\0
+
+
+--- ITXT , ITEM_ID: 12793 ---
+和牧师说话\0
+
+
+--- RNAM , ITEM_ID: 12794 ---
+你靠近牧师…\0
+
+
+--- ITXT , ITEM_ID: 12801 ---
+去北侧\0
+
+
+--- RNAM , ITEM_ID: 12802 ---
+你走到北侧…\0
+
+
+--- ITXT , ITEM_ID: 12807 ---
+清单\0
+
+
+------------------- TERM ( GameTerminalSubMenuWest ) -------------------
+
+--- ITXT , ITEM_ID: 12820 ---
+（沼泽）寻找\0
+
+
+--- RNAM , ITEM_ID: 12821 ---
+你检查你的周围…\0
+
+
+--- ITXT , ITEM_ID: 12828 ---
+和精灵说话\0
+
+
+--- RNAM , ITEM_ID: 12829 ---
+你靠近精灵…\0
+
+
+--- ITXT , ITEM_ID: 12839 ---
+和精灵说话\0
+
+
+--- RNAM , ITEM_ID: 12840 ---
+你靠近精灵…\0
+
+
+--- ITXT , ITEM_ID: 12849 ---
+和精灵说话\0
+
+
+--- RNAM , ITEM_ID: 12850 ---
+你靠近精灵…\0
+
+
+--- ITXT , ITEM_ID: 12861 ---
+和精灵说话\0
+
+
+--- RNAM , ITEM_ID: 12862 ---
+你靠近精灵…\0
+
+
+--- ITXT , ITEM_ID: 12870 ---
+去东侧\0
+
+
+--- RNAM , ITEM_ID: 12871 ---
+你走到东侧…\0
+
+
+--- ITXT , ITEM_ID: 12876 ---
+清单\0
+
+
+------------------- TERM ( TerminalDesk01 ) -------------------
+
+------------------- TERM ( DefaultTerminalBadSector ) -------------------
+
+--- FULL , ITEM_ID: 12892 ---
+破解终端\0
+
+
+--- DESC , ITEM_ID: 12895 ---
+错误 0x357C5001\r\n“在引导块发现坏扇区.”\r\n“终端错误。”\r\n\0
+
+
+------------------- TERM ( DefaultTerminalNoInput ) -------------------
+
+--- FULL , ITEM_ID: 12901 ---
+破解终端\0
+
+
+--- DESC , ITEM_ID: 12904 ---
+错误 0x00B636C6\r\n“没有发现输入设备”\r\n“重新连接键盘。”\0
+
+
+------------------- TERM ( DefaultTerminalNoNetwork ) -------------------
+
+--- FULL , ITEM_ID: 12910 ---
+破解终端\0
+
+
+--- DESC , ITEM_ID: 12913 ---
+错误 0x03C663A1\r\n“网络连接没有找到”\r\n“终端接入点无效”\0
+
+
+------------------- TERM ( DefaultTerminalNoPower ) -------------------
+
+--- FULL , ITEM_ID: 12919 ---
+破解终端\0
+
+
+--- DESC , ITEM_ID: 12922 ---
+错误 0x0AABFF00\r\n“主电源无效”\r\n“检查所有电缆和插头的连接。”\0
+
+
+------------------- TERM ( DefaultTerminalNoStorage ) -------------------
+
+--- FULL , ITEM_ID: 12928 ---
+破解终端\0
+
+
+--- DESC , ITEM_ID: 12931 ---
+错误 0xF141A013\r\n“无数据存储器连接”\r\n“检查磁带驱动器连接。”\0
+
+
+------------------- TERM ( DefaultTerminalVirus ) -------------------
+
+--- FULL , ITEM_ID: 12937 ---
+破解终端\0
+
+
+--- DESC , ITEM_ID: 12940 ---
+错误 0xBA53FFFA\r\n“发现恶意程序。”\r\n“发现病毒，正在关闭系统。”\0
+
+
+------------------- TERM ( DefaultTurretTermDESK0VeryEasy ) -------------------
+
+--- FULL , ITEM_ID: 12946 ---
+枪塔控制系统\0
+
+
+--- DESC , ITEM_ID: 12949 ---
+－RobCo侵入者管理系统－\r\n====================================\0
+
+
+--- ITXT , ITEM_ID: 12952 ---
+重新设置目标参数\0
+
+
+--- RNAM , ITEM_ID: 12953 ---
+目标数据清除。请注意。\0
+
+
+--- ITXT , ITEM_ID: 12962 ---
+<!>警告：无目标数据<!>\0
+
+
+--- RNAM , ITEM_ID: 12963 ---
+<!>请注意<!>\0
+
+
+--- ITXT , ITEM_ID: 12968 ---
+激活枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 12969 ---
+正在引导…\0
+
+
+--- ITXT , ITEM_ID: 12978 ---
+撤销枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 12979 ---
+正在撤销电力…\0
+
+
+--- ITXT , ITEM_ID: 12988 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 12989 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 12994 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 12995 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13000 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13001 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13006 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13007 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13012 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13013 ---
+正在读取日志文件…\0
+
+
+------------------- TERM ( DefaultTurretTermDESK1Easy ) -------------------
+
+--- FULL , ITEM_ID: 13021 ---
+枪塔控制系统\0
+
+
+--- DESC , ITEM_ID: 13024 ---
+－RobCo侵入者管理系统－\r\n====================================\0
+
+
+--- ITXT , ITEM_ID: 13027 ---
+重新设置目标参数\0
+
+
+--- RNAM , ITEM_ID: 13028 ---
+目标数据清除。请注意。\0
+
+
+--- ITXT , ITEM_ID: 13037 ---
+<!>警告：无目标数据<!>\0
+
+
+--- RNAM , ITEM_ID: 13038 ---
+<!>请注意<!>\0
+
+
+--- ITXT , ITEM_ID: 13043 ---
+激活枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 13044 ---
+正在引导…\0
+
+
+--- ITXT , ITEM_ID: 13053 ---
+撤销枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 13054 ---
+正在撤销电力…\0
+
+
+--- ITXT , ITEM_ID: 13063 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13064 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13069 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13070 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13075 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13076 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13081 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13082 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13087 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13088 ---
+正在读取日志文件…\0
+
+
+------------------- TERM ( DefaultTurretTermDESK2Average ) -------------------
+
+--- FULL , ITEM_ID: 13096 ---
+枪塔控制系统\0
+
+
+--- DESC , ITEM_ID: 13099 ---
+－RobCo侵入者管理系统－\r\n====================================\0
+
+
+--- ITXT , ITEM_ID: 13102 ---
+重新设置目标参数\0
+
+
+--- RNAM , ITEM_ID: 13103 ---
+目标数据清除。请注意。\0
+
+
+--- ITXT , ITEM_ID: 13112 ---
+<!>警告：无目标数据<!>\0
+
+
+--- RNAM , ITEM_ID: 13113 ---
+<!>请注意<!>\0
+
+
+--- ITXT , ITEM_ID: 13118 ---
+激活枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 13119 ---
+正在引导…\0
+
+
+--- ITXT , ITEM_ID: 13128 ---
+撤销枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 13129 ---
+正在撤销电力…\0
+
+
+--- ITXT , ITEM_ID: 13138 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13139 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13144 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13145 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13150 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13151 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13156 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13157 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13162 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13163 ---
+正在读取日志文件…\0
+
+
+------------------- TERM ( DefaultTurretTermDESK3Hard ) -------------------
+
+--- FULL , ITEM_ID: 13171 ---
+枪塔控制系统\0
+
+
+--- DESC , ITEM_ID: 13174 ---
+－RobCo侵入者管理系统－\r\n====================================\0
+
+
+--- ITXT , ITEM_ID: 13177 ---
+重新设置目标参数\0
+
+
+--- RNAM , ITEM_ID: 13178 ---
+目标数据清除。请注意。\0
+
+
+--- ITXT , ITEM_ID: 13187 ---
+<!>警告：无目标数据<!>\0
+
+
+--- RNAM , ITEM_ID: 13188 ---
+<!>请注意<!>\0
+
+
+--- ITXT , ITEM_ID: 13193 ---
+激活枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 13194 ---
+正在引导…\0
+
+
+--- ITXT , ITEM_ID: 13203 ---
+撤销枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 13204 ---
+正在撤销电力…\0
+
+
+--- ITXT , ITEM_ID: 13213 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13214 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13219 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13220 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13225 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13226 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13231 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13232 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13237 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13238 ---
+正在读取日志文件…\0
+
+
+------------------- TERM ( DefaultTurretTermDESK4VeryHard ) -------------------
+
+--- FULL , ITEM_ID: 13246 ---
+枪塔控制系统\0
+
+
+--- DESC , ITEM_ID: 13249 ---
+－RobCo侵入者管理系统－\r\n====================================\0
+
+
+--- ITXT , ITEM_ID: 13252 ---
+重新设置目标参数\0
+
+
+--- RNAM , ITEM_ID: 13253 ---
+目标数据清除。请注意。\0
+
+
+--- ITXT , ITEM_ID: 13262 ---
+<!>警告：无目标数据<!>\0
+
+
+--- RNAM , ITEM_ID: 13263 ---
+<!>请注意<!>\0
+
+
+--- ITXT , ITEM_ID: 13268 ---
+激活枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 13269 ---
+正在引导…\0
+
+
+--- ITXT , ITEM_ID: 13278 ---
+撤销枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 13279 ---
+正在撤销电力…\0
+
+
+--- ITXT , ITEM_ID: 13288 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13289 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13294 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13295 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13300 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13301 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13306 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13307 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13312 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13313 ---
+正在读取日志文件…\0
+
+
+------------------- TERM ( DefaultTurretTermWALL0VeryEasy ) -------------------
+
+--- FULL , ITEM_ID: 13321 ---
+枪塔控制系统\0
+
+
+--- DESC , ITEM_ID: 13324 ---
+－RobCo侵入者管理系统－\r\n====================================\0
+
+
+--- ITXT , ITEM_ID: 13327 ---
+重新设置目标参数\0
+
+
+--- RNAM , ITEM_ID: 13328 ---
+目标数据清除。请注意。\0
+
+
+--- ITXT , ITEM_ID: 13337 ---
+<!>警告：无目标数据<!>\0
+
+
+--- RNAM , ITEM_ID: 13338 ---
+<!>请注意<!>\0
+
+
+--- ITXT , ITEM_ID: 13343 ---
+激活枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 13344 ---
+正在引导…\0
+
+
+--- ITXT , ITEM_ID: 13353 ---
+撤销枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 13354 ---
+正在撤销电力…\0
+
+
+--- ITXT , ITEM_ID: 13363 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13364 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13369 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13370 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13375 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13376 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13381 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13382 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13387 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13388 ---
+正在读取日志文件…\0
+
+
+------------------- TERM ( DefaultTurretTermWALL1Easy ) -------------------
+
+--- FULL , ITEM_ID: 13396 ---
+枪塔控制系统\0
+
+
+--- DESC , ITEM_ID: 13399 ---
+－RobCo侵入者管理系统－\r\n====================================\0
+
+
+--- ITXT , ITEM_ID: 13402 ---
+重新设置目标参数\0
+
+
+--- RNAM , ITEM_ID: 13403 ---
+目标数据清除。请注意。\0
+
+
+--- ITXT , ITEM_ID: 13412 ---
+<!>警告：无目标数据<!>\0
+
+
+--- RNAM , ITEM_ID: 13413 ---
+<!>请注意<!>\0
+
+
+--- ITXT , ITEM_ID: 13418 ---
+激活枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 13419 ---
+正在引导…\0
+
+
+--- ITXT , ITEM_ID: 13428 ---
+撤销枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 13429 ---
+正在撤销电力…\0
+
+
+--- ITXT , ITEM_ID: 13438 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13439 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13444 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13445 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13450 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13451 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13456 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13457 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13462 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13463 ---
+正在读取日志文件…\0
+
+
+------------------- TERM ( DefaultTurretTermWALL2Average ) -------------------
+
+--- FULL , ITEM_ID: 13471 ---
+枪塔控制系统\0
+
+
+--- DESC , ITEM_ID: 13474 ---
+－RobCo侵入者管理系统－\r\n====================================\0
+
+
+--- ITXT , ITEM_ID: 13477 ---
+重新设置目标参数\0
+
+
+--- RNAM , ITEM_ID: 13478 ---
+目标数据清除。请注意。\0
+
+
+--- ITXT , ITEM_ID: 13487 ---
+<!>警告：无目标数据<!>\0
+
+
+--- RNAM , ITEM_ID: 13488 ---
+<!>请注意<!>\0
+
+
+--- ITXT , ITEM_ID: 13493 ---
+激活枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 13494 ---
+正在引导…\0
+
+
+--- ITXT , ITEM_ID: 13503 ---
+撤销枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 13504 ---
+正在撤销电力…\0
+
+
+--- ITXT , ITEM_ID: 13513 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13514 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13519 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13520 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13525 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13526 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13531 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13532 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13537 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13538 ---
+正在读取日志文件…\0
+
+
+------------------- TERM ( DefaultTurretTermWALL3Hard ) -------------------
+
+--- FULL , ITEM_ID: 13546 ---
+枪塔控制系统\0
+
+
+--- DESC , ITEM_ID: 13549 ---
+－RobCo侵入者管理系统－\r\n====================================\0
+
+
+--- ITXT , ITEM_ID: 13552 ---
+重新设置目标参数\0
+
+
+--- RNAM , ITEM_ID: 13553 ---
+目标数据清除。请注意。\0
+
+
+--- ITXT , ITEM_ID: 13562 ---
+<!>警告：无目标数据<!>\0
+
+
+--- RNAM , ITEM_ID: 13563 ---
+<!>请注意<!>\0
+
+
+--- ITXT , ITEM_ID: 13568 ---
+激活枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 13569 ---
+正在引导…\0
+
+
+--- ITXT , ITEM_ID: 13578 ---
+撤销枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 13579 ---
+正在撤销电力…\0
+
+
+--- ITXT , ITEM_ID: 13588 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13589 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13594 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13595 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13600 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13601 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13606 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13607 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13612 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13613 ---
+正在读取日志文件…\0
+
+
+------------------- TERM ( DefaultTurretTermWALL4VeryHard ) -------------------
+
+--- FULL , ITEM_ID: 13621 ---
+枪塔控制系统\0
+
+
+--- DESC , ITEM_ID: 13624 ---
+－RobCo侵入者管理系统－\r\n====================================\0
+
+
+--- ITXT , ITEM_ID: 13627 ---
+重新设置目标参数\0
+
+
+--- RNAM , ITEM_ID: 13628 ---
+目标数据清除。请注意。\0
+
+
+--- ITXT , ITEM_ID: 13637 ---
+<!>警告：无目标数据<!>\0
+
+
+--- RNAM , ITEM_ID: 13638 ---
+<!>请注意<!>\0
+
+
+--- ITXT , ITEM_ID: 13643 ---
+激活枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 13644 ---
+正在引导…\0
+
+
+--- ITXT , ITEM_ID: 13653 ---
+撤销枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 13654 ---
+正在撤销电力…\0
+
+
+--- ITXT , ITEM_ID: 13663 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13664 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13669 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13670 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13675 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13676 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13681 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13682 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 13687 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 13688 ---
+正在读取日志文件…\0
+
+
+------------------- TERM ( DefaultUnlockTermDESK0VeryEasy ) -------------------
+
+--- FULL , ITEM_ID: 13696 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 13699 ---
+      SoftLock Solutions, Inc\r\n"Your Security is Our Security"\r\n>\ Welcome, USER\r\n\0
+
+
+--- ITXT , ITEM_ID: 13702 ---
+解锁\0
+
+
+--- RNAM , ITEM_ID: 13703 ---
+清除许可，正在解锁...\0
+
+
+------------------- TERM ( DefaultUnlockTermDESK1Easy ) -------------------
+
+--- FULL , ITEM_ID: 13714 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 13717 ---
+      SoftLock Solutions, Inc\r\n"Your Security is Our Security"\r\n>\ Welcome, USER\r\n\0
+
+
+--- ITXT , ITEM_ID: 13720 ---
+解锁\0
+
+
+--- RNAM , ITEM_ID: 13721 ---
+清除许可，正在解锁...\0
+
+
+------------------- TERM ( DefaultUnlockTermDESK2Average ) -------------------
+
+--- FULL , ITEM_ID: 13732 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 13735 ---
+      SoftLock Solutions, Inc\r\n"Your Security is Our Security"\r\n>\ Welcome, USER\r\n\0
+
+
+--- ITXT , ITEM_ID: 13738 ---
+解锁\0
+
+
+--- RNAM , ITEM_ID: 13739 ---
+清除许可，正在解锁...\0
+
+
+------------------- TERM ( DefaultUnlockTermDESK3Hard ) -------------------
+
+--- FULL , ITEM_ID: 13750 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 13753 ---
+      SoftLock Solutions, Inc\r\n"Your Security is Our Security"\r\n>\ Welcome, USER\r\n\0
+
+
+--- ITXT , ITEM_ID: 13756 ---
+解锁\0
+
+
+--- RNAM , ITEM_ID: 13757 ---
+清除许可，正在解锁...\0
+
+
+------------------- TERM ( DefaultUnlockTermDESK4VeryHard ) -------------------
+
+--- FULL , ITEM_ID: 13768 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 13771 ---
+      SoftLock Solutions, Inc\r\n"Your Security is Our Security"\r\n>\ Welcome, USER\r\n\0
+
+
+--- ITXT , ITEM_ID: 13774 ---
+解锁\0
+
+
+--- RNAM , ITEM_ID: 13775 ---
+清除许可，正在解锁...\0
+
+
+------------------- TERM ( DefaultUnlockTermWALL0VeryEasy ) -------------------
+
+--- FULL , ITEM_ID: 13786 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 13789 ---
+      SoftLock Solutions, Inc\r\n"Your Security is Our Security"\r\n>\ Welcome, USER\r\n\0
+
+
+--- ITXT , ITEM_ID: 13792 ---
+解锁\0
+
+
+--- RNAM , ITEM_ID: 13793 ---
+清除许可，正在解锁...\0
+
+
+------------------- TERM ( DefaultUnlockTermWALL1Easy ) -------------------
+
+--- FULL , ITEM_ID: 13804 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 13807 ---
+      SoftLock Solutions, Inc\r\n"Your Security is Our Security"\r\n>\ Welcome, USER\r\n\0
+
+
+--- ITXT , ITEM_ID: 13810 ---
+解锁\0
+
+
+--- RNAM , ITEM_ID: 13811 ---
+清除许可，正在解锁...\0
+
+
+------------------- TERM ( DefaultUnlockTermWALL2Average ) -------------------
+
+--- FULL , ITEM_ID: 13822 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 13825 ---
+      SoftLock Solutions, Inc\r\n"Your Security is Our Security"\r\n>\ Welcome, USER\r\n\0
+
+
+--- ITXT , ITEM_ID: 13828 ---
+解锁\0
+
+
+--- RNAM , ITEM_ID: 13829 ---
+清除许可，正在解锁...\0
+
+
+------------------- TERM ( DefaultUnlockTermWALL3Hard ) -------------------
+
+--- FULL , ITEM_ID: 13840 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 13843 ---
+      SoftLock Solutions, Inc\r\n"Your Security is Our Security"\r\n>\ Welcome, USER\r\n\0
+
+
+--- ITXT , ITEM_ID: 13846 ---
+解锁\0
+
+
+--- RNAM , ITEM_ID: 13847 ---
+清除许可，正在解锁...\0
+
+
+------------------- TERM ( DefaultUnlockTermWALL4VeryHard ) -------------------
+
+--- FULL , ITEM_ID: 13858 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 13861 ---
+      SoftLock Solutions, Inc\r\n"Your Security is Our Security"\r\n>\ Welcome, USER\r\n\0
+
+
+--- ITXT , ITEM_ID: 13864 ---
+解锁\0
+
+
+--- RNAM , ITEM_ID: 13865 ---
+清除许可，正在解锁...\0
+
+
+------------------- TERM ( DemoComputer01A ) -------------------
+
+--- FULL , ITEM_ID: 13876 ---
+地铁保安终端\0
+
+
+--- DESC , ITEM_ID: 13879 ---
+欢迎来到地铁保安\r\n\0
+
+
+--- ITXT , ITEM_ID: 13881 ---
+保安激活。\0
+
+
+------------------- TERM ( DemoComputer01B ) -------------------
+
+--- FULL , ITEM_ID: 13889 ---
+地铁保安终端\0
+
+
+--- DESC , ITEM_ID: 13892 ---
+欢迎来到地铁保安\r\n\0
+
+
+--- ITXT , ITEM_ID: 13894 ---
+警告：系统故障。请呼叫地铁维修服务。\0
+
+
+------------------- TERM ( DemoComputer02 ) -------------------
+
+--- FULL , ITEM_ID: 13902 ---
+101号避难所终端\0
+
+
+--- DESC , ITEM_ID: 13905 ---
+101号避难所通道终端\0
+
+
+------------------- TERM ( DemoComputer02A ) -------------------
+
+--- FULL , ITEM_ID: 13911 ---
+101号避难所终端\0
+
+
+--- DESC , ITEM_ID: 13914 ---
+101号避难所通道终端\r\n\0
+
+
+--- ITXT , ITEM_ID: 13916 ---
+激活避难所大门\0
+
+
+------------------- TERM ( DunwichTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 13923 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 13926 ---
+茅盾的害虫有限公司\r\n自动语音软件\a9h 2074 PagSof\r\n\r\n欢迎，赫尔曼主管\r\n内存中可读取的记录：\0
+
+
+--- ITXT , ITEM_ID: 13929 ---
+关于自动语音软件\0
+
+
+--- ITXT , ITEM_ID: 13934 ---
+[10/18/2077] \0
+
+
+--- ITXT , ITEM_ID: 13939 ---
+[10/23/2077]\0
+
+
+--- ITXT , ITEM_ID: 13944 ---
+[10/23/2077]\0
+
+
+--- ITXT , ITEM_ID: 13949 ---
+[3/27/2134] \0
+
+
+--- ITXT , ITEM_ID: 13954 ---
+[4/27/2134] \0
+
+
+--- ITXT , ITEM_ID: 13959 ---
+[5/1/2134] \0
+
+
+------------------- TERM ( DunwichTerminal03 ) -------------------
+
+--- FULL , ITEM_ID: 13967 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 13970 ---
+茅盾的害虫有限公司\0
+
+
+--- ITXT , ITEM_ID: 13973 ---
+数据条目\0
+
+
+------------------- TERM ( EvergreenMillsTerminal1 ) -------------------
+
+--- FULL , ITEM_ID: 13981 ---
+肯·戈尔矿业公司的电脑\0
+
+
+------------------- TERM ( EvergreenMillsTerminal2 ) -------------------
+
+--- FULL , ITEM_ID: 13990 ---
+肯·戈尔矿业公司的电脑\0
+
+
+------------------- TERM ( EvergreenMillsTerminal3 ) -------------------
+
+--- FULL , ITEM_ID: 13999 ---
+肯·戈尔矿业公司的电脑\0
+
+
+------------------- TERM ( FFDCUrbanPlanningTerminal02 ) -------------------
+
+--- FULL , ITEM_ID: 14008 ---
+工作站\0
+
+
+--- DESC , ITEM_ID: 14011 ---
+DC地铁办公室城市规划\r\n人力资源管理系统\r\n首都环线改造工程\r\n您已登录用户艾米莉·魏丝\r\n请您选择：\0
+
+
+--- ITXT , ITEM_ID: 14014 ---
+提交考勤表。\0
+
+
+--- ITXT , ITEM_ID: 14019 ---
+需求税务资料。\0
+
+
+--- ITXT , ITEM_ID: 14024 ---
+修改个人信息。\0
+
+
+--- ITXT , ITEM_ID: 14029 ---
+联系技术支持。\0
+
+
+--- ITXT , ITEM_ID: 14034 ---
+关于系统。\0
+
+
+------------------- TERM ( FFDCworld11TownHouseTerminal ) -------------------
+
+--- FULL , ITEM_ID: 14042 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 14045 ---
+通用原子国际公司。\r\n家庭服务界面 3.1\r\n=========================\r\n欢迎回家，麦克莱伦夫人！\r\n请选择一个任务。\0
+
+
+--- ITXT , ITEM_ID: 14048 ---
+撤销装置\0
+
+
+--- RNAM , ITEM_ID: 14049 ---
+返回首页...\0
+
+
+--- ITXT , ITEM_ID: 14055 ---
+带玛菲散步\0
+
+
+--- RNAM , ITEM_ID: 14056 ---
+寻找玛菲…\0
+
+
+--- ITXT , ITEM_ID: 14062 ---
+杂货店提货指令\0
+
+
+--- RNAM , ITEM_ID: 14063 ---
+前往麦·格迪的杂货店...\0
+
+
+--- ITXT , ITEM_ID: 14069 ---
+读孩子们的睡前诗歌\0
+
+
+--- RNAM , ITEM_ID: 14070 ---
+向孩子的房间广播...\0
+
+
+--- ITXT , ITEM_ID: 14076 ---
+房屋安全模式\0
+
+
+--- RNAM , ITEM_ID: 14077 ---
+启动房屋安全巡逻…\0
+
+
+------------------- TERM ( FFDCzDCint16aTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 14086 ---
+MDCTA服务访问终端\0
+
+
+--- DESC , ITEM_ID: 14089 ---
+MDCTA服务终端－\r\n天然气/水储备交易456-12连接菜单：\0
+
+
+--- ITXT , ITEM_ID: 14092 ---
+MDCTA系统警告\0
+
+
+--- ITXT , ITEM_ID: 14097 ---
+开始天然气总管道流量测试。\0
+
+
+--- RNAM , ITEM_ID: 14098 ---
+发现泄漏－自动关闭运作\0
+
+
+--- ITXT , ITEM_ID: 14106 ---
+停止天然气流量测试。\0
+
+
+--- RNAM , ITEM_ID: 14107 ---
+自动关闭系统已经运作。\0
+
+
+--- ITXT , ITEM_ID: 14111 ---
+保险柜解锁\0
+
+
+--- RNAM , ITEM_ID: 14112 ---
+保险柜锁已解开。\0
+
+
+--- ITXT , ITEM_ID: 14120 ---
+保险柜上锁\0
+
+
+--- RNAM , ITEM_ID: 14121 ---
+保险柜锁已锁定。\0
+
+
+------------------- TERM ( FFDCzDCint17aTerminal ) -------------------
+
+--- FULL , ITEM_ID: 14132 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 14135 ---
+我不知道发生了什么，在警报停止前20分钟，我听到远处有打雷的声音。我们被禁止离开这里，也看不到大街上发生了什么。我很害怕…我想这可能是那个。这一切都是我们的报应，这可能是我最后的记录，今后无论谁发现它，如果我不能把这个告诉我的家人，请转告他们，我爱他们！\r\n\r\n---\r\n爱丽丝·沃尔顿\r\nCPA\r\n特别研究，GAO部\0
+
+
+------------------- TERM ( FFEncCamp08Terminal ) -------------------
+
+--- FULL , ITEM_ID: 14141 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 14144 ---
+-***------- 野外作业\r\n*-*-*------      英克雷 \r\n-***-------\r\n-----------\r\n----------- 上帝与美国同在\r\n\0
+
+
+--- ITXT , ITEM_ID: 14147 ---
+野外报告：PFC M·斯科特\0
+
+
+--- ITXT , ITEM_ID: 14156 ---
+命令（仅CO阅读）\0
+
+
+------------------- TERM ( FFEnclaveEncampment02Terminal ) -------------------
+
+--- FULL , ITEM_ID: 14164 ---
+英克雷野外报告终端\0
+
+
+--- ITXT , ITEM_ID: 14170 ---
+野外记录：狗（致命的）\0
+
+
+--- RNAM , ITEM_ID: 14171 ---
+野外记录：“野狗”\0
+
+
+--- ITXT , ITEM_ID: 14175 ---
+野外记录：超大的蝎子\0
+
+
+--- RNAM , ITEM_ID: 14176 ---
+野外记录：“超大的蝎子”\0
+
+
+--- ITXT , ITEM_ID: 14180 ---
+野外记录：地鼠\0
+
+
+--- RNAM , ITEM_ID: 14181 ---
+野外记录：A003“地鼠”\0
+
+
+------------------- TERM ( FFEnclaveEncampment09Terminal ) -------------------
+
+--- FULL , ITEM_ID: 14188 ---
+英克雷野外研究终端：Rho营地\0
+
+
+--- DESC , ITEM_ID: 14191 ---
+-***------- 野外作业\r\n*****------      英克雷 \r\n*****------\r\n-----------\r\n----------- 上帝保佑美国\r\n\0
+
+
+--- ITXT , ITEM_ID: 14194 ---
+[读取上一个]\0
+
+
+--- RNAM , ITEM_ID: 14195 ---
+欢迎来到Rho营地\0
+
+
+--- ITXT , ITEM_ID: 14199 ---
+要求连接主要基地\0
+
+
+--- RNAM , ITEM_ID: 14200 ---
+功能不可用[信息 0]\0
+
+
+--- ITXT , ITEM_ID: 14203 ---
+防御网掉电\0
+
+
+--- RNAM , ITEM_ID: 14204 ---
+功能不可用[信息 0]\0
+
+
+------------------- TERM ( FFEnclaveEncampment10Terminal ) -------------------
+
+--- FULL , ITEM_ID: 14210 ---
+英克雷野外报告终端\0
+
+
+--- DESC , ITEM_ID: 14213 ---
+     DEPARTMENT OF THE ARMY\r\n   PEACEKEEPING AND RECOVERY\r\n  FIELD OPERATIONS SECTOR, 27P\0
+
+
+--- ITXT , ITEM_ID: 14216 ---
+清单：武器\0
+
+
+--- RNAM , ITEM_ID: 14217 ---
+正在读取数据库…\0
+
+
+--- ITXT , ITEM_ID: 14221 ---
+过境人口调查\0
+
+
+--- RNAM , ITEM_ID: 14222 ---
+正在读取数据库…\0
+
+
+------------------- TERM ( FFEnclaveEncampment12Terminal ) -------------------
+
+--- FULL , ITEM_ID: 14229 ---
+英克雷野外作业终端：弹坑兵营\0
+
+
+--- DESC , ITEM_ID: 14232 ---
+-***------- 野外作业\r\n*****------      英克雷 \r\n*****------\r\n-----------\r\n----------- 上帝保佑美国\r\n\0
+
+
+--- ITXT , ITEM_ID: 14235 ---
+[读取上一个]\0
+
+
+--- RNAM , ITEM_ID: 14236 ---
+欢迎来到弹坑兵营\0
+
+
+--- ITXT , ITEM_ID: 14240 ---
+要求连接主要基地\0
+
+
+--- RNAM , ITEM_ID: 14241 ---
+功能不可用[信息 0]\0
+
+
+--- ITXT , ITEM_ID: 14244 ---
+防御网掉电\0
+
+
+--- RNAM , ITEM_ID: 14245 ---
+功能不可用[信息 0]\0
+
+
+------------------- TERM ( FFEnclaveResearchTerminal02 ) -------------------
+
+--- FULL , ITEM_ID: 14251 ---
+英克雷野外报告终端\0
+
+
+--- DESC , ITEM_ID: 14254 ---
+-***------- 野外作业\r\n*-*-*------      英克雷 \r\n-***-------\r\n-----------\r\n----------- 上帝与美国同在\r\n\0
+
+
+--- ITXT , ITEM_ID: 14257 ---
+野外记录：辐射蝇\0
+
+
+--- RNAM , ITEM_ID: 14258 ---
+野外记录：“辐射蝇”\0
+
+
+--- ITXT , ITEM_ID: 14262 ---
+野外记录：双头牛\0
+
+
+--- RNAM , ITEM_ID: 14263 ---
+野外记录：“双头牛”\0
+
+
+--- ITXT , ITEM_ID: 14267 ---
+野外记录：巨型蚂蚁\0
+
+
+--- RNAM , ITEM_ID: 14268 ---
+野外记录：“巨型蚂蚁”\0
+
+
+------------------- TERM ( FFEnclaveResearchTerminal03 ) -------------------
+
+--- FULL , ITEM_ID: 14275 ---
+英克雷野外报告终端\0
+
+
+--- DESC , ITEM_ID: 14278 ---
+-***------- 野外作业\r\n*-*-*------      英克雷 \r\n-***-------\r\n-----------\r\n----------- 上帝与美国同在\r\n\0
+
+
+--- ITXT , ITEM_ID: 14281 ---
+野外记录：“蟹人”\0
+
+
+--- RNAM , ITEM_ID: 14282 ---
+野外记录：“蟹人”\0
+
+
+--- ITXT , ITEM_ID: 14286 ---
+野外记录：巨型美国大蟑螂\0
+
+
+--- RNAM , ITEM_ID: 14287 ---
+野外记录：“辐射蟑螂”\0
+
+
+------------------- TERM ( ForgeSecurityTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 14294 ---
+B区保安终端\0
+
+
+--- DESC , ITEM_ID: 14297 ---
+B区终端\0
+
+
+--- ITXT , ITEM_ID: 14300 ---
+关于B区的管理记录\0
+
+
+--- ITXT , ITEM_ID: 14305 ---
+关闭B区保安\0
+
+
+--- RNAM , ITEM_ID: 14306 ---
+!!!正在关闭B区保安系统!!!\0
+
+
+--- ITXT , ITEM_ID: 14320 ---
+激活B区保安\0
+
+
+--- RNAM , ITEM_ID: 14321 ---
+!!!B区保安武装已就绪!!!\0
+
+
+------------------- TERM ( ForgeSecurityTerminal02 ) -------------------
+
+--- FULL , ITEM_ID: 14338 ---
+A区终端\0
+
+
+--- DESC , ITEM_ID: 14341 ---
+A区终端\0
+
+
+--- ITXT , ITEM_ID: 14344 ---
+关于B区的管理记录\0
+
+
+--- ITXT , ITEM_ID: 14349 ---
+关闭A区枪塔\0
+
+
+--- RNAM , ITEM_ID: 14350 ---
+!!!正在关闭A区枪塔!!!\0
+
+
+--- ITXT , ITEM_ID: 14360 ---
+激活A区枪塔\0
+
+
+--- RNAM , ITEM_ID: 14361 ---
+!!!A区枪塔已经就绪!!!\0
+
+
+------------------- TERM ( ForgeSecurityTerminal03 ) -------------------
+
+--- FULL , ITEM_ID: 14374 ---
+A区紧急终端\0
+
+
+--- DESC , ITEM_ID: 14377 ---
+A区紧急终端\0
+
+
+--- ITXT , ITEM_ID: 14380 ---
+关于B区的管理记录\0
+
+
+--- ITXT , ITEM_ID: 14385 ---
+关闭A区枪塔\0
+
+
+--- RNAM , ITEM_ID: 14386 ---
+!!!正在关闭A区枪塔!!!\0
+
+
+--- ITXT , ITEM_ID: 14396 ---
+激活A区枪塔\0
+
+
+--- RNAM , ITEM_ID: 14397 ---
+!!!A区枪塔已经就绪!!!\0
+
+
+--- ITXT , ITEM_ID: 14407 ---
+激活紧急脉冲爆炸\0
+
+
+--- RNAM , ITEM_ID: 14408 ---
+!!! 紧急脉冲爆炸正在充能 !!!\0
+
+
+--- ITXT , ITEM_ID: 14417 ---
+激活紧急脉冲爆炸\0
+
+
+--- RNAM , ITEM_ID: 14418 ---
+!!! 错误－无激活能源 !!!\0
+
+
+--- ITXT , ITEM_ID: 14423 ---
+6.KGGGL7.DDD.2KQP\0
+
+
+--- RNAM , ITEM_ID: 14424 ---
+!!!无效的解密密钥!!!\0
+
+
+------------------- TERM ( ForgeTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 14431 ---
+修理区终端\0
+
+
+--- DESC , ITEM_ID: 14434 ---
+修理区终端\0
+
+
+--- ITXT , ITEM_ID: 14437 ---
+关于B区的管理记录\0
+
+
+------------------- TERM ( ForgeTerminal02 ) -------------------
+
+--- FULL , ITEM_ID: 14445 ---
+修理区终端\0
+
+
+--- DESC , ITEM_ID: 14448 ---
+修理区终端\0
+
+
+--- ITXT , ITEM_ID: 14451 ---
+关于B区的管理记录\0
+
+
+--- ITXT , ITEM_ID: 14456 ---
+电梯运行\0
+
+
+------------------- TERM ( ForgeTerminal03 ) -------------------
+
+--- FULL , ITEM_ID: 14464 ---
+修理区终端\0
+
+
+--- DESC , ITEM_ID: 14467 ---
+修理区终端\0
+
+
+--- ITXT , ITEM_ID: 14470 ---
+升起平台\0
+
+
+--- RNAM , ITEM_ID: 14471 ---
+!!!无法找到平台!!!\0
+
+
+--- ITXT , ITEM_ID: 14474 ---
+降下平台\0
+
+
+--- RNAM , ITEM_ID: 14475 ---
+!!!无法找到平台!!!\0
+
+
+------------------- TERM ( ForgeTerminal04 ) -------------------
+
+--- FULL , ITEM_ID: 14481 ---
+书桌终端\0
+
+
+--- ITXT , ITEM_ID: 14487 ---
+富兰克记录\0
+
+
+------------------- TERM ( FortCArmorTerminal ) -------------------
+
+--- FULL , ITEM_ID: 14495 ---
+装甲R&D终端\0
+
+
+--- DESC , ITEM_ID: 14499 ---
+医疗装甲原型\r\n美国空军野外作业研发\r\n\0
+
+
+--- ITXT , ITEM_ID: 14502 ---
+禁用野外停留\0
+
+
+--- RNAM , ITEM_ID: 14503 ---
+正在禁用野外停留\0
+
+
+--- ITXT , ITEM_ID: 14511 ---
+启用野外停留\0
+
+
+--- RNAM , ITEM_ID: 14512 ---
+启用野外停留错误\0
+
+
+------------------- TERM ( FortCBunkerTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 14519 ---
+康斯坦丁堡发射控制\0
+
+
+--- DESC , ITEM_ID: 14523 ---
+    Fort Constantine, MD\r\n======================\r\nUSAF One-Touch Command SysOps\r\nWelcome, Commander.\0
+
+
+--- ITXT , ITEM_ID: 14527 ---
+发射ICBM\0
+
+
+--- RNAM , ITEM_ID: 14528 ---
+EAM/认证：威胁被证实\0
+
+
+--- ITXT , ITEM_ID: 14540 ---
+正在发射ICBM…\0
+
+
+--- ITXT , ITEM_ID: 14545 ---
+导弹发射错误！\0
+
+
+--- RNAM , ITEM_ID: 14546 ---
+目标定位导航系统损坏\0
+
+
+------------------- TERM ( FortCCOHomeTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 14553 ---
+书桌终端\0
+
+
+--- DESC , ITEM_ID: 14557 ---
+              Fort Constantine, MD\r\nWelcome, Commander\r\n                  (Private Use Only)\r\n(All use monitored by USAF Intelligence)\r\n\0
+
+
+--- ITXT , ITEM_ID: 14559 ---
+激活地堡门\0
+
+
+--- RNAM , ITEM_ID: 14560 ---
+正在激活地堡门…\0
+
+
+------------------- TERM ( FortInd01Terminal01 ) -------------------
+
+--- FULL , ITEM_ID: 14566 ---
+野外报告\0
+
+
+--- DESC , ITEM_ID: 14569 ---
+“要永远牢记我们经历的磨炼，那些没坚持下去的人都死了。”\r\n\r\n\r\n\0
+
+
+--- ITXT , ITEM_ID: 14572 ---
+<日志数据－普罗特·卡斯丁>\0
+
+
+--- ITXT , ITEM_ID: 14577 ---
+<日志数据－戴夫·罗克浮>\0
+
+
+--- ITXT , ITEM_ID: 14582 ---
+登出\0
+
+
+--- RNAM , ITEM_ID: 14583 ---
+正在关闭系统，\0
+
+
+------------------- TERM ( FortInd01Terminal01sub01 ) -------------------
+
+--- FULL , ITEM_ID: 14591 ---
+野外报告\0
+
+
+--- DESC , ITEM_ID: 14594 ---
+野外报告\r\n守护者卡斯丁\r\n0700地面巡逻(费尔福克斯)\r\n\r\n\r\n\0
+
+
+--- ITXT , ITEM_ID: 14597 ---
+<传输音频记录>\0
+
+
+--- RNAM , ITEM_ID: 14598 ---
+音频存储在便携设备\0
+
+
+------------------- TERM ( FortInd01Terminal01sub02 ) -------------------
+
+--- FULL , ITEM_ID: 14607 ---
+野外报告\0
+
+
+--- DESC , ITEM_ID: 14610 ---
+报告\r\n后卫罗克浮\r\n0300 常规侦查巡逻\0
+
+
+--- ITXT , ITEM_ID: 14613 ---
+<传输音频记录>\0
+
+
+--- RNAM , ITEM_ID: 14614 ---
+音频存储在便携设备\0
+
+
+------------------- TERM ( FortInd01Terminal02 ) -------------------
+
+--- FULL , ITEM_ID: 14623 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 14626 ---
+"Always remember the fires that we were forged in. Those who forget are lost."\r\n\r\n\r\n\0
+
+
+--- ITXT , ITEM_ID: 14629 ---
+<日志数据－后卫罗克浮>\0
+
+
+------------------- TERM ( FortIndependence02Terminal01 ) -------------------
+
+--- FULL , ITEM_ID: 14637 ---
+门终端\0
+
+
+--- DESC , ITEM_ID: 14640 ---
+Fort Independence Lower Access Door Terminal\0
+
+
+--- ITXT , ITEM_ID: 14644 ---
+Identity Verification\0
+
+
+--- RNAM , ITEM_ID: 14645 ---
+Scanner Missing - Security Overridden\0
+
+
+--- ITXT , ITEM_ID: 14648 ---
+Activate Door\0
+
+
+--- RNAM , ITEM_ID: 14649 ---
+Door Activated\0
+
+
+--- ITXT , ITEM_ID: 14656 ---
+Begin Decontamination\0
+
+
+--- RNAM , ITEM_ID: 14657 ---
+Anti-Bacterial Spray Depleted\0
+
+
+------------------- TERM ( FortIndependence02Terminal02 ) -------------------
+
+--- FULL , ITEM_ID: 14663 ---
+门终端\0
+
+
+--- DESC , ITEM_ID: 14666 ---
+Fort Independence Lower Access Door Terminal\0
+
+
+--- ITXT , ITEM_ID: 14669 ---
+Identity Verification\0
+
+
+--- RNAM , ITEM_ID: 14670 ---
+Scanner Missing - Security Overridden\0
+
+
+--- ITXT , ITEM_ID: 14673 ---
+Activate Door\0
+
+
+--- RNAM , ITEM_ID: 14674 ---
+Door Activated\0
+
+
+--- ITXT , ITEM_ID: 14681 ---
+Begin Decontamination\0
+
+
+--- RNAM , ITEM_ID: 14682 ---
+Anti-Bacterial Spray Depleted\0
+
+
+------------------- TERM ( FortIndResearchTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 14688 ---
+Research Terminal\0
+
+
+--- DESC , ITEM_ID: 14691 ---
+Subject -> Laser Rifle/Pistol\r\nResearcher -> J. T. Benning\r\n\0
+
+
+--- ITXT , ITEM_ID: 14694 ---
+Analysis\0
+
+
+--- ITXT , ITEM_ID: 14699 ---
+Critical Components\0
+
+
+--- ITXT , ITEM_ID: 14704 ---
+Field Operation\0
+
+
+--- ITXT , ITEM_ID: 14709 ---
+Maintenance \0
+
+
+------------------- TERM ( FortIndResearchTerminal02 ) -------------------
+
+--- FULL , ITEM_ID: 14717 ---
+Research Terminal\0
+
+
+--- DESC , ITEM_ID: 14720 ---
+"Always remember the fires that we were forged in. Those who forget are lost."\r\n\r\n\r\n\0
+
+
+--- ITXT , ITEM_ID: 14723 ---
+Research Log - Plasma Rifle\0
+
+
+------------------- TERM ( FortIndResearchTerminal03 ) -------------------
+
+--- FULL , ITEM_ID: 14731 ---
+Research Terminal\0
+
+
+--- DESC , ITEM_ID: 14734 ---
+"Always remember the fires that we were forged in. Those who forget are lost."\r\n\r\n\r\n\0
+
+
+--- ITXT , ITEM_ID: 14737 ---
+Research Log - Minigun\0
+
+
+------------------- TERM ( FortIndResearchTerminal04 ) -------------------
+
+--- FULL , ITEM_ID: 14745 ---
+Research Terminal\0
+
+
+--- DESC , ITEM_ID: 14748 ---
+"Always remember the fires that we were forged in. Those who forget are lost."\r\n\r\n\r\n\0
+
+
+--- ITXT , ITEM_ID: 14751 ---
+Research Log - Pulse Grenade\0
+
+
+------------------- TERM ( FortIndResearchTerminal05 ) -------------------
+
+--- FULL , ITEM_ID: 14759 ---
+Research Terminal\0
+
+
+--- DESC , ITEM_ID: 14762 ---
+"Always remember the fires that we were forged in. Those who forget are lost."\r\n\r\n\r\n\0
+
+
+--- ITXT , ITEM_ID: 14765 ---
+Research Log - Enclave Armor\0
+
+
+------------------- TERM ( FortIndResearchTerminal06 ) -------------------
+
+--- FULL , ITEM_ID: 14773 ---
+Research Terminal\0
+
+
+--- DESC , ITEM_ID: 14776 ---
+"Always remember the fires that we were forged in. Those who forget are lost."\r\n\r\n\r\n\0
+
+
+--- ITXT , ITEM_ID: 14779 ---
+Research Log - Missile Launcher\0
+
+
+------------------- TERM ( FriendshipDoorTerminalA ) -------------------
+
+--- FULL , ITEM_ID: 14787 ---
+Sewer Management Access Computer\0
+
+
+--- DESC , ITEM_ID: 14790 ---
+---Sewer Management Welcomes You---\r\nPlease insert a command. \r\n\r\nv0.78\0
+
+
+--- ITXT , ITEM_ID: 14793 ---
+Water Treatment Status\0
+
+
+--- RNAM , ITEM_ID: 14794 ---
+Central Error - System Nonfunctional\0
+
+
+--- ITXT , ITEM_ID: 14797 ---
+Activate Storage Door\0
+
+
+--- RNAM , ITEM_ID: 14798 ---
+Storage Door Activated\0
+
+
+--- ITXT , ITEM_ID: 14804 ---
+Purge Sewage Overflow\0
+
+
+--- RNAM , ITEM_ID: 14805 ---
+Local Error - Purge System Nonfunctional\0
+
+
+------------------- TERM ( FriendshipMetroComputer01 ) -------------------
+
+--- FULL , ITEM_ID: 14811 ---
+地铁保安终端\0
+
+
+--- DESC , ITEM_ID: 14814 ---
+欢迎来到地铁保安\r\n\0
+
+
+--- ITXT , ITEM_ID: 14817 ---
+Activate Metro Protectron\0
+
+
+--- RNAM , ITEM_ID: 14818 ---
+Protectron Activated...\0
+
+
+--- ITXT , ITEM_ID: 14826 ---
+Deactivate Metro Protectron\0
+
+
+--- RNAM , ITEM_ID: 14827 ---
+Protectron Deactivating...\0
+
+
+--- ITXT , ITEM_ID: 14835 ---
+Turn on Metro Escalators\0
+
+
+--- RNAM , ITEM_ID: 14836 ---
+FAILURE: Call Maintenance for service.\0
+
+
+--- ITXT , ITEM_ID: 14840 ---
+Turn on Metro Lights\0
+
+
+--- RNAM , ITEM_ID: 14841 ---
+FAILURE: Call Maintenance for service.\0
+
+
+------------------- TERM ( GameTerminalROOT ) -------------------
+
+--- FULL , ITEM_ID: 14847 ---
+Reign of Grelok (beta)\0
+
+
+--- DESC , ITEM_ID: 14851 ---
+Reign of Grelok (beta v.632)\0
+
+
+--- ITXT , ITEM_ID: 14854 ---
+(Plains) Look Around\0
+
+
+--- RNAM , ITEM_ID: 14855 ---
+你检查你的周围…\0
+
+
+--- ITXT , ITEM_ID: 14860 ---
+去北侧\0
+
+
+--- RNAM , ITEM_ID: 14861 ---
+You venture to the north...\0
+
+
+--- ITXT , ITEM_ID: 14866 ---
+Go South\0
+
+
+--- RNAM , ITEM_ID: 14867 ---
+You walk to the south...\0
+
+
+--- ITXT , ITEM_ID: 14872 ---
+去东侧\0
+
+
+--- RNAM , ITEM_ID: 14873 ---
+你走到东侧…\0
+
+
+--- ITXT , ITEM_ID: 14878 ---
+去西侧\0
+
+
+--- RNAM , ITEM_ID: 14879 ---
+你走到西侧\0
+
+
+--- ITXT , ITEM_ID: 14884 ---
+清单\0
+
+
+--- RNAM , ITEM_ID: 14885 ---
+Load Submenu\0
+
+
+--- ITXT , ITEM_ID: 14890 ---
+Game Over\0
+
+
+--- RNAM , ITEM_ID: 14891 ---
+Please play again!\0
+
+
+------------------- TERM ( GameTerminalSubMenuNorth ) -------------------
+
+--- FULL , ITEM_ID: 14900 ---
+Archive Security Terminal\0
+
+
+--- DESC , ITEM_ID: 14903 ---
+(Mountainside)\r\nGrelok is here, spewing heresies.\0
+
+
+--- ITXT , ITEM_ID: 14906 ---
+VICTORY!\0
+
+
+--- RNAM , ITEM_ID: 14907 ---
+Thanks for playing!\0
+
+
+--- ITXT , ITEM_ID: 14913 ---
+(Mountainside) Look Around\0
+
+
+--- RNAM , ITEM_ID: 14914 ---
+你检查你的周围…\0
+
+
+--- ITXT , ITEM_ID: 14923 ---
+(Mountainside) Look Around\0
+
+
+--- RNAM , ITEM_ID: 14924 ---
+你检查你的周围…\0
+
+
+--- ITXT , ITEM_ID: 14930 ---
+Use Sword Grelok\0
+
+
+--- RNAM , ITEM_ID: 14931 ---
+Your puny weapons are useless on Grelok.\0
+
+
+--- ITXT , ITEM_ID: 14937 ---
+Use Magical Sword Grelok\0
+
+
+--- ITXT , ITEM_ID: 14948 ---
+Investigate glinting object\0
+
+
+--- RNAM , ITEM_ID: 14949 ---
+You take a rough gemstone from the rocks.\0
+
+
+--- ITXT , ITEM_ID: 14958 ---
+Go South\0
+
+
+--- RNAM , ITEM_ID: 14959 ---
+You retreat to the south....\0
+
+
+--- ITXT , ITEM_ID: 14965 ---
+清单\0
+
+
+------------------- TERM ( genericMetroProtectronTerminal ) -------------------
+
+--- FULL , ITEM_ID: 14974 ---
+Metro Terminal\0
+
+
+--- DESC , ITEM_ID: 14977 ---
+RobCo Service Terminal\r\nV 6.0.3.2.1.a\r\n\r\n------------------------------------\r\nFor More Top Of The Line \r\nRobCo Products See\r\nYour Local Showroom.\0
+
+
+--- ITXT , ITEM_ID: 14980 ---
+Run Ticket Check Routine\0
+
+
+--- RNAM , ITEM_ID: 14981 ---
+...Loading Sequence\0
+
+
+--- ITXT , ITEM_ID: 14991 ---
+Run Ticket Check Routine\0
+
+
+--- RNAM , ITEM_ID: 14992 ---
+<ERROR> Maintenance In Progress\0
+
+
+--- ITXT , ITEM_ID: 14996 ---
+DCTA Metro Map\0
+
+
+------------------- TERM ( genericMetroProtectronTerminalSubMenu01 ) -------------------
+
+--- FULL , ITEM_ID: 15004 ---
+Metro Map Terminal\0
+
+
+--- DESC , ITEM_ID: 15007 ---
+DCTA Metro Map\r\n------------------------------------\0
+
+
+--- ITXT , ITEM_ID: 15010 ---
+View/Download Metro Map\0
+
+
+--- RNAM , ITEM_ID: 15011 ---
+Metro Map Downloaded...\0
+
+
+------------------- TERM ( genericProtectronTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15018 ---
+Automated Maintenence\0
+
+
+--- DESC , ITEM_ID: 15021 ---
+RobCo Service Terminal\r\nV 6.0.3.2.1.a\r\n\r\n------------------------------------\r\nFor More Top Of The Line \r\nRobCo Products See\r\nYour Local Showroom.\0
+
+
+--- ITXT , ITEM_ID: 15024 ---
+Run Maintenance Routine\0
+
+
+--- RNAM , ITEM_ID: 15025 ---
+...Loading Sequence\0
+
+
+--- ITXT , ITEM_ID: 15035 ---
+Run Maintenance Routine\0
+
+
+--- RNAM , ITEM_ID: 15036 ---
+<ERROR> Maintenance In Progress\0
+
+
+------------------- TERM ( genericProtectronTerminalDesk ) -------------------
+
+--- FULL , ITEM_ID: 15043 ---
+Automated Maintenence\0
+
+
+--- DESC , ITEM_ID: 15046 ---
+RobCo Service Terminal\r\nV 6.0.3.2.1.a\r\n\r\n------------------------------------\r\nFor More Top Of The Line \r\nRobCo Products See\r\nYour Local Showroom.\0
+
+
+--- ITXT , ITEM_ID: 15049 ---
+Run Maintenance Routine\0
+
+
+--- RNAM , ITEM_ID: 15050 ---
+...Loading Sequence\0
+
+
+--- ITXT , ITEM_ID: 15060 ---
+Run Maintenance Routine\0
+
+
+--- RNAM , ITEM_ID: 15061 ---
+<ERROR> Maintenance In Progress\0
+
+
+------------------- TERM ( genericVaultProtectronTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15068 ---
+Automated Maintenence\0
+
+
+--- DESC , ITEM_ID: 15071 ---
+Greetings Vault Technician!\r\nHow Can This Terminal Help You Today?\0
+
+
+--- ITXT , ITEM_ID: 15074 ---
+Run Maintenance Routine\0
+
+
+--- RNAM , ITEM_ID: 15075 ---
+...Loading Sequence\0
+
+
+--- ITXT , ITEM_ID: 15085 ---
+Run Maintenance Routine\0
+
+
+--- RNAM , ITEM_ID: 15086 ---
+<ERROR> Maintenance In Progress\0
+
+
+------------------- TERM ( GermPoliceHQ01JailorTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15093 ---
+Lockdown Terminal\0
+
+
+--- ITXT , ITEM_ID: 15100 ---
+<Data Corrupt>\0
+
+
+--- RNAM , ITEM_ID: 15101 ---
+*K!9Bfh6sK#J44H$f\0
+
+
+--- ITXT , ITEM_ID: 15104 ---
+Emergency Cell Release\0
+
+
+--- RNAM , ITEM_ID: 15105 ---
+Unlocking...\0
+
+
+--- ITXT , ITEM_ID: 15117 ---
+<Data Corrupt>\0
+
+
+--- RNAM , ITEM_ID: 15118 ---
+$fJfk0h834lk%hHDS\0
+
+
+------------------- TERM ( GermPoliceHQContraband ) -------------------
+
+--- FULL , ITEM_ID: 15124 ---
+Police Station Terminal\0
+
+
+--- ITXT , ITEM_ID: 15130 ---
+<Data Corrupt>\0
+
+
+--- RNAM , ITEM_ID: 15131 ---
+*K!9Bfh6sK#J44H$f\0
+
+
+--- ITXT , ITEM_ID: 15134 ---
+<Data Corrupt>\0
+
+
+--- RNAM , ITEM_ID: 15135 ---
+$fJfk0h834lk%hHDS\0
+
+
+--- ITXT , ITEM_ID: 15138 ---
+Unlock Contraband Closet\0
+
+
+--- RNAM , ITEM_ID: 15139 ---
+Door Unlocked\0
+
+
+------------------- TERM ( GermPoliceHQImpound ) -------------------
+
+--- FULL , ITEM_ID: 15148 ---
+Impound Information\0
+
+
+--- ITXT , ITEM_ID: 15154 ---
+<Data Corrupt>\0
+
+
+--- RNAM , ITEM_ID: 15155 ---
+*K!9Bfh6sK#J44H$f\0
+
+
+--- ITXT , ITEM_ID: 15158 ---
+Case 43027\0
+
+
+--- RNAM , ITEM_ID: 15159 ---
+Miss Danielle Faye\0
+
+
+--- ITXT , ITEM_ID: 15163 ---
+Case 45602\0
+
+
+--- RNAM , ITEM_ID: 15164 ---
+Ms. Jennifer Wilkins\0
+
+
+--- ITXT , ITEM_ID: 15168 ---
+<Data Corrupt>\0
+
+
+--- RNAM , ITEM_ID: 15169 ---
+$fJfk0h834lk%hHDS\0
+
+
+------------------- TERM ( HamHideTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15175 ---
+终端\0
+
+
+--- ITXT , ITEM_ID: 15181 ---
+Jul 19, 2077\0
+
+
+--- ITXT , ITEM_ID: 15186 ---
+Dec 24, 2077\0
+
+
+--- ITXT , ITEM_ID: 15191 ---
+Dec 25, 2077\0
+
+
+--- ITXT , ITEM_ID: 15196 ---
+Feb 13 2078\0
+
+
+--- ITXT , ITEM_ID: 15201 ---
+Feb 14 2078\0
+
+
+--- ITXT , ITEM_ID: 15206 ---
+Feb 28 2078\0
+
+
+------------------- TERM ( Hubris01Terminal01 ) -------------------
+
+--- FULL , ITEM_ID: 15214 ---
+Hubris Comics Receptionist Terminal\0
+
+
+--- DESC , ITEM_ID: 15217 ---
+Hubris Comics Publishing -\r\nPublishing Quality Prints at Quality Prices\r\n\0
+
+
+--- ITXT , ITEM_ID: 15220 ---
+Air Conditioning Controls\0
+
+
+--- RNAM , ITEM_ID: 15221 ---
+System Inoperative\0
+
+
+--- ITXT , ITEM_ID: 15224 ---
+Release Schedule\0
+
+
+--- RNAM , ITEM_ID: 15225 ---
+Displaying Release Schedule\0
+
+
+--- ITXT , ITEM_ID: 15229 ---
+Letters to the Editor\0
+
+
+--- RNAM , ITEM_ID: 15230 ---
+Displaying Inbox\0
+
+
+--- ITXT , ITEM_ID: 15237 ---
+Beta Testing Notice\0
+
+
+--- RNAM , ITEM_ID: 15238 ---
+Displaying Notice\0
+
+
+--- ITXT , ITEM_ID: 15242 ---
+Press Release\0
+
+
+--- RNAM , ITEM_ID: 15243 ---
+Loading file...\0
+
+
+------------------- TERM ( Hubris03Terminal01 ) -------------------
+
+--- FULL , ITEM_ID: 15250 ---
+Hubris Comics Publishing Terminal\0
+
+
+--- DESC , ITEM_ID: 15253 ---
+Hubris Comics Publishing -\r\nPublishing Quality Prints at Quality Prices\r\n\0
+
+
+--- ITXT , ITEM_ID: 15256 ---
+Air Conditioning Controls\0
+
+
+--- RNAM , ITEM_ID: 15257 ---
+System Inoperative\0
+
+
+--- ITXT , ITEM_ID: 15260 ---
+Unlock Foreman Door\0
+
+
+--- RNAM , ITEM_ID: 15261 ---
+Door Unlocked\0
+
+
+--- ITXT , ITEM_ID: 15267 ---
+Release Schedule\0
+
+
+--- RNAM , ITEM_ID: 15268 ---
+Displaying Release Schedule\0
+
+
+--- ITXT , ITEM_ID: 15272 ---
+Letters to the Editor\0
+
+
+--- RNAM , ITEM_ID: 15273 ---
+Displaying Inbox\0
+
+
+--- ITXT , ITEM_ID: 15280 ---
+Press Release\0
+
+
+--- RNAM , ITEM_ID: 15281 ---
+Loading file....\0
+
+
+------------------- TERM ( HubrisComicsPressTerminal01b ) -------------------
+
+--- FULL , ITEM_ID: 15288 ---
+Printing Press Terminal\0
+
+
+--- DESC , ITEM_ID: 15291 ---
+Hubris Comics Publishing Printing Press Terminal.\r\n\r\nRemember to make sure no one is near the press while operating.\0
+
+
+--- ITXT , ITEM_ID: 15294 ---
+Turn On Printing Press\0
+
+
+--- RNAM , ITEM_ID: 15295 ---
+!!! Warning - Machine Malfunctioning !!!\0
+
+
+--- ITXT , ITEM_ID: 15303 ---
+Shut Down Printing Press\0
+
+
+--- RNAM , ITEM_ID: 15304 ---
+Printing Press Shutting Down...\0
+
+
+--- ITXT , ITEM_ID: 15312 ---
+Check Manuscript\0
+
+
+--- RNAM , ITEM_ID: 15313 ---
+Grognak the Barbarian, #361 - LOADED\0
+
+
+--- ITXT , ITEM_ID: 15316 ---
+Check Ink Levels\0
+
+
+--- RNAM , ITEM_ID: 15317 ---
+Red Ink Low\0
+
+
+--- ITXT , ITEM_ID: 15320 ---
+Check Paper Stock\0
+
+
+--- RNAM , ITEM_ID: 15321 ---
+Low-Grade Pulp Available\0
+
+
+------------------- TERM ( IrvingChengTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15327 ---
+Cheng Personal Computer\0
+
+
+--- DESC , ITEM_ID: 15330 ---
+Welcome, Comrade!\0
+
+
+--- ITXT , ITEM_ID: 15333 ---
+Rebuilding Proposal\0
+
+
+--- ITXT , ITEM_ID: 15338 ---
+Daily Affirmation\0
+
+
+--- RNAM , ITEM_ID: 15339 ---
+In the Wasteland, we can all be heroes!\0
+
+
+--- ITXT , ITEM_ID: 15343 ---
+Daily Affirmation\0
+
+
+--- RNAM , ITEM_ID: 15344 ---
+Chairman Cheng is watching you, Comrade!\0
+
+
+--- ITXT , ITEM_ID: 15348 ---
+Daily Affirmation\0
+
+
+--- RNAM , ITEM_ID: 15349 ---
+The invaded have been wiped out!\0
+
+
+--- ITXT , ITEM_ID: 15353 ---
+Daily Affirmation\0
+
+
+--- RNAM , ITEM_ID: 15354 ---
+Glorious work, happy life!\0
+
+
+--- ITXT , ITEM_ID: 15358 ---
+Daily Affirmation\0
+
+
+--- RNAM , ITEM_ID: 15359 ---
+Win glory for our motherland!\0
+
+
+--- ITXT , ITEM_ID: 15363 ---
+Daily Affirmation\0
+
+
+--- RNAM , ITEM_ID: 15364 ---
+Hold aloft the red lantern!\0
+
+
+--- ITXT , ITEM_ID: 15368 ---
+Daily Affirmation\0
+
+
+--- RNAM , ITEM_ID: 15369 ---
+Revolution brings happiness!\0
+
+
+------------------- TERM ( LDIsabellaTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15376 ---
+Isabella Proud's Terminal\0
+
+
+--- DESC , ITEM_ID: 15379 ---
+Journal-It Software \a9h 2072 PagSoft\r\nIsabella Proud's Journal\0
+
+
+--- ITXT , ITEM_ID: 15382 ---
+Day 45\0
+
+
+--- ITXT , ITEM_ID: 15387 ---
+Day 51\0
+
+
+--- ITXT , ITEM_ID: 15392 ---
+Day 53\0
+
+
+--- ITXT , ITEM_ID: 15397 ---
+Day 58\0
+
+
+--- ITXT , ITEM_ID: 15402 ---
+Day 63\0
+
+
+--- ITXT , ITEM_ID: 15407 ---
+Day 67\0
+
+
+--- ITXT , ITEM_ID: 15412 ---
+Day 68\0
+
+
+--- ITXT , ITEM_ID: 15420 ---
+Day 75\0
+
+
+--- ITXT , ITEM_ID: 15425 ---
+disconnect user: ISABELLA PROUD\0
+
+
+--- RNAM , ITEM_ID: 15426 ---
+disconnecting user: ISABELLA PROUD\0
+
+
+------------------- TERM ( LDJuryBossTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15434 ---
+Ryan Brigg's Terminal\0
+
+
+--- DESC , ITEM_ID: 15437 ---
+Journal-It Software \a9h 2072 PagSoft\r\nRyan Brigg's Journal\0
+
+
+--- ITXT , ITEM_ID: 15440 ---
+Recent Journal Entries\0
+
+
+--- ITXT , ITEM_ID: 15445 ---
+Archived Journal Entries\0
+
+
+------------------- TERM ( LDJuryBossTerminalOlder ) -------------------
+
+--- FULL , ITEM_ID: 15453 ---
+Ryan Brigg's Terminal\0
+
+
+--- DESC , ITEM_ID: 15456 ---
+Journal-It Software \a9h 2072 PagSoft\r\nUSER: Ryan Brigg's\0
+
+
+--- ITXT , ITEM_ID: 15459 ---
+Log Entry #173\0
+
+
+--- RNAM , ITEM_ID: 15460 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 15464 ---
+Log Entry #172\0
+
+
+--- RNAM , ITEM_ID: 15465 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 15469 ---
+Log Entry #171\0
+
+
+--- RNAM , ITEM_ID: 15470 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 15474 ---
+Log Entry #87\0
+
+
+--- RNAM , ITEM_ID: 15475 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 15479 ---
+Log Entry #86\0
+
+
+--- RNAM , ITEM_ID: 15480 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 15484 ---
+Archived Entries\0
+
+
+--- ITXT , ITEM_ID: 15489 ---
+disconnect user: RYAN BRIGGS\0
+
+
+--- RNAM , ITEM_ID: 15490 ---
+disconneting user: RYAN BRIGGS\0
+
+
+------------------- TERM ( LOBEExecTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15498 ---
+CEO's Terminal\0
+
+
+--- ITXT , ITEM_ID: 15504 ---
+Saved Invoice\0
+
+
+--- RNAM , ITEM_ID: 15505 ---
+正在读取...\0
+
+
+--- ITXT , ITEM_ID: 15509 ---
+Company Policies\0
+
+
+--- RNAM , ITEM_ID: 15510 ---
+Loading partial archive...\0
+
+
+------------------- TERM ( LOBEExecutiveTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15517 ---
+L.O.B. Enterprises - Chief Executive Terminal\0
+
+
+--- DESC , ITEM_ID: 15520 ---
+L.O.B. Enterprises Chief Executive Terminal\r\n\r\n\r\n\0
+
+
+--- ITXT , ITEM_ID: 15523 ---
+Memo: Responding to Federal Raids\0
+
+
+--- ITXT , ITEM_ID: 15528 ---
+Memo: Weapon Practice Tonight\0
+
+
+--- ITXT , ITEM_ID: 15533 ---
+Memo: Emergency Procedures\0
+
+
+--- ITXT , ITEM_ID: 15538 ---
+Memo: Weapon Practice Tonight?\0
+
+
+------------------- TERM ( LOBEFrontDeskTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15546 ---
+L.O.B. Enterprises Front Desk Terminal\0
+
+
+--- DESC , ITEM_ID: 15549 ---
+LOB Enterprises Front Desk\r\n\r\nWelcome Ms. Warring\r\n\r\nPlease remember to always ask for I.D. and greet visitors with a smile.\0
+
+
+--- ITXT , ITEM_ID: 15552 ---
+All Personnel: Emergency Protocols\0
+
+
+--- ITXT , ITEM_ID: 15557 ---
+Email: Weapon Practice Tonight?\0
+
+
+--- ITXT , ITEM_ID: 15562 ---
+Sent Item: MAN THE DOORS!!\0
+
+
+--- ITXT , ITEM_ID: 15567 ---
+All Personnel: Caps in Emails\0
+
+
+------------------- TERM ( LOBEJMcAndrewsEmployeeTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15575 ---
+L.O.B. Enterprises - Jeanne McAndrews' Terminal\0
+
+
+--- DESC , ITEM_ID: 15578 ---
+LOB Enterprises Employee Terminal\r\n\r\nWelcome Ms. McAndrews\r\n\r\n\0
+
+
+--- ITXT , ITEM_ID: 15581 ---
+Sent: Hostile Workplace\0
+
+
+--- ITXT , ITEM_ID: 15586 ---
+Memo: Responding to Federal Raids\0
+
+
+--- ITXT , ITEM_ID: 15591 ---
+Re: Weapon Practice Tonight\0
+
+
+--- ITXT , ITEM_ID: 15596 ---
+Memo: Caps in Emails\0
+
+
+------------------- TERM ( LOBELabSubMenu ) -------------------
+
+--- FULL , ITEM_ID: 15604 ---
+R&D Operations Terminal\0
+
+
+--- DESC , ITEM_ID: 15607 ---
+.......................\r\n.PROJECT ZHU-RONG     .\r\n.PROTOTYPE LAB REPORTS.\r\n.......................\r\n\r\n\0
+
+
+--- ITXT , ITEM_ID: 15610 ---
+Lab Report: Prototype ZRIN-363\0
+
+
+--- RNAM , ITEM_ID: 15611 ---
+正在读取...\0
+
+
+--- ITXT , ITEM_ID: 15615 ---
+Lab Report: Prototype ZRIN-375\0
+
+
+--- RNAM , ITEM_ID: 15616 ---
+正在读取...\0
+
+
+--- ITXT , ITEM_ID: 15620 ---
+Lab Report: Prototype ZRIN-401\0
+
+
+--- RNAM , ITEM_ID: 15621 ---
+正在读取...\0
+
+
+--- ITXT , ITEM_ID: 15625 ---
+Lab Report: Prototype ZRIN-418\0
+
+
+--- RNAM , ITEM_ID: 15626 ---
+正在读取...\0
+
+
+------------------- TERM ( LOBELabTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15633 ---
+R&D Operations Terminal\0
+
+
+--- DESC , ITEM_ID: 15636 ---
+Reasearch & Development\r\n< !  !  !  !  !  >\r\nSOLE OWNERSHIP L.O.B. ENTERPRISES\r\nVIOLATORS PUNISHED UNDER #P47\r\n\r\n\0
+
+
+--- ITXT , ITEM_ID: 15639 ---
+Lab Reports\0
+
+
+--- RNAM , ITEM_ID: 15640 ---
+正在读取...\0
+
+
+--- ITXT , ITEM_ID: 15644 ---
+Company Policies\0
+
+
+--- RNAM , ITEM_ID: 15645 ---
+Loading Partial Archive\0
+
+
+------------------- TERM ( LOBEPlaceholderTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15652 ---
+LOB Enterprises Employee Terminal\0
+
+
+--- DESC , ITEM_ID: 15655 ---
+-=LOB Enterprises=-\r\nWelcome, EMP_ID_MISSING.\r\n\r\n\r\n\0
+
+
+--- ITXT , ITEM_ID: 15658 ---
+Memo to All Personnel: Emergency Protocols\0
+
+
+------------------- TERM ( LOBEPoliciesSubMenu ) -------------------
+
+--- FULL , ITEM_ID: 15666 ---
+Security Operations Sub-Menu\0
+
+
+--- ITXT , ITEM_ID: 15672 ---
+Internal Memorandum\0
+
+
+--- ITXT , ITEM_ID: 15677 ---
+Weapons Policy #H31\0
+
+
+--- ITXT , ITEM_ID: 15682 ---
+Evacuation Policy #T01\0
+
+
+--- ITXT , ITEM_ID: 15687 ---
+Inclement Weather Policy #C31\0
+
+
+------------------- TERM ( LOBESecuritySubMenu ) -------------------
+
+--- FULL , ITEM_ID: 15695 ---
+Secruity Operations Terminal\0
+
+
+--- ITXT , ITEM_ID: 15701 ---
+View Security Feed\0
+
+
+--- RNAM , ITEM_ID: 15702 ---
+ERROR // No Source detected...\0
+
+
+--- ITXT , ITEM_ID: 15705 ---
+Bring Security Turrets Online\0
+
+
+--- RNAM , ITEM_ID: 15706 ---
+Turret Sentries active...\0
+
+
+--- ITXT , ITEM_ID: 15709 ---
+Saved Feed Still: 8:14am\0
+
+
+--- RNAM , ITEM_ID: 15710 ---
+Loading Image...\0
+
+
+--- ITXT , ITEM_ID: 15714 ---
+Saved Feed Still: 8:21am\0
+
+
+--- RNAM , ITEM_ID: 15715 ---
+Loading Image...\0
+
+
+------------------- TERM ( LOBESecurityTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15722 ---
+Security Operations Terminal\0
+
+
+--- ITXT , ITEM_ID: 15728 ---
+Security System Login\0
+
+
+--- RNAM , ITEM_ID: 15729 ---
+Welcome,  Mr. Humbert....\0
+
+
+--- ITXT , ITEM_ID: 15733 ---
+Saved Memo - Attn: Security Captain\0
+
+
+--- RNAM , ITEM_ID: 15734 ---
+正在读取...\0
+
+
+--- ITXT , ITEM_ID: 15738 ---
+Company Policies\0
+
+
+--- RNAM , ITEM_ID: 15739 ---
+Loading partial archive...\0
+
+
+------------------- TERM ( LOBESJohnsonEmployeeTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15746 ---
+L.O.B. 企业－萨姆·约翰逊的终端\0
+
+
+--- DESC , ITEM_ID: 15749 ---
+LOB企业员工终端\r\n\r\n欢迎，约翰逊先生\r\n\r\n请避免对女性员工的不当言语和举动。\r\n\r\n这是公司的制度，这提示在屏幕上停留多久取决于人力资源部的评价。\r\n\r\n\0
+
+
+--- ITXT , ITEM_ID: 15752 ---
+All Personnel: Emergency Protocols\0
+
+
+--- ITXT , ITEM_ID: 15757 ---
+备忘录：性骚扰费用\0
+
+
+--- ITXT , ITEM_ID: 15762 ---
+Memo: Responding to Federal Raids\0
+
+
+------------------- TERM ( Mainframe01 ) -------------------
+
+--- FULL , ITEM_ID: 15770 ---
+避难所科技主机\0
+
+
+------------------- TERM ( MamaDolceTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 15778 ---
+书桌终端\0
+
+
+--- DESC , ITEM_ID: 15781 ---
+玛玛多莉丝食品厂\r\n所有美国生意\r\n\r\n== 工厂作业菜单 ==\0
+
+
+--- ITXT , ITEM_ID: 15784 ---
+1.资源水平\0
+
+
+--- ITXT , ITEM_ID: 15789 ---
+2.季度分析\0
+
+
+--- ITXT , ITEM_ID: 15794 ---
+3.人力资源备忘录\0
+
+
+--- ITXT , ITEM_ID: 15799 ---
+4.紧急状况警报\0
+
+
+--- ITXT , ITEM_ID: 15804 ---
+5. Ikkm00:Mvkz6x1ml:Nqtm\0
+
+
+--- RNAM , ITEM_ID: 15805 ---
+[错误 HX40-399：密匙 无效 ]\0
+
+
+--- ITXT , ITEM_ID: 15809 ---
+5.访问加密档案\0
+
+
+--- RNAM , ITEM_ID: 15810 ---
+[密匙 有效]\0
+
+
+------------------- TERM ( MamaDolceTerminal02 ) -------------------
+
+--- FULL , ITEM_ID: 15818 ---
+书桌终端\0
+
+
+--- DESC , ITEM_ID: 15821 ---
+欢迎，黄首长。\r\n美好的人民共和国！\r\n{显示设置：英国/美国}\0
+
+
+--- ITXT , ITEM_ID: 15824 ---
+欢迎，黄首长。\0
+
+
+--- RNAM , ITEM_ID: 15825 ---
+美好的人民共和国！\0
+
+
+------------------- TERM ( mariposaExhaustVent ) -------------------
+
+--- FULL , ITEM_ID: 15832 ---
+排风口控制\0
+
+
+--- DESC , ITEM_ID: 15835 ---
+=--梅尔博萨车站--\r\n Utitlity终端 6c\0
+
+
+--- ITXT , ITEM_ID: 15837 ---
+排风口\0
+
+
+--- RNAM , ITEM_ID: 15838 ---
+退后，可燃气体...\0
+
+
+--- ITXT , ITEM_ID: 15845 ---
+排风口\0
+
+
+--- RNAM , ITEM_ID: 15846 ---
+ERROR: Exhaust has been recently vented\0\0
+
+
+------------------- TERM ( MegArmoryTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15853 ---
+军械库终端\0
+
+
+--- DESC , ITEM_ID: 15856 ---
+RobCo公司保安系统 v7.3\r\n\r\n输入命令：\0
+
+
+--- ITXT , ITEM_ID: 15859 ---
+停用单位“副警长斯蒂尔”\0
+
+
+--- RNAM , ITEM_ID: 15860 ---
+停止信号发送…\0
+
+
+--- ITXT , ITEM_ID: 15866 ---
+停用单位“副警长威尔德”\0
+
+
+--- RNAM , ITEM_ID: 15867 ---
+停止信号发送…\0
+
+
+------------------- TERM ( MegatonBrassLanternTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15876 ---
+黄铜灯补给点终端\0
+
+
+--- DESC , ITEM_ID: 15879 ---
+欢迎来到黄铜灯补给点电脑系统，斯塔尔先生。今天您想要做些什么？\0
+
+
+--- ITXT , ITEM_ID: 15883 ---
+关于利奥的记录\0
+
+
+--- ITXT , ITEM_ID: 15889 ---
+关于利奥的记录\0
+
+
+--- ITXT , ITEM_ID: 15895 ---
+现金记录\0
+
+
+--- ITXT , ITEM_ID: 15901 ---
+现金记录\0
+
+
+--- ITXT , ITEM_ID: 15907 ---
+帐目记录\0
+
+
+--- ITXT , ITEM_ID: 15912 ---
+打开地板保险柜锁\0
+
+
+--- RNAM , ITEM_ID: 15913 ---
+正在打开保险柜锁锁…\0
+
+
+------------------- TERM ( MegatonChildrenOfAtomTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15922 ---
+忏悔者克伦威尔的终端\0
+
+
+--- DESC , ITEM_ID: 15925 ---
+欢迎，忏悔者。你能走进这闪光…\0
+
+
+--- ITXT , ITEM_ID: 15928 ---
+原子的核\0
+
+
+--- ITXT , ITEM_ID: 15933 ---
+论原子能的第二次到来\0
+
+
+--- ITXT , ITEM_ID: 15938 ---
+Bringing About The Division\0\0
+
+
+------------------- TERM ( MegCratersideSupplyTerminal ) -------------------
+
+--- FULL , ITEM_ID: 15946 ---
+莫伊拉的终端\0
+
+
+--- DESC , ITEM_ID: 15949 ---
+Doc-u-tron桌面\r\n模型 986\r\n\r\n欢迎，莫伊拉。今天你想做些什么？\0
+
+
+--- ITXT , ITEM_ID: 15953 ---
+库存量数据\0
+
+
+--- RNAM , ITEM_ID: 15954 ---
+数据损坏！使用硬拷贝备份。\0
+
+
+--- ITXT , ITEM_ID: 15958 ---
+库存量数据\0
+
+
+--- RNAM , ITEM_ID: 15959 ---
+因为良好的声誉，商店的利润增长了20 ％ 。\0
+
+
+--- ITXT , ITEM_ID: 15963 ---
+跟踪当前试验\0
+
+
+--- RNAM , ITEM_ID: 15964 ---
+显示…\0
+
+
+--- ITXT , ITEM_ID: 15969 ---
+跟踪当前试验\0
+
+
+--- RNAM , ITEM_ID: 15970 ---
+试验删除。\0
+
+
+--- ITXT , ITEM_ID: 15974 ---
+生存指南进度\0
+
+
+--- RNAM , ITEM_ID: 15975 ---
+文件已被删除。\0
+
+
+--- ITXT , ITEM_ID: 15979 ---
+生存指南进度\0
+
+
+--- RNAM , ITEM_ID: 15980 ---
+文件印刷和分发\0
+
+
+--- ITXT , ITEM_ID: 15986 ---
+生存指南进度\0
+
+
+--- RNAM , ITEM_ID: 15987 ---
+编辑进度\0
+
+
+------------------- TERM ( MetroCenter02Computer01 ) -------------------
+
+--- FULL , ITEM_ID: 15995 ---
+地铁保安终端\0
+
+
+--- DESC , ITEM_ID: 15998 ---
+欢迎来到地铁保安\r\n\0
+
+
+--- ITXT , ITEM_ID: 16002 ---
+Activate Metro Protectron\0
+
+
+--- RNAM , ITEM_ID: 16003 ---
+Protectron Activated...\0
+
+
+--- ITXT , ITEM_ID: 16011 ---
+Deactivate Metro Protectron\0
+
+
+--- RNAM , ITEM_ID: 16012 ---
+Protectron Deactivating...\0
+
+
+--- ITXT , ITEM_ID: 16019 ---
+Turn on Metro Escalators\0
+
+
+--- RNAM , ITEM_ID: 16020 ---
+FAILURE: Call Maintenance for service.\0
+
+
+--- ITXT , ITEM_ID: 16024 ---
+Turn on Metro Lights\0
+
+
+--- RNAM , ITEM_ID: 16025 ---
+FAILURE: Call Maintenance for service.\0
+
+
+------------------- TERM ( MoAH01SecurityTerminal ) -------------------
+
+--- FULL , ITEM_ID: 16031 ---
+枪塔控制系统\0
+
+
+--- DESC , ITEM_ID: 16034 ---
+－RobCo侵入者管理系统－\r\n====================================\0
+
+
+--- ITXT , ITEM_ID: 16037 ---
+重新设置目标参数\0
+
+
+--- RNAM , ITEM_ID: 16038 ---
+目标数据清除。请注意。\0
+
+
+--- ITXT , ITEM_ID: 16047 ---
+<!>警告：无目标数据<!>\0
+
+
+--- RNAM , ITEM_ID: 16048 ---
+<!>请注意<!>\0
+
+
+--- ITXT , ITEM_ID: 16053 ---
+激活枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 16054 ---
+正在引导…\0
+
+
+--- ITXT , ITEM_ID: 16063 ---
+撤销枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 16064 ---
+正在撤销电力…\0
+
+
+--- ITXT , ITEM_ID: 16073 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 16074 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 16079 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 16080 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 16085 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 16086 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 16091 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 16092 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 16097 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 16098 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 16103 ---
+关闭展厅\0
+
+
+--- RNAM , ITEM_ID: 16104 ---
+请随时回来。\0
+
+
+--- ITXT , ITEM_ID: 16110 ---
+打开展厅门\0
+
+
+--- RNAM , ITEM_ID: 16111 ---
+请随时回来。\0
+
+
+------------------- TERM ( MoAH03SecurityTerminal ) -------------------
+
+--- FULL , ITEM_ID: 16120 ---
+枪塔控制系统\0
+
+
+--- DESC , ITEM_ID: 16123 ---
+－RobCo侵入者管理系统－\r\n====================================\0
+
+
+--- ITXT , ITEM_ID: 16126 ---
+重新设置目标参数\0
+
+
+--- RNAM , ITEM_ID: 16127 ---
+目标数据清除。请注意。\0
+
+
+--- ITXT , ITEM_ID: 16136 ---
+<!>警告：无目标数据<!>\0
+
+
+--- RNAM , ITEM_ID: 16137 ---
+<!>请注意<!>\0
+
+
+--- ITXT , ITEM_ID: 16142 ---
+激活枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 16143 ---
+正在引导…\0
+
+
+--- ITXT , ITEM_ID: 16152 ---
+撤销枪塔系统\0
+
+
+--- RNAM , ITEM_ID: 16153 ---
+正在撤销电力…\0
+
+
+--- ITXT , ITEM_ID: 16162 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 16163 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 16168 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 16169 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 16174 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 16175 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 16180 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 16181 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 16186 ---
+系统信息\0
+
+
+--- RNAM , ITEM_ID: 16187 ---
+正在读取日志文件…\0
+
+
+--- ITXT , ITEM_ID: 16192 ---
+安全档案库\0
+
+
+--- RNAM , ITEM_ID: 16193 ---
+请随时回来。\0
+
+
+--- ITXT , ITEM_ID: 16200 ---
+打开档案库门\0
+
+
+--- RNAM , ITEM_ID: 16201 ---
+请随时回来。\0
+
+
+------------------- TERM ( MoAHInformationTerminalA ) -------------------
+
+--- FULL , ITEM_ID: 16211 ---
+保安终端\0
+
+
+--- DESC , ITEM_ID: 16214 ---
+欢迎您到美国历史博物馆的内部防御系统（ MAHIDS ）\0
+
+
+--- ITXT , ITEM_ID: 16217 ---
+<关闭房间>\0
+
+
+--- RNAM , ITEM_ID: 16218 ---
+请站在大门后面\0
+
+
+--- ITXT , ITEM_ID: 16224 ---
+<打开单元门>\0
+
+
+--- RNAM , ITEM_ID: 16225 ---
+请站在大门后面\0
+
+
+------------------- TERM ( MoiraExperimentsSubTerminal ) -------------------
+
+--- FULL , ITEM_ID: 16234 ---
+莫伊拉的终端\0
+
+
+--- DESC , ITEM_ID: 16237 ---
+这是美好的一天！今天我们要测试什么，莫伊拉？\0
+
+
+--- ITXT , ITEM_ID: 16241 ---
+做双头牛头部分离？\0
+
+
+--- RNAM , ITEM_ID: 16242 ---
+更多研究双头牛语言的必修。\0
+
+
+--- ITXT , ITEM_ID: 16245 ---
+炸药可被用于扩大城市？\0
+
+
+--- RNAM , ITEM_ID: 16246 ---
+卢卡斯西姆斯请求停止所有测试。\0
+
+
+--- ITXT , ITEM_ID: 16249 ---
+可以驯养地鼠？\0
+
+
+--- RNAM , ITEM_ID: 16250 ---
+是的，如果脱脂、％＃※×、进行脑叶切开术。\0
+
+
+--- ITXT , ITEM_ID: 16254 ---
+怎样防止歹徒袭击？\0
+
+
+--- RNAM , ITEM_ID: 16255 ---
+歹徒拒绝采访。\0
+
+
+--- ITXT , ITEM_ID: 16259 ---
+超级变种人吃什么？\0
+
+
+--- RNAM , ITEM_ID: 16260 ---
+助理研究员。\0
+
+
+--- ITXT , ITEM_ID: 16264 ---
+中国发生了什么事？\0
+
+
+--- RNAM , ITEM_ID: 16265 ---
+报告不确定性。中国可能是虚构的。\0
+
+
+--- ITXT , ITEM_ID: 16269 ---
+能与多脚兽交谈吗？\0
+
+
+--- RNAM , ITEM_ID: 16270 ---
+大量的舌头使人想到这个。\0
+
+
+--- ITXT , ITEM_ID: 16274 ---
+目标是什么？\0
+
+
+--- RNAM , ITEM_ID: 16275 ---
+去履行科学。\0
+
+
+------------------- TERM ( MQ01MoriartysTerminal ) -------------------
+
+--- FULL , ITEM_ID: 16282 ---
+莫里亚蒂的终端\0
+
+
+--- DESC , ITEM_ID: 16285 ---
+莫里亚蒂的个人财产！\r\n===================\r\n 这个月的随机成语：“什么时候净水芯片玩儿完了，双头牛也就没有了。”\0
+
+
+--- ITXT , ITEM_ID: 16289 ---
+居民\0
+
+
+--- ITXT , ITEM_ID: 16294 ---
+访客\0
+
+
+--- ITXT , ITEM_ID: 16302 ---
+标签\0
+
+
+------------------- TERM ( MQ01MoriartysTerminalResidents ) -------------------
+
+--- FULL , ITEM_ID: 16310 ---
+莫里亚蒂的终端\0
+
+
+--- ITXT , ITEM_ID: 16316 ---
+杰里科\0
+
+
+--- ITXT , ITEM_ID: 16321 ---
+利奥·斯塔尔\0
+
+
+--- ITXT , ITEM_ID: 16326 ---
+安迪·斯塔尔\0
+
+
+--- ITXT , ITEM_ID: 16331 ---
+比利·克里\0
+
+
+--- ITXT , ITEM_ID: 16336 ---
+丘奇博士\0
+
+
+------------------- TERM ( MQ01MoriartysTerminalVisitors ) -------------------
+
+--- FULL , ITEM_ID: 16344 ---
+莫里亚蒂的终端\0
+
+
+--- ITXT , ITEM_ID: 16350 ---
+伯克先生\0
+
+
+--- ITXT , ITEM_ID: 16355 ---
+詹姆森（101号避难所）\0
+
+
+------------------- TERM ( MQ02FarOutSpaceFactsTerminal ) -------------------
+
+--- FULL , ITEM_ID: 16366 ---
+远处淡出空间细节！\0
+
+
+--- DESC , ITEM_ID: 16369 ---
+远处淡出空间细节！\r\n\0
+
+
+--- ITXT , ITEM_ID: 16372 ---
+空间细节 1号\0
+
+
+--- ITXT , ITEM_ID: 16377 ---
+空间细节 2号\0
+
+
+--- ITXT , ITEM_ID: 16382 ---
+空间细节 3号\0
+
+
+--- ITXT , ITEM_ID: 16387 ---
+空间细节 4号\0
+
+
+--- ITXT , ITEM_ID: 16392 ---
+空间细节 5号\0
+
+
+--- ITXT , ITEM_ID: 16397 ---
+空间细节 6号\0
+
+
+--- ITXT , ITEM_ID: 16402 ---
+空间细节 7号\0
+
+
+--- ITXT , ITEM_ID: 16407 ---
+空间细节 8号\0
+
+
+------------------- TERM ( MQ02GNRLockTerminal02 ) -------------------
+
+--- FULL , ITEM_ID: 16415 ---
+银河新闻广播电台访问终端\0
+
+
+--- DESC , ITEM_ID: 16418 ---
+银河新闻广播电台访问终端\0
+
+
+--- ITXT , ITEM_ID: 16422 ---
+打开广播站通道\0
+
+
+------------------- TERM ( MQ02GNRLockTerminal03 ) -------------------
+
+--- FULL , ITEM_ID: 16432 ---
+银河新闻广播电台访问终端\0
+
+
+--- DESC , ITEM_ID: 16435 ---
+银河新闻广播电台访问终端\0
+
+
+--- ITXT , ITEM_ID: 16439 ---
+打开外围的门\0
+
+
+------------------- TERM ( MQ02MuseumInfoTerminal ) -------------------
+
+--- FULL , ITEM_ID: 16449 ---
+藏品信息\0
+
+
+--- DESC , ITEM_ID: 16452 ---
+欢迎来到科技博物馆\0
+
+
+--- ITXT , ITEM_ID: 16455 ---
+展品指南\0
+
+
+--- ITXT , ITEM_ID: 16460 ---
+特殊事件\0
+
+
+--- ITXT , ITEM_ID: 16465 ---
+天文馆标签\0
+
+
+--- ITXT , ITEM_ID: 16470 ---
+Gigantomax标签\0
+
+
+------------------- TERM ( MQ02MuseumInfoTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 16478 ---
+藏品信息\0
+
+
+--- ITXT , ITEM_ID: 16484 ---
+交通运输展厅\0
+
+
+--- ITXT , ITEM_ID: 16489 ---
+机器人展厅\0
+
+
+--- ITXT , ITEM_ID: 16494 ---
+飞行器展厅\0
+
+
+--- ITXT , ITEM_ID: 16499 ---
+航天展厅\0
+
+
+------------------- TERM ( MQ02MuseumInfoTerminal02 ) -------------------
+
+--- FULL , ITEM_ID: 16507 ---
+藏品信息\0
+
+
+--- ITXT , ITEM_ID: 16513 ---
+避难所科技的避难所的明天\0
+
+
+--- ITXT , ITEM_ID: 16518 ---
+西部科技动力装甲演示\0
+
+
+--- ITXT , ITEM_ID: 16523 ---
+演讲：Oppenheimer是个傻瓜？\0
+
+
+------------------- TERM ( MQ02MuseumInfoTerminalB ) -------------------
+
+--- FULL , ITEM_ID: 16531 ---
+藏品信息\0
+
+
+--- DESC , ITEM_ID: 16534 ---
+欢迎来到科技博物馆\0
+
+
+--- ITXT , ITEM_ID: 16537 ---
+展品指南\0
+
+
+--- ITXT , ITEM_ID: 16542 ---
+特殊事件\0
+
+
+--- ITXT , ITEM_ID: 16547 ---
+天文馆标签\0
+
+
+--- ITXT , ITEM_ID: 16552 ---
+Gigantomax标签\0
+
+
+------------------- TERM ( MQ02MuseumInfoTerminalHackedA ) -------------------
+
+--- FULL , ITEM_ID: 16560 ---
+藏品信息\0
+
+
+--- DESC , ITEM_ID: 16563 ---
+欢迎来到科技博物馆\r\n# System Upgrades Courtesy of Prime\0
+
+
+--- ITXT , ITEM_ID: 16566 ---
+展品指南\0
+
+
+--- ITXT , ITEM_ID: 16571 ---
+特殊事件\0
+
+
+--- ITXT , ITEM_ID: 16576 ---
+天文馆标签\0
+
+
+--- ITXT , ITEM_ID: 16581 ---
+Gigantomax标签\0
+
+
+--- ITXT , ITEM_ID: 16586 ---
+#000\0
+
+
+--- ITXT , ITEM_ID: 16595 ---
+#001\0
+
+
+--- ITXT , ITEM_ID: 16603 ---
+001号许可\0
+
+
+--- RNAM , ITEM_ID: 16604 ---
+需要3个许可\0
+
+
+--- ITXT , ITEM_ID: 16610 ---
+#获取密码\0
+
+
+--- ITXT , ITEM_ID: 16624 ---
+#错误\0
+
+
+--- RNAM , ITEM_ID: 16625 ---
+序列锁定\0
+
+
+--- ITXT , ITEM_ID: 16629 ---
+#密码给出\0
+
+
+--- RNAM , ITEM_ID: 16630 ---
+序列完成\0
+
+
+------------------- TERM ( MQ02MuseumInfoTerminalHackedB ) -------------------
+
+--- FULL , ITEM_ID: 16637 ---
+藏品信息\0
+
+
+--- DESC , ITEM_ID: 16640 ---
+欢迎来到科技博物馆\r\n# System Upgrades Courtesy of Prime\0
+
+
+--- ITXT , ITEM_ID: 16643 ---
+展品指南\0
+
+
+--- ITXT , ITEM_ID: 16648 ---
+特殊事件\0
+
+
+--- ITXT , ITEM_ID: 16653 ---
+天文馆标签\0
+
+
+--- ITXT , ITEM_ID: 16658 ---
+Gigantomax标签\0
+
+
+--- ITXT , ITEM_ID: 16663 ---
+#000\0
+
+
+--- ITXT , ITEM_ID: 16672 ---
+#002\0
+
+
+--- ITXT , ITEM_ID: 16680 ---
+002号许可\0
+
+
+--- RNAM , ITEM_ID: 16681 ---
+需要3个许可\0
+
+
+--- ITXT , ITEM_ID: 16687 ---
+#获取密码\0
+
+
+--- ITXT , ITEM_ID: 16701 ---
+#错误\0
+
+
+--- RNAM , ITEM_ID: 16702 ---
+序列锁定\0
+
+
+--- ITXT , ITEM_ID: 16706 ---
+#密码给出\0
+
+
+--- RNAM , ITEM_ID: 16707 ---
+序列完成\0
+
+
+------------------- TERM ( MQ02MuseumInfoTerminalHackedC ) -------------------
+
+--- FULL , ITEM_ID: 16714 ---
+藏品信息\0
+
+
+--- DESC , ITEM_ID: 16717 ---
+欢迎来到科技博物馆\r\n# System Upgrades Courtesy of Prime\0
+
+
+--- ITXT , ITEM_ID: 16720 ---
+展品指南\0
+
+
+--- ITXT , ITEM_ID: 16725 ---
+特殊事件\0
+
+
+--- ITXT , ITEM_ID: 16730 ---
+天文馆标签\0
+
+
+--- ITXT , ITEM_ID: 16735 ---
+Gigantomax标签\0
+
+
+--- ITXT , ITEM_ID: 16740 ---
+#000\0
+
+
+--- ITXT , ITEM_ID: 16749 ---
+#003\0
+
+
+--- ITXT , ITEM_ID: 16757 ---
+003号许可\0
+
+
+--- RNAM , ITEM_ID: 16758 ---
+需要3个许可\0
+
+
+--- ITXT , ITEM_ID: 16764 ---
+#获取密码\0
+
+
+--- ITXT , ITEM_ID: 16778 ---
+#错误\0
+
+
+--- RNAM , ITEM_ID: 16779 ---
+序列锁定\0
+
+
+--- ITXT , ITEM_ID: 16783 ---
+#密码给出\0
+
+
+--- RNAM , ITEM_ID: 16784 ---
+序列完成\0
+
+
+------------------- TERM ( MQ02MuseumMaintenanceTerminal ) -------------------
+
+--- FULL , ITEM_ID: 16791 ---
+博物馆维修\0
+
+
+--- DESC , ITEM_ID: 16794 ---
+科技博物馆维修部。\r\n\0
+
+
+--- ITXT , ITEM_ID: 16797 ---
+公告 MT20761211\0
+
+
+--- ITXT , ITEM_ID: 16802 ---
+公告 MT20761130\0
+
+
+--- ITXT , ITEM_ID: 16807 ---
+公告 MT20761117\0
+
+
+--- ITXT , ITEM_ID: 16812 ---
+公告 MT20761020\0
+
+
+------------------- TERM ( MQ02MuseumPlanetariumTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 16820 ---
+天文馆终端\0
+
+
+--- DESC , ITEM_ID: 16823 ---
+天文馆访问终端\0
+
+
+--- ITXT , ITEM_ID: 16826 ---
+打开天文馆出口\0
+
+
+--- RNAM , ITEM_ID: 16827 ---
+天文馆出口现在已经打开\0
+
+
+--- ITXT , ITEM_ID: 16835 ---
+打开天文馆出口\0
+
+
+--- RNAM , ITEM_ID: 16836 ---
+错误：无法打开门锁\0
+
+
+------------------- TERM ( MQ02MuseumPlanetariumTerminal02 ) -------------------
+
+--- FULL , ITEM_ID: 16844 ---
+天文馆终端\0
+
+
+--- DESC , ITEM_ID: 16847 ---
+天文馆访问终端\0
+
+
+--- ITXT , ITEM_ID: 16850 ---
+停止正在进行的展示\0
+
+
+--- RNAM , ITEM_ID: 16851 ---
+展示停止\0
+
+
+--- ITXT , ITEM_ID: 16861 ---
+开始展示\0
+
+
+--- RNAM , ITEM_ID: 16862 ---
+展示开始\0
+
+
+------------------- TERM ( MQ02MuseumResearchTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 16875 ---
+研究负责人的终端\0
+
+
+--- DESC , ITEM_ID: 16878 ---
+科技博物馆员工终端\r\n\0
+
+
+--- ITXT , ITEM_ID: 16881 ---
+日志条目 20770103\0
+
+
+--- ITXT , ITEM_ID: 16886 ---
+日志条目 20761010\0
+
+
+--- ITXT , ITEM_ID: 16891 ---
+日志条目 20760307\0
+
+
+--- ITXT , ITEM_ID: 16896 ---
+日志条目 20760211\0
+
+
+--- ITXT , ITEM_ID: 16901 ---
+日志条目 20760202\0
+
+
+------------------- TERM ( MQ02MuseumRocketTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 16909 ---
+德尔塔10型火箭\0
+
+
+--- DESC , ITEM_ID: 16912 ---
+德尔塔10型火箭\0
+
+
+--- ITXT , ITEM_ID: 16915 ---
+德尔塔10型火箭知识\0
+
+
+--- ITXT , ITEM_ID: 16920 ---
+展示结构部分\0
+
+
+--- ITXT , ITEM_ID: 16929 ---
+关闭结构部分灯光\0
+
+
+--- ITXT , ITEM_ID: 16938 ---
+展示飞行员部分\0
+
+
+--- ITXT , ITEM_ID: 16947 ---
+关闭飞行员部分灯光\0
+
+
+--- ITXT , ITEM_ID: 16956 ---
+展示推进器部分\0
+
+
+--- ITXT , ITEM_ID: 16965 ---
+关闭推进器部分灯光\0
+
+
+------------------- TERM ( MQ02SecurityOfficeTerminal ) -------------------
+
+--- FULL , ITEM_ID: 16977 ---
+科技博物馆保安\0
+
+
+--- DESC , ITEM_ID: 16980 ---
+科技博物馆保安\0
+
+
+--- ITXT , ITEM_ID: 16984 ---
+安全公告 001\0
+
+
+--- ITXT , ITEM_ID: 16989 ---
+安全公告 002\0
+
+
+--- ITXT , ITEM_ID: 16994 ---
+安全公告 003\0
+
+
+--- ITXT , ITEM_ID: 16999 ---
+#000\0
+
+
+--- RNAM , ITEM_ID: 17000 ---
+信息查找终端\0
+
+
+--- ITXT , ITEM_ID: 17004 ---
+#打开保险柜锁\0
+
+
+--- RNAM , ITEM_ID: 17005 ---
+保险柜解锁\0
+
+
+------------------- TERM ( MQ02WashingtonMonumentTerminal ) -------------------
+
+--- FULL , ITEM_ID: 17015 ---
+华盛顿纪念碑验证终端\0
+
+
+--- DESC , ITEM_ID: 17018 ---
+华盛顿纪念塔访问终端\r\n仅限钢铁兄弟会和银河新闻广播电台访问\0
+
+
+--- ITXT , ITEM_ID: 17022 ---
+打开外部安全大门\0
+
+
+--- RNAM , ITEM_ID: 17023 ---
+大门正在打开\0
+
+
+--- ITXT , ITEM_ID: 17031 ---
+关闭外部安全大门\0
+
+
+--- RNAM , ITEM_ID: 17032 ---
+大门正在关闭\0
+
+
+------------------- TERM ( MQ04FailsafeTerminal ) -------------------
+
+--- FULL , ITEM_ID: 17043 ---
+112号避难所辅助命令终端\0
+
+
+--- DESC , ITEM_ID: 17047 ---
+辅助命令终端\r\n在进行之前先请征求监督者意见。\0
+
+
+--- ITXT , ITEM_ID: 17050 ---
+访问“中国入侵”程序\0
+
+
+--- ITXT , ITEM_ID: 17055 ---
+访问版本控制\0
+
+
+--- ITXT , ITEM_ID: 17060 ---
+布劳恩博士条目：大嘴鸟湖\0
+
+
+--- ITXT , ITEM_ID: 17065 ---
+布劳恩博士条目：瑞士滑雪障碍赛\0
+
+
+--- ITXT , ITEM_ID: 17070 ---
+布劳恩博士条目：宁静巷\0
+
+
+------------------- TERM ( MQ04FailsafeTerminalInvasionSubMenu ) -------------------
+
+--- FULL , ITEM_ID: 17078 ---
+112号避难所辅助命令终端\0
+
+
+--- DESC , ITEM_ID: 17079 ---
+“中国入侵”Failsafe子程序访问\r\n\r\n欢迎，布劳恩博士\0
+
+
+--- ITXT , ITEM_ID: 17081 ---
+Initiate "Chinese Invasion" Failsafe\0
+
+
+--- RNAM , ITEM_ID: 17082 ---
+程序正在运行。继续警告。\0
+
+
+--- ITXT , ITEM_ID: 17089 ---
+Initiate "Chinese Invasion" Failsafe\0
+
+
+--- RNAM , ITEM_ID: 17090 ---
+重新查看较早的文档\0
+
+
+--- ITXT , ITEM_ID: 17094 ---
+Failsafe程序文档\0
+
+
+--- ITXT , ITEM_ID: 17102 ---
+布劳恩博士条目：Faisafe\0
+
+
+------------------- TERM ( MQ04FailsafeTerminalVersionControlSubMenu ) -------------------
+
+--- FULL , ITEM_ID: 17110 ---
+112号避难所辅助命令终端\0
+
+
+--- DESC , ITEM_ID: 17111 ---
+版本控制记录\r\n\r\n欢迎，布劳恩博士\0
+
+
+--- ITXT , ITEM_ID: 17113 ---
+显示当前的版本控制\0
+
+
+--- ITXT , ITEM_ID: 17118 ---
+显示前一个版本控制记录\0
+
+
+------------------- TERM ( MQ05WaveTerminal ) -------------------
+
+--- FULL , ITEM_ID: 17126 ---
+门控制溢出\0
+
+
+--- DESC , ITEM_ID: 17129 ---
+** !!选择访问 !! **\r\n 仅限DC Transit Authority人员\r\n\0
+
+
+--- ITXT , ITEM_ID: 17132 ---
+脱离溢出的门\0
+
+
+--- RNAM , ITEM_ID: 17133 ---
+正在脱离溢出的门…\0
+
+
+------------------- TERM ( MQ06LLBridgeTerminal ) -------------------
+
+--- FULL , ITEM_ID: 17144 ---
+计算机终端\0
+
+
+--- DESC , ITEM_ID: 17148 ---
+避难所科技远程访问终端 07b\0
+
+
+--- ITXT , ITEM_ID: 17151 ---
+打开门锁\0
+
+
+--- RNAM , ITEM_ID: 17152 ---
+已经解除锁定\0
+
+
+--- ITXT , ITEM_ID: 17158 ---
+锁住门锁\0
+
+
+--- RNAM , ITEM_ID: 17159 ---
+已经锁定门锁\0
+
+
+------------------- TERM ( MQ06VaultTecTerminal ) -------------------
+
+--- FULL , ITEM_ID: 17168 ---
+避难所科技终端\0
+
+
+--- DESC , ITEM_ID: 17171 ---
+避难所科技行政系统\r\n 履历数据库 923-A\r\n\r\n****网络离线****\r\n请检查你的本地连接\0
+
+
+--- ITXT , ITEM_ID: 17174 ---
+DC区域避难所列表\0
+
+
+--- ITXT , ITEM_ID: 17179 ---
+避难所科技人员任务分配\0
+
+
+--- ITXT , ITEM_ID: 17184 ---
+订货表\0
+
+
+------------------- TERM ( MQ06VaultTecTerminalSubMenu1 ) -------------------
+
+--- FULL , ITEM_ID: 17192 ---
+避难所科技终端\0
+
+
+--- DESC , ITEM_ID: 17193 ---
+DC区域避难所列表\0
+
+
+--- ITXT , ITEM_ID: 17195 ---
+76号避难所\0
+
+
+--- ITXT , ITEM_ID: 17200 ---
+87号避难所\0
+
+
+--- ITXT , ITEM_ID: 17205 ---
+92号避难所\0
+
+
+--- ITXT , ITEM_ID: 17210 ---
+101号避难所\0
+
+
+--- ITXT , ITEM_ID: 17215 ---
+106号避难所\0
+
+
+--- ITXT , ITEM_ID: 17220 ---
+108号避难所\0
+
+
+--- ITXT , ITEM_ID: 17225 ---
+112号避难所\0
+
+
+------------------- TERM ( MQ06VaultTecTerminalSubMenu2 ) -------------------
+
+--- FULL , ITEM_ID: 17233 ---
+避难所科技终端\0
+
+
+--- DESC , ITEM_ID: 17234 ---
+****错误****\0
+
+
+--- ITXT , ITEM_ID: 17236 ---
+****错误****\0
+
+
+------------------- TERM ( MQ06VaultTecTerminalSubMenu3 ) -------------------
+
+--- FULL , ITEM_ID: 17244 ---
+避难所科技终端\0
+
+
+--- DESC , ITEM_ID: 17245 ---
+****错误****\r\n文件损坏。\r\n请重新安装操作系统软件。\0
+
+
+------------------- TERM ( MQ06VaultTecTerminalSubMenuRestricted ) -------------------
+
+--- FULL , ITEM_ID: 17254 ---
+避难所科技终端\0
+
+
+--- DESC , ITEM_ID: 17255 ---
+访问受限\0
+
+
+--- ITXT , ITEM_ID: 17257 ---
+访问受限\0
+
+
+------------------- TERM ( MQ06VaultTecTerminalSubMenuVault101Info ) -------------------
+
+--- FULL , ITEM_ID: 17263 ---
+避难所科技终端\0
+
+
+--- DESC , ITEM_ID: 17264 ---
+101号避难所信息\0
+
+
+--- ITXT , ITEM_ID: 17266 ---
+设备发货\0
+
+
+--- ITXT , ITEM_ID: 17271 ---
+人员分配\0
+
+
+--- ITXT , ITEM_ID: 17276 ---
+工程目标\0
+
+
+------------------- TERM ( MQ06VaultTecTerminalSubMenuVault106nfo ) -------------------
+
+--- FULL , ITEM_ID: 17284 ---
+避难所科技终端\0
+
+
+--- DESC , ITEM_ID: 17285 ---
+106号避难所信息\0
+
+
+--- ITXT , ITEM_ID: 17287 ---
+设备发货\0
+
+
+--- ITXT , ITEM_ID: 17292 ---
+人员分配\0
+
+
+--- ITXT , ITEM_ID: 17297 ---
+工程目标\0
+
+
+------------------- TERM ( MQ06VaultTecTerminalSubMenuVault108nfo ) -------------------
+
+--- FULL , ITEM_ID: 17305 ---
+避难所科技终端\0
+
+
+--- DESC , ITEM_ID: 17306 ---
+108号避难所信息\0
+
+
+--- ITXT , ITEM_ID: 17308 ---
+设备发货\0
+
+
+--- ITXT , ITEM_ID: 17313 ---
+人员分配\0
+
+
+--- ITXT , ITEM_ID: 17318 ---
+工程目标\0
+
+
+------------------- TERM ( MQ06VaultTecTerminalSubMenuVault112nfo ) -------------------
+
+--- FULL , ITEM_ID: 17326 ---
+避难所科技终端\0
+
+
+--- DESC , ITEM_ID: 17327 ---
+112号避难所信息\0
+
+
+--- ITXT , ITEM_ID: 17329 ---
+设备发货\0
+
+
+--- ITXT , ITEM_ID: 17334 ---
+人员分配\0
+
+
+--- ITXT , ITEM_ID: 17339 ---
+工程目标\0
+
+
+------------------- TERM ( MQ06VaultTecTerminalSubMenuVault76nfo ) -------------------
+
+--- FULL , ITEM_ID: 17347 ---
+避难所科技终端\0
+
+
+--- DESC , ITEM_ID: 17348 ---
+76号避难所信息\0
+
+
+--- ITXT , ITEM_ID: 17350 ---
+设备发货\0
+
+
+--- ITXT , ITEM_ID: 17355 ---
+人员分配\0
+
+
+--- ITXT , ITEM_ID: 17360 ---
+工程目标\0
+
+
+------------------- TERM ( MQ06VaultTecTerminalSubMenuVault87Equip ) -------------------
+
+--- FULL , ITEM_ID: 17368 ---
+避难所科技终端\0
+
+
+--- DESC , ITEM_ID: 17369 ---
+87号避难所设备发货\0
+
+
+--- ITXT , ITEM_ID: 17371 ---
+4套 休闲装\0
+
+
+--- ITXT , ITEM_ID: 17375 ---
+3个 野外电浆抑制器\0
+
+
+--- ITXT , ITEM_ID: 17379 ---
+1个 伊甸园创造器\0
+
+
+--- ITXT , ITEM_ID: 17383 ---
+****错误****\0
+
+
+--- ITXT , ITEM_ID: 17387 ---
+发现数据损坏\0
+
+
+------------------- TERM ( MQ06VaultTecTerminalSubMenuVault87Info ) -------------------
+
+--- FULL , ITEM_ID: 17394 ---
+避难所科技终端\0
+
+
+--- DESC , ITEM_ID: 17395 ---
+87号避难所信息\0
+
+
+--- ITXT , ITEM_ID: 17397 ---
+设备发货\0
+
+
+--- ITXT , ITEM_ID: 17405 ---
+人员分配\0
+
+
+--- ITXT , ITEM_ID: 17410 ---
+工程目标\0
+
+
+------------------- TERM ( MQ06VaultTecTerminalSubMenuVault92nfo ) -------------------
+
+--- FULL , ITEM_ID: 17418 ---
+避难所科技终端\0
+
+
+--- DESC , ITEM_ID: 17419 ---
+92号避难所信息\0
+
+
+--- ITXT , ITEM_ID: 17421 ---
+设备发货\0
+
+
+--- ITXT , ITEM_ID: 17426 ---
+人员分配\0
+
+
+--- ITXT , ITEM_ID: 17431 ---
+工程目标\0
+
+
+------------------- TERM ( MQ07EulogyTerminal ) -------------------
+
+--- FULL , ITEM_ID: 17439 ---
+堕落天堂主终端\0
+
+
+--- DESC , ITEM_ID: 17442 ---
+欢迎来到堕落天堂\0
+
+
+--- ITXT , ITEM_ID: 17446 ---
+更新网络连接\0
+
+
+--- RNAM , ITEM_ID: 17447 ---
+没有找到新连接。\0
+
+
+--- ITXT , ITEM_ID: 17451 ---
+更新网络连接\0
+
+
+--- RNAM , ITEM_ID: 17452 ---
+找到新的终端，网络更新。\0
+
+
+--- ITXT , ITEM_ID: 17459 ---
+打开保险柜锁\0
+
+
+--- RNAM , ITEM_ID: 17460 ---
+正在打开保险柜锁锁…\0
+
+
+--- ITXT , ITEM_ID: 17466 ---
+个人控制系统\0
+
+
+--- RNAM , ITEM_ID: 17467 ---
+拒绝访问\0
+
+
+------------------- TERM ( MQ08Vault87aCellTerminal ) -------------------
+
+--- FULL , ITEM_ID: 17473 ---
+医学维持终端\0
+
+
+--- DESC , ITEM_ID: 17476 ---
+87号避难所医学维护访问\r\n仅限急症用户\0
+
+
+--- ITXT , ITEM_ID: 17480 ---
+Iso房间01门紧急开放\0
+
+
+--- RNAM , ITEM_ID: 17481 ---
+爆炸是门栓脱开－门开放\0
+
+
+--- ITXT , ITEM_ID: 17489 ---
+隔离房间 02门紧急开放\0
+
+
+--- RNAM , ITEM_ID: 17490 ---
+爆炸是门栓脱开－门开放\0
+
+
+--- ITXT , ITEM_ID: 17497 ---
+隔离房间 03门紧急开放\0
+
+
+--- RNAM , ITEM_ID: 17498 ---
+爆炸是门栓脱开－门开放\0
+
+
+--- ITXT , ITEM_ID: 17505 ---
+隔离房间 04门紧急开放\0
+
+
+--- RNAM , ITEM_ID: 17506 ---
+爆炸是门栓脱开－门开放\0
+
+
+--- ITXT , ITEM_ID: 17513 ---
+隔离房间 05门紧急开放\0
+
+
+--- RNAM , ITEM_ID: 17514 ---
+爆炸是门栓脱开－门开放\0
+
+
+------------------- TERM ( MQ08Vault87aContainmentCell01 ) -------------------
+
+--- FULL , ITEM_ID: 17531 ---
+隔离房间 03\0
+
+
+--- ITXT , ITEM_ID: 17537 ---
+开始采样\0
+
+
+--- RNAM , ITEM_ID: 17538 ---
+科目 C376\0
+
+
+--- ITXT , ITEM_ID: 17541 ---
+打开门锁\0
+
+
+--- RNAM , ITEM_ID: 17542 ---
+Door Unlocked\0
+
+
+--- ITXT , ITEM_ID: 17552 ---
+停止采样\0
+
+
+--- RNAM , ITEM_ID: 17553 ---
+危险：不要进入房间\0
+
+
+------------------- TERM ( MQ08Vault87aContainmentCell02 ) -------------------
+
+--- FULL , ITEM_ID: 17569 ---
+隔离房间 02\0
+
+
+--- ITXT , ITEM_ID: 17575 ---
+开始采样\0
+
+
+--- RNAM , ITEM_ID: 17576 ---
+科目 A541\0
+
+
+--- ITXT , ITEM_ID: 17579 ---
+打开门锁\0
+
+
+--- RNAM , ITEM_ID: 17580 ---
+Door Unlocked\0
+
+
+--- ITXT , ITEM_ID: 17588 ---
+停止采样\0
+
+
+--- RNAM , ITEM_ID: 17589 ---
+危险：不要进入房间\0
+
+
+------------------- TERM ( MQ08Vault87aContainmentCell03 ) -------------------
+
+--- FULL , ITEM_ID: 17605 ---
+隔离房间 04\0
+
+
+--- ITXT , ITEM_ID: 17611 ---
+开始采样\0
+
+
+--- RNAM , ITEM_ID: 17612 ---
+科目 B440\0
+
+
+--- ITXT , ITEM_ID: 17615 ---
+打开门锁\0
+
+
+--- RNAM , ITEM_ID: 17616 ---
+Door Unlocked\0
+
+
+--- ITXT , ITEM_ID: 17624 ---
+Terminate specimen\0
+
+
+--- RNAM , ITEM_ID: 17625 ---
+危险：不要进入房间\0
+
+
+------------------- TERM ( MQ08Vault87aContainmentCell04 ) -------------------
+
+--- FULL , ITEM_ID: 17641 ---
+隔离房间 01\0
+
+
+--- ITXT , ITEM_ID: 17647 ---
+开始采样\0
+
+
+--- RNAM , ITEM_ID: 17648 ---
+科目 B164\0
+
+
+--- ITXT , ITEM_ID: 17651 ---
+打开门锁\0
+
+
+--- RNAM , ITEM_ID: 17652 ---
+Door Unlocked\0
+
+
+--- ITXT , ITEM_ID: 17660 ---
+停止采样\0
+
+
+--- RNAM , ITEM_ID: 17661 ---
+危险：不要进入房间\0
+
+
+------------------- TERM ( MQ08Vault87aContainmentCellFawkes ) -------------------
+
+--- FULL , ITEM_ID: 17677 ---
+隔离房间 05\0
+
+
+--- ITXT , ITEM_ID: 17683 ---
+开始采样\0
+
+
+--- RNAM , ITEM_ID: 17684 ---
+科目 D624\0
+
+
+--- ITXT , ITEM_ID: 17687 ---
+打开门锁\0
+
+
+--- RNAM , ITEM_ID: 17688 ---
+锁定错误-呼叫服务\0
+
+
+--- ITXT , ITEM_ID: 17691 ---
+停止采样\0
+
+
+--- RNAM , ITEM_ID: 17692 ---
+危险：不要进入房间\0
+
+
+------------------- TERM ( MQ08Vault87aFEVChamber01 ) -------------------
+
+--- FULL , ITEM_ID: 17708 ---
+测试室 01\0
+
+
+--- DESC , ITEM_ID: 17711 ---
+FEV测试室 01仅授权本人！\0
+
+
+--- ITXT , ITEM_ID: 17714 ---
+箱状态检查\0
+
+
+--- RNAM , ITEM_ID: 17715 ---
+错误－测试室离线代码0987YU\0
+
+
+--- ITXT , ITEM_ID: 17718 ---
+FEV预留\0
+
+
+--- RNAM , ITEM_ID: 17719 ---
+FEV槽耗尽\0
+
+
+------------------- TERM ( MQ08Vault87aFEVChamber02 ) -------------------
+
+--- FULL , ITEM_ID: 17725 ---
+测试室 02\0
+
+
+--- DESC , ITEM_ID: 17728 ---
+FEV测试室 02仅授权本人！\0
+
+
+--- ITXT , ITEM_ID: 17731 ---
+箱状态检查\0
+
+
+--- RNAM , ITEM_ID: 17732 ---
+错误－测试室离线代码0987YU\0
+
+
+--- ITXT , ITEM_ID: 17735 ---
+FEV预留\0
+
+
+--- RNAM , ITEM_ID: 17736 ---
+FEV槽耗尽\0
+
+
+------------------- TERM ( MQ08Vault87aFEVChamber03 ) -------------------
+
+--- FULL , ITEM_ID: 17742 ---
+测试室 03\0
+
+
+--- DESC , ITEM_ID: 17745 ---
+FEV测试室 03仅授权本人！\0
+
+
+--- ITXT , ITEM_ID: 17748 ---
+箱状态检查\0
+
+
+--- RNAM , ITEM_ID: 17749 ---
+错误－测试室离线代码0987YU\0
+
+
+--- ITXT , ITEM_ID: 17752 ---
+FEV预留\0
+
+
+--- RNAM , ITEM_ID: 17753 ---
+FEV槽耗尽\0
+
+
+------------------- TERM ( MQ08Vault87aFEVChamber04 ) -------------------
+
+--- FULL , ITEM_ID: 17759 ---
+测试室 04\0
+
+
+--- DESC , ITEM_ID: 17762 ---
+FEV测试室 04仅授权本人！\0
+
+
+--- ITXT , ITEM_ID: 17765 ---
+箱状态检查\0
+
+
+--- RNAM , ITEM_ID: 17766 ---
+错误－测试室离线代码0987YU\0
+
+
+--- ITXT , ITEM_ID: 17769 ---
+FEV预留\0
+
+
+--- RNAM , ITEM_ID: 17770 ---
+FEV槽耗尽\0
+
+
+------------------- TERM ( MQ08Vault87aGeckChamberDoor ) -------------------
+
+--- FULL , ITEM_ID: 17776 ---
+测试室终端\0
+
+
+--- DESC , ITEM_ID: 17779 ---
+[危险]最高辐射等级[危险]\0
+
+
+--- ITXT , ITEM_ID: 17782 ---
+封闭辐射室\0
+
+
+--- RNAM , ITEM_ID: 17783 ---
+错误－电磁锁系统离线\0
+
+
+--- ITXT , ITEM_ID: 17786 ---
+应急辐射净化\0
+
+
+--- RNAM , ITEM_ID: 17787 ---
+错误－通风系统离线\0
+
+
+------------------- TERM ( MQ08Vault87aMedicalTerminal ) -------------------
+
+--- FULL , ITEM_ID: 17793 ---
+主任医师的终端\0
+
+
+--- DESC , ITEM_ID: 17796 ---
+87号避难所主任医师的终端\r\n韦恩·梅里克博士\0
+
+
+--- ITXT , ITEM_ID: 17799 ---
+条目 87-34190\0
+
+
+--- ITXT , ITEM_ID: 17804 ---
+条目 87-34224\0
+
+
+--- ITXT , ITEM_ID: 17809 ---
+条目 87-34233\0
+
+
+--- ITXT , ITEM_ID: 17814 ---
+条目 87-34265\0
+
+
+--- ITXT , ITEM_ID: 17819 ---
+条目 87-34335\0
+
+
+------------------- TERM ( MQ08Vault87BEngineeringTerminal ) -------------------
+
+--- FULL , ITEM_ID: 17827 ---
+工程部\0
+
+
+--- DESC , ITEM_ID: 17830 ---
+87号避难所工程部员工\0
+
+
+--- ITXT , ITEM_ID: 17833 ---
+服务发放登记 V87-002\0
+
+
+--- ITXT , ITEM_ID: 17838 ---
+服务发放登记 V87-003\0
+
+
+--- ITXT , ITEM_ID: 17843 ---
+服务发放登记 V87-004\0
+
+
+--- ITXT , ITEM_ID: 17848 ---
+服务发放登记 V87-005\0
+
+
+--- ITXT , ITEM_ID: 17853 ---
+服务发放登记 V87-006\0
+
+
+--- ITXT , ITEM_ID: 17858 ---
+服务发放登记 V87-007\0
+
+
+------------------- TERM ( MQ08Vault87CJournalTerminal ) -------------------
+
+--- FULL , ITEM_ID: 17869 ---
+彼得·史蒂文斯私人日记\0
+
+
+--- DESC , ITEM_ID: 17872 ---
+彼得·史蒂文斯，技术员3级\0
+
+
+--- ITXT , ITEM_ID: 17875 ---
+日志条目 06A01\0
+
+
+--- RNAM , ITEM_ID: 17876 ---
+数据损坏\0
+
+
+--- ITXT , ITEM_ID: 17879 ---
+日志条目 06A02\0
+
+
+--- ITXT , ITEM_ID: 17884 ---
+日志条目 06A03\0
+
+
+--- RNAM , ITEM_ID: 17885 ---
+数据损坏\0
+
+
+--- ITXT , ITEM_ID: 17888 ---
+日志条目 06A04\0
+
+
+--- RNAM , ITEM_ID: 17889 ---
+数据损坏\0
+
+
+--- ITXT , ITEM_ID: 17892 ---
+日志条目 06A05\0
+
+
+--- ITXT , ITEM_ID: 17897 ---
+日志条目 06A06\0
+
+
+--- RNAM , ITEM_ID: 17898 ---
+数据损坏\0
+
+
+--- ITXT , ITEM_ID: 17901 ---
+日志条目 06A07\0
+
+
+------------------- TERM ( MQ08Vault87LabTechnicianTerminal ) -------------------
+
+--- FULL , ITEM_ID: 17909 ---
+Lab Technician Terminal\0
+
+
+--- DESC , ITEM_ID: 17912 ---
+EEP Laboratory Technicians Eyes Only\0
+
+
+--- ITXT , ITEM_ID: 17915 ---
+Unlock Storage Room Door\0
+
+
+--- RNAM , ITEM_ID: 17916 ---
+Door Unlocked\0
+
+
+--- ITXT , ITEM_ID: 17922 ---
+Notice #009\0
+
+
+--- ITXT , ITEM_ID: 17927 ---
+Notice #012\0
+
+
+--- ITXT , ITEM_ID: 17932 ---
+Notice #018\0
+
+
+------------------- TERM ( MQ08Vault87MedicalRecordsTerminal ) -------------------
+
+--- FULL , ITEM_ID: 17940 ---
+Medical Records\0
+
+
+--- DESC , ITEM_ID: 17943 ---
+Medical Records Section Personnel Only\0
+
+
+--- ITXT , ITEM_ID: 17946 ---
+Unlock Medical Safe\0
+
+
+--- RNAM , ITEM_ID: 17947 ---
+保险柜解锁\0
+
+
+--- ITXT , ITEM_ID: 17953 ---
+All Employees Must Read!\0
+
+
+--- ITXT , ITEM_ID: 17958 ---
+Deceased Listing\0
+
+
+--- ITXT , ITEM_ID: 17963 ---
+Death Code Definitions\0
+
+
+------------------- TERM ( MQ08Vault87OverseersTerminal ) -------------------
+
+--- FULL , ITEM_ID: 17971 ---
+Overseer's Terminal\0
+
+
+--- DESC , ITEM_ID: 17974 ---
+Welcome, Overseer.\0
+
+
+--- ITXT , ITEM_ID: 17977 ---
+View Security Dossiers\0
+
+
+--- ITXT , ITEM_ID: 17982 ---
+View Scouting Reports\0
+
+
+--- ITXT , ITEM_ID: 17987 ---
+Vault-Tec Instructions\0
+
+
+--- ITXT , ITEM_ID: 17992 ---
+Open Door to Overseer's Tunnel\0
+
+
+--- RNAM , ITEM_ID: 17993 ---
+Door opening...\0
+
+
+--- ITXT , ITEM_ID: 17996 ---
+Close Door to Overseer's Tunnel\0
+
+
+--- RNAM , ITEM_ID: 17997 ---
+Door closing...\0
+
+
+------------------- TERM ( MQ08Vault87OverseersTerminalDossiers ) -------------------
+
+--- FULL , ITEM_ID: 18004 ---
+Security Dossiers\0
+
+
+--- ITXT , ITEM_ID: 18007 ---
+Dr. Wayne Merrick\0
+
+
+--- ITXT , ITEM_ID: 18012 ---
+Don Foster\0
+
+
+--- RNAM , ITEM_ID: 18013 ---
+数据损坏\0
+
+
+--- ITXT , ITEM_ID: 18016 ---
+Daniel Koster\0
+
+
+--- ITXT , ITEM_ID: 18021 ---
+Peter Stevens\0
+
+
+--- ITXT , ITEM_ID: 18026 ---
+Richard Wyneski\0
+
+
+--- RNAM , ITEM_ID: 18027 ---
+数据损坏\0
+
+
+--- ITXT , ITEM_ID: 18030 ---
+Drew Martinelli\0
+
+
+--- RNAM , ITEM_ID: 18031 ---
+数据损坏\0
+
+
+------------------- TERM ( MQ08Vault87OverseersTerminalScouting ) -------------------
+
+--- FULL , ITEM_ID: 18037 ---
+Scouting Reports\0
+
+
+--- ITXT , ITEM_ID: 18040 ---
+Mission Suspended\0
+
+
+------------------- TERM ( MQ08Vault87OverseersTerminalVaultTec ) -------------------
+
+--- FULL , ITEM_ID: 18048 ---
+Vault-Tec Instructions\0
+
+
+--- ITXT , ITEM_ID: 18051 ---
+Letter from Doctor Stanislaus Braun\0
+
+
+--- ITXT , ITEM_ID: 18056 ---
+Attachment A\0
+
+
+--- ITXT , ITEM_ID: 18061 ---
+Vault-Tec Scientific Entry: The G.E.C.K.\0
+
+
+------------------- TERM ( MS02TerminalAntagonizer ) -------------------
+
+--- FULL , ITEM_ID: 18069 ---
+Security Door\0
+
+
+--- DESC , ITEM_ID: 18072 ---
+This door is for your own protection. Automated and highly deadly security systems are in place. DO NOT attempt to gain unauthorized entry.\r\n\r\nYou have been warned.\0
+
+
+--- ITXT , ITEM_ID: 18076 ---
+Open Security Door\0
+
+
+--- RNAM , ITEM_ID: 18077 ---
+Stand back. Door opening.\0
+
+
+------------------- TERM ( MS02TerminalMechanist ) -------------------
+
+--- FULL , ITEM_ID: 18084 ---
+Security Door\0
+
+
+--- DESC , ITEM_ID: 18087 ---
+This door is for your own protection. Automated and highly deadly security systems are in place. DO NOT attempt to gain unauthorized entry.\r\n\r\nYou have been warned.\0
+
+
+--- ITXT , ITEM_ID: 18091 ---
+Open Security Door\0
+
+
+--- RNAM , ITEM_ID: 18092 ---
+Stand back. Door opening.\0
+
+
+------------------- TERM ( MS03LibraryTerminalFront ) -------------------
+
+--- FULL , ITEM_ID: 18099 ---
+Check-In Terminal\0
+
+
+--- DESC , ITEM_ID: 18102 ---
+Arlington Public Library - Virginia Reads!\r\nFront Desk Check-In Station\r\n\r\nWelcome, Librarian Meier!\0
+
+
+--- ITXT , ITEM_ID: 18106 ---
+New Membership\0
+
+
+--- RNAM , ITEM_ID: 18107 ---
+ERROR: Card Printer Jammed\0
+
+
+--- ITXT , ITEM_ID: 18110 ---
+Access Card Catalogue\0
+
+
+--- RNAM , ITEM_ID: 18111 ---
+Information Transferred to Local Device\0
+
+
+--- ITXT , ITEM_ID: 18120 ---
+Access Library Archives\0
+
+
+--- RNAM , ITEM_ID: 18121 ---
+Connection to central computer disrupted.\0
+
+
+--- ITXT , ITEM_ID: 18124 ---
+Check-In Books\0
+
+
+--- RNAM , ITEM_ID: 18125 ---
+Warning: 201 years overdue!\0
+
+
+------------------- TERM ( MS03LibraryTerminalMain ) -------------------
+
+--- FULL , ITEM_ID: 18131 ---
+Arlington Public Library Public Terminal\0
+
+
+--- DESC , ITEM_ID: 18134 ---
+Arlington Public Library - Virginia Reads!\r\nCentral Library Catalogue\r\n\r\nWelcome, Head Librarian Munson!\0
+
+
+--- ITXT , ITEM_ID: 18137 ---
+Literacy Programs\0
+
+
+--- RNAM , ITEM_ID: 18138 ---
+Arlington READS!\0
+
+
+--- ITXT , ITEM_ID: 18142 ---
+Access Card Catalogue\0
+
+
+--- RNAM , ITEM_ID: 18143 ---
+Information Transferred to Local Device\0
+
+
+--- ITXT , ITEM_ID: 18152 ---
+Transfer Library Archives\0
+
+
+--- RNAM , ITEM_ID: 18153 ---
+Information Transferred to Local Device\0
+
+
+------------------- TERM ( MS03PrintingPress ) -------------------
+
+--- FULL , ITEM_ID: 18164 ---
+Pre-War Printing Press\0
+
+
+--- DESC , ITEM_ID: 18167 ---
+Hubris Comics Publishing -\r\nPublishing Quality Prints at Quality Prices\r\n\r\nPlease keep hands away from Printing Press while it's in operation.\0
+
+
+--- ITXT , ITEM_ID: 18169 ---
+Operate Printing Press\0
+
+
+--- RNAM , ITEM_ID: 18170 ---
+!!Action Failed!! Press Not Turned On.\0
+
+
+------------------- TERM ( MS03PrintingPressTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 18176 ---
+Hubris Comics Printing Press Terminal\0
+
+
+--- DESC , ITEM_ID: 18179 ---
+Hubris Comics Publishing Printing Press Terminal.\r\n\r\nRemember to make sure no one is near the press while operating.\0
+
+
+--- ITXT , ITEM_ID: 18182 ---
+Turn on Printing Press\0
+
+
+--- RNAM , ITEM_ID: 18183 ---
+!!Action Failed - No Power Supply!!\0
+
+
+------------------- TERM ( MS03PrintingPressTerminal01b ) -------------------
+
+--- FULL , ITEM_ID: 18189 ---
+Printing Press Terminal\0
+
+
+--- DESC , ITEM_ID: 18192 ---
+Hubris Comics Publishing Printing Press Terminal.\r\n\r\nRemember to make sure no one is near the press while operating.\0
+
+
+--- ITXT , ITEM_ID: 18195 ---
+Turn Printing Press On\0
+
+
+--- RNAM , ITEM_ID: 18196 ---
+!!! Warning - Machine Malfunctioning !!!\0
+
+
+--- ITXT , ITEM_ID: 18200 ---
+Check Manuscript\0
+
+
+--- RNAM , ITEM_ID: 18201 ---
+Grognak the Barbarian, #361 - LOADED\0
+
+
+--- ITXT , ITEM_ID: 18204 ---
+Check Ink Levels\0
+
+
+--- RNAM , ITEM_ID: 18205 ---
+Red Ink Low\0
+
+
+--- ITXT , ITEM_ID: 18208 ---
+Check Paper Stock\0
+
+
+--- RNAM , ITEM_ID: 18209 ---
+Low-Grade Pulp Available\0
+
+
+------------------- TERM ( MS03robcoMasterControlTerminal ) -------------------
+
+--- FULL , ITEM_ID: 18215 ---
+RobCo Production Mainframe\0
+
+
+--- DESC , ITEM_ID: 18219 ---
+Welcome to the RobCo Facilities Robot Master Terminal!\r\nHow may I assist you this fine day?\0
+
+
+--- ITXT , ITEM_ID: 18222 ---
+Orientation Guide\0
+
+
+--- RNAM , ITEM_ID: 18223 ---
+Welcome!\0
+
+
+--- ITXT , ITEM_ID: 18227 ---
+Basic Operation\0
+
+
+--- RNAM , ITEM_ID: 18228 ---
+ERROR: Factory Power Supply Insufficient\0
+
+
+--- ITXT , ITEM_ID: 18231 ---
+Initiate Pest Extermination\0
+
+
+--- RNAM , ITEM_ID: 18232 ---
+Initiating Sequence Alpha-Two-Roach\0
+
+
+--- ITXT , ITEM_ID: 18242 ---
+Cease Pest Extermination\0
+
+
+--- RNAM , ITEM_ID: 18243 ---
+Ceasing Sequence Alpha-Two-Roach\0
+
+
+--- ITXT , ITEM_ID: 18262 ---
+Initiate Total Liquidation\0
+
+
+--- RNAM , ITEM_ID: 18263 ---
+Initiating Sequence Commie-Attack\0
+
+
+--- ITXT , ITEM_ID: 18273 ---
+Cease Total Liquidation\0
+
+
+--- RNAM , ITEM_ID: 18274 ---
+Ceasing Sequence Commie-Attack\0
+
+
+--- ITXT , ITEM_ID: 18301 ---
+Initiate Stress Testing\0
+
+
+--- RNAM , ITEM_ID: 18302 ---
+Initiating Sequence Omega-4-Breakdown\0
+
+
+--- ITXT , ITEM_ID: 18311 ---
+Cease Stress Testing\0
+
+
+--- RNAM , ITEM_ID: 18312 ---
+Ceasing Sequence Omega-4-Breakdown\0
+
+
+------------------- TERM ( MS03RobCoMasterControlTerminal2 ) -------------------
+
+--- FULL , ITEM_ID: 18333 ---
+Mainframe Terminal\0
+
+
+--- DESC , ITEM_ID: 18336 ---
+Congratulations on your transferal to the position of ROBOT PROTOCOL OPERATOR! Your trusted co-workers will be the standard Protectron models stationed throughout the facility.\r\n\r\n"Basic Operation" covers the factory duties of your co-workers, as described in your training manual.\r\n\r\n"Pest Extermination" encourages your co-workers to track and sanitize any roaches, rodents, or other undesired pests on the premises.\r\n\r\n"Total Liquidation" removes your co-workers' humanoid safety protocols, and is for use only in the unlikely event of criminal intrusion or communist attack.\r\n\r\n"Stress Testing" allows you to test the construction quality of recently produced models by setting current workers against each other.\r\n\r\nWe trust you'll find the work simple, rewarding, and extremely safe! Enjoy!\0
+
+
+--- ITXT , ITEM_ID: 18339 ---
+Return to Operations\0
+
+
+--- RNAM , ITEM_ID: 18340 ---
+Returning...\0
+
+
+------------------- TERM ( MS03RobCoTerm ) -------------------
+
+--- FULL , ITEM_ID: 18346 ---
+Mainframe Terminal\0
+
+
+--- DESC , ITEM_ID: 18349 ---
+Welcome to the RobCo Production Facility security terminal.\0
+
+
+--- ITXT , ITEM_ID: 18351 ---
+Override Robotic Target Exclusion\0
+
+
+--- RNAM , ITEM_ID: 18352 ---
+Robotic Hostiles Targeted.\0
+
+
+--- ITXT , ITEM_ID: 18359 ---
+Exclude Humanoid Targets\0
+
+
+--- RNAM , ITEM_ID: 18360 ---
+Humanoid Targets Excluded\0
+
+
+--- ITXT , ITEM_ID: 18367 ---
+Override Robotic Target Exclusion\0
+
+
+--- RNAM , ITEM_ID: 18368 ---
+ERROR: Missing Telemetry Unit\0
+
+
+--- ITXT , ITEM_ID: 18372 ---
+Exclude Humanoid Targets\0
+
+
+--- RNAM , ITEM_ID: 18373 ---
+ERROR: Missing Telemetry Unit\0
+
+
+------------------- TERM ( MS04BrandiceTerminal ) -------------------
+
+--- FULL , ITEM_ID: 18380 ---
+W. Brandice's Terminal\0
+
+
+--- DESC , ITEM_ID: 18383 ---
+W. Brandice Personal Notes\0
+
+
+--- ITXT , ITEM_ID: 18386 ---
+6-17-2277\0
+
+
+--- ITXT , ITEM_ID: 18391 ---
+4-02-2277\0
+
+
+--- ITXT , ITEM_ID: 18396 ---
+2-24-2277\0
+
+
+--- ITXT , ITEM_ID: 18401 ---
+11-15-2276\0
+
+
+--- ITXT , ITEM_ID: 18406 ---
+10-30-2276\0
+
+
+--- ITXT , ITEM_ID: 18411 ---
+10-02-2276\0
+
+
+------------------- TERM ( MS04LeskoPortacomp ) -------------------
+
+--- FULL , ITEM_ID: 18419 ---
+Doctor Lesko's Portacomp\0
+
+
+--- DESC , ITEM_ID: 18422 ---
+Hello, Doctor Lesko.\r\nWhat can I do for you today?\0
+
+
+--- ITXT , ITEM_ID: 18426 ---
+Send Inhibitor Pulse\0
+
+
+--- RNAM , ITEM_ID: 18427 ---
+Pulse Sending\0
+
+
+--- ITXT , ITEM_ID: 18434 ---
+Destroy Mutagen Sample\0
+
+
+--- RNAM , ITEM_ID: 18435 ---
+Neutralizing Agent Added-Mutagen Destroyed\0
+
+
+--- ITXT , ITEM_ID: 18444 ---
+Synthesize New Mutagen Formula\0
+
+
+--- RNAM , ITEM_ID: 18445 ---
+Error - Requires Master Cypher Sequence\0
+
+
+------------------- TERM ( MS04LeskosMetroTerminal ) -------------------
+
+--- FULL , ITEM_ID: 18451 ---
+Doctor Lesko's Terminal\0
+
+
+--- DESC , ITEM_ID: 18454 ---
+Doctor Weston Lesko\r\nPrivate - Please Do Not Access Without Permission\0
+
+
+--- ITXT , ITEM_ID: 18458 ---
+Personal Notes\0
+
+
+--- ITXT , ITEM_ID: 18463 ---
+Unlock Hatchery Access Door\0
+
+
+--- RNAM , ITEM_ID: 18464 ---
+Door Unlocked\0
+
+
+------------------- TERM ( MS04LeskosTerminal ) -------------------
+
+--- FULL , ITEM_ID: 18473 ---
+Doctor Lesko's Terminal\0
+
+
+--- DESC , ITEM_ID: 18476 ---
+Doctor Weston Lesko\r\nPrivate - Please Do Not Access Without Permission\0
+
+
+--- ITXT , ITEM_ID: 18480 ---
+Activate Science Robot\0
+
+
+--- RNAM , ITEM_ID: 18481 ---
+Error - Pod Empty\0
+
+
+--- ITXT , ITEM_ID: 18484 ---
+Science Robot Command Input\0
+
+
+--- RNAM , ITEM_ID: 18485 ---
+Error - Robot Out of Range\0
+
+
+--- ITXT , ITEM_ID: 18488 ---
+Personal Notes\0
+
+
+------------------- TERM ( MS04LeskosTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 18496 ---
+Doctor Lesko's Terminal\0
+
+
+--- DESC , ITEM_ID: 18499 ---
+Doctor Weston Lesko\r\nPrivate - Please Do Not Access Without Permission\0
+
+
+--- ITXT , ITEM_ID: 18502 ---
+Where Did I Go Wrong?\0
+
+
+--- ITXT , ITEM_ID: 18507 ---
+Sample Location Discovered!\0
+
+
+--- ITXT , ITEM_ID: 18518 ---
+Dangers\0
+
+
+------------------- TERM ( MS05MarketingTerminal ) -------------------
+
+--- FULL , ITEM_ID: 18526 ---
+Marketing Terminal\0
+
+
+--- DESC , ITEM_ID: 18529 ---
+Nuka-Cola Marketing Department\r\nNuka-Cola Quantum Campaign Directives\0
+
+
+--- ITXT , ITEM_ID: 18532 ---
+Company Announcement\0
+
+
+--- ITXT , ITEM_ID: 18537 ---
+Stage One\0
+
+
+--- ITXT , ITEM_ID: 18542 ---
+Stage Two\0
+
+
+--- ITXT , ITEM_ID: 18547 ---
+Stage Three\0
+
+
+------------------- TERM ( MS05NukaColaDoorOpen ) -------------------
+
+--- FULL , ITEM_ID: 18555 ---
+门终端\0
+
+
+--- ITXT , ITEM_ID: 18561 ---
+打开门锁\0
+
+
+--- RNAM , ITEM_ID: 18562 ---
+Door Has Been Unlocked\0
+
+
+------------------- TERM ( MS05PackingTerminal ) -------------------
+
+--- FULL , ITEM_ID: 18571 ---
+Packing Line Terminal\0
+
+
+--- DESC , ITEM_ID: 18574 ---
+Nuka-Cola Packing Terminal 3C\r\nSoftware Version 2.01.3a\0
+
+
+--- ITXT , ITEM_ID: 18577 ---
+Company Announcement\0
+
+
+--- ITXT , ITEM_ID: 18582 ---
+Packing Line Instructions\0
+
+
+--- ITXT , ITEM_ID: 18587 ---
+Packing Line Notice\0
+
+
+--- ITXT , ITEM_ID: 18592 ---
+Load Nuka-Cola into Sorting Unit\0
+
+
+--- RNAM , ITEM_ID: 18593 ---
+Error - Inventory Depleted\0
+
+
+--- ITXT , ITEM_ID: 18600 ---
+Load Quantum into Sorting Unit\0
+
+
+--- RNAM , ITEM_ID: 18601 ---
+Ready\0
+
+
+--- ITXT , ITEM_ID: 18608 ---
+WARNING - Conveyors Jammed\0
+
+
+--- RNAM , ITEM_ID: 18609 ---
+Call Technician Immediately!\0
+
+
+--- ITXT , ITEM_ID: 18613 ---
+Activate Packing Line\0
+
+
+--- RNAM , ITEM_ID: 18614 ---
+WARNING! System Error!\0
+
+
+--- ITXT , ITEM_ID: 18625 ---
+Activate Packing Line\0
+
+
+--- RNAM , ITEM_ID: 18626 ---
+Error - Inventory Depleted\0
+
+
+--- ITXT , ITEM_ID: 18631 ---
+Activate Packing Line\0
+
+
+--- RNAM , ITEM_ID: 18632 ---
+Error - No Inventory Selected\0
+
+
+------------------- TERM ( MS05RDTerminal ) -------------------
+
+--- FULL , ITEM_ID: 18641 ---
+Research Terminal\0
+
+
+--- DESC , ITEM_ID: 18644 ---
+Nuka-Cola Research Department\r\nSecurity Clearance NKC002 Only!\0
+
+
+--- ITXT , ITEM_ID: 18647 ---
+Company Announcement\0
+
+
+--- ITXT , ITEM_ID: 18652 ---
+Quantum Progress Report 0067\0
+
+
+--- ITXT , ITEM_ID: 18657 ---
+Quantum Progress Report 0055\0
+
+
+--- ITXT , ITEM_ID: 18662 ---
+Quantum Progress Report 0041\0
+
+
+--- ITXT , ITEM_ID: 18667 ---
+New Flavor Coming!\0
+
+
+------------------- TERM ( MS05ShippingTerminal ) -------------------
+
+--- FULL , ITEM_ID: 18675 ---
+Nuka-Cola Shipping Terminal\0
+
+
+--- DESC , ITEM_ID: 18678 ---
+Nuka-Cola Shipping Department\r\n\0
+
+
+--- ITXT , ITEM_ID: 18682 ---
+Quantum Test Shipments\0
+
+
+--- ITXT , ITEM_ID: 18693 ---
+Company Announcement\0
+
+
+--- ITXT , ITEM_ID: 18698 ---
+From: Marketing\0
+
+
+------------------- TERM ( MS08Terminal ) -------------------
+
+--- FULL , ITEM_ID: 18706 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 18710 ---
+--Personal Logs--\0
+
+
+--- ITXT , ITEM_ID: 18713 ---
+Synthman Surgery\0
+
+
+--- ITXT , ITEM_ID: 18723 ---
+Android Hoax?\0
+
+
+--- ITXT , ITEM_ID: 18733 ---
+Facial Surgery\0
+
+
+--- ITXT , ITEM_ID: 18743 ---
+Android Gratitude\0
+
+
+--- ITXT , ITEM_ID: 18753 ---
+Rumors of Android in Wasteland\0
+
+
+--- ITXT , ITEM_ID: 18763 ---
+Android Hoax?\0
+
+
+--- ITXT , ITEM_ID: 18773 ---
+Secret Android Project\0
+
+
+--- ITXT , ITEM_ID: 18783 ---
+Android Gratitude\0
+
+
+--- ITXT , ITEM_ID: 18793 ---
+VIP Slave from Commonwealth\0
+
+
+--- ITXT , ITEM_ID: 18803 ---
+Intercepted Android Message\0
+
+
+--- ITXT , ITEM_ID: 18813 ---
+Find that Android. Now!\0
+
+
+--- ITXT , ITEM_ID: 18823 ---
+Android Gratitude\0
+
+
+--- ITXT , ITEM_ID: 18833 ---
+New VIP Passenger. All Aboard!\0
+
+
+--- ITXT , ITEM_ID: 18843 ---
+Message from Railroad Passenger\0
+
+
+--- ITXT , ITEM_ID: 18853 ---
+Railroad in danger.\0
+
+
+--- ITXT , ITEM_ID: 18863 ---
+Success! Railroad Passenger Arrives Safely\0
+
+
+------------------- TERM ( MS09MerestiEntryTerminal ) -------------------
+
+--- FULL , ITEM_ID: 18876 ---
+Meresti Trainyard Station Entry Terminal\0
+
+
+--- DESC , ITEM_ID: 18879 ---
+Washington DC Metro Transit Authority\r\nMeresti Trainyard Remote Access Entry Terminal\0
+
+
+--- ITXT , ITEM_ID: 18883 ---
+Unlock Station Access Door\0
+
+
+--- RNAM , ITEM_ID: 18884 ---
+Door Unlocked\0
+
+
+------------------- TERM ( MS09MerestiInfoTerminal ) -------------------
+
+--- FULL , ITEM_ID: 18893 ---
+The Family's Terminal\0
+
+
+--- DESC , ITEM_ID: 18896 ---
+Use of this system is only by permission of Vance.\0
+
+
+--- ITXT , ITEM_ID: 18900 ---
+The Five Laws of The Family\0
+
+
+--- ITXT , ITEM_ID: 18905 ---
+Feeding Grounds\0
+
+
+--- ITXT , ITEM_ID: 18910 ---
+Regarding the Arefu Incident\0
+
+
+------------------- TERM ( MS09MerestiInfoTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 18922 ---
+The Family's Terminal\0
+
+
+--- DESC , ITEM_ID: 18925 ---
+Remember our Laws.\0
+
+
+--- ITXT , ITEM_ID: 18928 ---
+The First Law\0
+
+
+--- ITXT , ITEM_ID: 18937 ---
+The First Law\0
+
+
+--- ITXT , ITEM_ID: 18943 ---
+The Second Law\0
+
+
+--- ITXT , ITEM_ID: 18952 ---
+The Second Law\0
+
+
+--- ITXT , ITEM_ID: 18958 ---
+The Third Law\0
+
+
+--- ITXT , ITEM_ID: 18967 ---
+The Third Law\0
+
+
+--- ITXT , ITEM_ID: 18973 ---
+The Fourth Law\0
+
+
+--- ITXT , ITEM_ID: 18982 ---
+The Fourth Law\0
+
+
+--- ITXT , ITEM_ID: 18988 ---
+The Fifth Law\0
+
+
+--- ITXT , ITEM_ID: 18997 ---
+The Fifth Law\0
+
+
+------------------- TERM ( MS09MerestiTerminal ) -------------------
+
+--- FULL , ITEM_ID: 19006 ---
+Meresti Trainyard Station Security Terminal\0
+
+
+--- DESC , ITEM_ID: 19009 ---
+Washington DC Metro Transit Authority\r\nMeresti Trainyard Remote Access Security Terminal\r\n\0
+
+
+--- ITXT , ITEM_ID: 19013 ---
+Unlock Security Area Door\0
+
+
+--- RNAM , ITEM_ID: 19014 ---
+Door Released\0
+
+
+--- ITXT , ITEM_ID: 19020 ---
+Activate Internal Security\0
+
+
+--- RNAM , ITEM_ID: 19021 ---
+Error - Systems Offline\0
+
+
+--- ITXT , ITEM_ID: 19025 ---
+Activate Protectron Security Unit\0
+
+
+--- RNAM , ITEM_ID: 19026 ---
+Error - Systems Offline\0
+
+
+------------------- TERM ( MS09VancesTerminal ) -------------------
+
+--- FULL , ITEM_ID: 19032 ---
+Vance's Terminal\0
+
+
+--- DESC , ITEM_ID: 19035 ---
+Os Abysmi vel Daath\0
+
+
+--- ITXT , ITEM_ID: 19038 ---
+Vampires Defined\0
+
+
+--- ITXT , ITEM_ID: 19043 ---
+Daytime Fear\0
+
+
+--- ITXT , ITEM_ID: 19048 ---
+Vampire Destruction\0
+
+
+--- ITXT , ITEM_ID: 19053 ---
+Unlock Wall Safe\0
+
+
+--- RNAM , ITEM_ID: 19054 ---
+保险柜解锁\0
+
+
+--- ITXT , ITEM_ID: 19060 ---
+Regarding the Arefu Incident\0
+
+
+------------------- TERM ( MS12DoorTerminal ) -------------------
+
+--- FULL , ITEM_ID: 19072 ---
+DCTA Emergency Access Terminal\0
+
+
+--- DESC , ITEM_ID: 19076 ---
+New Amended Espionage Act, 50 U.S.C, 31 and 32 prohibits unauthorized use, subject to a fine of $500.00, and possible imprisonment.\r\n\r\nIN CASE OF EMERGENCY: Activate Containment Doors to gain access to tunnel system. Stay clear of the tracks, and have a nice day.\0
+
+
+--- ITXT , ITEM_ID: 19079 ---
+Distress call to DCTA \0
+
+
+--- RNAM , ITEM_ID: 19080 ---
+FAILED to connect to DCTA Security.\0
+
+
+--- ITXT , ITEM_ID: 19083 ---
+Open Containment Door\0
+
+
+--- RNAM , ITEM_ID: 19084 ---
+Opening... FAILED relay to DCTA Sec.\0
+
+
+--- ITXT , ITEM_ID: 19092 ---
+Close Containment Door\0
+
+
+--- RNAM , ITEM_ID: 19093 ---
+Failure... contact DCTA maintenance office\0
+
+
+------------------- TERM ( MS12TenpennyAttackAnthonyTerminal ) -------------------
+
+--- FULL , ITEM_ID: 19100 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 19104 ---
+      SoftLock Solutions, Inc\r\n"Your Security is Our Security"\r\n>\ Welcome, USER\r\n\0
+
+
+--- ITXT , ITEM_ID: 19107 ---
+解锁\0
+
+
+--- RNAM , ITEM_ID: 19108 ---
+清除许可，正在解锁...\0
+
+
+------------------- TERM ( MS12TenpennyAttackLydiaTerminal ) -------------------
+
+--- FULL , ITEM_ID: 19120 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 19124 ---
+      SoftLock Solutions, Inc\r\n"Your Security is Our Security"\r\n>\ Welcome, USER\r\n\0
+
+
+--- ITXT , ITEM_ID: 19127 ---
+解锁\0
+
+
+--- RNAM , ITEM_ID: 19128 ---
+清除许可，正在解锁...\0
+
+
+------------------- TERM ( MS12TenpennyIrvingChengTerminal ) -------------------
+
+--- FULL , ITEM_ID: 19140 ---
+Cheng Personal Computer\0
+
+
+--- DESC , ITEM_ID: 19144 ---
+Welcome, Comrade!\0
+
+
+--- ITXT , ITEM_ID: 19147 ---
+Rebuilding Proposal\0
+
+
+--- ITXT , ITEM_ID: 19152 ---
+Daily Affirmation\0
+
+
+--- RNAM , ITEM_ID: 19153 ---
+In the Wasteland, we can all be heroes!\0
+
+
+--- ITXT , ITEM_ID: 19157 ---
+Daily Affirmation\0
+
+
+--- RNAM , ITEM_ID: 19158 ---
+Chairman Cheng is watching you, Comrade!\0
+
+
+--- ITXT , ITEM_ID: 19162 ---
+Daily Affirmation\0
+
+
+--- RNAM , ITEM_ID: 19163 ---
+The invaded have been wiped out!\0
+
+
+--- ITXT , ITEM_ID: 19167 ---
+Daily Affirmation\0
+
+
+--- RNAM , ITEM_ID: 19168 ---
+Glorious work, happy life!\0
+
+
+--- ITXT , ITEM_ID: 19172 ---
+Daily Affirmation\0
+
+
+--- RNAM , ITEM_ID: 19173 ---
+Win glory for our motherland!\0
+
+
+--- ITXT , ITEM_ID: 19177 ---
+Daily Affirmation\0
+
+
+--- RNAM , ITEM_ID: 19178 ---
+Hold aloft the red lantern!\0
+
+
+--- ITXT , ITEM_ID: 19182 ---
+Daily Affirmation\0
+
+
+--- RNAM , ITEM_ID: 19183 ---
+Revolution brings happiness!\0
+
+
+------------------- TERM ( MS15ArchivesAdminTerminal ) -------------------
+
+--- FULL , ITEM_ID: 19190 ---
+Administrator Berkeley's Terminal\0
+
+
+--- DESC , ITEM_ID: 19193 ---
+Welcome Back, Administrator Berkeley\0
+
+
+--- ITXT , ITEM_ID: 19196 ---
+Notice u89003\0
+
+
+--- ITXT , ITEM_ID: 19201 ---
+Notice u89017\0
+
+
+--- ITXT , ITEM_ID: 19206 ---
+Notice u89110\0
+
+
+--- ITXT , ITEM_ID: 19211 ---
+Unlock Office Safe\0
+
+
+--- RNAM , ITEM_ID: 19212 ---
+保险柜解锁\0
+
+
+------------------- TERM ( MS15ArchivesGameRedemptionTerminal ) -------------------
+
+--- FULL , ITEM_ID: 19221 ---
+Prize Redemption Terminal\0
+
+
+--- DESC , ITEM_ID: 19225 ---
+National Archives Prize Redemption System\r\nCongratulations! You're a true American Patriot!\0
+
+
+--- ITXT , ITEM_ID: 19228 ---
+Redeem Voucher\0
+
+
+--- ITXT , ITEM_ID: 19234 ---
+Voucher Required\0
+
+
+------------------- TERM ( MS15ArchivesGameRedemptionTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 19242 ---
+Guess and Win Redemption Terminal\0
+
+
+--- DESC , ITEM_ID: 19246 ---
+**New Fruit Mentats Prizes**\r\nBrought to you by Med-Tek Laboratories\0
+
+
+--- ITXT , ITEM_ID: 19249 ---
+Glamorously Grape Mentats\0
+
+
+--- ITXT , ITEM_ID: 19259 ---
+Brilliantly Berry Mentats\0
+
+
+--- ITXT , ITEM_ID: 19269 ---
+Observantly Orange Mentats\0
+
+
+--- ITXT , ITEM_ID: 19279 ---
+Sorry, Need a Prize Voucher\0
+
+
+------------------- TERM ( MS15ArchivesGameTerminal ) -------------------
+
+--- FULL , ITEM_ID: 19287 ---
+National Archives Guess And Win!\0
+
+
+--- DESC , ITEM_ID: 19291 ---
+Answer all 8 questions correctly and win!!!\0
+
+
+--- ITXT , ITEM_ID: 19294 ---
+Question One\0
+
+
+--- ITXT , ITEM_ID: 19300 ---
+Question One - CORRECT!\0
+
+
+--- RNAM , ITEM_ID: 19301 ---
+Question Already Answered\0
+
+
+--- ITXT , ITEM_ID: 19305 ---
+Question Two\0
+
+
+--- ITXT , ITEM_ID: 19311 ---
+Question Two - CORRECT!\0
+
+
+--- RNAM , ITEM_ID: 19312 ---
+Question Already Answered\0
+
+
+--- ITXT , ITEM_ID: 19316 ---
+Question Three\0
+
+
+--- ITXT , ITEM_ID: 19322 ---
+Question Three - CORRECT!\0
+
+
+--- RNAM , ITEM_ID: 19323 ---
+Question Already Answered\0
+
+
+--- ITXT , ITEM_ID: 19327 ---
+Question Four\0
+
+
+--- ITXT , ITEM_ID: 19333 ---
+Question Four - CORRECT!\0
+
+
+--- RNAM , ITEM_ID: 19334 ---
+Question Already Answered\0
+
+
+--- ITXT , ITEM_ID: 19338 ---
+Question Five\0
+
+
+--- ITXT , ITEM_ID: 19344 ---
+Question Five - CORRECT!\0
+
+
+--- RNAM , ITEM_ID: 19345 ---
+Question Already Answered\0
+
+
+--- ITXT , ITEM_ID: 19349 ---
+Question Six\0
+
+
+--- ITXT , ITEM_ID: 19355 ---
+Question Six - CORRECT!\0
+
+
+--- RNAM , ITEM_ID: 19356 ---
+Question Already Answered\0
+
+
+--- ITXT , ITEM_ID: 19360 ---
+Question Seven\0
+
+
+--- ITXT , ITEM_ID: 19366 ---
+Question Seven - CORRECT!\0
+
+
+--- RNAM , ITEM_ID: 19367 ---
+Question Already Answered\0
+
+
+--- ITXT , ITEM_ID: 19371 ---
+Question Eight\0
+
+
+--- ITXT , ITEM_ID: 19377 ---
+Question Eight - CORRECT!\0
+
+
+--- RNAM , ITEM_ID: 19378 ---
+Question Already Answered\0
+
+
+--- ITXT , ITEM_ID: 19382 ---
+CONGRATULATIONS! Claim Your Prize!\0
+
+
+------------------- TERM ( MS15ArchivesGameTerminalQ01 ) -------------------
+
+--- FULL , ITEM_ID: 19398 ---
+Question One\0
+
+
+--- DESC , ITEM_ID: 19401 ---
+The Declaration of Independence was an act of what body?\0
+
+
+--- ITXT , ITEM_ID: 19403 ---
+Second Judgmental Congress\0
+
+
+--- RNAM , ITEM_ID: 19404 ---
+Incorrect! Please Play Again\0
+
+
+--- ITXT , ITEM_ID: 19410 ---
+Second Orchestral Congress\0
+
+
+--- RNAM , ITEM_ID: 19411 ---
+Incorrect! Please Play Again\0
+
+
+--- ITXT , ITEM_ID: 19417 ---
+First Continental Congress\0
+
+
+--- RNAM , ITEM_ID: 19418 ---
+Incorrect! Please Play Again\0
+
+
+--- ITXT , ITEM_ID: 19424 ---
+Second Continental Congress\0
+
+
+--- RNAM , ITEM_ID: 19425 ---
+CORRECT!\0
+
+
+------------------- TERM ( MS15ArchivesGameTerminalQ02 ) -------------------
+
+--- FULL , ITEM_ID: 19434 ---
+Question Two\0
+
+
+--- DESC , ITEM_ID: 19437 ---
+How many North American Colonies rebelled against Great Britain in 1776?\0
+
+
+--- ITXT , ITEM_ID: 19439 ---
+Seven\0
+
+
+--- RNAM , ITEM_ID: 19440 ---
+Incorrect! Please Play Again\0
+
+
+--- ITXT , ITEM_ID: 19446 ---
+Fifty\0
+
+
+--- RNAM , ITEM_ID: 19447 ---
+Incorrect! Please Play Again\0
+
+
+--- ITXT , ITEM_ID: 19453 ---
+Thirteen\0
+
+
+--- RNAM , ITEM_ID: 19454 ---
+CORRECT!\0
+
+
+--- ITXT , ITEM_ID: 19460 ---
+Twenty\0
+
+
+--- RNAM , ITEM_ID: 19461 ---
+Incorrect! Please Play Again\0
+
+
+------------------- TERM ( MS15ArchivesGameTerminalQ03 ) -------------------
+
+--- FULL , ITEM_ID: 19470 ---
+Question Three\0
+
+
+--- DESC , ITEM_ID: 19473 ---
+Who was the first person to sign the Declaration of Independence?\0
+
+
+--- ITXT , ITEM_ID: 19475 ---
+John Hancock\0
+
+
+--- RNAM , ITEM_ID: 19476 ---
+CORRECT!\0
+
+
+--- ITXT , ITEM_ID: 19482 ---
+George Washington\0
+
+
+--- RNAM , ITEM_ID: 19483 ---
+Incorrect! Please Play Again\0
+
+
+--- ITXT , ITEM_ID: 19489 ---
+Benjamin Franklin\0
+
+
+--- RNAM , ITEM_ID: 19490 ---
+Incorrect! Please Play Again\0
+
+
+--- ITXT , ITEM_ID: 19496 ---
+John Adams\0
+
+
+--- RNAM , ITEM_ID: 19497 ---
+Incorrect! Please Play Again\0
+
+
+------------------- TERM ( MS15ArchivesGameTerminalQ04 ) -------------------
+
+--- FULL , ITEM_ID: 19506 ---
+Question Four\0
+
+
+--- DESC , ITEM_ID: 19509 ---
+How many delegates signed the Declaration of Independence?\0
+
+
+--- ITXT , ITEM_ID: 19511 ---
+76\0
+
+
+--- RNAM , ITEM_ID: 19512 ---
+Incorrect! Please Play Again\0
+
+
+--- ITXT , ITEM_ID: 19518 ---
+56\0
+
+
+--- RNAM , ITEM_ID: 19519 ---
+CORRECT!\0
+
+
+--- ITXT , ITEM_ID: 19525 ---
+80\0
+
+
+--- RNAM , ITEM_ID: 19526 ---
+Incorrect!\0
+
+
+--- ITXT , ITEM_ID: 19532 ---
+50\0
+
+
+--- RNAM , ITEM_ID: 19533 ---
+Incorrect!\0
+
+
+------------------- TERM ( MS15ArchivesGameTerminalQ05 ) -------------------
+
+--- FULL , ITEM_ID: 19542 ---
+Question Five\0
+
+
+--- DESC , ITEM_ID: 19545 ---
+Which one of the following is NOT a written section of the Declaration of Independence?\0
+
+
+--- ITXT , ITEM_ID: 19547 ---
+Indictment\0
+
+
+--- RNAM , ITEM_ID: 19548 ---
+Incorrect! Please Play Again\0
+
+
+--- ITXT , ITEM_ID: 19554 ---
+Preamble\0
+
+
+--- RNAM , ITEM_ID: 19555 ---
+Incorrect! Please Play Again\0
+
+
+--- ITXT , ITEM_ID: 19561 ---
+Introduction\0
+
+
+--- RNAM , ITEM_ID: 19562 ---
+Incorrect! Please Play Again\0
+
+
+--- ITXT , ITEM_ID: 19568 ---
+Ratification\0
+
+
+--- RNAM , ITEM_ID: 19569 ---
+CORRECT!\0
+
+
+------------------- TERM ( MS15ArchivesGameTerminalQ06 ) -------------------
+
+--- FULL , ITEM_ID: 19578 ---
+Question Six\0
+
+
+--- DESC , ITEM_ID: 19581 ---
+Who was the ruler of Great Britain when the Declaration was enacted in 1776?\0
+
+
+--- ITXT , ITEM_ID: 19583 ---
+Queen Victoria\0
+
+
+--- RNAM , ITEM_ID: 19584 ---
+Incorrect! Please Play Again\0
+
+
+--- ITXT , ITEM_ID: 19590 ---
+King Arthur\0
+
+
+--- RNAM , ITEM_ID: 19591 ---
+Incorrect! Please Play Again\0
+
+
+--- ITXT , ITEM_ID: 19597 ---
+King George III\0
+
+
+--- RNAM , ITEM_ID: 19598 ---
+CORRECT!\0
+
+
+--- ITXT , ITEM_ID: 19604 ---
+King William IV\0
+
+
+--- RNAM , ITEM_ID: 19605 ---
+Incorrect! Please Play Again\0
+
+
+------------------- TERM ( MS15ArchivesGameTerminalQ07 ) -------------------
+
+--- FULL , ITEM_ID: 19614 ---
+Question Seven\0
+
+
+--- DESC , ITEM_ID: 19617 ---
+Complete this famous phrase from the Declaration: "Life, Liberty and the pursuit of..."\0
+
+
+--- ITXT , ITEM_ID: 19619 ---
+Freedom\0
+
+
+--- RNAM , ITEM_ID: 19620 ---
+Incorrect! Please Play Again\0
+
+
+--- ITXT , ITEM_ID: 19626 ---
+Happiness\0
+
+
+--- RNAM , ITEM_ID: 19627 ---
+CORRECT!\0
+
+
+--- ITXT , ITEM_ID: 19633 ---
+Equality\0
+
+
+--- RNAM , ITEM_ID: 19634 ---
+Incorrect! Please Play Again\0
+
+
+--- ITXT , ITEM_ID: 19640 ---
+Unalienable Rights\0
+
+
+--- RNAM , ITEM_ID: 19641 ---
+Incorrect! Please Play Again\0
+
+
+------------------- TERM ( MS15ArchivesGameTerminalQ08 ) -------------------
+
+--- FULL , ITEM_ID: 19650 ---
+Question One\0
+
+
+--- DESC , ITEM_ID: 19653 ---
+Who was the principal author of the Declaration of Independence?\0
+
+
+--- ITXT , ITEM_ID: 19655 ---
+Abraham Lincoln\0
+
+
+--- RNAM , ITEM_ID: 19656 ---
+Incorrect! Please Play Again\0
+
+
+--- ITXT , ITEM_ID: 19662 ---
+James Monroe\0
+
+
+--- RNAM , ITEM_ID: 19663 ---
+Incorrect! Please Play Again\0
+
+
+--- ITXT , ITEM_ID: 19669 ---
+James Madison\0
+
+
+--- RNAM , ITEM_ID: 19670 ---
+Incorrect! Please Play Again\0
+
+
+--- ITXT , ITEM_ID: 19676 ---
+Thomas Jefferson\0
+
+
+--- RNAM , ITEM_ID: 19677 ---
+CORRECT!\0
+
+
+------------------- TERM ( MS15ArchivesGameTerminalQWin ) -------------------
+
+--- FULL , ITEM_ID: 19686 ---
+Question One\0
+
+
+--- DESC , ITEM_ID: 19689 ---
+Congratulations! Please press the selection below to dispense your prize voucher and take it to Redemption Terminal!\0
+
+
+--- ITXT , ITEM_ID: 19691 ---
+Press for Voucher\0
+
+
+--- RNAM , ITEM_ID: 19692 ---
+Dispensing\0
+
+
+--- ITXT , ITEM_ID: 19701 ---
+System Error\0
+
+
+--- RNAM , ITEM_ID: 19702 ---
+Voucher Dispenser is Empty\0
+
+
+------------------- TERM ( MS15MaintenanceTerminal ) -------------------
+
+--- FULL , ITEM_ID: 19709 ---
+Maintenance Terminal\0
+
+
+--- DESC , ITEM_ID: 19712 ---
+National Archives Maintenance Terminal\r\nCurrent Issues Listed by Unit\0
+
+
+--- ITXT , ITEM_ID: 19715 ---
+BGWIN009 Tour Guide Protectron\0
+
+
+--- ITXT , ITEM_ID: 19720 ---
+TRT007 Automated Turret\0
+
+
+--- ITXT , ITEM_ID: 19725 ---
+EMT002 Mr. Handy Medical Unit\0
+
+
+--- ITXT , ITEM_ID: 19730 ---
+TJEFF002 Tour Guide Protectron\0
+
+
+------------------- TERM ( MS15PodAdamsRobotTerminal ) -------------------
+
+--- FULL , ITEM_ID: 19738 ---
+JADAM002 约翰·亚当斯\0
+
+
+--- DESC , ITEM_ID: 19741 ---
+National Archives Robotics Terminal\r\nJADAM002 John Adams Pod\0
+
+
+--- ITXT , ITEM_ID: 19744 ---
+Unit Directives\0
+
+
+--- ITXT , ITEM_ID: 19749 ---
+Activate Unit\0
+
+
+--- RNAM , ITEM_ID: 19750 ---
+Unit not Present\0
+
+
+--- ITXT , ITEM_ID: 19753 ---
+Recall Unit\0
+
+
+--- RNAM , ITEM_ID: 19754 ---
+Recall Uplink Not Available\0
+
+
+--- ITXT , ITEM_ID: 19757 ---
+Shutdown Unit\0
+
+
+--- RNAM , ITEM_ID: 19758 ---
+Unit not Present\0
+
+
+------------------- TERM ( MS15PodBackupRobotTerminal ) -------------------
+
+--- FULL , ITEM_ID: 19764 ---
+BACK001 Backup Protectron\0
+
+
+--- DESC , ITEM_ID: 19768 ---
+National Archives Robotics Terminal\r\nBACK001 Backup Protectron Pod\0
+
+
+--- ITXT , ITEM_ID: 19771 ---
+Unit Directives\0
+
+
+--- ITXT , ITEM_ID: 19776 ---
+Activate Unit\0
+
+
+--- RNAM , ITEM_ID: 19777 ---
+Unit Not Programmed\0
+
+
+--- ITXT , ITEM_ID: 19781 ---
+Activate Unit\0
+
+
+--- RNAM , ITEM_ID: 19782 ---
+Unit Activated\0
+
+
+--- ITXT , ITEM_ID: 19790 ---
+Activate Unit\0
+
+
+--- RNAM , ITEM_ID: 19791 ---
+单位不存在\0
+
+
+--- ITXT , ITEM_ID: 19795 ---
+Recall Unit\0
+
+
+--- RNAM , ITEM_ID: 19796 ---
+Unit Present\0
+
+
+--- ITXT , ITEM_ID: 19800 ---
+Recall Unit\0
+
+
+--- RNAM , ITEM_ID: 19801 ---
+Uplink Malfunction\0
+
+
+--- ITXT , ITEM_ID: 19805 ---
+Recall Unit\0
+
+
+--- RNAM , ITEM_ID: 19806 ---
+Recall Uplink Not Present\0
+
+
+--- ITXT , ITEM_ID: 19810 ---
+Shutdown Unit\0
+
+
+--- RNAM , ITEM_ID: 19811 ---
+Unit Offline\0
+
+
+--- ITXT , ITEM_ID: 19815 ---
+Shutdown Unit\0
+
+
+--- RNAM , ITEM_ID: 19816 ---
+Remote Shutdown Sent\0
+
+
+--- ITXT , ITEM_ID: 19823 ---
+Shutdown Unit\0
+
+
+--- RNAM , ITEM_ID: 19824 ---
+Unit not Present\0
+
+
+--- ITXT , ITEM_ID: 19828 ---
+Programming Subroutines\0
+
+
+--- ITXT , ITEM_ID: 19834 ---
+Programming Subroutines\0
+
+
+--- RNAM , ITEM_ID: 19835 ---
+Unit not Present\0
+
+
+--- ITXT , ITEM_ID: 19839 ---
+Programming Subroutines\0
+
+
+------------------- TERM ( MS15PodButtonRobotTerminal ) -------------------
+
+--- FULL , ITEM_ID: 19847 ---
+BGWIN009 巴顿·格温耐特\0
+
+
+--- DESC , ITEM_ID: 19850 ---
+National Archives Robotics Terminal\r\nBGWIN009 Button Gwinnett Pod\0
+
+
+--- ITXT , ITEM_ID: 19853 ---
+Unit Directives\0
+
+
+--- ITXT , ITEM_ID: 19858 ---
+Activate Unit\0
+
+
+--- RNAM , ITEM_ID: 19859 ---
+Unit not Present\0
+
+
+--- ITXT , ITEM_ID: 19862 ---
+Recall Unit\0
+
+
+--- RNAM , ITEM_ID: 19863 ---
+Recall Uplink Not Available\0
+
+
+--- ITXT , ITEM_ID: 19866 ---
+Shutdown Unit\0
+
+
+--- RNAM , ITEM_ID: 19867 ---
+Unit not Present\0
+
+
+------------------- TERM ( MS15PodFranklinRobotTerminal ) -------------------
+
+--- FULL , ITEM_ID: 19873 ---
+BFRAN001 本杰明·富兰克林\0
+
+
+--- DESC , ITEM_ID: 19876 ---
+National Archives Robotics Terminal\r\nBFRAN001 Benjamin Franklin Pod\0
+
+
+--- ITXT , ITEM_ID: 19879 ---
+Unit Directives\0
+
+
+--- ITXT , ITEM_ID: 19884 ---
+Activate Unit\0
+
+
+--- RNAM , ITEM_ID: 19885 ---
+Unit not Present\0
+
+
+--- ITXT , ITEM_ID: 19888 ---
+Recall Unit\0
+
+
+--- RNAM , ITEM_ID: 19889 ---
+Recall Uplink Not Available\0
+
+
+--- ITXT , ITEM_ID: 19892 ---
+Shutdown Unit\0
+
+
+--- RNAM , ITEM_ID: 19893 ---
+Unit not Present\0
+
+
+------------------- TERM ( MS15PodHancockRobotTerminal ) -------------------
+
+--- FULL , ITEM_ID: 19899 ---
+JHANC003 约翰·汉考克\0
+
+
+--- DESC , ITEM_ID: 19902 ---
+National Archives Robotics Terminal\r\nJHANC003 John Hancock Pod\0
+
+
+--- ITXT , ITEM_ID: 19905 ---
+Unit Directives\0
+
+
+--- ITXT , ITEM_ID: 19910 ---
+Activate Unit\0
+
+
+--- RNAM , ITEM_ID: 19911 ---
+Unit not Present\0
+
+
+--- ITXT , ITEM_ID: 19914 ---
+Recall Unit\0
+
+
+--- RNAM , ITEM_ID: 19915 ---
+Recall Uplink Not Available\0
+
+
+--- ITXT , ITEM_ID: 19918 ---
+Shutdown Unit\0
+
+
+--- RNAM , ITEM_ID: 19919 ---
+Unit not Present\0
+
+
+------------------- TERM ( MS15PodJeffersonRobotTerminal ) -------------------
+
+--- FULL , ITEM_ID: 19925 ---
+TJEFF002 托马斯·杰斐逊\0
+
+
+--- DESC , ITEM_ID: 19928 ---
+National Archives Robotics Terminal\r\nTJEFF002 Thomas Jefferson Pod\0
+
+
+--- ITXT , ITEM_ID: 19931 ---
+Unit Directives\0
+
+
+--- ITXT , ITEM_ID: 19936 ---
+Activate Unit\0
+
+
+--- RNAM , ITEM_ID: 19937 ---
+Unit Offline for Maintenance\0
+
+
+--- ITXT , ITEM_ID: 19940 ---
+Recall Unit\0
+
+
+--- RNAM , ITEM_ID: 19941 ---
+Unit Present\0
+
+
+--- ITXT , ITEM_ID: 19944 ---
+Shutdown Unit\0
+
+
+--- RNAM , ITEM_ID: 19945 ---
+Unit Offline\0
+
+
+--- ITXT , ITEM_ID: 19948 ---
+Maintenance Notice\0
+
+
+------------------- TERM ( MS15PodRutledgeRobotTerminal ) -------------------
+
+--- FULL , ITEM_ID: 19956 ---
+ERUTL001 爱德华·拉特利奇\0
+
+
+--- DESC , ITEM_ID: 19959 ---
+National Archives Robotics Terminal\r\nERUTL001 Edward Rutledge Pod\0
+
+
+--- ITXT , ITEM_ID: 19962 ---
+Unit Directives\0
+
+
+--- ITXT , ITEM_ID: 19967 ---
+Activate Unit\0
+
+
+--- RNAM , ITEM_ID: 19968 ---
+Unit not Present\0
+
+
+--- ITXT , ITEM_ID: 19971 ---
+Recall Unit\0
+
+
+--- RNAM , ITEM_ID: 19972 ---
+Recall Uplink Not Available\0
+
+
+--- ITXT , ITEM_ID: 19975 ---
+Shutdown Unit\0
+
+
+--- RNAM , ITEM_ID: 19976 ---
+Unit not Present\0
+
+
+------------------- TERM ( MS15PodWilsonRobotTerminal ) -------------------
+
+--- FULL , ITEM_ID: 19982 ---
+JWILS002 约翰·威尔逊\0
+
+
+--- DESC , ITEM_ID: 19985 ---
+National Archives Robotics Terminal\r\nJWILS002 John Wilson Pod\0
+
+
+--- ITXT , ITEM_ID: 19988 ---
+Unit Directives\0
+
+
+--- ITXT , ITEM_ID: 19993 ---
+Activate Unit\0
+
+
+--- RNAM , ITEM_ID: 19994 ---
+Unit not Present\0
+
+
+--- ITXT , ITEM_ID: 19997 ---
+Recall Unit\0
+
+
+--- RNAM , ITEM_ID: 19998 ---
+Recall Uplink Not Available\0
+
+
+--- ITXT , ITEM_ID: 20001 ---
+Shutdown Unit\0
+
+
+--- RNAM , ITEM_ID: 20002 ---
+Unit not Present\0
+
+
+------------------- TERM ( MS15StrongroomSecurityTerminal ) -------------------
+
+--- FULL , ITEM_ID: 20008 ---
+Strongroom Security Terminal\0
+
+
+--- DESC , ITEM_ID: 20011 ---
+National Archives Robotics Maintenance Terminal\r\nCurrent Issues Listed by Unit - P. Brantseg - Robotics Team\0
+
+
+--- ITXT , ITEM_ID: 20015 ---
+Unlock All Strongroom Doors\0
+
+
+--- RNAM , ITEM_ID: 20016 ---
+Strongroom Doors Unlocked\0
+
+
+--- ITXT , ITEM_ID: 20025 ---
+Unlock All East Wing Doors\0
+
+
+--- RNAM , ITEM_ID: 20026 ---
+Maintenance Doors Unlocked\0
+
+
+--- ITXT , ITEM_ID: 20034 ---
+Unlock Mag-Sealed Doors\0
+
+
+--- RNAM , ITEM_ID: 20035 ---
+Mag System Down - Call Maintenance\0
+
+
+------------------- TERM ( MS15SydneysRemoteTerminal ) -------------------
+
+--- FULL , ITEM_ID: 20041 ---
+Sydney's Remote Terminal\0
+
+
+--- DESC , ITEM_ID: 20044 ---
+Warning: This terminal is not authorized on the National Archives Security Grid. Please disengage immediately.\0
+
+
+--- ITXT , ITEM_ID: 20048 ---
+Unlock Rotunda Cargo Lift\0
+
+
+--- RNAM , ITEM_ID: 20049 ---
+Override Enabled\0
+
+
+--- ITXT , ITEM_ID: 20056 ---
+Access Archives Mainframe\0
+
+
+--- RNAM , ITEM_ID: 20057 ---
+Access Blocked\0
+
+
+--- ITXT , ITEM_ID: 20060 ---
+Current Contracts\0
+
+
+------------------- TERM ( MS16TerminalInactive ) -------------------
+
+--- FULL , ITEM_ID: 20067 ---
+Vault 101 Maintenance Terminal\0
+
+
+--- DESC , ITEM_ID: 20070 ---
+System Inactive - No Water Chip Located!\r\n\r\nContact your Vault-Tec representative immediately for service. Evacuate to safe distance until repairs are complete.\0
+
+
+------------------- TERM ( MS16TerminalSuspended ) -------------------
+
+--- FULL , ITEM_ID: 20076 ---
+Vault 101 Maintenance Terminal\0
+
+
+--- DESC , ITEM_ID: 20079 ---
+Water Chip Undergoing Service. \r\n\r\nSystem temporarily suspended. Do not run purge - vital systems may be compromised.\0
+
+
+------------------- TERM ( MS16WaterChipTerminal ) -------------------
+
+--- FULL , ITEM_ID: 20085 ---
+Vault 101 Maintenance Terminal\0
+
+
+--- DESC , ITEM_ID: 20089 ---
+避难所科技公司－101号避难所\r\n尽管在这里定居吧！\0
+
+
+--- ITXT , ITEM_ID: 20093 ---
+水栽法测试系统\0
+
+
+--- RNAM , ITEM_ID: 20094 ---
+水栽法功能测试\0
+
+
+--- ITXT , ITEM_ID: 20098 ---
+水栽法测试系统\0
+
+
+--- ITXT , ITEM_ID: 20104 ---
+水栽法测试系统\0
+
+
+--- ITXT , ITEM_ID: 20110 ---
+空气过滤系统测试\0
+
+
+--- RNAM , ITEM_ID: 20111 ---
+空气过滤功能测试\0
+
+
+--- ITXT , ITEM_ID: 20115 ---
+空气过滤系统测试\0
+
+
+--- ITXT , ITEM_ID: 20121 ---
+空气过滤系统测试\0
+
+
+--- ITXT , ITEM_ID: 20127 ---
+开始净水芯片服务\0
+
+
+--- ITXT , ITEM_ID: 20133 ---
+开始净水芯片服务\0
+
+
+--- RNAM , ITEM_ID: 20134 ---
+服务禁用－联系销售商\0
+
+
+------------------- TERM ( MS16WaterChipTerminalSub1 ) -------------------
+
+--- FULL , ITEM_ID: 20141 ---
+Vault 101 Maintenance Terminal\0
+
+
+--- ITXT , ITEM_ID: 20147 ---
+运行净水芯片诊断\0
+
+
+--- RNAM , ITEM_ID: 20148 ---
+所有系统功能\0
+
+
+--- ITXT , ITEM_ID: 20152 ---
+运行净水芯片诊断\0
+
+
+--- RNAM , ITEM_ID: 20153 ---
+系统脱离服务器\0
+
+
+--- ITXT , ITEM_ID: 20157 ---
+运行净水芯片诊断\0
+
+
+--- RNAM , ITEM_ID: 20158 ---
+没有找到净水芯片。联系销售商。\0
+
+
+--- ITXT , ITEM_ID: 20162 ---
+开始手动服务\0
+
+
+--- RNAM , ITEM_ID: 20163 ---
+系统脱机－不能进行净化！\0
+
+
+--- ITXT , ITEM_ID: 20170 ---
+结束手动服务\0
+
+
+--- RNAM , ITEM_ID: 20171 ---
+系统重新连接。享受你的水吧！\0
+
+
+--- ITXT , ITEM_ID: 20178 ---
+结束手动服务\0
+
+
+--- RNAM , ITEM_ID: 20179 ---
+错误：系统不能重新连接。\0
+
+
+--- ITXT , ITEM_ID: 20183 ---
+运行系统净化\0
+
+
+--- RNAM , ITEM_ID: 20184 ---
+不完全净化。\0
+
+
+--- ITXT , ITEM_ID: 20188 ---
+运行系统净化\0
+
+
+--- RNAM , ITEM_ID: 20189 ---
+净化错误。添加净化物质。\0
+
+
+--- ITXT , ITEM_ID: 20199 ---
+运行系统净化\0
+
+
+--- RNAM , ITEM_ID: 20200 ---
+没有本地净化控制者。\0
+
+
+------------------- TERM ( MS17Vault92aShopKeepTerminal ) -------------------
+
+--- FULL , ITEM_ID: 20207 ---
+供应商店\0
+
+
+--- DESC , ITEM_ID: 20210 ---
+仅限92号贸易站员工\0
+
+
+--- ITXT , ITEM_ID: 20213 ---
+内部－避难所邮件 000476\0
+
+
+--- ITXT , ITEM_ID: 20218 ---
+内部－避难所邮件 000482\0
+
+
+--- ITXT , ITEM_ID: 20223 ---
+内部－避难所邮件 000519\0
+
+
+--- ITXT , ITEM_ID: 20228 ---
+打开保险柜锁\0
+
+
+--- RNAM , ITEM_ID: 20229 ---
+保险柜解锁\0
+
+
+------------------- TERM ( MS17Vault92bLaboratoryTerminal ) -------------------
+
+--- FULL , ITEM_ID: 20238 ---
+实验室终端\0
+
+
+--- DESC , ITEM_ID: 20241 ---
+仅限第4段清除\r\n\0
+
+
+--- ITXT , ITEM_ID: 20244 ---
+内部－避难所邮件 00480\0
+
+
+--- ITXT , ITEM_ID: 20249 ---
+内部－避难所邮件 00487\0
+
+
+--- ITXT , ITEM_ID: 20254 ---
+内部－避难所邮件 00502\0
+
+
+--- ITXT , ITEM_ID: 20259 ---
+内部－避难所邮件 00513\0
+
+
+------------------- TERM ( MS17Vault92bVaultOverseerTerminal ) -------------------
+
+--- FULL , ITEM_ID: 20267 ---
+查兹·鲁宾的终端\0
+
+
+--- DESC , ITEM_ID: 20270 ---
+仅限监督者访问\0
+
+
+--- ITXT , ITEM_ID: 20273 ---
+个人条目 00897332\0
+
+
+--- ITXT , ITEM_ID: 20278 ---
+个人条目 00897357\0
+
+
+--- ITXT , ITEM_ID: 20283 ---
+个人条目 00897377\0
+
+
+--- ITXT , ITEM_ID: 20288 ---
+个人条目 00897398\0
+
+
+------------------- TERM ( MS17Vault92DataStorageDoor ) -------------------
+
+--- FULL , ITEM_ID: 20296 ---
+数据存储入口\0
+
+
+--- ITXT , ITEM_ID: 20302 ---
+打开数据存储房间锁\0
+
+
+--- RNAM , ITEM_ID: 20303 ---
+Door Unlocked\0
+
+
+------------------- TERM ( MS17Vault92dEngineersTerminal ) -------------------
+
+--- FULL , ITEM_ID: 20312 ---
+工程日志终端\0
+
+
+--- DESC , ITEM_ID: 20315 ---
+仅限工程部用户\0
+
+
+--- ITXT , ITEM_ID: 20318 ---
+故障描述 TT007\0
+
+
+--- ITXT , ITEM_ID: 20323 ---
+故障描述 TT008\0
+
+
+--- ITXT , ITEM_ID: 20328 ---
+故障描述 TT009\0
+
+
+--- ITXT , ITEM_ID: 20333 ---
+故障描述 TT010\0
+
+
+--- ITXT , ITEM_ID: 20338 ---
+故障描述 TT011\0
+
+
+------------------- TERM ( MS17Vault92dPersonalTerminal ) -------------------
+
+--- FULL , ITEM_ID: 20346 ---
+佐伊哈默斯坦的终端\0
+
+
+--- DESC , ITEM_ID: 20349 ---
+佐伊哈默斯坦私人日记\0
+
+
+--- ITXT , ITEM_ID: 20352 ---
+佐伊的想法\0
+
+
+--- ITXT , ITEM_ID: 20357 ---
+更多佐伊的想法\0
+
+
+--- ITXT , ITEM_ID: 20362 ---
+更多佐伊的想法\0
+
+
+--- ITXT , ITEM_ID: 20367 ---
+klkhi 请.HF puu 救救喔\0
+
+
+------------------- TERM ( MS17Vault92MensDormTerminal ) -------------------
+
+--- FULL , ITEM_ID: 20375 ---
+男子宿舍保安终端\0
+
+
+--- DESC , ITEM_ID: 20378 ---
+男子宿舍保安系统\0
+
+
+--- ITXT , ITEM_ID: 20382 ---
+对讲机：操作员\0
+
+
+--- RNAM , ITEM_ID: 20383 ---
+提示1J－操作员无效\0
+
+
+--- ITXT , ITEM_ID: 20386 ---
+对讲机：普通服务\0
+
+
+--- RNAM , ITEM_ID: 20387 ---
+错误862－请对操作员讲话\0
+
+
+--- ITXT , ITEM_ID: 20390 ---
+对讲机：厨房\0
+
+
+--- RNAM , ITEM_ID: 20391 ---
+错误862－请对操作员讲话\0
+
+
+--- ITXT , ITEM_ID: 20394 ---
+对讲机：气氛控制\0
+
+
+--- RNAM , ITEM_ID: 20395 ---
+错误862－请对操作员讲话\0
+
+
+--- ITXT , ITEM_ID: 20398 ---
+噪声水平\0
+
+
+--- RNAM , ITEM_ID: 20399 ---
+开始声音序列\0
+
+
+------------------- TERM ( MS17Vault92ProducerTerminal ) -------------------
+
+--- FULL , ITEM_ID: 20408 ---
+工作室电脑\0
+
+
+--- ITXT , ITEM_ID: 20414 ---
+封闭录音工作室\0
+
+
+--- RNAM , ITEM_ID: 20415 ---
+录音室已就绪\0
+
+
+--- ITXT , ITEM_ID: 20424 ---
+打开录音工作室\0
+
+
+--- RNAM , ITEM_ID: 20425 ---
+工作室在待机模式\0
+
+
+--- ITXT , ITEM_ID: 20436 ---
+内部－避难所邮件 000339\0
+
+
+--- ITXT , ITEM_ID: 20441 ---
+内部－避难所邮件 000344\0
+
+
+--- ITXT , ITEM_ID: 20446 ---
+内部－避难所邮件 000350\0
+
+
+------------------- TERM ( MS17Vault92SecurityTerminal ) -------------------
+
+--- FULL , ITEM_ID: 20454 ---
+保安终端\0
+
+
+--- ITXT , ITEM_ID: 20461 ---
+获准访问\0
+
+
+--- RNAM , ITEM_ID: 20462 ---
+正在打开门锁…\0
+
+
+--- ITXT , ITEM_ID: 20473 ---
+拒绝访问\0
+
+
+--- RNAM , ITEM_ID: 20474 ---
+部署措施\0
+
+
+--- ITXT , ITEM_ID: 20480 ---
+噪声水平\0
+
+
+--- RNAM , ITEM_ID: 20481 ---
+开始声音序列\0
+
+
+------------------- TERM ( MS17Vault92WomensDormTerminal ) -------------------
+
+--- FULL , ITEM_ID: 20490 ---
+女子宿舍保安终端\0
+
+
+--- DESC , ITEM_ID: 20493 ---
+女子宿舍保安终端\0
+
+
+--- ITXT , ITEM_ID: 20497 ---
+对讲机：操作员\0
+
+
+--- RNAM , ITEM_ID: 20498 ---
+提示1J－操作员无效\0
+
+
+--- ITXT , ITEM_ID: 20501 ---
+对讲机：普通服务\0
+
+
+--- RNAM , ITEM_ID: 20502 ---
+错误862－请对操作员讲话\0
+
+
+--- ITXT , ITEM_ID: 20505 ---
+对讲机：厨房\0
+
+
+--- RNAM , ITEM_ID: 20506 ---
+错误862－请对操作员讲话\0
+
+
+--- ITXT , ITEM_ID: 20509 ---
+对讲机：气氛控制\0
+
+
+--- RNAM , ITEM_ID: 20510 ---
+错误862－请对操作员讲话\0
+
+
+--- ITXT , ITEM_ID: 20513 ---
+噪声水平\0
+
+
+--- RNAM , ITEM_ID: 20514 ---
+开始声音序列\0
+
+
+------------------- TERM ( MS17VaultTecMainframeTerminal ) -------------------
+
+--- FULL , ITEM_ID: 20523 ---
+主计算机机访问终端\0
+
+
+------------------- TERM ( MS17VaultTecStandardTerminal ) -------------------
+
+--- FULL , ITEM_ID: 20532 ---
+避难所科技员工终端\0
+
+
+--- DESC , ITEM_ID: 20535 ---
+避难所科技公司总部\r\n华盛顿特区\r\n标准员工访问\0
+
+
+--- ITXT , ITEM_ID: 20538 ---
+重要公告\0
+
+
+--- ITXT , ITEM_ID: 20543 ---
+公司储备\0
+
+
+--- ITXT , ITEM_ID: 20548 ---
+雇员页\0
+
+
+--- RNAM , ITEM_ID: 20549 ---
+内部分页系统离线\0
+
+
+------------------- TERM ( MS17VaultTecStandardTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 20555 ---
+避难所科技员工终端\0
+
+
+--- DESC , ITEM_ID: 20558 ---
+避难所科技公司总部\r\n华盛顿特区\r\n标准员工访问\0
+
+
+--- ITXT , ITEM_ID: 20561 ---
+消息009AC 安全公告\0
+
+
+--- ITXT , ITEM_ID: 20566 ---
+消息0099D 自动售货机\0
+
+
+--- ITXT , ITEM_ID: 20571 ---
+消息0101C 洗手间断裂\0
+
+
+--- ITXT , ITEM_ID: 20576 ---
+消息0102A 112号避难所完工！\0
+
+
+--- ITXT , ITEM_ID: 20581 ---
+消息0114D 92号避难所改变\0
+
+
+------------------- TERM ( MS17VaultTecStandardTerminal02 ) -------------------
+
+--- FULL , ITEM_ID: 20589 ---
+避难所科技员工终端\0
+
+
+--- DESC , ITEM_ID: 20592 ---
+避难所科技公司总部\r\n华盛顿特区\r\n标准员工访问\0
+
+
+--- ITXT , ITEM_ID: 20595 ---
+避难所科技 棒球帽\0
+
+
+--- RNAM , ITEM_ID: 20596 ---
+从薪金中扣除成本！\0
+
+
+--- ITXT , ITEM_ID: 20599 ---
+避难所科技 T恤\0
+
+
+--- RNAM , ITEM_ID: 20600 ---
+从薪金中扣除成本！\0
+
+
+--- ITXT , ITEM_ID: 20603 ---
+避难所科技 皮夹克\0
+
+
+--- RNAM , ITEM_ID: 20604 ---
+从薪金中扣除成本！\0
+
+
+--- ITXT , ITEM_ID: 20607 ---
+避难所科技 高尔夫球座\0
+
+
+--- RNAM , ITEM_ID: 20608 ---
+从薪金中扣除成本！\0
+
+
+--- ITXT , ITEM_ID: 20611 ---
+避难所科技 饮料保温杯\0
+
+
+--- RNAM , ITEM_ID: 20612 ---
+从薪金中扣除成本！\0
+
+
+--- ITXT , ITEM_ID: 20615 ---
+避难所科技 午餐盒\0
+
+
+--- RNAM , ITEM_ID: 20616 ---
+从薪金中扣除成本！\0
+
+
+--- ITXT , ITEM_ID: 20619 ---
+避难所科技 摇头娃娃\0
+
+
+--- RNAM , ITEM_ID: 20620 ---
+仅行政级别员工可用\0
+
+
+------------------- TERM ( MS17VaultTecSysOpTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 20626 ---
+系统运行站 1\0
+
+
+--- DESC , ITEM_ID: 20629 ---
+避难所科技公司总部\r\n华盛顿特区\r\n系统运行站1\0
+
+
+--- ITXT , ITEM_ID: 20632 ---
+重要公告\0
+
+
+--- ITXT , ITEM_ID: 20637 ---
+主计算机站1获准访问\0
+
+
+--- RNAM , ITEM_ID: 20638 ---
+获准访问\0
+
+
+--- ITXT , ITEM_ID: 20645 ---
+主计算机站1获准访问\0
+
+
+--- RNAM , ITEM_ID: 20646 ---
+命令锁定\0
+
+
+--- ITXT , ITEM_ID: 20650 ---
+主机器脑关机\0
+
+
+--- RNAM , ITEM_ID: 20651 ---
+站1主机器脑授权关机\0
+
+
+--- ITXT , ITEM_ID: 20659 ---
+主机器脑站1授权关机\0
+
+
+--- RNAM , ITEM_ID: 20660 ---
+命令锁定\0
+
+
+------------------- TERM ( MS17VaultTecSysOpTerminal02 ) -------------------
+
+--- FULL , ITEM_ID: 20668 ---
+系统运行站2\0
+
+
+--- DESC , ITEM_ID: 20671 ---
+避难所科技公司总部\r\n华盛顿特区\r\n系统运行站2\0
+
+
+--- ITXT , ITEM_ID: 20674 ---
+重要公告\0
+
+
+--- ITXT , ITEM_ID: 20679 ---
+主计算机站2获准访问\0
+
+
+--- RNAM , ITEM_ID: 20680 ---
+获准访问\0
+
+
+--- ITXT , ITEM_ID: 20687 ---
+站2主机器脑获准访问\0
+
+
+--- RNAM , ITEM_ID: 20688 ---
+命令锁定\0
+
+
+--- ITXT , ITEM_ID: 20692 ---
+主机器脑关机\0
+
+
+--- RNAM , ITEM_ID: 20693 ---
+站2主机器脑获准关闭\0
+
+
+--- ITXT , ITEM_ID: 20701 ---
+站2主机器脑获准关闭\0
+
+
+--- RNAM , ITEM_ID: 20702 ---
+命令锁定\0
+
+
+------------------- TERM ( MS17VaultTecSysOpTerminal03 ) -------------------
+
+--- FULL , ITEM_ID: 20710 ---
+系统运行站3\0
+
+
+--- DESC , ITEM_ID: 20713 ---
+避难所科技公司总部\r\n华盛顿特区\r\n系统运行站3\0
+
+
+--- ITXT , ITEM_ID: 20716 ---
+重要公告\0
+
+
+--- ITXT , ITEM_ID: 20721 ---
+主计算机站3获准访问\0
+
+
+--- RNAM , ITEM_ID: 20722 ---
+获准访问\0
+
+
+--- ITXT , ITEM_ID: 20729 ---
+站3主机器脑获准访问\0
+
+
+--- RNAM , ITEM_ID: 20730 ---
+命令锁定\0
+
+
+--- ITXT , ITEM_ID: 20734 ---
+主机器脑关机\0
+
+
+--- RNAM , ITEM_ID: 20735 ---
+站3主机器脑获准关闭\0
+
+
+--- ITXT , ITEM_ID: 20743 ---
+站3主机器脑获准关闭\0
+
+
+--- RNAM , ITEM_ID: 20744 ---
+命令锁定\0
+
+
+------------------- TERM ( MS18OurLadyofHopeTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 20752 ---
+护士站终端01\0
+
+
+--- DESC , ITEM_ID: 20755 ---
+护士站01\r\n仅限医院使用\0
+
+
+--- ITXT , ITEM_ID: 20758 ---
+解锁微电子供给\0
+
+
+--- RNAM , ITEM_ID: 20759 ---
+未上锁\0
+
+
+--- ITXT , ITEM_ID: 20765 ---
+损伤报告 09087768\0
+
+
+--- ITXT , ITEM_ID: 20770 ---
+损伤报告 09087790\0
+
+
+--- ITXT , ITEM_ID: 20775 ---
+损伤报告 09087882\0
+
+
+------------------- TERM ( MS18OurLadyofHopeTerminal02 ) -------------------
+
+--- FULL , ITEM_ID: 20783 ---
+护士站终端02\0
+
+
+--- DESC , ITEM_ID: 20786 ---
+护士站02\r\n仅限医院使用\0
+
+
+--- ITXT , ITEM_ID: 20789 ---
+解锁微电子供给\0
+
+
+--- RNAM , ITEM_ID: 20790 ---
+未上锁\0
+
+
+--- ITXT , ITEM_ID: 20796 ---
+损伤报告 09087768\0
+
+
+--- ITXT , ITEM_ID: 20801 ---
+损伤报告 09087790\0
+
+
+--- ITXT , ITEM_ID: 20806 ---
+损伤报告 09087882\0
+
+
+------------------- TERM ( MS18OurLadyofHopeTerminal03 ) -------------------
+
+--- FULL , ITEM_ID: 20814 ---
+护士站终端03\0
+
+
+--- DESC , ITEM_ID: 20817 ---
+护士站03\r\n仅限医院使用\0
+
+
+--- ITXT , ITEM_ID: 20820 ---
+解锁微电子供给\0
+
+
+--- RNAM , ITEM_ID: 20821 ---
+未上锁\0
+
+
+--- ITXT , ITEM_ID: 20827 ---
+损伤报告 09087768\0
+
+
+--- ITXT , ITEM_ID: 20832 ---
+损伤报告 09087790\0
+
+
+--- ITXT , ITEM_ID: 20837 ---
+损伤报告 09087882\0
+
+
+------------------- TERM ( MS18RangerCompoundOuterTerminal ) -------------------
+
+--- FULL , ITEM_ID: 20845 ---
+突击队外部终端\0
+
+
+--- DESC , ITEM_ID: 20848 ---
+仅限莱莉突击队人员阅读\r\n如果你看到这个，那就把你的屁股从这里挪开吧！\r\n\0
+
+
+--- ITXT , ITEM_ID: 20852 ---
+打开门保安锁\0
+
+
+--- RNAM , ITEM_ID: 20853 ---
+门锁解除\0
+
+
+--- ITXT , ITEM_ID: 20860 ---
+坎特伯雷搜索队通报\0
+
+
+--- RNAM , ITEM_ID: 20861 ---
+埃德加 读取中…\0
+
+
+------------------- TERM ( MS18RangerCompoundReillyTerminal ) -------------------
+
+--- FULL , ITEM_ID: 20873 ---
+莱莉的终端\0
+
+
+--- DESC , ITEM_ID: 20876 ---
+仅限莱莉突击队人员阅读\r\n希望你先问一下莱莉，你个笨蛋！\r\n\0
+
+
+--- ITXT , ITEM_ID: 20879 ---
+当前人员列表\0
+
+
+--- ITXT , ITEM_ID: 20884 ---
+Current Contracts\0
+
+
+--- ITXT , ITEM_ID: 20889 ---
+莱莉的个人记录\0
+
+
+------------------- TERM ( MS18RangerCompoundReillyTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 20897 ---
+莱莉的终端\0
+
+
+--- DESC , ITEM_ID: 20900 ---
+仅限莱莉突击队人员阅读\r\n希望你先问一下莱莉，你个笨蛋！\r\n\0
+
+
+--- ITXT , ITEM_ID: 20903 ---
+莱莉\0
+
+
+--- RNAM , ITEM_ID: 20904 ---
+文件不可用\0
+
+
+--- ITXT , ITEM_ID: 20907 ---
+布瑞克\0
+
+
+--- ITXT , ITEM_ID: 20912 ---
+布彻\0
+
+
+--- ITXT , ITEM_ID: 20917 ---
+多诺万\0
+
+
+--- ITXT , ITEM_ID: 20922 ---
+西奥\0
+
+
+------------------- TERM ( MS18RangerCompoundReillyTerminal02 ) -------------------
+
+--- FULL , ITEM_ID: 20930 ---
+莱莉的终端\0
+
+
+--- DESC , ITEM_ID: 20933 ---
+仅限莱莉突击队人员阅读\r\n希望你先问一下莱莉，你个笨蛋！\r\n\0
+
+
+--- ITXT , ITEM_ID: 20936 ---
+测绘合同\0
+
+
+--- ITXT , ITEM_ID: 20941 ---
+根除超级变种人\0
+
+
+------------------- TERM ( MS18RangerCompoundReillyTerminal03 ) -------------------
+
+--- FULL , ITEM_ID: 20949 ---
+莱莉的终端\0
+
+
+--- DESC , ITEM_ID: 20952 ---
+仅限莱莉突击队人员阅读\r\n希望你先问一下莱莉，你个笨蛋！\r\n\0
+
+
+--- ITXT , ITEM_ID: 20955 ---
+个人条目 176\0
+
+
+--- ITXT , ITEM_ID: 20960 ---
+个人条目 177\0
+
+
+--- ITXT , ITEM_ID: 20965 ---
+个人条目 178\0
+
+
+--- ITXT , ITEM_ID: 20970 ---
+个人条目 179\0
+
+
+------------------- TERM ( MS18Statesman03Terminal01 ) -------------------
+
+--- FULL , ITEM_ID: 20978 ---
+露天酒廊\0
+
+
+--- DESC , ITEM_ID: 20981 ---
+政客酒店餐厅\r\nMon - Th        上午7点－凌晨2点\r\n上午7点－下午9点\r\n请记住，在使用厕所后，不要只是走出去而不清理。看看周围是否有任何纸屑，清理一下。客户总是喜欢一个干净的厕所。\0
+
+
+--- ITXT , ITEM_ID: 20984 ---
+可用座位\0
+
+
+--- RNAM , ITEM_ID: 20985 ---
+目前 100 ％的座位可用\0
+
+
+------------------- TERM ( MS18StatesmanHotelFrontDesk ) -------------------
+
+--- FULL , ITEM_ID: 20991 ---
+分配终端\0
+
+
+--- ITXT , ITEM_ID: 20996 ---
+客户住进\0
+
+
+--- RNAM , ITEM_ID: 20997 ---
+预订服务不可用\0
+
+
+--- ITXT , ITEM_ID: 21000 ---
+客户离开\0
+
+
+--- RNAM , ITEM_ID: 21001 ---
+预订服务不可用\0
+
+
+--- ITXT , ITEM_ID: 21004 ---
+查询空房情况\0
+
+
+--- RNAM , ITEM_ID: 21005 ---
+预订服务不可用\0
+
+
+--- ITXT , ITEM_ID: 21008 ---
+打开接待台保安锁\0
+
+
+--- RNAM , ITEM_ID: 21009 ---
+未上锁\0
+
+
+--- ITXT , ITEM_ID: 21015 ---
+客户投诉档案\0
+
+
+------------------- TERM ( MS18StatesmanHotelFrontDesk01 ) -------------------
+
+--- FULL , ITEM_ID: 21023 ---
+分配终端\0
+
+
+--- DESC , ITEM_ID: 21026 ---
+投诉数据库－2077.8\r\n请客户提供尽可能详细的描述的。\0
+
+
+--- ITXT , ITEM_ID: 21028 ---
+投诉 0001\0
+
+
+--- ITXT , ITEM_ID: 21033 ---
+投诉 0002\0
+
+
+--- ITXT , ITEM_ID: 21038 ---
+投诉 0003\0
+
+
+--- ITXT , ITEM_ID: 21043 ---
+投诉 0004\0
+
+
+------------------- TERM ( MuseumTechSecurityTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 21051 ---
+保安终端\0
+
+
+--- DESC , ITEM_ID: 21054 ---
+博物馆大厅安全终端\0
+
+
+--- ITXT , ITEM_ID: 21057 ---
+锁定博物馆\0
+
+
+--- RNAM , ITEM_ID: 21058 ---
+错误：无法找到博物馆门\0
+
+
+--- ITXT , ITEM_ID: 21061 ---
+激活大厅枪塔\0
+
+
+--- RNAM , ITEM_ID: 21062 ---
+!!!大厅枪塔正在激活 !!!\0
+
+
+--- ITXT , ITEM_ID: 21071 ---
+关闭大厅枪塔\0
+
+
+--- RNAM , ITEM_ID: 21072 ---
+!!!大厅枪塔正在关闭 !!!\0
+
+
+------------------- TERM ( MuseumTechSecurityTerminal02 ) -------------------
+
+--- FULL , ITEM_ID: 21084 ---
+保安终端\0
+
+
+--- DESC , ITEM_ID: 21087 ---
+博物馆门廊安全终端\0
+
+
+--- ITXT , ITEM_ID: 21090 ---
+锁定博物馆\0
+
+
+--- RNAM , ITEM_ID: 21091 ---
+错误：无法找到博物馆门\0
+
+
+--- ITXT , ITEM_ID: 21094 ---
+激活门廊枪塔\0
+
+
+--- RNAM , ITEM_ID: 21095 ---
+!!!门廊枪塔正在激活 !!!\0
+
+
+--- ITXT , ITEM_ID: 21104 ---
+关闭门廊枪塔\0
+
+
+--- RNAM , ITEM_ID: 21105 ---
+!!!门廊枪塔正在关闭 !!!\0
+
+
+------------------- TERM ( NtlGuardDepot06Terminal ) -------------------
+
+--- FULL , ITEM_ID: 21117 ---
+地堡访问终端\0
+
+
+--- DESC , ITEM_ID: 21120 ---
+国民警卫队仓库 \r\n\r\n地堡访问终端l\r\n\r\n\0
+
+
+--- ITXT , ITEM_ID: 21123 ---
+确认访问代码\0
+
+
+--- RNAM , ITEM_ID: 21124 ---
+*** 允许访问 ***\0
+
+
+--- ITXT , ITEM_ID: 21137 ---
+确认访问代码\0
+
+
+--- RNAM , ITEM_ID: 21138 ---
+*** 代码错误－拒绝访问 ***\0
+
+
+------------------- TERM ( PinkertonTerminal ) -------------------
+
+--- FULL , ITEM_ID: 21148 ---
+平克顿的私人电脑\0
+
+
+--- DESC , ITEM_ID: 21151 ---
+您拥有更高许可使用这台电脑上。\0
+
+
+--- ITXT , ITEM_ID: 21155 ---
+城市设立日志\0
+
+
+--- RNAM , ITEM_ID: 21156 ---
+正在下载…完成。\0
+
+
+--- ITXT , ITEM_ID: 21166 ---
+机器人日志 1\0
+
+
+--- RNAM , ITEM_ID: 21167 ---
+正在下载…完成。\0
+
+
+--- ITXT , ITEM_ID: 21171 ---
+机器人日志 2\0
+
+
+--- RNAM , ITEM_ID: 21172 ---
+正在下载…完成。\0
+
+
+--- ITXT , ITEM_ID: 21176 ---
+机器人日志 3\0
+
+
+--- RNAM , ITEM_ID: 21177 ---
+正在下载…完成。\0
+
+
+--- ITXT , ITEM_ID: 21184 ---
+前图片\0
+
+
+--- RNAM , ITEM_ID: 21185 ---
+下载文件到哔哔小子…完成。\0
+
+
+--- ITXT , ITEM_ID: 21193 ---
+后图片\0
+
+
+--- RNAM , ITEM_ID: 21194 ---
+下载到哔哔小子…完成。\0
+
+
+------------------- TERM ( RadioCache06Terminal01 ) -------------------
+
+--- FULL , ITEM_ID: 21205 ---
+书桌终端\0
+
+
+--- ITXT , ITEM_ID: 21211 ---
+1. Ikkm00“Mvkz6x1ml:Nqtm\0
+
+
+--- RNAM , ITEM_ID: 21212 ---
+[错误 HX40-399：密匙 无效 ]\0
+
+
+--- ITXT , ITEM_ID: 21216 ---
+1.打开安全舱门\0
+
+
+--- RNAM , ITEM_ID: 21217 ---
+[密匙有效]：正在打开舱门\0
+
+
+------------------- TERM ( RavenRock01DeathclawTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 21227 ---
+送货终端\0
+
+
+--- DESC , ITEM_ID: 21230 ---
+送货终端\0
+
+
+--- ITXT , ITEM_ID: 21233 ---
+关于最近送货的记录\0
+
+
+--- ITXT , ITEM_ID: 21238 ---
+打开364号牢房锁\0
+
+
+--- RNAM , ITEM_ID: 21239 ---
+正在打开364号牢房锁…\0
+
+
+------------------- TERM ( RavenRock01GateTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 21248 ---
+保安防火墙终端\0
+
+
+--- ITXT , ITEM_ID: 21254 ---
+激活防火墙\0
+
+
+--- RNAM , ITEM_ID: 21255 ---
+!!! 保安防火墙激活 !!!\0
+
+
+--- ITXT , ITEM_ID: 21264 ---
+关闭防火墙\0
+
+
+--- RNAM , ITEM_ID: 21265 ---
+!!! 保安防火墙关闭 !!!\0
+
+
+------------------- TERM ( RavenRock02GateTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 21277 ---
+保安防火墙终端\0
+
+
+--- ITXT , ITEM_ID: 21283 ---
+激活防火墙\0
+
+
+--- RNAM , ITEM_ID: 21284 ---
+!!! 保安防火墙激活 !!!\0
+
+
+--- ITXT , ITEM_ID: 21293 ---
+关闭防火墙\0
+
+
+--- RNAM , ITEM_ID: 21294 ---
+!!! 保安防火墙关闭 !!!\0
+
+
+------------------- TERM ( RavenRock02GateTerminal02 ) -------------------
+
+--- FULL , ITEM_ID: 21306 ---
+保安防火墙终端\0
+
+
+--- ITXT , ITEM_ID: 21312 ---
+激活防火墙\0
+
+
+--- RNAM , ITEM_ID: 21313 ---
+!!! 保安防火墙激活 !!!\0
+
+
+--- ITXT , ITEM_ID: 21322 ---
+关闭防火墙\0
+
+
+--- RNAM , ITEM_ID: 21323 ---
+!!! 保安防火墙关闭 !!!\0
+
+
+------------------- TERM ( RCBannonTerminal ) -------------------
+
+--- FULL , ITEM_ID: 21335 ---
+班侬的终端\0
+
+
+--- DESC , ITEM_ID: 21338 ---
+欢迎来到铆钉城计算机系统。现在您想要做什么？\0
+
+
+--- ITXT , ITEM_ID: 21341 ---
+查看议程\0
+
+
+--- ITXT , ITEM_ID: 21346 ---
+议会会议记录\0
+
+
+--- ITXT , ITEM_ID: 21352 ---
+议会会议记录\0
+
+
+------------------- TERM ( RCDoctorLiTerminal ) -------------------
+
+--- FULL , ITEM_ID: 21361 ---
+李医生的终端\0
+
+
+--- DESC , ITEM_ID: 21364 ---
+欢迎来到铆钉城计算机系统。现在您想要做什么？\0
+
+
+--- ITXT , ITEM_ID: 21367 ---
+水培进展\0
+
+
+--- ITXT , ITEM_ID: 21372 ---
+议会会议记录\0
+
+
+--- ITXT , ITEM_ID: 21378 ---
+议会会议记录\0
+
+
+------------------- TERM ( RCDoctorPrestonTerminal ) -------------------
+
+--- FULL , ITEM_ID: 21387 ---
+铆钉城医院患者数据系统\0
+
+
+--- DESC , ITEM_ID: 21390 ---
+铆钉城医院计算机系统\r\n仅限医生阅读。未经授权的使用将被铆钉城议会处以罚款、监禁或者流放。\0
+
+
+--- ITXT , ITEM_ID: 21393 ---
+危害健康地区\0
+
+
+--- ITXT , ITEM_ID: 21398 ---
+患者档案\0
+
+
+------------------- TERM ( RCSeagraveHolmesTerminal ) -------------------
+
+--- FULL , ITEM_ID: 21406 ---
+西格雷夫的终端\0
+
+
+--- DESC , ITEM_ID: 21409 ---
+欢迎来到铆钉城计算机系统。现在您想要做什么？\0
+
+
+--- ITXT , ITEM_ID: 21412 ---
+救生武器计划\0
+
+
+--- ITXT , ITEM_ID: 21417 ---
+班侬\0
+
+
+--- ITXT , ITEM_ID: 21422 ---
+回复：班侬\0
+
+
+------------------- TERM ( RCSecurityTerminal ) -------------------
+
+--- FULL , ITEM_ID: 21430 ---
+保安的终端\0
+
+
+--- DESC , ITEM_ID: 21433 ---
+欢迎来到铆钉城计算机系统。现在您想要做什么？\0
+
+
+--- ITXT , ITEM_ID: 21436 ---
+正在开启保安\0
+
+
+--- ITXT , ITEM_ID: 21447 ---
+保安日志\0
+
+
+------------------- TERM ( RCWeatherlyTerminal ) -------------------
+
+--- FULL , ITEM_ID: 21455 ---
+韦瑟利终端\0
+
+
+--- DESC , ITEM_ID: 21458 ---
+欢迎来到铆钉城计算机系统。现在您想要做什么？\0
+
+
+--- ITXT , ITEM_ID: 21461 ---
+酒店登记\0
+
+
+--- ITXT , ITEM_ID: 21466 ---
+购物清单\0
+
+
+------------------- TERM ( RedRacer03SurgeonsTerminal ) -------------------
+
+--- FULL , ITEM_ID: 21474 ---
+外科医生的终端\0
+
+
+--- ITXT , ITEM_ID: 21480 ---
+关于史迪芬的记录\0
+
+
+--- ITXT , ITEM_ID: 21485 ---
+关闭芯片\0
+
+
+------------------- TERM ( RedRacer03Terminal01 ) -------------------
+
+--- FULL , ITEM_ID: 21497 ---
+芯片广播终端\0
+
+
+--- ITXT , ITEM_ID: 21503 ---
+日记条目 L-2\0
+
+
+--- RNAM , ITEM_ID: 21504 ---
+正在读取...\0
+
+
+--- ITXT , ITEM_ID: 21508 ---
+关闭芯片\0
+
+
+------------------- TERM ( RedRacer03Terminal02 ) -------------------
+
+--- FULL , ITEM_ID: 21519 ---
+外科医生的记录\0
+
+
+--- ITXT , ITEM_ID: 21525 ---
+条目 2R-A0\0
+
+
+--- RNAM , ITEM_ID: 21526 ---
+正在读取...\0
+
+
+--- ITXT , ITEM_ID: 21530 ---
+条目 64D-A3\0
+
+
+--- RNAM , ITEM_ID: 21531 ---
+正在读取...\0
+
+
+------------------- TERM ( RHSLibraryTerminal ) -------------------
+
+--- FULL , ITEM_ID: 21538 ---
+校长的终端\0
+
+
+--- DESC , ITEM_ID: 21541 ---
+罗斯福学院\r\nnEDU-OSv6.19.03\r\n欢迎，斯威尼校长。\r\n\0
+
+
+--- ITXT , ITEM_ID: 21544 ---
+激活Protectron单位\0
+
+
+--- RNAM , ITEM_ID: 21545 ---
+发送查询//单位t#名称：院长_杜威.rbco\0
+
+
+--- ITXT , ITEM_ID: 21553 ---
+撤销Protectron单位\0
+
+
+--- RNAM , ITEM_ID: 21554 ---
+错误通信链路//单位t#名称：院长_杜威.rbco\0
+
+
+------------------- TERM ( Satcom01TowerTerm ) -------------------
+
+--- FULL , ITEM_ID: 21562 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 21565 ---
+日志软件\a9h 2072 PagSoft\r\n用户：禁止通行\0
+
+
+--- ITXT , ITEM_ID: 21567 ---
+日志条目#006\0
+
+
+--- RNAM , ITEM_ID: 21568 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 21572 ---
+日志条目#005\0
+
+
+--- RNAM , ITEM_ID: 21573 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 21577 ---
+日志条目#004\0
+
+
+--- RNAM , ITEM_ID: 21578 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 21582 ---
+日志条目#003\0
+
+
+--- RNAM , ITEM_ID: 21583 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 21587 ---
+日志条目#002\0
+
+
+--- RNAM , ITEM_ID: 21588 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 21592 ---
+日志条目#001\0
+
+
+--- RNAM , ITEM_ID: 21593 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 21597 ---
+断开用户：禁止通行\0
+
+
+--- RNAM , ITEM_ID: 21598 ---
+正在断开用户：禁止通行\0
+
+
+------------------- TERM ( SatcomTowerCommandTerminal ) -------------------
+
+--- FULL , ITEM_ID: 21606 ---
+卫星控制终端\0
+
+
+--- ITXT , ITEM_ID: 21612 ---
+输入新的定位数据\0
+
+
+--- RNAM , ITEM_ID: 21613 ---
+错误：碟动机离线\0
+
+
+--- ITXT , ITEM_ID: 21616 ---
+解密坐标：卫星通讯阵列NW-07c\0
+
+
+--- RNAM , ITEM_ID: 21617 ---
+下载坐标到用户设备\0
+
+
+--- ITXT , ITEM_ID: 21626 ---
+解密坐标：卫星通讯阵列NN-03d\0
+
+
+--- RNAM , ITEM_ID: 21627 ---
+下载坐标到用户设备\0
+
+
+--- ITXT , ITEM_ID: 21636 ---
+Upload 'Highwater Trousers' Activation \0
+
+
+--- RNAM , ITEM_ID: 21637 ---
+Pinging USDOD-21TXH....\0
+
+
+------------------- TERM ( SpringvaleBossTerminal ) -------------------
+
+--- FULL , ITEM_ID: 21650 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 21653 ---
+日志软件\a9h 2072 PagSof\r\n涮我 哈哈哈\0
+
+
+--- ITXT , ITEM_ID: 21656 ---
+日志条目#003\0
+
+
+--- RNAM , ITEM_ID: 21657 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 21661 ---
+日志条目#002\0
+
+
+--- RNAM , ITEM_ID: 21662 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 21666 ---
+日志条目#001\0
+
+
+--- RNAM , ITEM_ID: 21667 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 21671 ---
+断开用户：涮我 哈哈哈\0
+
+
+------------------- TERM ( TenpennyTowerShakesComputer ) -------------------
+
+--- FULL , ITEM_ID: 21680 ---
+起居室电脑\0
+
+
+--- DESC , ITEM_ID: 21683 ---
+RobCo服务终端\r\nV 6.0.3.2.1.a\r\n\r\n------------------------------------\r\n如需详细顶部连接 \r\nRobCo产品查看\r\n你本地的陈列室\r\n\0
+
+
+--- ITXT , ITEM_ID: 21686 ---
+重排价目表\0
+
+
+--- RNAM , ITEM_ID: 21687 ---
+重排定价。\0
+
+
+--- ITXT , ITEM_ID: 21693 ---
+10%假日折扣\0
+
+
+--- RNAM , ITEM_ID: 21694 ---
+读取假日价格表。\0
+
+
+--- ITXT , ITEM_ID: 21700 ---
+设置贵宾折扣50 ％\0
+
+
+--- RNAM , ITEM_ID: 21701 ---
+启用贵宾折扣。\0
+
+
+------------------- TERM ( termMOAHSecurityRoom ) -------------------
+
+--- FULL , ITEM_ID: 21710 ---
+保安系统\0
+
+
+--- ITXT , ITEM_ID: 21716 ---
+<打开门锁>\0
+
+
+--- RNAM , ITEM_ID: 21717 ---
+准许访问\0
+
+
+--- ITXT , ITEM_ID: 21724 ---
+<启用保安系统>\0
+
+
+--- RNAM , ITEM_ID: 21725 ---
+枪塔连线\0
+
+
+--- ITXT , ITEM_ID: 21729 ---
+<解除保安系统>\0
+
+
+--- RNAM , ITEM_ID: 21730 ---
+枪塔离线\0
+
+
+------------------- TERM ( TLHendersonRobotTerminal ) -------------------
+
+--- FULL , ITEM_ID: 21737 ---
+计算机终端\0
+
+
+--- DESC , ITEM_ID: 21741 ---
+“巧手”先生远程访问终端\0
+
+
+--- ITXT , ITEM_ID: 21744 ---
+启动清洗程序\0
+
+
+--- RNAM , ITEM_ID: 21745 ---
+程序正在运行，请稍候…\0
+
+
+--- ITXT , ITEM_ID: 21751 ---
+启动安全程序\0
+
+
+--- RNAM , ITEM_ID: 21752 ---
+正在锁定住所。请稍候...\0
+
+
+--- ITXT , ITEM_ID: 21760 ---
+停止安全程序\0
+
+
+--- RNAM , ITEM_ID: 21761 ---
+正在打开住所。请稍候...\0
+
+
+--- ITXT , ITEM_ID: 21770 ---
+停止安全程序\0
+
+
+--- RNAM , ITEM_ID: 21771 ---
+请重新启用安全检查\0
+
+
+--- ITXT , ITEM_ID: 21775 ---
+禁用安全检查参数\0
+
+
+--- RNAM , ITEM_ID: 21776 ---
+正在禁用，请等待…\0
+
+
+--- ITXT , ITEM_ID: 21784 ---
+禁用安全检查\0
+
+
+--- RNAM , ITEM_ID: 21785 ---
+请运行保安程序\0
+
+
+--- ITXT , ITEM_ID: 21789 ---
+启用安全检查参数\0
+
+
+--- RNAM , ITEM_ID: 21790 ---
+正在启用参数，请稍候…\0
+
+
+------------------- TERM ( UnderworldAhzrukhalTerminal ) -------------------
+
+--- FULL , ITEM_ID: 21800 ---
+阿祖卡的终端\0
+
+
+--- DESC , ITEM_ID: 21803 ---
+Docutron数据库 7000x\r\n欢迎，阿祖卡\0
+
+
+--- ITXT , ITEM_ID: 21806 ---
+关于卡罗尔的记录\0
+
+
+--- ITXT , ITEM_ID: 21811 ---
+关于“拼盘”的记录\0
+
+
+--- ITXT , ITEM_ID: 21816 ---
+关于“雪花”的记录\0
+
+
+--- ITXT , ITEM_ID: 21821 ---
+关于巴罗斯医生的记录\0
+
+
+--- ITXT , ITEM_ID: 21826 ---
+Unlock safe\0
+
+
+--- RNAM , ITEM_ID: 21827 ---
+Safe unlocked\0
+
+
+------------------- TERM ( UnderworldBarrowsTerminal ) -------------------
+
+--- FULL , ITEM_ID: 21836 ---
+Research Terminal\0
+
+
+--- ITXT , ITEM_ID: 21842 ---
+僵尸试验\0
+
+
+--- ITXT , ITEM_ID: 21846 ---
+发光僵尸神经试验\0
+
+
+--- ITXT , ITEM_ID: 21850 ---
+凶猛僵尸营养障碍研究\0
+
+
+------------------- TERM ( UnderworldTulipTerminal ) -------------------
+
+--- FULL , ITEM_ID: 21857 ---
+“郁金香”的终端\0
+
+
+--- DESC , ITEM_ID: 21860 ---
+Sten-o-pool 3500文字处理系统\r\n\r\n当前用户：“郁金香”\r\n当前文档：失落的伊甸园副本\0
+
+
+--- ITXT , ITEM_ID: 21863 ---
+失落的伊甸园：图书一\0
+
+
+--- ITXT , ITEM_ID: 21868 ---
+失落的伊甸园：图书二\0
+
+
+--- ITXT , ITEM_ID: 21873 ---
+失落的伊甸园：图书四\0
+
+
+--- ITXT , ITEM_ID: 21878 ---
+失落的伊甸园：图书八\0
+
+
+------------------- TERM ( UnderworldWinthropTerminal ) -------------------
+
+--- FULL , ITEM_ID: 21886 ---
+温思罗普的电脑\0
+
+
+--- DESC , ITEM_ID: 21889 ---
+欢迎，温思罗普。\0
+
+
+--- ITXT , ITEM_ID: 21892 ---
+电气系统记录。\0
+
+
+--- ITXT , ITEM_ID: 21897 ---
+打开保险柜锁\0
+
+
+--- RNAM , ITEM_ID: 21898 ---
+保险柜解锁\0
+
+
+------------------- TERM ( Vault101BeatriceComputer ) -------------------
+
+--- FULL , ITEM_ID: 21907 ---
+比阿特丽斯的电脑\0
+
+
+--- DESC , ITEM_ID: 21910 ---
+避难所科技民居计算机网络 v10.1\r\n\r\n欢迎，比阿特丽斯…\0
+
+
+--- ITXT , ITEM_ID: 21913 ---
+101号避难所电子信箱\0
+
+
+--- ITXT , ITEM_ID: 21918 ---
+监督者的信件\0
+
+
+--- ITXT , ITEM_ID: 21923 ---
+监督者的信件\0
+
+
+--- ITXT , ITEM_ID: 21929 ---
+监督者的信件\0
+
+
+--- ITXT , ITEM_ID: 21936 ---
+监督者的信件\0
+
+
+--- ITXT , ITEM_ID: 21944 ---
+监督者的信件\0
+
+
+------------------- TERM ( Vault101PepperGomezComputer ) -------------------
+
+--- FULL , ITEM_ID: 21955 ---
+派派的计算机\0
+
+
+--- DESC , ITEM_ID: 21958 ---
+避难所科技民居计算机网络 v10.1\r\n\r\n欢迎，戈麦斯女士…\0
+
+
+--- ITXT , ITEM_ID: 21961 ---
+101号避难所电子信箱\0
+
+
+------------------- TERM ( Vault101PepperGomezComputerSub1 ) -------------------
+
+--- FULL , ITEM_ID: 21969 ---
+派派的计算机\0
+
+
+--- ITXT , ITEM_ID: 21974 ---
+来自：弗雷迪·戈麦斯\0
+
+
+--- ITXT , ITEM_ID: 21979 ---
+来自：监督者\0
+
+
+--- ITXT , ITEM_ID: 21984 ---
+来自：丹尼尔·布洛彻\0
+
+
+------------------- TERM ( Vault101SecurityTerminal01 ) -------------------
+
+--- FULL , ITEM_ID: 21992 ---
+书桌终端\0
+
+
+--- DESC , ITEM_ID: 21995 ---
+101号避难所保安单元终端\0
+
+
+--- ITXT , ITEM_ID: 21999 ---
+单元门解锁\0
+
+
+--- RNAM , ITEM_ID: 22000 ---
+正在打开单元门锁...\0
+
+
+--- ITXT , ITEM_ID: 22009 ---
+锁定单元门\0
+
+
+--- RNAM , ITEM_ID: 22010 ---
+错误锁定单元门…\0
+
+
+--- ITXT , ITEM_ID: 22014 ---
+机密\0
+
+
+------------------- TERM ( Vault101SecurityTerminal01Unlocked ) -------------------
+
+--- FULL , ITEM_ID: 22026 ---
+书桌终端\0
+
+
+--- DESC , ITEM_ID: 22029 ---
+101号避难所保安单元终端\0
+
+
+--- ITXT , ITEM_ID: 22033 ---
+单元门解锁\0
+
+
+--- RNAM , ITEM_ID: 22034 ---
+正在打开单元门锁...\0
+
+
+--- ITXT , ITEM_ID: 22043 ---
+锁定单元门\0
+
+
+--- RNAM , ITEM_ID: 22044 ---
+错误锁定单元门…\0
+
+
+--- ITXT , ITEM_ID: 22048 ---
+机密\0
+
+
+------------------- TERM ( Vault106AHallucinationTerminal ) -------------------
+
+--- FULL , ITEM_ID: 22060 ---
+至：我\0
+
+
+--- DESC , ITEM_ID: 22063 ---
+你的大脑软件\r\n版本：我\0
+
+
+--- ITXT , ITEM_ID: 22066 ---
+你知道你想要…\0
+
+
+--- RNAM , ITEM_ID: 22067 ---
+干得不错！\0
+
+
+------------------- TERM ( Vault106ASecurityRoomTerminal ) -------------------
+
+--- FULL , ITEM_ID: 22074 ---
+保安终端\0
+
+
+--- DESC , ITEM_ID: 22077 ---
+避难所科技保安系统\r\n软件版本1.02.f\0
+
+
+--- ITXT , ITEM_ID: 22080 ---
+快讯：安全通告\0
+
+
+--- RNAM , ITEM_ID: 22081 ---
+正在读取...\0
+
+
+------------------- TERM ( Vault106BHallucinationTerminal ) -------------------
+
+--- FULL , ITEM_ID: 22088 ---
+至：我\0
+
+
+--- DESC , ITEM_ID: 22091 ---
+你的大脑软件\r\n版本：我\0
+
+
+--- ITXT , ITEM_ID: 22094 ---
+一个给我的记录\0
+
+
+--- ITXT , ITEM_ID: 22104 ---
+另一个给我的记录\0
+
+
+--- ITXT , ITEM_ID: 22114 ---
+请读我\0
+
+
+--- ITXT , ITEM_ID: 22124 ---
+好，是那样。\0
+
+
+------------------- TERM ( Vault106BLabTechnicianTerminal ) -------------------
+
+--- FULL , ITEM_ID: 22133 ---
+Lab Technician Terminal\0
+
+
+--- DESC , ITEM_ID: 22136 ---
+EEP Laboratory Technicians Eyes Only\0
+
+
+--- ITXT , ITEM_ID: 22139 ---
+研究 #004-C\0
+
+
+--- RNAM , ITEM_ID: 22140 ---
+正在读取...\0
+
+
+------------------- TERM ( Vault106BSecurityRoomTerminal ) -------------------
+
+--- FULL , ITEM_ID: 22147 ---
+保安终端\0
+
+
+--- DESC , ITEM_ID: 22150 ---
+避难所科技保安系统\r\n软件版本1.02.f\0
+
+
+--- ITXT , ITEM_ID: 22153 ---
+快讯：安全通告\0
+
+
+--- RNAM , ITEM_ID: 22154 ---
+正在译码…\0
+
+
+------------------- TERM ( Vault106OverseersTerminal ) -------------------
+
+--- FULL , ITEM_ID: 22161 ---
+Overseer's Terminal\0
+
+
+--- DESC , ITEM_ID: 22164 ---
+Welcome, Overseer.\0
+
+
+--- ITXT , ITEM_ID: 22167 ---
+快讯：准备工作报告\0
+
+
+--- RNAM , ITEM_ID: 22168 ---
+正在译码…\0
+
+
+------------------- TERM ( Vault112GarageComputer ) -------------------
+
+--- FULL , ITEM_ID: 22175 ---
+汽车间电脑\0
+
+
+--- DESC , ITEM_ID: 22178 ---
+史密斯·凯西的汽车修理厂\r\n授权科维修理和经销\0
+
+
+--- ITXT , ITEM_ID: 22181 ---
+打开避难所科技通道舱口\0
+
+
+--- RNAM , ITEM_ID: 22182 ---
+正在打开主汽车间区舱口…\0
+
+
+------------------- TERM ( Vault112OverSeerComputer ) -------------------
+
+--- FULL , ITEM_ID: 22191 ---
+通道计算机。\0
+
+
+--- DESC , ITEM_ID: 22194 ---
+112号避难所监督者通道\r\n欢迎，布劳恩博士。\0
+
+
+--- ITXT , ITEM_ID: 22198 ---
+打开避难所科技通道舱口\0
+
+
+--- RNAM , ITEM_ID: 22199 ---
+为您打开大门，布劳恩博士。\0
+
+
+------------------- TERM ( Vault112PodTermBraunS ) -------------------
+
+--- FULL , ITEM_ID: 22208 ---
+宁静巷民居监视器\0
+
+
+--- DESC , ITEM_ID: 22211 ---
+民居37号监测站\r\n居民身份：999－布劳恩，S。\0
+
+
+--- ITXT , ITEM_ID: 22213 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22217 ---
+显示居民应力水平\0
+
+
+------------------- TERM ( Vault112PodTermBroken ) -------------------
+
+--- FULL , ITEM_ID: 22224 ---
+民居监测－无人\0
+
+
+--- DESC , ITEM_ID: 22227 ---
+民居37号监测站\r\n居民身份：642－无人\r\n\r\n警告：发现机械故障。请定期维护。\0
+
+
+--- ITXT , ITEM_ID: 22229 ---
+显示居民身份\0
+
+
+--- RNAM , ITEM_ID: 22230 ---
+民居内无人\0
+
+
+--- ITXT , ITEM_ID: 22233 ---
+显示居民应力水平\0
+
+
+--- RNAM , ITEM_ID: 22234 ---
+民居内无人\0
+
+
+------------------- TERM ( Vault112PodTermDad ) -------------------
+
+--- FULL , ITEM_ID: 22240 ---
+民居监测－隶属：未知\0
+
+
+--- DESC , ITEM_ID: 22243 ---
+平民 23号监测站\r\n居民身份：未知\r\n\r\n警告：未经核实的居民身份\r\n请检查日志\r\n\0
+
+
+--- ITXT , ITEM_ID: 22245 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22250 ---
+显示居民应力水平\0
+
+
+------------------- TERM ( Vault112PodTermDithersT ) -------------------
+
+--- FULL , ITEM_ID: 22258 ---
+民居监测－隶属：T.迪瑟\0
+
+
+--- DESC , ITEM_ID: 22261 ---
+民居37号监测站\r\n居民身份：642－迪瑟，T。\r\n\r\n警告：不一致的读数。请检查连接。\0
+
+
+--- ITXT , ITEM_ID: 22263 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22269 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22275 ---
+显示居民应力水平\0
+
+
+--- ITXT , ITEM_ID: 22281 ---
+显示居民应力水平\0
+
+
+------------------- TERM ( Vault112PodTermFosterW ) -------------------
+
+--- FULL , ITEM_ID: 22290 ---
+民居监测－隶属：W.福斯特\0
+
+
+--- DESC , ITEM_ID: 22293 ---
+民居37号监测站\r\n居民身份：906－福斯特，W。\r\n\r\n\0
+
+
+--- ITXT , ITEM_ID: 22295 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22301 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22307 ---
+显示居民应力水平\0
+
+
+--- ITXT , ITEM_ID: 22313 ---
+显示居民应力水平\0
+
+
+------------------- TERM ( Vault112PodTermHendersonM ) -------------------
+
+--- FULL , ITEM_ID: 22322 ---
+民居监测－隶属：M.亨德森\0
+
+
+--- DESC , ITEM_ID: 22325 ---
+民居37号监测站\r\n居民身份：亨德森，M。\0
+
+
+--- ITXT , ITEM_ID: 22327 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22333 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22339 ---
+显示居民应力水平\0
+
+
+--- ITXT , ITEM_ID: 22345 ---
+显示居民应力水平\0
+
+
+------------------- TERM ( Vault112PodTermNeusbaumG ) -------------------
+
+--- FULL , ITEM_ID: 22354 ---
+民居监测－隶属：G.纽斯保\0
+
+
+--- DESC , ITEM_ID: 22357 ---
+民居37号监测站\r\n居民身份：374－纽斯保，G。\0
+
+
+--- ITXT , ITEM_ID: 22359 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22365 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22370 ---
+显示居民应力水平\0
+
+
+--- ITXT , ITEM_ID: 22376 ---
+显示居民应力水平\0
+
+
+------------------- TERM ( Vault112PodTermNeusbaumP ) -------------------
+
+--- FULL , ITEM_ID: 22384 ---
+民居监测－隶属：P.纽斯保\0
+
+
+--- DESC , ITEM_ID: 22387 ---
+民居37号监测站\r\n居民身份：375－纽斯保，P。\0
+
+
+--- ITXT , ITEM_ID: 22389 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22395 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22401 ---
+显示居民应力水平\0
+
+
+--- ITXT , ITEM_ID: 22407 ---
+显示居民应力水平\0
+
+
+------------------- TERM ( Vault112PodTermNeusbaumT ) -------------------
+
+--- FULL , ITEM_ID: 22416 ---
+民居监测－隶属：T.纽斯保\0
+
+
+--- DESC , ITEM_ID: 22419 ---
+民居37号监测站\r\n居民身份：337－纽斯保，T。\0
+
+
+--- ITXT , ITEM_ID: 22421 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22427 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22433 ---
+显示居民应力水平\0
+
+
+--- ITXT , ITEM_ID: 22439 ---
+显示居民应力水平\0
+
+
+------------------- TERM ( Vault112PodTermRockwellJ ) -------------------
+
+--- FULL , ITEM_ID: 22448 ---
+民居监测－隶属：J.罗克韦尔\0
+
+
+--- DESC , ITEM_ID: 22451 ---
+民居37号监测站\r\n居民身份：115－罗克韦尔.J\r\n\0
+
+
+--- ITXT , ITEM_ID: 22453 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22459 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22465 ---
+显示居民应力水平\0
+
+
+--- ITXT , ITEM_ID: 22471 ---
+显示居民应力水平\0
+
+
+------------------- TERM ( Vault112PodTermRockwellR ) -------------------
+
+--- FULL , ITEM_ID: 22480 ---
+民居监测－隶属：R.罗克韦尔\0
+
+
+--- DESC , ITEM_ID: 22483 ---
+民居37号监测站\r\n居民身份：226－罗克韦尔，R。\0
+
+
+--- ITXT , ITEM_ID: 22485 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22491 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22497 ---
+显示居民应力水平\0
+
+
+--- ITXT , ITEM_ID: 22503 ---
+显示居民应力水平\0
+
+
+------------------- TERM ( Vault112PodTermSimpsonM ) -------------------
+
+--- FULL , ITEM_ID: 22512 ---
+民居监测－隶属：M.辛普森\0
+
+
+--- DESC , ITEM_ID: 22515 ---
+民居37号监测站\r\n居民身份：227－辛普森，M。\0
+
+
+--- ITXT , ITEM_ID: 22517 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22523 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22529 ---
+显示居民应力水平\0
+
+
+--- ITXT , ITEM_ID: 22535 ---
+显示居民应力水平\0
+
+
+------------------- TERM ( Vault112PodTermUnoccupied ) -------------------
+
+--- FULL , ITEM_ID: 22544 ---
+民居监测－无人\0
+
+
+--- DESC , ITEM_ID: 22547 ---
+民居37号监测站\r\n居民身份：空\r\n\r\n\0
+
+
+--- ITXT , ITEM_ID: 22549 ---
+显示居民身份\0
+
+
+--- ITXT , ITEM_ID: 22553 ---
+显示居民应力水平\0
+
+
+------------------- TERM ( Vault112StockpileComputer ) -------------------
+
+--- FULL , ITEM_ID: 22560 ---
+通道计算机。\0
+
+
+--- DESC , ITEM_ID: 22563 ---
+112号避难所安全储备库通道\r\n无任何未经授权的人员在内部安全区。\0
+
+
+--- ITXT , ITEM_ID: 22566 ---
+打开避难所科技通道舱口\0
+
+
+--- RNAM , ITEM_ID: 22567 ---
+正在打开主汽车间区舱口…\0
+
+
+------------------- TERM ( WheatonArmoryDoorTerminal ) -------------------
+
+--- FULL , ITEM_ID: 22576 ---
+计算机终端\0
+
+
+--- DESC , ITEM_ID: 22579 ---
+*******Authorized Personal Only*******\r\nThis room is to remain locked at all times. Use of this terminal without proper clearance is strictly forbidden.\r\n\r\n**Area is under surveillance**  \0
+
+
+--- ITXT , ITEM_ID: 22582 ---
+打开门锁\0
+
+
+--- RNAM , ITEM_ID: 22583 ---
+正在打开门锁…\0
+
+
+--- ITXT , ITEM_ID: 22590 ---
+锁住门锁\0
+
+
+--- RNAM , ITEM_ID: 22591 ---
+!!! 错误－无法找到服务器 !!!\0
+
+
+------------------- TERM ( WomensAuxTerm ) -------------------
+
+--- FULL , ITEM_ID: 22598 ---
+终端\0
+
+
+--- DESC , ITEM_ID: 22601 ---
+国家灾难应急后备\r\n回应单位MD-478\r\n\r\n南希·克罗伊，主管官员\0
+
+
+--- ITXT , ITEM_ID: 22603 ---
+日志条目 #008\0
+
+
+--- RNAM , ITEM_ID: 22604 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 22608 ---
+日志条目 #007\0
+
+
+--- RNAM , ITEM_ID: 22609 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 22613 ---
+日志条目#006\0
+
+
+--- RNAM , ITEM_ID: 22614 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 22618 ---
+日志条目#005\0
+
+
+--- RNAM , ITEM_ID: 22619 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 22623 ---
+日志条目#004\0
+
+
+--- RNAM , ITEM_ID: 22624 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 22628 ---
+日志条目#003\0
+
+
+--- RNAM , ITEM_ID: 22629 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 22633 ---
+日志条目#002\0
+
+
+--- RNAM , ITEM_ID: 22634 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 22638 ---
+日志条目#001\0
+
+
+--- RNAM , ITEM_ID: 22639 ---
+埃德加 读取中…\0
+
+
+--- ITXT , ITEM_ID: 22643 ---
+断开用户：N 克罗伊顿\0
+
+
+--- RNAM , ITEM_ID: 22644 ---
+正在断开用户：N 克罗伊顿\0
+
+
+------------------- TERM ( AbrahamWashingtonTerminal ) -------------------
+
+--- FULL , ITEM_ID: 22652 ---
+亚伯拉罕·华盛顿的终端\0
+
+
+--- DESC , ITEM_ID: 22655 ---
+亚伯拉罕·华盛顿－私人记录\r\n目前考察和现状\0
+
+
+--- ITXT , ITEM_ID: 22658 ---
+考察报告\0
+
+
+--- ITXT , ITEM_ID: 22663 ---
+林肯博物馆考察\0
+
+
+--- ITXT , ITEM_ID: 22668 ---
+自由钟考察\0
+
+
+------------------- TERM ( AWMTerminal ) -------------------
+
+--- FULL , ITEM_ID: 22676 ---
+安克雷奇战争纪念馆终端\0
+
+
+--- ITXT , ITEM_ID: 22683 ---
+初始化水管理系统\0
+
+
+--- RNAM , ITEM_ID: 22684 ---
+失效-总系统发生故障\0
+
+
+--- ITXT , ITEM_ID: 22687 ---
+启用备用发电机\0
+
+
+--- RNAM , ITEM_ID: 22688 ---
+错误－备用发电机故障－代码34\0
+
+
+--- ITXT , ITEM_ID: 22691 ---
+打开医学保险柜锁\0
+
+
+--- RNAM , ITEM_ID: 22692 ---
+医学保险柜已打开\0
+
+
+------------------- TERM ( CapitalPostTerminal1 ) -------------------
+
+--- FULL , ITEM_ID: 22702 ---
+华盛顿邮报头版内容－2077-1-11\0
+
+
+--- DESC , ITEM_ID: 22705 ---
+早上好，首长！\0
+
+
+--- ITXT , ITEM_ID: 22708 ---
+党粉碎－阿拉斯加解放！\0
+
+
+--- ITXT , ITEM_ID: 22713 ---
+食物骚乱使联邦政府恼火\0
+
+
+------------------- TERM ( CapitalPostTerminal2 ) -------------------
+
+--- FULL , ITEM_ID: 22721 ---
+华盛顿邮报头版内容－2072-6-3\0
+
+
+--- DESC , ITEM_ID: 22724 ---
+早上好，首长！\0
+
+
+--- ITXT , ITEM_ID: 22727 ---
+美国成为加拿大附属国！\0
+
+
+--- ITXT , ITEM_ID: 22732 ---
+获准发展超级武器\0
+
+
+------------------- TERM ( CapitalPostTerminal3 ) -------------------
+
+--- FULL , ITEM_ID: 22740 ---
+华盛顿邮报头版内容－2052-7-27\0
+
+
+--- DESC , ITEM_ID: 22743 ---
+早上好，首长！\0
+
+
+--- ITXT , ITEM_ID: 22746 ---
+联合国被解散！\0
+
+
+--- ITXT , ITEM_ID: 22751 ---
+小于到一班的凶器：大到神话？\0
+
+
+------------------- TERM ( CapPresSocietyTerminal ) -------------------
+
+--- FULL , ITEM_ID: 22759 ---
+欢迎来到首都保护协会\0
+
+
+--- DESC , ITEM_ID: 22762 ---
+通知\r\n随时浏览我们的收藏\0
+
+
+--- ITXT , ITEM_ID: 22765 ---
+美国宪法\0
+
+
+--- ITXT , ITEM_ID: 22770 ---
+独立宣言\0
+
+
+--- ITXT , ITEM_ID: 22775 ---
+葛底斯堡演说\0
+
+
+--- ITXT , ITEM_ID: 22780 ---
+门罗主义\0
+
+
+--- ITXT , ITEM_ID: 22785 ---
+美国向德国宣战\0
+
+
+--- ITXT , ITEM_ID: 22790 ---
+美国向中国宣战\0
+
+
+------------------- TERM ( CG04OverseersTerminal ) -------------------
+
+--- FULL , ITEM_ID: 22798 ---
+Overseer's Terminal\0
+
+
+--- DESC , ITEM_ID: 22801 ---
+Welcome, Overseer.\0
+
+
+--- ITXT , ITEM_ID: 22805 ---
+查看外部联系人报告\0
+
+
+--- ITXT , ITEM_ID: 22814 ---
+View Security Dossiers\0
+
+
+--- ITXT , ITEM_ID: 22819 ---
+View Scouting Reports\0
+
+
+--- ITXT , ITEM_ID: 22824 ---
+Vault-Tec Instructions\0
+
+
+--- ITXT , ITEM_ID: 22829 ---
+开启监督者的通道\0
+
+
+--- RNAM , ITEM_ID: 22830 ---
+开启中…\0
+
+
+--- ITXT , ITEM_ID: 22840 ---
+关闭监督者的通道\0
+
+
+--- RNAM , ITEM_ID: 22841 ---
+关闭中…\0
+
+
+--- ITXT , ITEM_ID: 22850 ---
+开启监督者的通道\0
+
+
+--- RNAM , ITEM_ID: 22851 ---
+开启中…\0
+
+
+--- ITXT , ITEM_ID: 22860 ---
+关闭监督者的通道\0
+
+
+--- RNAM , ITEM_ID: 22861 ---
+关闭中…\0
+
+
+------------------- TERM ( CG04OverseersTerminalDossiers ) -------------------
+
+--- FULL , ITEM_ID: 22873 ---
+Security Dossiers\0
+
+
+--- ITXT , ITEM_ID: 22876 ---
+地头蛇\0
+
+
+--- ITXT , ITEM_ID: 22882 ---
+贝娅特里奇\0
+
+
+--- ITXT , ITEM_ID: 22888 ---
+乔纳斯\0
+
+
+--- ITXT , ITEM_ID: 22894 ---
+阿玛塔\0
+
+
+--- ITXT , ITEM_ID: 22900 ---
+反叛\0
+
+
+--- ITXT , ITEM_ID: 22906 ---
+阿玛塔\0
+
+
+------------------- TERM ( CG04OverseersTerminalScouting ) -------------------
+
+--- FULL , ITEM_ID: 22916 ---
+Scouting Reports\0
+
+
+--- ITXT , ITEM_ID: 22919 ---
+报告2241-02-10\0
+
+
+--- ITXT , ITEM_ID: 22927 ---
+2241-02-10 展示 A\0
+
+
+--- ITXT , ITEM_ID: 22932 ---
+2241-02-10 展示 B\0
+
+
+------------------- TERM ( CG04OverseersTerminalVaultTec ) -------------------
+
+--- FULL , ITEM_ID: 22940 ---
+Vault-Tec Instructions\0
+
+
+--- ITXT , ITEM_ID: 22943 ---
+Letter from Doctor Stanislaus Braun\0
+
+
+--- ITXT , ITEM_ID: 22948 ---
+Attachment A\0
+
+
+--- ITXT , ITEM_ID: 22953 ---
+Vault-Tec Scientific Entry: The G.E.C.K.\0
+
+
+------------------- TERM ( CG04Vault101DoorTerminal ) -------------------
+
+--- FULL , ITEM_ID: 22961 ---
+101号避难所入口终端\0
+
+
+--- DESC , ITEM_ID: 22965 ---
+101号避难所通道终端\0
+
+
+--- ITXT , ITEM_ID: 22969 ---
+开启避难所大门控制槽锁\0
+
+
+--- RNAM , ITEM_ID: 22970 ---
+控制槽解锁\0
+
+
+--- ITXT , ITEM_ID: 22974 ---
+Open Door to Overseer's Tunnel\0
+
+
+--- RNAM , ITEM_ID: 22975 ---
+打开门\0
+
+
+--- ITXT , ITEM_ID: 22982 ---
+Close Door to Overseer's Tunnel\0
+
+
+--- RNAM , ITEM_ID: 22983 ---
+关闭门\0
+
+
+------------------- TERM ( CGDadsTerminal ) -------------------
+
+--- FULL , ITEM_ID: 22994 ---
+101号避难所医学数据系统\0
+
+
+--- DESC , ITEM_ID: 22997 ---
+请记住：医疗档案是保密的！\0
+
+
+--- ITXT , ITEM_ID: 23000 ---
+患者档案\0
+
+
+--- ITXT , ITEM_ID: 23005 ---
+实验\0
+
+
+------------------- TERM ( CGDadsTerminalExperiments ) -------------------
+
+--- FULL , ITEM_ID: 23013 ---
+实验\0
+
+
+--- ITXT , ITEM_ID: 23016 ---
+实验27CE\0
+
+
+--- ITXT , ITEM_ID: 23021 ---
+实验PP216\0
+
+

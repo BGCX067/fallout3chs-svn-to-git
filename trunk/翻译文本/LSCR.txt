@@ -1,0 +1,904 @@
+------------------- LSCR ( AgilityLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 493631 ---
+The higher your Sneak skill, the easier it is to remain undetected, steal an item or pick someone's pocket.\0
+潜行技能越高，你越不易被人觉察，扒窃与偷盗的成功率也越高。
+
+------------------- LSCR ( CharismaLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 493635 ---
+High Charisma gives bonuses to both the Barter and Speech skills.\0
+高魅力为你的杀价以及口才技能提供额外加成。
+
+------------------- LSCR ( EnduranceLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 493639 ---
+A high Endurance gives bonuses to Health, environmental resistances, and the Big Guns and Unarmed skills.\0
+高体力为你的生命力，抗候值，大枪械以及肉搏技巧提供额外加成。
+
+------------------- LSCR ( IntelligenceLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 493643 ---
+The higher your Intelligence, the more Skill Points you'll be able to distribute when you level up.\0
+智力越高，你每一次升级可供分配的技能点数就越多。
+
+------------------- LSCR ( LockpickLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 493647 ---
+The Lockpick skill is used to open locked doors and containers.\0
+学习开锁技巧，就可以撬开锁住的门和容器。
+
+------------------- LSCR ( LuckLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 493651 ---
+Raising your Luck raises all of your skill values, and improves your Critical Chance with all weapons.\0
+提升运气值，除了让你使出更多的特殊攻击，还将小幅提升你的所有技巧。
+
+------------------- LSCR ( UnarmedLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 493655 ---
+The Unarmed skill is used for fighting without a weapon, or with hand-to-hand weapons like Brass Knuckles or the Power Fist.\0
+学习肉搏技能，你在空手或是武器(肉搏)，如铜指套，动力拳套，攻击时会更利。
+
+------------------- LSCR ( MedicineLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 493659 ---
+The Medicine skill determines the effectiveness of a Stimpak used to heal Health or damaged limbs.\0
+医疗技能决定了你使用治疗注射治疗重伤或是伤残的肢体时的效果。
+
+------------------- LSCR ( MeleeWeaponsLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 493663 ---
+The Melee Weapons skill determines your effectiveness with any melee weapon, from a simple lead pipe to the high-tech Super Sledge.\0
+近战武器技能决定了你使用近战武器：从简单的铅皮管到高科技的超级铁锤，时的实战效果。
+
+------------------- LSCR ( PerceptionLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 493667 ---
+A high Perception grants a bonus to the Explosives, Lockpick and Energy Weapons skills.\0
+高感知为爆破、开锁和能量型武器等技巧提供额外加成。
+
+------------------- LSCR ( RepairLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 493671 ---
+The Repair skill allows you to maintain any weapons and apparel.\0
+修理技能使你可以维修任何武器和服装。
+
+------------------- LSCR ( ScienceLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 493675 ---
+The Science skill represents your combined scientific knowledge, and is primarily used to hack restricted computer terminals.\0
+科技技能代表了你很多高科技的技巧，但它主要是用于破解受限电脑终端。
+
+------------------- LSCR ( SmallGunsLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 493679 ---
+Small Guns determines your effectiveness with conventional projectile weapons, including the 10mm Pistol, BB Gun, Assault Rifle, and Combat Shotgun.\0
+小型枪械决定了你使用常规射弹武器，如10mm手枪，BB枪，攻击来福枪和战斗散弹枪时的实战效果。
+
+------------------- LSCR ( SneakLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 493683 ---
+The Lockpick skill is used to open locked doors and containers.\0
+开锁技能用于打开锁住的门或容器。
+
+------------------- LSCR ( SpeechLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 493687 ---
+The Speech skill governs how much you can influence someone through dialogue, and gain access to information they might otherwise not want to share.\0
+口才是你以达理的方式与人沟通的技巧，它决定你可以多大程度上说服对方，或从他人口中套取消息。
+
+------------------- LSCR ( StrengthLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 493691 ---
+Strength affects how much you can carry, and determines the effectiveness of all melee attacks.\0
+力量影响你的负重，和近身搏斗的技巧。
+
+------------------- LSCR ( CombatLoadScreen12 ) -------------------
+
+--- DESC , ITEM_ID: 493695 ---
+If you start a fight you can't finish, try putting away your weapon. Your opponent just might forgive you...\0
+如果你无意挑起一场争斗，试着收起你的武器，对手或许会因此谅解你。
+
+------------------- LSCR ( GeneralLoadScreen06 ) -------------------
+
+--- DESC , ITEM_ID: 493699 ---
+Things a bit too tough, or too easy? You can pause the game and modify the difficulty at any time.\0
+缺乏挑战，或是难度太高？任何时候，你都可以暂停游戏来调整难度。
+
+------------------- LSCR ( CombatLoadScreen01 ) -------------------
+
+--- DESC , ITEM_ID: 493703 ---
+You can run faster with your weapon holstered.\0
+把枪收起可以使你跑得更快。
+
+------------------- LSCR ( CombatLoadScreen02 ) -------------------
+
+--- DESC , ITEM_ID: 493707 ---
+Repair your weapons regularly -- the lower the condition, the lower a weapon's effectiveness.\0
+时常修理你的武器--它的状态越差，实战效能就越低下。
+
+------------------- LSCR ( CombatLoadScreen03 ) -------------------
+
+--- DESC , ITEM_ID: 493711 ---
+The lower the condition of your armor or clothing, the less damage it resists in combat.\0
+你的装甲或者衣服的状态越差，战斗中它能抵挡的伤害就越少。
+
+------------------- LSCR ( CombatLoadScreen04 ) -------------------
+
+--- DESC , ITEM_ID: 493715 ---
+Limb damage can be repaired directly by applying Stimpaks to affected areas, using the Pip-Boy.\0
+在哔哔小子中，直接对伤残部位使用治疗注射来回复伤残的肢体。
+
+------------------- LSCR ( CombatLoadScreen05 ) -------------------
+
+--- DESC , ITEM_ID: 493719 ---
+Heavier weapons and apparel will slow you down when they're equipped.\0
+沉重的武器和衣服会减缓你的移动。
+
+------------------- LSCR ( CombatLoadScreen06 ) -------------------
+
+--- DESC , ITEM_ID: 493723 ---
+Zooming in with a ranged weapon slows you down, but improves your accuracy.\0
+当你使用长程武器的瞄准镜，你的移动会变缓，但相应的，你的射击精度会提高。
+
+------------------- LSCR ( GeneralLoadScreen01 ) -------------------
+
+--- DESC , ITEM_ID: 493727 ---
+You can restore Health by using a Stimpak, eating food, drinking from a water source, or sleeping in a bed.\0
+有多种方法可以帮你恢复健康：使用治疗注射、摄食、饮水或是在床上休憩。
+
+------------------- LSCR ( CombatLoadScreen08 ) -------------------
+
+--- DESC , ITEM_ID: 493731 ---
+Crouching will both improve your accuracy, and activate sneak mode.\0
+蹲伏不仅提高你的精度，同时也激活了潜行模式。
+
+------------------- LSCR ( GeneralLoadScreen02 ) -------------------
+
+--- DESC , ITEM_ID: 493735 ---
+Sleeping in any bed will fully restore your Health and heal any crippled body parts.\0
+在床上休憩，你不仅能完全恢复健康，还能回复伤残的肢体。
+
+------------------- LSCR ( GeneralLoadScreen03 ) -------------------
+
+--- DESC , ITEM_ID: 493739 ---
+Drinking from a water source is always a tactical choice -- you will usually restore lost Health, but raise your radiation level.\0
+在水源饮水总是一种冒险：你虽然能恢复健康，但却会受到放射伤害。
+
+------------------- LSCR ( StealthLoadScreen01 ) -------------------
+
+--- DESC , ITEM_ID: 493743 ---
+Running is noisier than walking and makes you easier to detect, even if you are sneaking.\0
+跑步比行走嘈杂，更易引人注意，即便你在潜行状态下。
+
+------------------- LSCR ( GeneralLoadScreen07 ) -------------------
+
+--- DESC , ITEM_ID: 493747 ---
+Changing the difficulty affects how hard combat is. But you'll also get more or less XP for killing enemies.\0
+改变难度，战斗难度会被调整，但对应的当你消灭敌人时，你将获得更多或更少的经验点数。
+
+------------------- LSCR ( CombatLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 493751 ---
+Want to prevent an enemy from fleeing? Cripple the legs.\0
+想让敌人无法脱逃？那就打残它的双腿。
+
+------------------- LSCR ( CreatureLoadScreen07 ) -------------------
+
+--- DESC , ITEM_ID: 493755 ---
+Feral Ghouls have lost the ability to reason, and will attack any human on sight.\0
+野生僵尸已经丧失理性，它们会攻击视线范围内的所有人类。
+
+------------------- LSCR ( TenpennyLoadScreen01 ) -------------------
+
+--- DESC , ITEM_ID: 493759 ---
+Tenpenny Tower is the brainchild of Allistair Tenpenny, a British refugee who came to the Capital Wasteland seeking his fortune.\0
+治宾士（谐音翻译）塔的建立者是亚利斯塔尔 治宾士，一个从英国来首都废土淘金的流民。 
+
+------------------- LSCR ( TenpennyLoadScreen02 ) -------------------
+
+--- DESC , ITEM_ID: 493773 ---
+Allistair Tenpenny now rarely leaves the comfort and safety of his penthouse suite. His is a madness reserved for the obscenely rich.\0
+亚利斯塔尔 治宾士在他的楼顶公寓套房过着安全、舒适的生活，平时深居简出，那些套房为卑鄙敛财的富人而预备着。
+
+------------------- LSCR ( BigtownLoadingScreen ) -------------------
+
+--- DESC , ITEM_ID: 493787 ---
+Although it has some crude fortifications, Big Town is the subject of constant attack from Slavers and Super Mutants, who view it as an easy target.\0
+虽然有些简朴的防御工事，但大人镇一直被看作是必争之地，持续受到来自奴隶贩子和超级变种人的骚扰。
+
+------------------- LSCR ( BigtownLoadingScreen02 ) -------------------
+
+--- DESC , ITEM_ID: 493792 ---
+The population of Big Town has dwindled significantly in recent years. Most of the residents have been killed or dragged off by Slavers or Super Mutants.\0
+大人镇近年来人口骤减，在奴隶贩子及超级变种人的耽耽虎视下，大部分住民不是被杀就是被捉。
+
+------------------- LSCR ( BigtownLoadingScreen03 ) -------------------
+
+--- DESC , ITEM_ID: 493797 ---
+The residents of Big Town are all refugees of another settlement, from which they were forcibly expelled...\0
+大人镇的居民都是从其他定居点驱逐流放的难民。
+
+------------------- LSCR ( CantCommonsLoadingScreen01 ) -------------------
+
+--- DESC , ITEM_ID: 493802 ---
+Canterbury Commons is the end of the Capital Wasteland's established merchant caravan route.\0
+坎特伯里是首都废土商队要道的终点站。
+
+------------------- LSCR ( CantCommonsLoadingScreen02 ) -------------------
+
+--- DESC , ITEM_ID: 493807 ---
+The remains of a large robot repair center loom over the settlement of Canterbury Commons.\0
+一座大型机械修理厂的遗迹把坎特伯里住宅区笼罩于阴影下。
+
+------------------- LSCR ( CantCommonsLoadingScreen03 ) -------------------
+
+--- DESC , ITEM_ID: 493812 ---
+Canterbury Commons has become a constant battleground for two costumed "super humans" -- the sinister AntAgonizer and misguided Mechanist.\0
+坎特伯里俨然已成两类有乔装癖的“超人”--邪恶蚂蚁侠与拙劣钢铁侠之间的持久战战场。
+
+------------------- LSCR ( MegatonLoadScreen01 ) -------------------
+
+--- DESC , ITEM_ID: 493817 ---
+At the center of Megaton's crater sits an undetonated atomic bomb, a remnant of the great conflict that destroyed the world.\0
+在兆屯镇的弹坑中矗立着一枚未爆的原子弹，以前清洗了这个世界的大战残留物。
+
+------------------- LSCR ( MegatonLoadScreen02 ) -------------------
+
+--- DESC , ITEM_ID: 493839 ---
+Some of Megaton's first settlers were lured by the misguided hope of entering the nearby Vault 101.\0
+最早的兆屯镇移民是怀着想进入临近101避难所的空想而纷纷而至的。
+
+------------------- LSCR ( MegatonLoadScreen03 ) -------------------
+
+--- DESC , ITEM_ID: 493861 ---
+Some Megaton residents wonder who's really in charge -- Sheriff Simms, or saloon owner Colin Moriarty...\0
+让一些兆屯镇居民不解的是究竟谁在执管此地？-- 治安官西蒙，还是酒吧主柯林 莫瑞尔提......
+
+------------------- LSCR ( MegatonLoadScreen04 ) -------------------
+
+--- DESC , ITEM_ID: 493883 ---
+The members of the Church of the Children of Atom worship Megaton's atomic bomb.\0
+“原子”之子教堂的信徒们崇拜兆屯镇的原子弹。
+
+------------------- LSCR ( MegatonLoadScreen05 ) -------------------
+
+--- DESC , ITEM_ID: 493905 ---
+Word is that Moira Brown, the eccentric owner of Craterside Supply, is looking for assistance on a new project.\0
+据说”弹坑旁的杂货铺“的古怪店主，莫伊拉，最近正为一个新研究而招募助手。
+
+------------------- LSCR ( MegatonLoadScreen06 ) -------------------
+
+--- DESC , ITEM_ID: 493927 ---
+The residents of Megaton feel safe behind their metal walls. Ironic, considering their proximity to a live atomic bomb.\0
+铁墙后，兆屯镇居民们感到安全。但联想到他们身旁，原子弹依然活跃，这一切就像个讽刺。
+
+------------------- LSCR ( RivetCityLoadScreen01 ) -------------------
+
+--- DESC , ITEM_ID: 493949 ---
+The fore section of Rivet City is split from the rest of the carrier, and occupied by hostile Mirelurks.\0
+铆钉城的前片区与航母其它部分相驳离，那里歇居着充满敌意的沼伏壳.
+
+------------------- LSCR ( RivetCityLoadScreen02 ) -------------------
+
+--- DESC , ITEM_ID: 493960 ---
+What was once a small scientific community gradually grew into Rivet City, the largest settlement in the Capital Wasteland.\0
+曾经的小型科学联盟，渐渐成长成今日的铆钉城，首都废土上最大的住人区。
+
+------------------- LSCR ( RivetCityLoadScreen03 ) -------------------
+
+--- DESC , ITEM_ID: 493971 ---
+Doctor Madison Li, member of Rivet City's ruling council, is one of the greatest scientific minds of her generation.\0
+李博士，铆钉统治议会成员，她那时代最伟大的科学家之一。
+
+------------------- LSCR ( RivetCityLoadScreen04 ) -------------------
+
+--- DESC , ITEM_ID: 493982 ---
+Rivet City has no holding facilities for criminals, and zero tolerance for crime.\0
+铆钉城没有罪犯的容身所，对于罪行毫无姑息之心。
+
+------------------- LSCR ( UnderworldLoadScreen01 ) -------------------
+
+--- DESC , ITEM_ID: 493993 ---
+Underworld has become a haven for disenfranchised Ghouls throughout the Capital Wasteland.\0
+地下世界俨然已成首都废土上民权绝丧的僵尸们的避风湾。
+
+------------------- LSCR ( UnderworldLoadScreen02 ) -------------------
+
+--- DESC , ITEM_ID: 494001 ---
+Underworld was formed in the remains of the Museum of History's special exhibit, which showcased different civilizations' views on the the afterlife.\0
+地下世界是由历史博物馆中一件显示不同文明对余生看法的特殊展品上百废而兴的。
+
+------------------- LSCR ( UnderworldLoadScreen03 ) -------------------
+
+--- DESC , ITEM_ID: 494009 ---
+The Ghouls of Underworld generally aren't bothered by D.C.'s Super Mutants, but resent the Brotherhood of Steel for turning their back yard into a warzone.\0
+地下世界的僵尸与D.C.的超级变种人处之泰然，但对把他们的后院变为战场的钢铁兄弟会却恨得牙痒痒。
+
+------------------- LSCR ( CombatLoadScreen10 ) -------------------
+
+--- DESC , ITEM_ID: 494017 ---
+Picking someone's pocket and placing a mine or grenade in their inventory will activate the explosive... and cause one heck of a mess.\0
+将地雷或者手雷放入他人的衣包里会激活炸药...引发很大骚乱。
+
+------------------- LSCR ( CrimeLoadScreen01 ) -------------------
+
+--- DESC , ITEM_ID: 494021 ---
+The Capital Wasteland lacks a unified government, and any institutional system of crime and punishment. If you wrong someone, prepare to pay with your life.\0
+首都废土没有联合政府，也没有罪行与刑罚机制，如果你得罪了他人，就作好偿命的准备吧。
+
+------------------- LSCR ( StealthLoadScreen02 ) -------------------
+
+--- DESC , ITEM_ID: 494025 ---
+Stealth is affected by many factors, including light level, sound generated, weight and bulk of worn apparel, and line-of-sight.\0
+隐匿行动会受许多因素影响，光线亮度，声音，负重，大半的磨损衣服和视野。
+
+------------------- LSCR ( PerkLoadScreen01 ) -------------------
+
+--- DESC , ITEM_ID: 494029 ---
+With the Animal Friend perk, you will never be the victim of an unprovoked attack from any animal.\0
+拥有动物之友这项能力，你将不再成为动物无端攻击下的牺牲品。
+
+------------------- LSCR ( PerkLoadScreen02 ) -------------------
+
+--- DESC , ITEM_ID: 494033 ---
+With the Action Boy perk, you gain an additional 20 Action Points to use in V.A.T.S.\0
+拥有活力小子这项能力，你在V.A.T.S下将多获得20个动作点数。
+
+------------------- LSCR ( PerkLoadScreen03 ) -------------------
+
+--- DESC , ITEM_ID: 494037 ---
+With the Better Criticals perk, you gain a 50% damage bonus every time a critical hit is scored on an opponent.\0
+拥有更强的致命一击这项能力，你每次命中的特殊攻击都将提升50%的伤害。
+
+------------------- LSCR ( PerkLoadScreen04 ) -------------------
+
+--- DESC , ITEM_ID: 494041 ---
+The Child at Heart perk improves your interactions with children with unique dialogue choices.\0
+拥有童心未泯，你同小孩对话时可能会出现特殊选项。
+
+------------------- LSCR ( GeneralLoadScreen08 ) -------------------
+
+--- DESC , ITEM_ID: 494045 ---
+The only way to reach the Super Mutant-occupied D.C. ruins is by traveling underground, usually through the abandoned Metro tunnels.\0
+要进入超级变种人虎踞的D.C.废址，方法只有一条：走地下，而这通常要穿越废弃的地铁隧道。
+
+------------------- LSCR ( PerkLoadScreen05 ) -------------------
+
+--- DESC , ITEM_ID: 494049 ---
+With the Comprehension perk, you gain one additional skill point whenever a skill book is read.\0
+拥有吸收力这项能力，当你阅读技能书时，都将多获得一个技能点数。
+
+------------------- LSCR ( PerkLoadScreen06 ) -------------------
+
+--- DESC , ITEM_ID: 494053 ---
+With Concentrated Fire, your accuracy to hit any body part in V.A.T.S. increases slightly with each subsequent hit on that body part.\0
+拥有集中火力这项能力，你在V.A.T.S下对某部位的每次追击精度都将小幅提升。
+
+------------------- LSCR ( PerkLoadScreen07 ) -------------------
+
+--- DESC , ITEM_ID: 494057 ---
+Once you have the Contract Killer perk, any Good human or Ghoul character you kill will have an ear on their corpse, which can be sold or traded to a certain Evil character...\0
+当你拥有职业杀手这项能力，你每杀掉一个善良的人类或僵尸，你都能从他们尸体上取得一只耳朵，然后用它们和某个特定的邪恶角色进行交易。
+
+------------------- LSCR ( PerkLoadScreen08 ) -------------------
+
+--- DESC , ITEM_ID: 494061 ---
+The Cyborg perk adds 10 points to your Damage, Poison and Radiation Resistances, and 10 points to your Energy Weapons skill.\0
+生化人这项能力将为你提升10点的伤害、毒及辐射抗性，同时你的能量型武器技能提高10点。
+
+------------------- LSCR ( PerkLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 494065 ---
+With each rank of the Demolition Expert perk, all of your explosive weapons do an additional 20% damage.\0
+每个等级的爆破专家能力，都将使你爆破型武器的杀伤力上升20%。
+
+------------------- LSCR ( PerkLoadScreen10 ) -------------------
+
+--- DESC , ITEM_ID: 494069 ---
+With the Educated perk, you gain three more skill points every time you advance in level.\0
+拥有知识分子这项能力，你每次升级都将多得到3个技能点数。
+
+------------------- LSCR ( PerkLoadScreen11 ) -------------------
+
+--- DESC , ITEM_ID: 494073 ---
+With the Entomologist perk, you do an additional +50% damage every time you attack a mutated insect.\0
+拥有昆虫学家这项能力，你对变异昆虫的杀伤力将增加50%。
+
+------------------- LSCR ( PerkLoadScreen12 ) -------------------
+
+--- DESC , ITEM_ID: 494077 ---
+When you choose the Explorer perk, every location in the world is revealed on your map. So get out there and explore!\0
+当你选择探险家这项能力，任何可去的地点都将出现在你的地图上。让我们出发探索吧！
+
+------------------- LSCR ( PerkLoadScreen13 ) -------------------
+
+--- DESC , ITEM_ID: 494081 ---
+With each rank of the Gun Nut perk, you gain an additional 5 points to the Small Guns and Repair skills.\0
+每个等级的枪械狂能力，都将使你的小型枪械和修理技巧上升5点。
+
+------------------- LSCR ( PerkLoadScreen14 ) -------------------
+
+--- DESC , ITEM_ID: 494085 ---
+With the Fortune Finder perk, you'll find considerably more Nuka-Cola caps in containers than you normally would.\0
+拥有寻宝者这项能力，你比平时更容易找到核子可乐的瓶盖。
+
+------------------- LSCR ( PerkLoadScreen15 ) -------------------
+
+--- DESC , ITEM_ID: 494089 ---
+The Here and Now perk immediately grants an additional experience level, complete with all the advantages that brings.\0
+马上升级，会让你马上提升一个等级，并连带所有应得的好处。
+
+------------------- LSCR ( PerkLoadScreen16 ) -------------------
+
+--- DESC , ITEM_ID: 494093 ---
+With the Impartial Mediation perk, you gain an extra 30 points to Speech... so long as you maintain a Neutral Karma level.\0
+拥有捭阖纵横这项能力，你的口才将获得30点的提升...直到你的道德之秤失去平衡为止。
+
+------------------- LSCR ( PerkLoadScreen17 ) -------------------
+
+--- DESC , ITEM_ID: 494097 ---
+With the Infiltrator perk, you gain one more chance to pick any lock broken by an unsuccessful "Force Lock" attempt.\0
+拥有无孔不入这项能力，你将可以再度试着撬开因“暴力解除”失败而损坏的锁。
+
+------------------- LSCR ( PerkLoadScreen18 ) -------------------
+
+--- DESC , ITEM_ID: 494101 ---
+With the Intense Training perk, you can put a single point into any of your S.P.E.C.I.A.L. attributes.\0
+拥有强化训练这项能力，你的所有技能将上升一点。
+
+------------------- LSCR ( PerkLoadScreen19 ) -------------------
+
+--- DESC , ITEM_ID: 494105 ---
+With the Iron Fist perk, you do an additional 5 points of Unarmed damage per rank.\0
+当你拥有铁腕这项能力，你每一次升级都会增加5点的空手伤害。
+
+------------------- LSCR ( PerkLoadScreen20 ) -------------------
+
+--- DESC , ITEM_ID: 494109 ---
+Fail a hack attempt and get locked out of a computer? Not if you're a Computer Whiz! With this perk, you can attempt to re-hack any computer you were previously locked out of.\0
+破解未果，计算机进不去了？如果你是个电脑专家就无需担忧了！拥有这项能力，你将可以再度尝试破解被锁定的电脑。
+
+------------------- LSCR ( PerkLoadScreen21 ) -------------------
+
+--- DESC , ITEM_ID: 494113 ---
+Once you have the Lawbringer perk, any Evil human or Ghoul character you kill will have a finger on their corpse, which can be sold or traded to a certain Good character...\0
+当你拥有维和者这项能力，你每杀掉一个邪恶的人类或僵尸，你都能从他们尸体上取得一只耳朵，然后用它们和某个特定的善良角色进行交易。
+
+------------------- LSCR ( PerkLoadScreen22 ) -------------------
+
+--- DESC , ITEM_ID: 494117 ---
+With the Lead Belly perk, you take 50% less radiation every time you drink from an irradiated water source.\0
+拥有铅皮肚这项能力，当你从放射水源取水时可以免受50%的放射线伤害。
+
+------------------- LSCR ( PerkLoadScreen23 ) -------------------
+
+--- DESC , ITEM_ID: 494121 ---
+With each rank in the Life Giver perk, you gain an additional 30 Hit Points.\0
+每个等级的强韧生命力能力，都将使你的生命力上升30点。
+
+------------------- LSCR ( PerkLoadScreen24 ) -------------------
+
+--- DESC , ITEM_ID: 494125 ---
+With the Light Step perk, you'll never set off an enemy's mines or floor-based mechanical traps.\0
+拥有潜行这项能力，你再不会触发地雷或地面上的机械机关了。
+
+------------------- LSCR ( PerkLoadScreen25 ) -------------------
+
+--- DESC , ITEM_ID: 494129 ---
+With the Daddy's Boy perk, a male character gains an additional 5 points to both the Science and Medicine skills.\0
+拥有乖乖男这项技能，男性角色将获得5点的增加在科学和医疗方面。
+
+------------------- LSCR ( PerkLoadScreen26 ) -------------------
+
+--- DESC , ITEM_ID: 494133 ---
+With the Daddy's Girl perk, a female character gains an additional 5 points to both the Science and Medicine skills.\0
+拥有乖乖女这项能力，女性角色将获得5点的增加在科学和医疗方面。
+
+------------------- LSCR ( PerkLoadScreen27 ) -------------------
+
+--- DESC , ITEM_ID: 494137 ---
+The Little Leaguer perk improves your melee weapons and explosives skills, making you that much more efficient with a melee weapon or grenades.\0
+小联盟这项能力提升你的近战与爆破技巧，让你更熟练的使用近战武器和手榴弹。
+
+------------------- LSCR ( PerkLoadScreen28 ) -------------------
+
+--- DESC , ITEM_ID: 494141 ---
+When you take the Master Trader perk, the price of every item you buy from a vendor is reduced by 25%.\0
+当你选择大奸商这项能力，你从任何贩售点买东西时都将享受七五折的优待。
+
+------------------- LSCR ( PerkLoadScreen29 ) -------------------
+
+--- DESC , ITEM_ID: 494145 ---
+With the Mister Sandman perk, you can perform a special move that instantly kills any sleeping character, and will gain bonus XP for doing so.\0
+拥有睡魔先生这项能力，你可以杀死任意熟睡中的角色，你也会因此得到额外的经验点数。
+
+------------------- LSCR ( PerkLoadScreen30 ) -------------------
+
+--- DESC , ITEM_ID: 494149 ---
+With the Finesse perk, you gain an additional +5% chance to score a critical hit on an opponent in combat.\0
+拥有足智多谋这项能力，你战斗时使出特殊攻击的几率将提高5%。
+
+------------------- LSCR ( PerkLoadScreen31 ) -------------------
+
+--- DESC , ITEM_ID: 494153 ---
+With the Mysterious Stranger perk, your own personal guardian angel will appear occasionally in V.A.T.S. mode to lend a hand... with deadly efficiency.\0
+拥有神秘陌生人这项能力，你的守护神将在V.A.T.S.模式下随机出现助你一臂之力...极度高效。
+
+------------------- LSCR ( PerkLoadScreen32 ) -------------------
+
+--- DESC , ITEM_ID: 494157 ---
+You've been pushed around long enough! With the Nerd Rage perk, your Strength is raised to 10 and you gain 50% to Damage Resistance whenever your Health drops to 20% or below.\0
+已经够了，你不要再受人摆布了！拥有饭桶之怒这项能力，你的力量将提升至10点，同时，当你体力低于20%时，你的伤害免疫力将增加50%。
+
+------------------- LSCR ( PerkLoadScreen33 ) -------------------
+
+--- DESC , ITEM_ID: 494161 ---
+The Ninja perk grants you the power of the fabled shadow warriors, and increases your chance to do critical hits, and the damage of each.\0
+忍者这项能力将赐予你传说中影之武士的力量，提高你使出特殊攻击的几率和伤害。
+
+------------------- LSCR ( PerkLoadScreen34 ) -------------------
+
+--- DESC , ITEM_ID: 494165 ---
+With the Paralyzing Palm perk, you will sometimes perform a special V.A.T.S. palm strike that paralyzes your opponent for 30 seconds.\0
+拥有迷魂掌这项能力，你在V.A.T.S下偶尔会使出特殊的掌法，麻痹你的敌人30秒。
+
+------------------- LSCR ( PerkLoadScreen35 ) -------------------
+
+--- DESC , ITEM_ID: 494169 ---
+With the Pyromaniac perk, you do +50% damage with fire-based weapons, like the Flamer and Shishkebab.\0
+拥有纵火狂这项能力，你在使用火焰武器，比如火焰发射器和火焰刀时可以多造成50%的伤害。
+
+------------------- LSCR ( PerkLoadScreen37 ) -------------------
+
+--- DESC , ITEM_ID: 494173 ---
+Rad Resistance allows you to -- what elseation. This Perk grants an additional 25% to Radiation Resistance.\0
+辐射抵抗力，你将能...还能怎样?这项能力将增加你25%的放射线免疫力。
+
+------------------- LSCR ( PerkLoadScreen38 ) -------------------
+
+--- DESC , ITEM_ID: 494177 ---
+With the Robotics Expert perk, you do an additional 25% damage to any robot in combat.\0
+拥有机器人专家这项能力，你攻击机器人时都会增加25%的伤害。
+
+------------------- LSCR ( PerkLoadScreen39 ) -------------------
+
+--- DESC , ITEM_ID: 494181 ---
+Each rank of the Scoundrel perk raises your Speech and Barter skills by 5 points.\0
+每个等级的无赖能力，都将使你的口才和杀价技巧上升5点。
+
+------------------- LSCR ( PerkLoadScreen40 ) -------------------
+
+--- DESC , ITEM_ID: 494185 ---
+With the Scrounger perk, you'll find considerably more ammunition in containers than you normally would.\0
+拥有搜寻者这项能力，你比平时更容易找到武器的弹药。
+
+------------------- LSCR ( PerkLoadScreen41 ) -------------------
+
+--- DESC , ITEM_ID: 494189 ---
+With the Silent Running perk, you gain 10 points to your Sneak skill, and running no longer factors into a successful sneak attempt.\0
+拥有衔枚疾走这项能力，你的潜行技能将+10，而且就算跑步，你也不会跳出潜行模式了。
+
+------------------- LSCR ( PerkLoadScreen42 ) -------------------
+
+--- DESC , ITEM_ID: 494193 ---
+With the Sniper Perk, your chance to hit an opponent's head in V.A.T.S. is significantly increased.\0
+拥有狙击手这项能力，在V.A.T.S.下你命中敌人头部的几率将显著提升。
+
+------------------- LSCR ( PerkLoadScreen43 ) -------------------
+
+--- DESC , ITEM_ID: 494197 ---
+With the Solar Powered perk, you gain an additional 2 points to Strength when in direct sunlight, and slowly regenerate lost Health.\0
+拥有太阳能这项能力，在光照下你将获得2点的力量提升，你的体力也会徐徐回复。
+
+------------------- LSCR ( PerkLoadScreen44 ) -------------------
+
+--- DESC , ITEM_ID: 494201 ---
+With the Strong Back perk, you can carry 50 more pounds of equipment.\0
+拥有善背这项能力，你可以多背50磅的物品。
+
+------------------- LSCR ( PerkLoadScreen45 ) -------------------
+
+--- DESC , ITEM_ID: 494205 ---
+With each rank in the Swift Learner perk, you gain an additional 10% to total Experience Points whenever Experience Points are earned.\0
+每个等级的聪明过人能力，都将使你多得到10%的经验点数可以使用。
+
+------------------- LSCR ( PerkLoadScreen46 ) -------------------
+
+--- DESC , ITEM_ID: 494209 ---
+The Tag! perk allows you to select a fourth Skill to be a Tag Skill, meaning it immediately raises by 15 points.\0
+增加特长技能!允许你再选择一个技能作为“特长技能”，“特长技能”一开始就拥有15个的技能点。
+
+------------------- LSCR ( PerkLoadScreen47 ) -------------------
+
+--- DESC , ITEM_ID: 494213 ---
+With each rank of the Thief perk, you gain an immediate bonus of 5 points to both the Sneak and Lockpick skills.\0
+每个等级的小偷能力，都将使你获得一次5点的增加在潜行和开锁方面。
+
+------------------- LSCR ( PerkLoadScreen48 ) -------------------
+
+--- DESC , ITEM_ID: 494217 ---
+With the Toughness perk, you gain +10% to overall Damage Resistance.\0
+拥有强悍过人这项能力，你将多获得10%的总伤害免疫。
+
+------------------- LSCR ( CreatureLoadScreen08 ) -------------------
+
+--- DESC , ITEM_ID: 494221 ---
+Ghouls, both "normal" and Feral, are not only immune to radiation... they're healed by it.\0
+僵尸们，无论“正常”亦或“野生”，不仅对放射线免疫，甚至利用它们来愈合伤口。
+
+------------------- LSCR ( CreatureLoadScreen09 ) -------------------
+
+--- DESC , ITEM_ID: 494225 ---
+A Glowing One is a unique Feral Ghoul that has become a living conduit of radiation.\0
+“发光的人”是一种独特的野生僵尸，他们的身体早已化作生活的放射线导管。
+
+------------------- LSCR ( CreatureLoadScreen10 ) -------------------
+
+--- DESC , ITEM_ID: 494229 ---
+Mirelurk Kings use a devastating sonic attack to debilitate their foes from afar.\0
+沼伏壳之王从远处用破坏性的音波来削弱敌人。
+
+------------------- LSCR ( CreatureLoadScreen01 ) -------------------
+
+--- DESC , ITEM_ID: 494233 ---
+Yao Guai are fast, powerful predators, and are descended from the area's black bears.\0
+妖怪是迅猛的捕食者，它们由这个地区的黑熊演变而来。
+
+------------------- LSCR ( CreatureLoadScreen02 ) -------------------
+
+--- DESC , ITEM_ID: 494237 ---
+Disabling the antennae of insects, like the Giant Ants, will make them frenzy and attack anything nearby.\0
+切断昆虫，比如蚂蚁的触角，会让它们陷入癫狂，袭击任何临近的生物。
+
+------------------- LSCR ( CreatureLoadScreen11 ) -------------------
+
+--- DESC , ITEM_ID: 494241 ---
+The Mister Gutsy model of robot was commissioned by the U.S. Army just before the atomic apocalypse of 2077.\0
+“胆大先生”型机器人是由美国军方，在2077年的天启之战前委托生产的。
+
+------------------- LSCR ( CreatureLoadScreen12 ) -------------------
+
+--- DESC , ITEM_ID: 494245 ---
+The sturdy Protectron model of robot was created before the great war, and served as a security automaton in both the private and business sectors.\0
+坚固的防御型机器人是在大战前创造的，曾在商界和私域作为安全自动机尽职尽忠。
+
+------------------- LSCR ( CreatureLoadScreen13 ) -------------------
+
+--- DESC , ITEM_ID: 494249 ---
+The Robobrain, constructed by General Atomics International before the great nuclear war, is unique in that it uses an actual organic brain as its central processor.\0
+机械脑，由通用电子国际在战前建成。它在某方面绝无仅有，那就是它使用真人脑器官作为它的中央处理器。
+
+------------------- LSCR ( AgilityLoadScreen10 ) -------------------
+
+--- DESC , ITEM_ID: 494253 ---
+If you're successfully hidden, your first attack against an opponent will always result in a critical hit.\0
+如果你成功隐匿，你对敌人的首次打击一定会是特殊攻击。
+
+------------------- LSCR ( CreatureLoadScreen18 ) -------------------
+
+--- DESC , ITEM_ID: 494257 ---
+A Glowing One uses its special ability to deliver radiation to its enemies, and heal any nearby Feral Ghouls.\0
+“发光的人”运用它的特殊能力向敌人传递放射线，同时治愈附近的野生僵尸。
+
+------------------- LSCR ( CreatureLoadScreen19 ) -------------------
+
+--- DESC , ITEM_ID: 494261 ---
+Mister Gutsy is a combat variant of the popular Mister Handy, and is equipped with a Plasma weapon and flamethrower.\0
+“胆大先生”是受人推崇的“实用先生”的战斗变型，它各配备了一台电浆武器及火焰发射器。
+
+------------------- LSCR ( CrimeLoadScreen02 ) -------------------
+
+--- DESC , ITEM_ID: 494265 ---
+The Capital Wasteland lacks an institutional system of crime and punishment. If you wrong someone, prepare to pay with your life.\0
+首都废土欠缺罪行及刑罚体制，如果你得罪了谁，就作好偿命的准备吧。
+
+------------------- LSCR ( GeneralLoadScreen05 ) -------------------
+
+--- DESC , ITEM_ID: 494269 ---
+Sleeping in a rented or owned bed will give you a "Well Rested" bonus that boosts your earned XP for several hours.\0
+在已租或是自有床上休息，你将得到“精神沛沛”的奖励，这能让你数小时内获得更多的经验点数。
+
+------------------- LSCR ( IntelligenceLoadScreen10 ) -------------------
+
+--- DESC , ITEM_ID: 494273 ---
+Intelligence determines your effectiveness with the Science, Repair and Medicine skills.\0
+智力影响着你的科学，修理和医疗技术。
+
+------------------- LSCR ( MedicineLoadScreen10 ) -------------------
+
+--- DESC , ITEM_ID: 494277 ---
+The Medicine skill determines the effectiveness of drugs that help manage radiation, like Rad-X and RadAway.\0
+医疗技能决定了你使用辐射控制剂，如放射线-X和放射药时的效果。
+
+------------------- LSCR ( MegatonLoadScreen07 ) -------------------
+
+--- DESC , ITEM_ID: 494281 ---
+The Church of the Children of Atom believe the war of 2077 was actually a great holy event perpetuated by their god, Atom.\0
+“原子”之子教堂坚信20077年的大战实际上是他们的神，“原子”，显示的一次神迹。
+
+------------------- LSCR ( PerceptionLoadScreen10 ) -------------------
+
+--- DESC , ITEM_ID: 494303 ---
+Perception determines when red tick marks (which indicate threats) appear on your compass.\0
+感知力决定了红色的刻度线（危险标志）何时会出现在你的罗盘上。
+
+------------------- LSCR ( PerkLoadScreen01a ) -------------------
+
+--- DESC , ITEM_ID: 494307 ---
+With the second rank of the Animal Friend perk, animals will come to your aid in combat (but not against other animals).\0
+拥有动物之友第二级的能力，你将在战斗中得到动物的援助（对手不能是其他动物）。
+
+------------------- LSCR ( RepairLoadScreen10 ) -------------------
+
+--- DESC , ITEM_ID: 494311 ---
+The higher your Repair skill, the better the starting condition of any custom-made weapons.\0
+你的修理技能越高，你自制武器的初始状态也越好。
+
+------------------- LSCR ( RivetCityLoadScreen05 ) -------------------
+
+--- DESC , ITEM_ID: 494315 ---
+Security Chief Harkness and his officers are authorized to use deadly force when dealing with any and all transgressors.\0
+哈克里斯警长和他手下的警员都被准许可以对犯法者使用致命性的武力。
+
+------------------- LSCR ( StealthLoadScreen04 ) -------------------
+
+--- DESC , ITEM_ID: 494326 ---
+If you want to stay hidden, stick to the shadows, move slowly, try to stay behind your opponent... and turn off your Pip-Boy light!\0
+如果你想保持隐匿，有几条务必遵守：藏在阴影里，放缓脚步，从敌人背后绕行以及关闭哔哔小子的灯光。
+
+------------------- LSCR ( PerkLoadScreen49 ) -------------------
+
+--- DESC , ITEM_ID: 494330 ---
+If you have the Robotics Expert perk and sneak up on a hostile robot undetected, you can put that robot into a permanent shutdown state.\0
+如果你拥有“机器人专家”能力，当你悄没声息的靠近一台敌对机器人时，你可将它永久停止。
+
+------------------- LSCR ( Vault101LoadScreen01 ) -------------------
+
+--- DESC , ITEM_ID: 494334 ---
+The Overseer is the incontestable leader of Vault 101, and his word is law.\0
+监管者是101避难所不容质疑的领袖，他的话就是法律。
+
+------------------- LSCR ( Vault101LoadScreen02 ) -------------------
+
+--- DESC , ITEM_ID: 494342 ---
+At age 10, every Vault 101 resident receives a Pip-Boy 3000 personal information processor.\0
+10岁时，每名101号避难所的居民都将得到一台哔哔小子3000型个人信息处理机。
+
+------------------- LSCR ( Vault101LoadScreen03 ) -------------------
+
+--- DESC , ITEM_ID: 494350 ---
+At age 16, every Vault 101 resident takes the Generalized Occupational Aptitude Test, or G.O.A.T., which helps determine job placement.\0
+16岁时，每名101避难所的居民都得参加被称为G.O.A.T（山羊）的“通用职业倾向测试”，为他们未来的择业提供参照。
+
+------------------- LSCR ( Vault101LoadScreen04 ) -------------------
+
+--- DESC , ITEM_ID: 494358 ---
+Vault 101 security officers are hand-picked by the Overseer himself for their discretion and loyalty.\0
+101避难所的警员均由监管者亲自挑选，他们言行谨慎，忠贞不二。
+
+------------------- LSCR ( Vault101LoadScreen05 ) -------------------
+
+--- DESC , ITEM_ID: 494366 ---
+Vault 101's residents remain protected from the outside world, with the exception of the occasional Radroach attack.\0
+101避难所的居民受到保护免受外部世界的侵害，唯有偶发的变种蟑螂入侵除外。
+
+------------------- LSCR ( BarterLoadScreen02 ) -------------------
+
+--- DESC , ITEM_ID: 494374 ---
+In general, the higher your Barter skill, the lower your prices on purchased items.\0
+一般而言，你杀价能力越高，你买东西时就能得到越多的优待。
+
+------------------- LSCR ( BigGunsLoadScreen02 ) -------------------
+
+--- DESC , ITEM_ID: 494378 ---
+The Big Guns skill determines your combat effectiveness with the Fat Man, Rock-It Launcher, Missile Launcher, Flamer, Gatling Laser and Minigun.\0
+大型枪械技巧决定了你使用“胖子”、万能发射器、榴弹发射器、火焰发射器、格林镭射及多管机枪时的实战效能。
+
+------------------- LSCR ( EnergyWeaponsLoadScreen02 ) -------------------
+
+--- DESC , ITEM_ID: 494382 ---
+The Energy Weapons skill determines your effectiveness with the Alien Blaster, Laser Pistol, Laser Rifle, Mesmetron, Plasma Rifle and Plasma Pistol.\0
+能量型武器的技巧决定了你使用外星冲击枪、镭射枪、镭射来福、迷魂枪、电浆来福、电浆枪等武器时的实战效能。
+
+------------------- LSCR ( ExplosivesLoadScreen02 ) -------------------
+
+--- DESC , ITEM_ID: 494386 ---
+The Explosives skill determines the power of any set mines, the ease of disarming any hostile mines, and the effectiveness of any thrown grenades.\0
+爆破技能影响了你安装的地雷的威力，你扫除地雷的能力，同时还决定了你使用手掷弹时的效能。
+
+
+------------------- LSCR ( GeneralLoadScreen04 ) -------------------
+
+--- DESC , ITEM_ID: 494390 ---
+Press and hold your Pip-Boy button to turn the Pip-Boy light off and on.\0
+按住哔哔小子按钮不放，你可以打开和关闭哔哔小子的灯光。
+
+
+------------------- LSCR ( StealthLoadScreen03 ) -------------------
+
+--- DESC , ITEM_ID: 494394 ---
+The light generated from your Pip-Boy light actually makes you less stealthy. If you want to effectively sneak, turn it off.\0
+你手上哔哔小子的光亮，差点让你显了形！如果你希望有效的潜行，请将灯光关闭。
+
+
+------------------- LSCR ( CreatureLoadScreen17 ) -------------------
+
+--- DESC , ITEM_ID: 494398 ---
+Disable a robot's Combat Inhibitor, and the confused machine will go into a killing frenzy, attacking friend and foe alike.\0
+关闭机器人的战斗抑制器，它将不分敌我，变成彻头彻脑的杀戮狂。
+
+------------------- LSCR ( CreatureLoadScreen03 ) -------------------
+
+--- DESC , ITEM_ID: 494402 ---
+Super Mutants are often accompanied by Centaurs, which serve as "watchdogs" and alert their masters to danger.\0
+超级变种人常有多脚兽伴随左右，它们就如“看门狗”，提醒自己的主人警惕危险。
+
+------------------- LSCR ( CreatureLoadScreen04 ) -------------------
+
+--- DESC , ITEM_ID: 494406 ---
+Throughout the years since the bombs first fell, dogs have remained largely unaltered by radiation.\0
+自首颗核弹被投下，一直以来狗群大都未受到放射线的影响而发生变异。
+
+------------------- LSCR ( CreatureLoadScreen05 ) -------------------
+
+--- DESC , ITEM_ID: 494410 ---
+Deathclaws are some of the most frightening creatures ever encountered by settlers in the Capital Wasteland. Their speed and ferocity are matched only by the size of their claws...\0
+死亡爪是废土移民所能遭遇的最可怕的生物。它们的灵敏与凶残，只有自身的利爪能比肩。
+
+------------------- LSCR ( CombatLoadScreen11 ) -------------------
+
+--- DESC , ITEM_ID: 494414 ---
+A weapon's DAM indicates its approximate damage, and is modified by factors like the weapon's condition, and your associated skill.\0
+武器的DAM标志了它的近似伤害，这个数值受到武器状态及相关技能的修正。
+
+------------------- LSCR ( TranqLaneLoadScreen1 ) -------------------
+
+--- DESC , ITEM_ID: 494418 ---
+Historical algorithms engaged. Processing Capital Post articles. Extrapolating American cultural references.\0
+历史演算已执行。首都邮报文章处理中，美国文化指涉推算中。
+
+------------------- LSCR ( TranqLaneLoadScreen2 ) -------------------
+
+--- DESC , ITEM_ID: 494423 ---
+Loading Tranquility Lane simulation. Please stand by.\0
+正在读取：Tranquility Lane拟真程序，请静候片刻。
+
+------------------- LSCR ( TranqLaneLoadScreen3 ) -------------------
+
+--- DESC , ITEM_ID: 494428 ---
+Vault-Tec prototype simulation engaged. Active program: Tranquility Lane.\0
+避难所科技原型拟真程序已执行。激活：Tranquility Lane。
+
+------------------- LSCR ( TranqLaneLoadScreen4 ) -------------------
+
+--- DESC , ITEM_ID: 494433 ---
+Accept your perceived reality.\0
+接受你感知的真实。
+
+------------------- LSCR ( CreatureLoadScreen14 ) -------------------
+
+--- DESC , ITEM_ID: 494438 ---
+Mirelurks are naturally armored throughout their body... with the exception of the face. Try using V.A.T.S. to target this area, and kill them before they get close enough to attack.\0
+沼伏壳周被坚硬的铠甲，唯有面部是个例外。在它近到能够伤到你之前，尝试用V.A.T.S瞄准这个部位将它击杀。
+
+
+------------------- LSCR ( CreatureLoadScreen15 ) -------------------
+
+--- DESC , ITEM_ID: 494442 ---
+No job is too nasty for the mercenaries of Talon Company. If you encounter these heartless opportunists, be prepared for a fight to the death.\0
+对Talon公司花钱请来的佣兵来说，工作没有“正直”和“龌龊”的区分。如果你遭遇上这些冷酷的投机分子，就作好死战的准备吧。
+
+------------------- LSCR ( CreatureLoadScreen16 ) -------------------
+
+--- DESC , ITEM_ID: 494446 ---
+Raiders take whatever they want, whenever they want, and their favorite pastimes are torture and murder.\0
+无论何时，强盗都毫无顾忌，他们想拿什么就拿什么。他们最喜欢的娱乐是拷问和谋杀。
+
+------------------- LSCR ( CreatureLoadScreen06 ) -------------------
+
+--- DESC , ITEM_ID: 494450 ---
+Eyebots spread President Eden's pre-recorded Enclave message throughout the Capital Wasteland.\0
+机械眼将伊登总统事先录制的英克雷的信息传遍废土。
+

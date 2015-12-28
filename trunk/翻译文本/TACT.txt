@@ -1,0 +1,240 @@
+------------------- TACT ( MS17AgathasRadio ) -------------------
+
+--- FULL , ITEM_ID: 11212 ---
+阿加莎的电台\0
+
+
+------------------- TACT ( MS18RadioSignal ) -------------------
+
+--- FULL , ITEM_ID: 11218 ---
+突击队紧急频道\0
+
+
+------------------- TACT ( RadioEnclave ) -------------------
+
+--- FULL , ITEM_ID: 11224 ---
+飞地电台\0
+
+
+------------------- TACT ( RadioEnclavePASystem ) -------------------
+
+--- FULL , ITEM_ID: 11230 ---
+飞地公共广播系统\0
+
+
+------------------- TACT ( RadioGalaxyNews ) -------------------
+
+--- FULL , ITEM_ID: 11236 ---
+银河新闻电台\0
+
+
+------------------- TACT ( RadioTenpennyTower ) -------------------
+
+--- FULL , ITEM_ID: 11242 ---
+特佩尼塔电台\0
+
+
+------------------- TACT ( RadioVault101 ) -------------------
+
+--- FULL , ITEM_ID: 11248 ---
+101号避难所广播系统\0
+
+
+------------------- TACT ( RivetCityBridgeIntercom ) -------------------
+
+--- FULL , ITEM_ID: 11255 ---
+保安通话系统\0
+
+
+------------------- TACT ( SuperDuperMartTalkActivator ) -------------------
+
+--- FULL , ITEM_ID: 11262 ---
+扩音器\0
+
+
+------------------- TACT ( TenpennyIntercom ) -------------------
+
+--- FULL , ITEM_ID: 11269 ---
+保安通话系统\0
+
+
+------------------- TACT ( AlienRadioBeacon ) -------------------
+
+--- FULL , ITEM_ID: 11277 ---
+Recon Craft Theta Beacon\0
+
+
+------------------- TACT ( CG02DinerIntercom ) -------------------
+
+--- FULL , ITEM_ID: 11285 ---
+通话系统\0
+
+
+------------------- TACT ( CitadelArmoryIntercom ) -------------------
+
+--- FULL , ITEM_ID: 11293 ---
+Armory通话系统\0
+
+
+------------------- TACT ( CitadelExteriorIntercomActivator ) -------------------
+
+--- FULL , ITEM_ID: 11301 ---
+通话系统\0
+
+
+------------------- TACT ( DEMOMrHandyAct ) -------------------
+
+--- FULL , ITEM_ID: 11309 ---
+巧手先生\0
+
+
+------------------- TACT ( FFEU07RadioBeacon ) -------------------
+
+--- FULL , ITEM_ID: 11316 ---
+中国无线电信号\0
+
+
+------------------- TACT ( FFRadioSignal01 ) -------------------
+
+--- FULL , ITEM_ID: 11324 ---
+无线电信号 Kilo Bravo\0
+
+
+------------------- TACT ( FFRadioSignal02 ) -------------------
+
+--- FULL , ITEM_ID: 11330 ---
+无线电信号 Oscar Zulu\0
+
+
+------------------- TACT ( FFRadioSignal03 ) -------------------
+
+--- FULL , ITEM_ID: 11336 ---
+无线电信号 Alfa Lima\0
+
+
+------------------- TACT ( FFRadioSignal04 ) -------------------
+
+--- FULL , ITEM_ID: 11342 ---
+无线电信号 Echo Foxtrot\0
+
+
+------------------- TACT ( FFRadioSignal05 ) -------------------
+
+--- FULL , ITEM_ID: 11348 ---
+无线电信号 Oscar Tango\0
+
+
+------------------- TACT ( FFRadioSignal06 ) -------------------
+
+--- FULL , ITEM_ID: 11354 ---
+无线电信号 Sierra Romeo\0
+
+
+------------------- TACT ( FFRadioSignal07 ) -------------------
+
+--- FULL , ITEM_ID: 11360 ---
+无线电信号 Yankee Bravo\0
+
+
+------------------- TACT ( FFRadioSignal08 ) -------------------
+
+--- FULL , ITEM_ID: 11366 ---
+无线电信号 Sierra Victor\0
+
+
+------------------- TACT ( FFRadioSignal09 ) -------------------
+
+--- FULL , ITEM_ID: 11372 ---
+无线电信号Papa November\0
+
+
+------------------- TACT ( GNRDoorIntercom ) -------------------
+
+--- FULL , ITEM_ID: 11378 ---
+通话系统\0
+
+
+------------------- TACT ( Harold ) -------------------
+
+--- FULL , ITEM_ID: 11386 ---
+说话的树\0
+
+
+------------------- TACT ( HD00HouseRadio ) -------------------
+
+--- FULL , ITEM_ID: 11401 ---
+屋内唱机无线电\0
+
+
+------------------- TACT ( Intercom ) -------------------
+
+--- FULL , ITEM_ID: 11407 ---
+通话系统\0
+
+
+------------------- TACT ( MamaDolceRadioBeacon ) -------------------
+
+--- FULL , ITEM_ID: 11413 ---
+人民共和国美洲广播\0
+
+
+------------------- TACT ( MoriartysSaloonRadio ) -------------------
+
+--- FULL , ITEM_ID: 11421 ---
+无线电\0
+
+
+------------------- TACT ( MQ05Intercom01 ) -------------------
+
+--- FULL , ITEM_ID: 11428 ---
+通话系统\0
+
+
+------------------- TACT ( MQ08FawkesCellIntercom ) -------------------
+
+--- FULL , ITEM_ID: 11436 ---
+通话系统\0
+
+
+------------------- TACT ( MQ09HoldingCellIntercom01 ) -------------------
+
+--- FULL , ITEM_ID: 11444 ---
+通话系统\0
+
+
+------------------- TACT ( MQ09HoldingCellPresIntercom ) -------------------
+
+--- FULL , ITEM_ID: 11452 ---
+通话系统\0
+
+
+------------------- TACT ( MQ09PresidentEden ) -------------------
+
+--- FULL , ITEM_ID: 11460 ---
+总统伊甸园\0
+
+
+------------------- TACT ( MQ11PurityControlIntercom ) -------------------
+
+--- FULL , ITEM_ID: 11468 ---
+通话系统\0
+
+
+------------------- TACT ( MS11DeputyWeldHead ) -------------------
+
+--- FULL , ITEM_ID: 11476 ---
+Deputy Weld\0
+
+
+------------------- TACT ( MS16Radio101 ) -------------------
+
+--- FULL , ITEM_ID: 11484 ---
+101无线电\0
+
+
+------------------- TACT ( MS16Vault101ExternalRadio ) -------------------
+
+--- FULL , ITEM_ID: 11491 ---
+101避难所紧急频道\0
+
+

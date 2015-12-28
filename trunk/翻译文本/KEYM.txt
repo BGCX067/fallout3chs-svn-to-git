@@ -1,0 +1,960 @@
+------------------- KEYM ( LDJuryBossKey ) -------------------
+
+--- FULL , ITEM_ID: 96625 ---
+Ryan Brigg的安全钥匙\0
+
+
+------------------- KEYM ( LeoStahlDrugsVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 96635 ---
+Leo的隐藏钥匙\0
+
+
+------------------- KEYM ( LOBEnterpriseCEOKey ) -------------------
+
+--- FULL , ITEM_ID: 96646 ---
+LOB企业首席执行长官钥匙\0
+
+
+------------------- KEYM ( LydiaMontenegroVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 96657 ---
+流行服装专卖小店Le Chic的存货钥匙\0
+
+
+------------------- KEYM ( MamaDolceKeyCard ) -------------------
+
+--- FULL , ITEM_ID: 96668 ---
+Mama Dolce的加密钥匙\0
+
+
+------------------- KEYM ( MargaretPrimroseVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 96679 ---
+Margaret Primrose的冷库钥匙\0
+
+
+------------------- KEYM ( MegatonBillyCreelHouseKey ) -------------------
+
+--- FULL , ITEM_ID: 96690 ---
+家钥匙 - Billy Creel\0
+
+
+------------------- KEYM ( MegatonBrassLanternKey ) -------------------
+
+--- FULL , ITEM_ID: 96698 ---
+钥匙 - 黄铜灯门\0
+
+
+------------------- KEYM ( MegatonChurchKey ) -------------------
+
+--- FULL , ITEM_ID: 96706 ---
+钥匙 - 原子教堂\0
+
+
+------------------- KEYM ( MegatonClinicKey ) -------------------
+
+--- FULL , ITEM_ID: 96714 ---
+钥匙 - Megaton诊所？\0
+
+
+------------------- KEYM ( MegatonColinsKey ) -------------------
+
+--- FULL , ITEM_ID: 96722 ---
+Colin Moriarty的钥匙\0
+
+
+------------------- KEYM ( MegatonCratersideSupplyKey ) -------------------
+
+--- FULL , ITEM_ID: 96733 ---
+钥匙 - 火山供给处？\0
+
+
+------------------- KEYM ( MegatonHouseKey ) -------------------
+
+--- FULL , ITEM_ID: 96741 ---
+我的Megaton房钥匙\0
+
+
+------------------- KEYM ( MegatonJerichoHouseKey ) -------------------
+
+--- FULL , ITEM_ID: 96752 ---
+房钥匙 - Jericho\0
+
+
+------------------- KEYM ( MegatonLeoDrugsMerchantContainerKEY ) -------------------
+
+--- FULL , ITEM_ID: 96760 ---
+Leo Stahl的供给处钥匙\0
+
+
+------------------- KEYM ( MegatonLucasSimmsHouseKey ) -------------------
+
+--- FULL , ITEM_ID: 96771 ---
+房钥匙- Lucas Simms\0
+
+
+------------------- KEYM ( MegatonLucyWestHouseKey ) -------------------
+
+--- FULL , ITEM_ID: 96779 ---
+房钥匙- Lucy West\0
+
+
+------------------- KEYM ( MegatonMisterBurkeHouseKey ) -------------------
+
+--- FULL , ITEM_ID: 96787 ---
+房钥匙- Mister Burke\0
+
+
+------------------- KEYM ( MegatonMoriartyOfficeKey ) -------------------
+
+--- FULL , ITEM_ID: 96795 ---
+Moriarty的办公室\0
+
+
+------------------- KEYM ( MegatonMoriartysKey ) -------------------
+
+--- FULL , ITEM_ID: 96806 ---
+房钥匙 - Moriarty家的\0
+
+
+------------------- KEYM ( MegatonNathanMaynaHouseKey ) -------------------
+
+--- FULL , ITEM_ID: 96814 ---
+房钥匙 - Nathan 和 Manya\0
+
+
+------------------- KEYM ( MegatonNoodleStandMerchantContainerKEY ) -------------------
+
+--- FULL , ITEM_ID: 96822 ---
+Noodle Stand 供给处钥匙？\0
+
+
+------------------- KEYM ( MichaelMastersVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 96833 ---
+Michael 大师的存货钥匙\0
+
+
+------------------- KEYM ( MoiraBrownVendorKEY ) -------------------
+
+--- FULL , ITEM_ID: 96844 ---
+火山供给处钥匙？\0
+
+
+------------------- KEYM ( MQ02GunKey ) -------------------
+
+--- FULL , ITEM_ID: 96855 ---
+枪柜钥匙\0
+
+
+------------------- KEYM ( MQ02LootStashKey ) -------------------
+
+--- FULL , ITEM_ID: 96866 ---
+武器储藏室钥匙\0
+
+
+------------------- KEYM ( MS01JailorsKey ) -------------------
+
+--- FULL , ITEM_ID: 96877 ---
+Germantown Jailors 的钥匙\0
+
+
+------------------- KEYM ( MS02AntAgonizerKey ) -------------------
+
+--- FULL , ITEM_ID: 96888 ---
+天敌巢穴的钥匙？\0
+
+
+------------------- KEYM ( MS04CaHDumpsterKey ) -------------------
+
+--- FULL , ITEM_ID: 96899 ---
+Grayditch Dumpster 钥匙？\0
+
+
+------------------- KEYM ( MS04GradysSafeKey ) -------------------
+
+--- FULL , ITEM_ID: 96910 ---
+Grady的安全钥匙\0
+
+
+------------------- KEYM ( MS04ShackKey ) -------------------
+
+--- FULL , ITEM_ID: 96921 ---
+棚屋钥匙\0
+
+
+------------------- KEYM ( MS05ResearchSafeKey ) -------------------
+
+--- FULL , ITEM_ID: 96932 ---
+研究部门的安全钥匙\0
+
+
+------------------- KEYM ( MS09ArefuMasterKey ) -------------------
+
+--- FULL , ITEM_ID: 96943 ---
+Arefu 大师钥匙\0
+
+
+------------------- KEYM ( MS09MurphysLockerKey ) -------------------
+
+--- FULL , ITEM_ID: 96952 ---
+Murphy的床脚柜钥匙\0
+
+
+------------------- KEYM ( MS09VanceSwordCabinetKey ) -------------------
+
+--- FULL , ITEM_ID: 96963 ---
+Vance的剑阁钥匙\0
+
+
+------------------- KEYM ( MS10CavesKey ) -------------------
+
+--- FULL , ITEM_ID: 96974 ---
+绿洲洞穴钥匙\0
+
+
+------------------- KEYM ( MS10OasisMasterKey ) -------------------
+
+--- FULL , ITEM_ID: 96985 ---
+通往绿洲的钥匙\0
+
+
+------------------- KEYM ( MS12Key ) -------------------
+
+--- FULL , ITEM_ID: 96996 ---
+通往十便士发电机房的钥匙\0
+
+
+------------------- KEYM ( MS14DavesKey ) -------------------
+
+--- FULL , ITEM_ID: 97008 ---
+Dave的特殊钥匙\0
+
+
+------------------- KEYM ( MS14DukovsKey ) -------------------
+
+--- FULL , ITEM_ID: 97020 ---
+Dukov的特殊钥匙\0
+
+
+------------------- KEYM ( MS14TedsKey ) -------------------
+
+--- FULL , ITEM_ID: 97032 ---
+Ted Strayer的特殊钥匙\0
+
+
+------------------- KEYM ( MS17AmmoBoxKey ) -------------------
+
+--- FULL , ITEM_ID: 97044 ---
+Agatha的弹药箱钥匙\0
+
+
+------------------- KEYM ( MS18MasterMedsKey ) -------------------
+
+--- FULL , ITEM_ID: 97055 ---
+OLH 大师 Meds 钥匙？\0
+
+
+------------------- KEYM ( MS18StatesmanSafeKey ) -------------------
+
+--- FULL , ITEM_ID: 97066 ---
+通往政治家保险箱的钥匙\0
+
+
+------------------- KEYM ( MuddyRudderKey ) -------------------
+
+--- FULL , ITEM_ID: 97077 ---
+泥舵钥匙？\0
+
+
+------------------- KEYM ( MuseumTechCustodianKey01 ) -------------------
+
+--- FULL , ITEM_ID: 97088 ---
+钥匙 - 技术博物馆的管理员钥匙\0
+
+
+------------------- KEYM ( OutcastBaseKey ) -------------------
+
+--- FULL , ITEM_ID: 97099 ---
+独立要塞入口\0
+
+
+------------------- KEYM ( ParadiseFallsClinicMerchantContainerKEY ) -------------------
+
+--- FULL , ITEM_ID: 97110 ---
+天堂降临诊所钥匙\0
+
+
+------------------- KEYM ( PFallsSlavePenKey ) -------------------
+
+--- FULL , ITEM_ID: 97121 ---
+天堂降临箱钥匙\0
+
+
+------------------- KEYM ( PharmacyKey ) -------------------
+
+--- FULL , ITEM_ID: 97132 ---
+超级骗子药房钥匙\0
+
+
+------------------- KEYM ( ProntoVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97143 ---
+锁了装供给部钥匙？\0
+
+
+------------------- KEYM ( PS05key ) -------------------
+
+--- FULL , ITEM_ID: 97149 ---
+MDPL-05电站钥匙\0
+
+
+------------------- KEYM ( RadioCache06KeyCard ) -------------------
+
+--- FULL , ITEM_ID: 97160 ---
+加密钥匙\0
+
+
+------------------- KEYM ( RCAbrahamWashingtonKey ) -------------------
+
+--- FULL , ITEM_ID: 97171 ---
+Abraham Washington的钥匙\0
+
+
+------------------- KEYM ( RCArmoryKey ) -------------------
+
+--- FULL , ITEM_ID: 97182 ---
+军械库钥匙\0
+
+
+------------------- KEYM ( RCBrockKey ) -------------------
+
+--- FULL , ITEM_ID: 97193 ---
+Brock的钥匙\0
+
+
+------------------- KEYM ( RCDanversKey ) -------------------
+
+--- FULL , ITEM_ID: 97204 ---
+Danvers的钥匙\0
+
+
+------------------- KEYM ( RCDiegoKey ) -------------------
+
+--- FULL , ITEM_ID: 97215 ---
+Diego的钥匙\0
+
+
+------------------- KEYM ( RCDoctorLiKey ) -------------------
+
+--- FULL , ITEM_ID: 97226 ---
+Li博士的钥匙\0
+
+
+------------------- KEYM ( RCFatherCliffordKey ) -------------------
+
+--- FULL , ITEM_ID: 97237 ---
+Clifford老爹的钥匙\0
+
+
+------------------- KEYM ( RCHangarKey ) -------------------
+
+--- FULL , ITEM_ID: 97248 ---
+飞机库钥匙\0
+
+
+------------------- KEYM ( RCHargraveKey ) -------------------
+
+--- FULL , ITEM_ID: 97259 ---
+Hargrave的钥匙\0
+
+
+------------------- KEYM ( RCHarknessKey ) -------------------
+
+--- FULL , ITEM_ID: 97270 ---
+Harkness的钥匙\0
+
+
+------------------- KEYM ( RCMeiWongKey ) -------------------
+
+--- FULL , ITEM_ID: 97281 ---
+Mei Wong的钥匙\0
+
+
+------------------- KEYM ( RCMisterLopezKey ) -------------------
+
+--- FULL , ITEM_ID: 97292 ---
+Mister Lopez的钥匙\0
+
+
+------------------- KEYM ( RCMuddyRudderKey ) -------------------
+
+--- FULL , ITEM_ID: 97303 ---
+泥舵钥匙？\0
+
+
+------------------- KEYM ( RCSaintMonicaKey ) -------------------
+
+--- FULL , ITEM_ID: 97314 ---
+Saint Monica的钥匙\0
+
+
+------------------- KEYM ( RCSisterKey ) -------------------
+
+--- FULL , ITEM_ID: 97325 ---
+姐妹的钥匙\0
+
+
+------------------- KEYM ( RCTedStrayerKey ) -------------------
+
+--- FULL , ITEM_ID: 97336 ---
+Ted Strayer的钥匙\0
+
+
+------------------- KEYM ( RCTrinnieKey ) -------------------
+
+--- FULL , ITEM_ID: 97347 ---
+Trinnie的钥匙\0
+
+
+------------------- KEYM ( RCYoungKey ) -------------------
+
+--- FULL , ITEM_ID: 97358 ---
+Young的钥匙\0
+
+
+------------------- KEYM ( RCZimmerKey ) -------------------
+
+--- FULL , ITEM_ID: 97369 ---
+Zimmer的钥匙\0
+
+
+------------------- KEYM ( RDGateKey ) -------------------
+
+--- FULL , ITEM_ID: 97380 ---
+前门钥匙\0
+
+
+------------------- KEYM ( RedRacerSurgeonsKey ) -------------------
+
+--- FULL , ITEM_ID: 97389 ---
+The Surgeon的钥匙\0
+
+
+------------------- KEYM ( RedVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97400 ---
+通往Red的医疗供给处的钥匙\0
+
+
+------------------- KEYM ( RHSHallKey ) -------------------
+
+--- FULL , ITEM_ID: 97411 ---
+主大厅钥匙\0
+
+
+------------------- KEYM ( RHSLibraryKey ) -------------------
+
+--- FULL , ITEM_ID: 97422 ---
+Roosevelt图书馆钥匙\0
+
+
+------------------- KEYM ( RidgefieldGateKey ) -------------------
+
+--- FULL , ITEM_ID: 97433 ---
+Ridgefield 大门钥匙\0
+
+
+------------------- KEYM ( ScavengerBarnKey ) -------------------
+
+--- FULL , ITEM_ID: 97444 ---
+Scavenger的钥匙\0
+
+
+------------------- KEYM ( SeagraveHolmesRoomKey ) -------------------
+
+--- FULL , ITEM_ID: 97455 ---
+Seagrave Holme的房间钥匙\0
+
+
+------------------- KEYM ( SeagraveHolmesVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97465 ---
+Seagrave Holme的钥匙\0
+
+
+------------------- KEYM ( SeedspreaderVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97476 ---
+播种机种子仓库钥匙\0
+
+
+------------------- KEYM ( ShakesVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97487 ---
+Shake的酒窖钥匙\0
+
+
+------------------- KEYM ( SmilingJackVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97498 ---
+微笑 Jack 售货机钥匙\0
+
+
+------------------- KEYM ( SpringElemBossKey ) -------------------
+
+--- FULL , ITEM_ID: 97506 ---
+Springvale 地下室钥匙\0
+
+
+------------------- KEYM ( SpringElemMinibossKey ) -------------------
+
+--- FULL , ITEM_ID: 97517 ---
+Springvale 图书馆钥匙\0
+
+
+------------------- KEYM ( StahlVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97528 ---
+黄铜灯供给处钥匙？\0
+
+
+------------------- KEYM ( StaleyRoomKey ) -------------------
+
+--- FULL , ITEM_ID: 97539 ---
+Staley的房间钥匙\0
+
+
+------------------- KEYM ( StaleyVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97549 ---
+Staley的钥匙\0
+
+
+------------------- KEYM ( SydneyVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97560 ---
+Sydney的弹药箱钥匙\0
+
+
+------------------- KEYM ( TempleUnionKey ) -------------------
+
+--- FULL , ITEM_ID: 97571 ---
+联盟圣堂钥匙\0
+
+
+------------------- KEYM ( TempleUnionStoreroomKey ) -------------------
+
+--- FULL , ITEM_ID: 97582 ---
+储藏室钥匙\0
+
+
+------------------- KEYM ( TenpennyResidentKey ) -------------------
+
+--- FULL , ITEM_ID: 97593 ---
+十便士居民的钥匙\0
+
+
+------------------- KEYM ( TenpennySuiteKey ) -------------------
+
+--- FULL , ITEM_ID: 97603 ---
+我的十便士塔楼套房钥匙\0
+
+
+------------------- KEYM ( tepidRockSaltsKey ) -------------------
+
+--- FULL , ITEM_ID: 97614 ---
+Rocksalt的钥匙\0
+
+
+------------------- KEYM ( TheFamilyKarlVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97625 ---
+Karl供给处钥匙\0
+
+
+------------------- KEYM ( TulipVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97636 ---
+地下服装店供给处钥匙\0
+
+
+------------------- KEYM ( UncleRoeVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97647 ---
+Roe的仓库钥匙\0
+
+
+------------------- KEYM ( Vault101OverseersKey ) -------------------
+
+--- FULL , ITEM_ID: 97658 ---
+Overseer办公室钥匙\0
+
+
+------------------- KEYM ( Vault106MasterKey ) -------------------
+
+--- FULL , ITEM_ID: 97669 ---
+106避难所所长钥匙\0
+
+
+------------------- KEYM ( vault92bDataStorageKey ) -------------------
+
+--- FULL , ITEM_ID: 97680 ---
+数据库密码\0
+
+
+------------------- KEYM ( VeraWeatherlyRoomKey ) -------------------
+
+--- FULL , ITEM_ID: 97691 ---
+Vera Weatherly的房间钥匙\0
+
+
+------------------- KEYM ( VeraWeatherlyVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97701 ---
+Vera Weatherly的钥匙\0
+
+
+------------------- KEYM ( WilliamBrandiceKey ) -------------------
+
+--- FULL , ITEM_ID: 97712 ---
+William Brandice的钥匙\0
+
+
+------------------- KEYM ( AhzrukhalVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97723 ---
+第九环供给处钥匙？\0
+
+
+------------------- KEYM ( AllistairTenpennySuiteKey ) -------------------
+
+--- FULL , ITEM_ID: 97734 ---
+Allistair Tenpenny的套房钥匙\0
+
+
+------------------- KEYM ( AndaleSmithBasementKey ) -------------------
+
+--- FULL , ITEM_ID: 97745 ---
+Andale地下室钥匙\0
+
+
+------------------- KEYM ( AndaleWilsonShedKey ) -------------------
+
+--- FULL , ITEM_ID: 97756 ---
+Andale车棚钥匙\0
+
+
+------------------- KEYM ( AntAgonizerLairKey ) -------------------
+
+--- FULL , ITEM_ID: 97767 ---
+天敌巢穴钥匙\0
+
+
+------------------- KEYM ( AnthonyLingVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97778 ---
+Anthony Ling 存货钥匙\0
+
+
+------------------- KEYM ( AWMStashKey ) -------------------
+
+--- FULL , ITEM_ID: 97789 ---
+锚地隐藏钥匙\0
+
+
+------------------- KEYM ( BannonRoomKey ) -------------------
+
+--- FULL , ITEM_ID: 97800 ---
+Bannon的房间钥匙\0
+
+
+------------------- KEYM ( BannonVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97810 ---
+Bannon的钥匙\0
+
+
+------------------- KEYM ( BelleBonnyVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97821 ---
+Belle Bonny的钥匙\0
+
+
+------------------- KEYM ( BessieLynnVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97832 ---
+Bessie Lynn的存货钥匙\0
+
+
+------------------- KEYM ( BethRuinsSafeKey ) -------------------
+
+--- FULL , ITEM_ID: 97843 ---
+安全钥匙\0
+
+
+------------------- KEYM ( CantelliRoomKey ) -------------------
+
+--- FULL , ITEM_ID: 97854 ---
+Cantelli的房间钥匙\0
+
+
+------------------- KEYM ( CantelliVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97864 ---
+Cantelli的钥匙\0
+
+
+------------------- KEYM ( CaravanCrowKey ) -------------------
+
+--- FULL , ITEM_ID: 97875 ---
+Crow的供给处钥匙\0
+
+
+------------------- KEYM ( CaravanDocHoffKey ) -------------------
+
+--- FULL , ITEM_ID: 97886 ---
+Doc Hoff的供给处钥匙\0
+
+
+------------------- KEYM ( caravanHarithKey ) -------------------
+
+--- FULL , ITEM_ID: 97897 ---
+Lucky Harith的供给处钥匙\0
+
+
+------------------- KEYM ( CaravanWolfgangKey ) -------------------
+
+--- FULL , ITEM_ID: 97908 ---
+Crazy Wolfgang的供给处钥匙\0
+
+
+------------------- KEYM ( CG04StanleyKey ) -------------------
+
+--- FULL , ITEM_ID: 97919 ---
+101避难所公共钥匙\0
+
+
+------------------- KEYM ( ChiefGustavoVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97930 ---
+Tenpenny军备钥匙\0
+
+
+------------------- KEYM ( chryslusMasterKey ) -------------------
+
+--- FULL , ITEM_ID: 97941 ---
+Chryslus建筑大师钥匙\0
+
+
+------------------- KEYM ( CutterVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97952 ---
+Cutter的医疗供给处钥匙\0
+
+
+------------------- KEYM ( DashwoodSafeKey ) -------------------
+
+--- FULL , ITEM_ID: 97958 ---
+Dashwood的安全钥匙\0
+
+
+------------------- KEYM ( DeathclawCageKey ) -------------------
+
+--- FULL , ITEM_ID: 97969 ---
+死亡爪笼子钥匙\0
+
+
+------------------- KEYM ( DocChurchVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97980 ---
+Megaton诊所钥匙\0
+
+
+------------------- KEYM ( DoctorBanfieldVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 97991 ---
+Banfield大夫的医疗供给处钥匙\0
+
+
+------------------- KEYM ( DoctorBarrowsVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 98002 ---
+Barrows大夫的医疗供给处钥匙\0
+
+
+------------------- KEYM ( DoctorPrestonRoomKey ) -------------------
+
+--- FULL , ITEM_ID: 98013 ---
+Dr. Preston的房间钥匙\0
+
+
+------------------- KEYM ( DoctorPrestonVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 98023 ---
+Dr. Preston的钥匙\0
+
+
+------------------- KEYM ( DomHouseKey ) -------------------
+
+--- FULL , ITEM_ID: 98034 ---
+Dominic的屋子钥匙\0
+
+
+------------------- KEYM ( DukovHouseKey ) -------------------
+
+--- FULL , ITEM_ID: 98045 ---
+Dukov的屋子钥匙\0
+
+
+------------------- KEYM ( EclairVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 98056 ---
+Eclair的冷却器钥匙\0
+
+
+------------------- KEYM ( EMillsBazBrothelKey ) -------------------
+
+--- FULL , ITEM_ID: 98067 ---
+Madame的钥匙\0
+
+
+------------------- KEYM ( evergreenLootClosetKey ) -------------------
+
+--- FULL , ITEM_ID: 98078 ---
+贮藏室钥匙\0
+
+
+------------------- KEYM ( EvergreenMillsSlaveKey ) -------------------
+
+--- FULL , ITEM_ID: 98089 ---
+Evergreen Mills 的奴隶囚禁室钥匙\0
+
+
+------------------- KEYM ( FFEU16Key ) -------------------
+
+--- FULL , ITEM_ID: 98100 ---
+John的钥匙\0
+
+
+------------------- KEYM ( FFWaste04DriverKey ) -------------------
+
+--- FULL , ITEM_ID: 98111 ---
+Driver的钥匙\0
+
+
+------------------- KEYM ( FFWasteCaptainsKey ) -------------------
+
+--- FULL , ITEM_ID: 98122 ---
+Captain的钥匙\0
+
+
+------------------- KEYM ( FlakShrapnelRoomKey ) -------------------
+
+--- FULL , ITEM_ID: 98133 ---
+Flak and Shrapnel的房间钥匙\0
+
+
+------------------- KEYM ( FlakShrapnelVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 98143 ---
+Flak and Shrapnel的钥匙\0
+
+
+------------------- KEYM ( Forge01FranksKey ) -------------------
+
+--- FULL , ITEM_ID: 98154 ---
+Frank的箱子钥匙\0
+
+
+------------------- KEYM ( Forge01KeyCard ) -------------------
+
+--- FULL , ITEM_ID: 98165 ---
+A区加密钥匙\0
+
+
+------------------- KEYM ( ForgeLobbyDoorKey ) -------------------
+
+--- FULL , ITEM_ID: 98176 ---
+锻造厂大厅钥匙\0
+
+
+------------------- KEYM ( fortBanJabscoKey ) -------------------
+
+--- FULL , ITEM_ID: 98187 ---
+Jabsco的钥匙\0
+
+
+------------------- KEYM ( FortIndpendenceWeaponsKey ) -------------------
+
+--- FULL , ITEM_ID: 98198 ---
+要塞 Ind. 储藏室钥匙\0
+
+
+------------------- KEYM ( FriendshipFFGateKey ) -------------------
+
+--- FULL , ITEM_ID: 98209 ---
+地铁公共门钥匙\0
+
+
+------------------- KEYM ( GalloStorageKey ) -------------------
+
+--- FULL , ITEM_ID: 98220 ---
+Gallo的仓库钥匙\0
+
+
+------------------- KEYM ( GibsonHouseKey ) -------------------
+
+--- FULL , ITEM_ID: 98231 ---
+Gibson的钥匙\0
+
+
+------------------- KEYM ( GobVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 98242 ---
+Moriarty的大厅供给处钥匙\0
+
+
+------------------- KEYM ( GrandmaSparkleVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 98253 ---
+通往 Sparkle奶奶的冰箱的钥匙\0
+
+
+------------------- KEYM ( GretaVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 98264 ---
+Carol的空间供给处钥匙\0
+
+
+------------------- KEYM ( JoePorterLarderKey ) -------------------
+
+--- FULL , ITEM_ID: 98275 ---
+Porter的食物储藏室钥匙\0
+
+
+------------------- KEYM ( JoePorterVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 98286 ---
+Joe Poter的仓库钥匙\0
+
+
+------------------- KEYM ( KnickKnackVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 98297 ---
+Knick Knack 供给处钥匙\0
+
+
+------------------- KEYM ( KnightSergeantDurgaVendorKey ) -------------------
+
+--- FULL , ITEM_ID: 98308 ---
+Durga的供给处钥匙\0
+
+
+------------------- KEYM ( LDFortCWarheadStorageKEY ) -------------------
+
+--- FULL , ITEM_ID: 98319 ---
+弹头仓库钥匙\0
+
+

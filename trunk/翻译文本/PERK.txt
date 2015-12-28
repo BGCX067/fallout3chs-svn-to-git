@@ -1,0 +1,862 @@
+------------------- PERK ( LittleLeaguer ) -------------------
+
+--- FULL , ITEM_ID: 494454 ---
+Little Leaguer\0
+
+
+--- DESC , ITEM_ID: 494455 ---
+Years as the Vault little league MVP have honed your hitting and throwing. With every rank, you gain 5 points of Melee Weapons skill and 5 points of Explosives skill.\0
+
+
+------------------- PERK ( MasterTrader ) -------------------
+
+--- FULL , ITEM_ID: 494470 ---
+Master Trader\0
+
+
+--- DESC , ITEM_ID: 494471 ---
+When you take the Master Trader perk, the price of every item you buy from a vendor is reduced by 25%.\0
+
+
+------------------- PERK ( MisterSandman ) -------------------
+
+--- FULL , ITEM_ID: 494483 ---
+Mister Sandman\0
+
+
+--- DESC , ITEM_ID: 494484 ---
+With the Mister Sandman perk, when you're in Sneak mode, you gain the option to silently kill any human or Ghoul while they're sleeping. And, all Mister Sandman kills earn bonus XP.\0
+
+
+--- EPF2 , ITEM_ID: 494500 ---
+Murder\0
+
+
+------------------- PERK ( MS03DreamCrusherPerk ) -------------------
+
+--- FULL , ITEM_ID: 494509 ---
+Dream Crusher\0
+
+
+--- DESC , ITEM_ID: 494510 ---
+Something about your presence dampens others' desires to exceed. Any enemy's chance of getting critical hits on you is reduced by 50%.  \0
+
+
+------------------- PERK ( MS03MutationPerk ) -------------------
+
+--- FULL , ITEM_ID: 494520 ---
+Rad Regeneration\0
+
+
+--- DESC , ITEM_ID: 494521 ---
+After an experimental treatment, intense radiation keeps your body operating at peak performance regardless of crippling injuries... right up until death. When you suffer from Advanced Radiation Poisoning, crippled limbs automatically regenerate.\0
+
+
+------------------- PERK ( MS03Perk1A ) -------------------
+
+--- FULL , ITEM_ID: 494529 ---
+Junior Survivor\0
+
+
+--- DESC , ITEM_ID: 494530 ---
+You've been tested in some of the most dangerous parts of the wastes, and you're still alive to tell the tale. You've gained +2% bonus to Poison Resistance and Radiation Resistance, and +5 points to maximum Health.\0
+
+
+------------------- PERK ( MS03Perk1B ) -------------------
+
+--- FULL , ITEM_ID: 494538 ---
+Junior Survivor\0
+
+
+--- DESC , ITEM_ID: 494539 ---
+You've been tested in some of the most dangerous parts of the wastes, and you're still alive to tell the tale. You've gained +2% bonus to Poison Resistance and Radiation Resistance, and 2 points to both the Medicine and Science skills.\0
+
+
+------------------- PERK ( MS03Perk1C ) -------------------
+
+--- FULL , ITEM_ID: 494547 ---
+Junior Survivor\0
+
+
+--- DESC , ITEM_ID: 494548 ---
+You've been tested in some of the most dangerous parts of the wastes, and you're still alive to tell the tale. You've gained +2% bonus to Poison Resistance, Radiation Resistance and Damage Resistance.\0
+
+
+------------------- PERK ( MS03Perk1D ) -------------------
+
+--- FULL , ITEM_ID: 494556 ---
+Junior Survivor\0
+
+
+--- DESC , ITEM_ID: 494557 ---
+You've been tested in some of the most dangerous parts of the wastes, and you're still alive to tell the tale. You've gained +2% bonus to Poison Resistance & Radiation Resistance, and 2 points to both the Speech and Sneak skills.\0
+
+
+------------------- PERK ( MS03Perk1E ) -------------------
+
+--- FULL , ITEM_ID: 494565 ---
+Junior Survivor\0
+
+
+--- DESC , ITEM_ID: 494566 ---
+You've been tested in some of the most dangerous parts of the wastes, and you're still alive to tell the tale. You've gained +2% bonus to Poison Resistance and Radiation Resistance, and a +1% bonus to Critical Chance.\0
+
+
+------------------- PERK ( MS03Perk2A ) -------------------
+
+--- FULL , ITEM_ID: 494574 ---
+Survival Expert\0
+
+
+--- DESC , ITEM_ID: 494575 ---
+You've been tested in some of the most dangerous parts of the wastes, and you've not only survived - you've learned a few things. You've gained +4% bonus to Poison Resistance and Radiation Resistance, and +10 points to maximum Health.\0
+
+
+------------------- PERK ( MS03Perk2B ) -------------------
+
+--- FULL , ITEM_ID: 494583 ---
+Survival Expert\0
+
+
+--- DESC , ITEM_ID: 494584 ---
+You've been tested in some of the most dangerous parts of the wastes, and you've not only survived - you've learned a few things. You've gained +4% bonus to Poison Resistance and Radiation Resistance, and 4 points to both the Medicine and Science skills.\0
+
+
+------------------- PERK ( MS03Perk2C ) -------------------
+
+--- FULL , ITEM_ID: 494592 ---
+Survival Expert\0
+
+
+--- DESC , ITEM_ID: 494593 ---
+You've been tested in some of the most dangerous parts of the wastes, and you've not only survived - you've learned a few things. You've gained +4% bonus to Poison Resistance, Radiation Resistance and Damage Resistance.\0
+
+
+------------------- PERK ( MS03Perk2D ) -------------------
+
+--- FULL , ITEM_ID: 494601 ---
+Survival Expert\0
+
+
+--- DESC , ITEM_ID: 494602 ---
+You've been tested in some of the most dangerous parts of the wastes, and you've not only survived - you've learned a few things. You've gained +4% bonus to Poison Resistance & Radiation Resistance, and 4 points to both the Speech and Sneak skills.\0
+
+
+------------------- PERK ( MS03Perk2E ) -------------------
+
+--- FULL , ITEM_ID: 494610 ---
+Survival Expert\0
+
+
+--- DESC , ITEM_ID: 494611 ---
+You've been tested in some of the most dangerous parts of the wastes, and you've not only survived - you've learned a few things. You've gained +4% bonus to Poison Resistance and Radiation Resistance, and a +2% bonus to Critical Chance.\0
+
+
+------------------- PERK ( MS03Perk3A ) -------------------
+
+--- FULL , ITEM_ID: 494619 ---
+Survival Guru\0
+
+
+--- DESC , ITEM_ID: 494620 ---
+You wrote the book on how to survive in the Wasteland, and have shared your secrets with humanity. You've gained +6% bonus to Poison Resistance and Radiation Resistance, and +15 points to maximum Health.\0
+
+
+------------------- PERK ( MS03Perk3B ) -------------------
+
+--- FULL , ITEM_ID: 494628 ---
+Survival Guru\0
+
+
+--- DESC , ITEM_ID: 494629 ---
+You wrote the book on how to survive in the Wasteland, and have shared your secrets with humanity. You've gained +6% bonus to Poison Resistance and Radiation Resistance, and 6 points to both the Medicine and Science skills.\0
+
+
+------------------- PERK ( MS03Perk3C ) -------------------
+
+--- FULL , ITEM_ID: 494637 ---
+Survival Guru\0
+
+
+--- DESC , ITEM_ID: 494638 ---
+You wrote the book on how to survive in the Wasteland, and have shared your secrets with humanity. You've gained +6% bonus to Poison Resistance, Radiation Resistance and Damage Resistance.\0
+
+
+------------------- PERK ( MS03Perk3D ) -------------------
+
+--- FULL , ITEM_ID: 494646 ---
+Survival Guru\0
+
+
+--- DESC , ITEM_ID: 494647 ---
+You wrote the book on how to survive in the Wasteland, and have shared your secrets with humanity. You've gained +6% bonus to Poison Resistance & Radiation Resistance, and 6 points to both the Speech and Sneak skills.\0
+
+
+------------------- PERK ( MS03Perk3E ) -------------------
+
+--- FULL , ITEM_ID: 494655 ---
+Survival Guru\0
+
+
+--- DESC , ITEM_ID: 494656 ---
+You wrote the book on how to survive in the Wasteland, and have shared your secrets with humanity. You've gained +6% bonus to Poison Resistance & Radiation Resistance, and +3% bonus to Critical Chance.\0
+
+
+------------------- PERK ( MS04PerceptionPerk ) -------------------
+
+--- FULL , ITEM_ID: 494664 ---
+Ant Sight\0
+
+
+--- DESC , ITEM_ID: 494665 ---
+Your body has been genetically enhanced with the perception and flame resistance of the Grayditch Fire Ants! Your Perception has increased by 1 and you are now 25% resistant to fire.\0
+
+
+------------------- PERK ( MS04StrengthPerk ) -------------------
+
+--- FULL , ITEM_ID: 494673 ---
+Ant Might\0
+
+
+--- DESC , ITEM_ID: 494674 ---
+Your body has been genetically enhanced with the strength and flame resistance of the Grayditch Fire Ants! Your Strength has increased by 1 and you are now 25% resistant to fire.\0
+
+
+------------------- PERK ( MS08RewardPerk ) -------------------
+
+--- FULL , ITEM_ID: 494682 ---
+Wired Reflexes\0
+
+
+--- DESC , ITEM_ID: 494683 ---
+Advanced technology from the Commonwealth has increased your reaction speed, giving you a higher chance to hit in V.A.T.S.\0
+
+
+------------------- PERK ( MS09Hematophage ) -------------------
+
+--- FULL , ITEM_ID: 494693 ---
+Hematophage\0
+
+
+--- DESC , ITEM_ID: 494694 ---
+This perk allows you to regain health by consuming Bloodpacks.\0
+
+
+------------------- PERK ( MS10Barkskin ) -------------------
+
+--- FULL , ITEM_ID: 494699 ---
+Barkskin\0
+
+
+--- DESC , ITEM_ID: 494700 ---
+You've been exposed to Harold's mutation and your skin is now as hard as tree bark. As a result, you've gained a permanent +5% to Damage Resistance.\0
+
+
+------------------- PERK ( MysteriousStranger ) -------------------
+
+--- FULL , ITEM_ID: 494708 ---
+Mysterious Stranger\0
+
+
+--- DESC , ITEM_ID: 494709 ---
+You've gained your own personal guardian angel... armed with a fully loaded .44 Magnum. With this perk, the Mysterious Stranger will appear occasionally in V.A.T.S. mode to lend a hand, with deadly efficiency.\0
+
+
+------------------- PERK ( NerdRage ) -------------------
+
+--- FULL , ITEM_ID: 494720 ---
+Nerd Rage!\0
+
+
+--- DESC , ITEM_ID: 494721 ---
+You've been pushed around long enough! With the Nerd Rage! perk, your Strength is raised to 10 and you gain 50% to damage resistance whenever your Health drops to 20% or below.\0
+
+
+------------------- PERK ( NightPerson ) -------------------
+
+--- FULL , ITEM_ID: 494731 ---
+Night Person\0
+
+
+--- DESC , ITEM_ID: 494732 ---
+When the sun is down, a Night Person gains +2 to both Intelligence and Perception (up to a maximum of 10). This perk directly affects your "internal clock," and remains active both inside and outside.\0
+
+
+------------------- PERK ( Ninja ) -------------------
+
+--- FULL , ITEM_ID: 494740 ---
+Ninja\0
+
+
+--- DESC , ITEM_ID: 494741 ---
+The Ninja perk grants you the power of the fabled shadow warriors. When attacking with either Melee or Unarmed, you gain a +15% critical chance on every strike. Sneak attack criticals do 25% more damage than normal.\0
+
+
+------------------- PERK ( ParalyzingPalm ) -------------------
+
+--- FULL , ITEM_ID: 494761 ---
+Paralyzing Palm\0
+
+
+--- DESC , ITEM_ID: 494762 ---
+With Paralyzing Palm, you will sometimes perform a special V.A.T.S. palm strike that paralyzes your opponent for 30 seconds. Note that in order to perform the Paralyzing Palm, you must be completely unarmed.\0
+
+
+------------------- PERK ( PowerArmorTraining ) -------------------
+
+--- FULL , ITEM_ID: 494773 ---
+Power Armor Training\0
+
+
+--- DESC , ITEM_ID: 494774 ---
+You have received the specialized training needed to move in any form of Power Armor.\0
+
+
+------------------- PERK ( Pyromaniac ) -------------------
+
+--- FULL , ITEM_ID: 494782 ---
+Pyromaniac\0
+
+
+--- DESC , ITEM_ID: 494783 ---
+With the Pyromaniac perk, you do +50% damage with fire-based weapons, like the Flamer and Shishkebab.\0
+
+
+------------------- PERK ( RadResistance ) -------------------
+
+--- FULL , ITEM_ID: 494796 ---
+Rad Resistance\0
+
+
+--- DESC , ITEM_ID: 494797 ---
+Rad Resistance allows you to -- what else? -- resist radiation. This perk grants an additional 25% to Radiation Resistance.\0
+
+
+------------------- PERK ( RoboticsExpert ) -------------------
+
+--- FULL , ITEM_ID: 494806 ---
+Robotics Expert\0
+
+
+--- DESC , ITEM_ID: 494807 ---
+With the Robotics perk, you do an additional 25% damage to any robot. But, even better, sneaking up on a hostile robot undetected and activating it will put that robot into a permanent shutdown state.\0
+
+
+--- EPF2 , ITEM_ID: 494829 ---
+Deactivate\0
+
+
+------------------- PERK ( Scoundrel ) -------------------
+
+--- FULL , ITEM_ID: 494837 ---
+Scoundrel\0
+
+
+--- DESC , ITEM_ID: 494838 ---
+Take the Scoundrel perk, and you can use your wily charms to influence people -- each rank raises your Speech and Barter skills by 5 points.\0
+
+
+------------------- PERK ( Scrounger ) -------------------
+
+--- FULL , ITEM_ID: 494853 ---
+Scrounger\0
+
+
+--- DESC , ITEM_ID: 494854 ---
+With the Scrounger perk, you'll find considerably more ammunition in containers than you normally would.  \0
+
+
+------------------- PERK ( SilentRunning ) -------------------
+
+--- FULL , ITEM_ID: 494863 ---
+Silent Running\0
+
+
+--- DESC , ITEM_ID: 494864 ---
+With the Silent Running perk, you gain an additional 10 points to Sneak, and running no longer factors into a successful sneak attempt.\0
+
+
+------------------- PERK ( SizeMatters ) -------------------
+
+--- FULL , ITEM_ID: 494879 ---
+Size Matters\0
+
+
+--- DESC , ITEM_ID: 494880 ---
+You're obsessed with really big weapons. With each rank of this perk, you gain an additional 15 points to the Big Guns skill.\0
+
+
+------------------- PERK ( Sniper ) -------------------
+
+--- FULL , ITEM_ID: 494895 ---
+Sniper\0
+
+
+--- DESC , ITEM_ID: 494896 ---
+With the Sniper perk, your chance to hit an opponent's head in V.A.T.S. is significantly increased.\0
+
+
+------------------- PERK ( SolarPowered ) -------------------
+
+--- FULL , ITEM_ID: 494911 ---
+Solar Powered\0
+
+
+--- DESC , ITEM_ID: 494912 ---
+With the Solar Powered perk, you gain an additional 2 points to Strength when in direct sunlight, and slowly regenerate lost Health.\0
+
+
+------------------- PERK ( StrongBack ) -------------------
+
+--- FULL , ITEM_ID: 494921 ---
+Strong Back\0
+
+
+--- DESC , ITEM_ID: 494922 ---
+With the Strong Back perk, you can carry 50 more pounds of equipment.\0
+
+
+------------------- PERK ( SwiftLearner ) -------------------
+
+--- FULL , ITEM_ID: 494932 ---
+Swift Learner\0
+
+
+--- DESC , ITEM_ID: 494933 ---
+With each rank in the Swift Learner perk, you gain an additional 10% to total Experience Points whenever Experience Points are earned.\0
+
+
+------------------- PERK ( Tag ) -------------------
+
+--- FULL , ITEM_ID: 494954 ---
+Tag!\0
+
+
+--- DESC , ITEM_ID: 494955 ---
+The Tag! perk allows you to select a fourth Skill to be a Tag skill, which instantly raises it by 15 points.\0
+
+
+------------------- PERK ( Thief ) -------------------
+
+--- FULL , ITEM_ID: 494963 ---
+Thief\0
+
+
+--- DESC , ITEM_ID: 494964 ---
+With each rank of the Thief perk, you gain an immediate bonus of 5 points to both the Sneak and Lockpick skills.\0
+
+
+------------------- PERK ( Toughness ) -------------------
+
+--- FULL , ITEM_ID: 494980 ---
+Toughness\0
+
+
+--- DESC , ITEM_ID: 494981 ---
+With the Toughness perk, you gain +10% to overall Damage Resistance, up to the maximum of 85%.  \0
+
+
+------------------- PERK ( WellRestedPerk ) -------------------
+
+--- FULL , ITEM_ID: 494990 ---
+Well Rested\0
+
+
+--- DESC , ITEM_ID: 494991 ---
+After sleeping in a safe bed, you will wake well rested. You earn 10% more experience points for several hours.\0
+
+
+------------------- PERK ( ActionBoy ) -------------------
+
+--- FULL , ITEM_ID: 495003 ---
+Action Boy\0
+
+
+--- DESC , ITEM_ID: 495004 ---
+With the Action Boy perk, you gain an additional 25 Action Points to use in V.A.T.S.\0
+
+
+------------------- PERK ( ActionGirl ) -------------------
+
+--- FULL , ITEM_ID: 495014 ---
+Action Girl\0
+
+
+--- DESC , ITEM_ID: 495015 ---
+With the Action Girl perk, you gain an additional 25 Action Points to use in V.A.T.S.\0
+
+
+------------------- PERK ( AdamantiumSkeleton ) -------------------
+
+--- FULL , ITEM_ID: 495025 ---
+Adamantium Skeleton\0
+
+
+--- DESC , ITEM_ID: 495026 ---
+With the Adamantium Skeleton perk, your limbs only receive 50% of the damage they normally would.\0
+
+
+------------------- PERK ( AnimalFriend ) -------------------
+
+--- FULL , ITEM_ID: 495036 ---
+Animal Friend\0
+
+
+--- DESC , ITEM_ID: 495037 ---
+At the first rank of this perk, animals simply won't attack. At the second rank, they will actually come to your aid in combat, but never against another animal. This perk affects the Dog, Yao Guai, Mole Rat, and Brahmin. \0
+
+
+------------------- PERK ( BetterCriticals ) -------------------
+
+--- FULL , ITEM_ID: 495049 ---
+Better Criticals\0
+
+
+--- DESC , ITEM_ID: 495050 ---
+With the Better Criticals perk, you gain a 50% damage bonus every time a critical hit is scored on an opponent.\0
+
+
+------------------- PERK ( BlackWidow ) -------------------
+
+--- FULL , ITEM_ID: 495062 ---
+Black Widow\0
+
+
+--- DESC , ITEM_ID: 495063 ---
+In combat, you do +10% damage against male opponents. Outside of combat, you'll sometimes have access to unique dialogue options when dealing with the opposite sex. \0
+
+
+------------------- PERK ( BloodyMess ) -------------------
+
+--- FULL , ITEM_ID: 495076 ---
+Bloody Mess\0
+
+
+--- DESC , ITEM_ID: 495077 ---
+With the Bloody Mess perk, characters and creatures you kill will often explode into a red, gut-ridden, eyeball-strewn paste. Fun! Oh, and you'll do 5% extra damage with all weapons.\0
+
+
+------------------- PERK ( Cannibal ) -------------------
+
+--- FULL , ITEM_ID: 495090 ---
+Cannibal\0
+
+
+--- DESC , ITEM_ID: 495091 ---
+With the Cannibal perk, when you're in Sneak mode, you gain the option to eat a corpse to regain Health. But every time you feed, you lose Karma, and if the act is witnessed, it is considered a crime against nature.\0
+
+
+--- EPF2 , ITEM_ID: 495104 ---
+Devour\0
+
+
+------------------- PERK ( Chemist ) -------------------
+
+--- FULL , ITEM_ID: 495113 ---
+Chemist\0
+
+
+--- DESC , ITEM_ID: 495114 ---
+With the Chemist perk, any chems you take last twice as long.\0
+
+
+------------------- PERK ( ChemResistant ) -------------------
+
+--- FULL , ITEM_ID: 495125 ---
+Chem Resistant\0
+
+
+--- DESC , ITEM_ID: 495126 ---
+Having the Chem Resistant perk means you're 50% less likely to develop an addiction to chems, like Psycho or Jet.\0
+
+
+------------------- PERK ( ChildAtHeart ) -------------------
+
+--- FULL , ITEM_ID: 495137 ---
+Child at Heart\0
+
+
+--- DESC , ITEM_ID: 495138 ---
+The Child at Heart perk greatly improves your interactions with children, usually in the form of unique dialogue choices.\0
+
+
+------------------- PERK ( Commando ) -------------------
+
+--- FULL , ITEM_ID: 495144 ---
+Commando\0
+
+
+--- DESC , ITEM_ID: 495145 ---
+While using a rifle (or similar two-handed weapon), your accuracy in V.A.T.S. is significantly increased.\0
+
+
+------------------- PERK ( Comprehension ) -------------------
+
+--- FULL , ITEM_ID: 495158 ---
+Comprehension\0
+
+
+--- DESC , ITEM_ID: 495159 ---
+With the Comprehension perk, you gain one additional skill point whenever a skill book is read.\0
+
+
+------------------- PERK ( ComputerWhiz ) -------------------
+
+--- FULL , ITEM_ID: 495170 ---
+Computer Whiz\0
+
+
+--- DESC , ITEM_ID: 495171 ---
+Fail a hack attempt and get locked out of a computer? Not if you're a Computer Whiz! With this perk, you can attempt to re-hack any computer you were previously locked out of.\0
+
+
+------------------- PERK ( ConcentratedFire ) -------------------
+
+--- FULL , ITEM_ID: 495183 ---
+Concentrated Fire\0
+
+
+--- DESC , ITEM_ID: 495184 ---
+With Concentrated Fire, your accuracy to hit any body part in V.A.T.S. increases slightly with each subsequent hit on that body part.\0
+
+
+------------------- PERK ( ContractKiller ) -------------------
+
+--- FULL , ITEM_ID: 495196 ---
+Contract Killer\0
+
+
+--- DESC , ITEM_ID: 495197 ---
+Once you have the Contract Killer perk, any good character you kill will have an ear on their corpse. This ear can then be sold to a certain person (whose identity is disclosed when you take the perk) for caps and negative Karma. \0
+
+
+------------------- PERK ( Cyborg ) -------------------
+
+--- FULL , ITEM_ID: 495211 ---
+Cyborg\0
+
+
+--- DESC , ITEM_ID: 495212 ---
+You've made permanent enhancements to your body! The Cyborg perk instantly adds +10% to your Damage, Poison, and Radiation Resistances, and 10 points to the Energy Weapons skill.\0
+
+
+------------------- PERK ( DaddysBoy ) -------------------
+
+--- FULL , ITEM_ID: 495222 ---
+Daddy's Boy\0
+
+
+--- DESC , ITEM_ID: 495223 ---
+Just like dear old Dad, you've devoted your time to intellectual pursuits. You gain an additional 5 points to both the Science and Medicine skills.\0
+
+
+------------------- PERK ( DaddysGirl ) -------------------
+
+--- FULL , ITEM_ID: 495239 ---
+Daddy's Girl\0
+
+
+--- DESC , ITEM_ID: 495240 ---
+Just like dear old Dad, you've devoted your time to intellectual pursuits. You gain an additional 5 points to both the Science and Medicine skills.\0
+
+
+------------------- PERK ( DemolitionExpert ) -------------------
+
+--- FULL , ITEM_ID: 495256 ---
+Demolition Expert\0
+
+
+--- DESC , ITEM_ID: 495257 ---
+With each rank of this perk, all of your explosive weapons do an additional 20% damage.  \0
+
+
+------------------- PERK ( Educated ) -------------------
+
+--- FULL , ITEM_ID: 495284 ---
+Educated\0
+
+
+--- DESC , ITEM_ID: 495285 ---
+With the Educated perk, you gain three more skill points every time you advance in level. This perk is best taken early on, to maximize its effectiveness.\0
+
+
+------------------- PERK ( Entomologist ) -------------------
+
+--- FULL , ITEM_ID: 495296 ---
+Entomologist\0
+
+
+--- DESC , ITEM_ID: 495297 ---
+With the Entomologist perk, you do an additional +50% damage every time you attack a mutated insect, like the Radroach, Giant Ant, or Radscorpion.\0
+
+
+------------------- PERK ( Explorer ) -------------------
+
+--- FULL , ITEM_ID: 495311 ---
+Explorer\0
+
+
+--- DESC , ITEM_ID: 495312 ---
+When you choose the Explorer perk, every location in the world is revealed on your map. So get out there and explore!\0
+
+
+------------------- PERK ( FastMetabolism ) -------------------
+
+--- FULL , ITEM_ID: 495320 ---
+Fast Metabolism\0
+
+
+--- DESC , ITEM_ID: 495321 ---
+With the Fast Metabolism perk, you gain a 20% Health bonus when using Stimpaks.\0
+
+
+------------------- PERK ( Finesse ) -------------------
+
+--- FULL , ITEM_ID: 495326 ---
+Finesse\0
+
+
+--- DESC , ITEM_ID: 495327 ---
+With the Finesse perk, you have a higher chance to score a critical hit on an opponent in combat, equivalent to 5 extra points of Luck.\0
+
+
+------------------- PERK ( FortuneFinder ) -------------------
+
+--- FULL , ITEM_ID: 495335 ---
+Fortune Finder\0
+
+
+--- DESC , ITEM_ID: 495336 ---
+With the Fortune Finder perk, you'll find considerably more Nuka-Cola caps in containers than you normally would. \0
+
+
+------------------- PERK ( GrimReaperSprint ) -------------------
+
+--- FULL , ITEM_ID: 495345 ---
+Grim Reaper's Sprint\0
+
+
+--- DESC , ITEM_ID: 495346 ---
+If you kill a target in V.A.T.S., all your Action Points are restored upon exiting V.A.T.S.\0
+
+
+------------------- PERK ( GunNut ) -------------------
+
+--- FULL , ITEM_ID: 495356 ---
+Gun Nut\0
+
+
+--- DESC , ITEM_ID: 495357 ---
+You're obsessed with using and maintaining a wide variety of conventional firearms. With each rank of the Gun Nut perk, you gain an additional 5 points to the Small Guns and Repair skills.\0
+
+
+------------------- PERK ( Gunslinger ) -------------------
+
+--- FULL , ITEM_ID: 495373 ---
+Gunslinger\0
+
+
+--- DESC , ITEM_ID: 495374 ---
+While using a pistol (or similar one-handed weapon), your accuracy in V.A.T.S. is significantly increased.\0
+
+
+------------------- PERK ( HereandNow ) -------------------
+
+--- FULL , ITEM_ID: 495386 ---
+Here and Now\0
+
+
+--- DESC , ITEM_ID: 495387 ---
+The Here and Now perk immediately grants an additional experience level, complete with all the advantages that brings.\0
+
+
+------------------- PERK ( ImpartialMediation ) -------------------
+
+--- FULL , ITEM_ID: 495396 ---
+Impartial Mediation\0
+
+
+--- DESC , ITEM_ID: 495397 ---
+With the Impartial Mediation perk, you gain an extra 30 points to Speech... so long as you maintain a Neutral Karma level.\0
+
+
+------------------- PERK ( Infiltrator ) -------------------
+
+--- FULL , ITEM_ID: 495406 ---
+Infiltrator\0
+
+
+--- DESC , ITEM_ID: 495407 ---
+With Infiltrator, if a lock is broken, and can't normally be picked again, you can attempt to pick it again one more time. This includes locks previously broken by a "Force Lock" attempt.\0
+
+
+------------------- PERK ( IntenseTraining ) -------------------
+
+--- FULL , ITEM_ID: 495419 ---
+Intense Training\0
+
+
+--- DESC , ITEM_ID: 495420 ---
+With the Intense Training perk, you can put a single point into any of your S.P.E.C.I.A.L. attributes.\0
+
+
+------------------- PERK ( IronFist ) -------------------
+
+--- FULL , ITEM_ID: 495455 ---
+Iron Fist\0
+
+
+--- DESC , ITEM_ID: 495456 ---
+With the Iron Fist perk, you do an additional 5 points of Unarmed damage per rank.\0
+
+
+------------------- PERK ( LadyKiller ) -------------------
+
+--- FULL , ITEM_ID: 495471 ---
+Lady Killer\0
+
+
+--- DESC , ITEM_ID: 495472 ---
+In combat, you do +10% damage against female opponents. Outside of combat, you'll sometimes have access to unique dialogue options when dealing with the opposite sex. \0
+
+
+------------------- PERK ( Lawbringer ) -------------------
+
+--- FULL , ITEM_ID: 495485 ---
+Lawbringer\0
+
+
+--- DESC , ITEM_ID: 495486 ---
+Once you have the Lawbringer perk, any evil character you kill will have a finger on their corpse. This finger can then be sold to a certain person (whose identity is disclosed when you take the perk) for caps and positive Karma.  \0
+
+
+------------------- PERK ( LeadBelly ) -------------------
+
+--- FULL , ITEM_ID: 495500 ---
+Lead Belly\0
+
+
+--- DESC , ITEM_ID: 495501 ---
+With the Lead Belly perk, you take 50% less radiation every time you drink from an irradiated water source.\0
+
+
+------------------- PERK ( LifeGiver ) -------------------
+
+--- FULL , ITEM_ID: 495512 ---
+Life Giver\0
+
+
+--- DESC , ITEM_ID: 495513 ---
+With the Life Giver perk, you gain an additional 30 Hit Points.\0
+
+
+------------------- PERK ( LightStep ) -------------------
+
+--- FULL , ITEM_ID: 495522 ---
+Light Step\0
+
+
+--- DESC , ITEM_ID: 495523 ---
+With the Light Step perk, you'll never set off an enemy's mines or floor-based traps.\0
+
+

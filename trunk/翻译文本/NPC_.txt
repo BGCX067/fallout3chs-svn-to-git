@@ -1,0 +1,7715 @@
+------------------- NPC_ ( Raider2GunHM ) -------------------
+
+--- FULL , ITEM_ID: 42363 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2MeleeAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 42403 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2MeleeAAM ) -------------------
+
+--- FULL , ITEM_ID: 42441 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2MeleeAF ) -------------------
+
+--- FULL , ITEM_ID: 42475 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2MeleeAM ) -------------------
+
+--- FULL , ITEM_ID: 42510 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2MeleeCF ) -------------------
+
+--- FULL , ITEM_ID: 42546 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2MeleeCM ) -------------------
+
+--- FULL , ITEM_ID: 42581 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2MeleeHF ) -------------------
+
+--- FULL , ITEM_ID: 42620 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2MeleeHM ) -------------------
+
+--- FULL , ITEM_ID: 42656 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2RifleAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 42693 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2RifleAAM ) -------------------
+
+--- FULL , ITEM_ID: 42727 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2RifleAF ) -------------------
+
+--- FULL , ITEM_ID: 42765 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2RifleAM ) -------------------
+
+--- FULL , ITEM_ID: 42802 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2RifleCF ) -------------------
+
+--- FULL , ITEM_ID: 42842 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2RifleCM ) -------------------
+
+--- FULL , ITEM_ID: 42879 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2RifleHF ) -------------------
+
+--- FULL , ITEM_ID: 42918 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2RifleHM ) -------------------
+
+--- FULL , ITEM_ID: 42956 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2SpecialAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 42997 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2SpecialAAM ) -------------------
+
+--- FULL , ITEM_ID: 43031 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2SpecialAF ) -------------------
+
+--- FULL , ITEM_ID: 43070 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2SpecialAM ) -------------------
+
+--- FULL , ITEM_ID: 43107 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2SpecialCF ) -------------------
+
+--- FULL , ITEM_ID: 43145 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2SpecialCM ) -------------------
+
+--- FULL , ITEM_ID: 43183 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2SpecialHF ) -------------------
+
+--- FULL , ITEM_ID: 43222 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2SpecialHM ) -------------------
+
+--- FULL , ITEM_ID: 43259 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3GunAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 43297 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3GunAAM ) -------------------
+
+--- FULL , ITEM_ID: 43333 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3GunAF ) -------------------
+
+--- FULL , ITEM_ID: 43371 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3GunAM ) -------------------
+
+--- FULL , ITEM_ID: 43408 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3GunCF ) -------------------
+
+--- FULL , ITEM_ID: 43447 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3GunCM ) -------------------
+
+--- FULL , ITEM_ID: 43484 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3GunHF ) -------------------
+
+--- FULL , ITEM_ID: 43522 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3GunHM ) -------------------
+
+--- FULL , ITEM_ID: 43559 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3MeleeAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 43597 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3MeleeAAM ) -------------------
+
+--- FULL , ITEM_ID: 43634 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3MeleeAF ) -------------------
+
+--- FULL , ITEM_ID: 43672 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3MeleeAM ) -------------------
+
+--- FULL , ITEM_ID: 43708 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3MeleeCF ) -------------------
+
+--- FULL , ITEM_ID: 43745 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3MeleeCM ) -------------------
+
+--- FULL , ITEM_ID: 43781 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3MeleeHF ) -------------------
+
+--- FULL , ITEM_ID: 43818 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3MeleeHM ) -------------------
+
+--- FULL , ITEM_ID: 43853 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3RifleAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 43891 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3RifleAAM ) -------------------
+
+--- FULL , ITEM_ID: 43928 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3RifleAF ) -------------------
+
+--- FULL , ITEM_ID: 43968 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3RifleAM ) -------------------
+
+--- FULL , ITEM_ID: 44006 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3RifleCF ) -------------------
+
+--- FULL , ITEM_ID: 44046 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3RifleCM ) -------------------
+
+--- FULL , ITEM_ID: 44084 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3RifleHF ) -------------------
+
+--- FULL , ITEM_ID: 44123 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3RifleHM ) -------------------
+
+--- FULL , ITEM_ID: 44160 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3SpecialAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 44199 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3SpecialAAM ) -------------------
+
+--- FULL , ITEM_ID: 44236 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3SpecialAF ) -------------------
+
+--- FULL , ITEM_ID: 44274 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3SpecialAM ) -------------------
+
+--- FULL , ITEM_ID: 44311 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3SpecialCF ) -------------------
+
+--- FULL , ITEM_ID: 44349 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3SpecialCM ) -------------------
+
+--- FULL , ITEM_ID: 44386 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3SpecialHF ) -------------------
+
+--- FULL , ITEM_ID: 44426 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider3SpecialHM ) -------------------
+
+--- FULL , ITEM_ID: 44463 ---
+匪徒\0
+
+
+------------------- NPC_ ( Ralph ) -------------------
+
+--- FULL , ITEM_ID: 44502 ---
+拉尔夫\0
+
+
+------------------- NPC_ ( RavenRockEnclaveDEAD ) -------------------
+
+--- FULL , ITEM_ID: 44539 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( RCPatient ) -------------------
+
+--- FULL , ITEM_ID: 44567 ---
+病人\0
+
+
+------------------- NPC_ ( RCSecurityBridgePostDayTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 44596 ---
+Rivet City Security\0
+
+
+------------------- NPC_ ( RCSecurityBridgePostNight ) -------------------
+
+--- FULL , ITEM_ID: 44636 ---
+Rivet City Security\0
+
+
+------------------- NPC_ ( RCSecurityGatePostDay ) -------------------
+
+--- FULL , ITEM_ID: 44677 ---
+Rivet City Security\0
+
+
+------------------- NPC_ ( RCSecurityGatePostNight ) -------------------
+
+--- FULL , ITEM_ID: 44719 ---
+Rivet City Security\0
+
+
+------------------- NPC_ ( RCSecurityHangarPostDay ) -------------------
+
+--- FULL , ITEM_ID: 44761 ---
+Rivet City Security\0
+
+
+------------------- NPC_ ( RCSecurityHangarPostNight ) -------------------
+
+--- FULL , ITEM_ID: 44806 ---
+Rivet City Security\0
+
+
+------------------- NPC_ ( RCSecurityPatrolDay ) -------------------
+
+--- FULL , ITEM_ID: 44848 ---
+Rivet City Security\0
+
+
+------------------- NPC_ ( RCSecurityPatrolMid ) -------------------
+
+--- FULL , ITEM_ID: 44889 ---
+Rivet City Security\0
+
+
+------------------- NPC_ ( RCSecurityPatrolNight ) -------------------
+
+--- FULL , ITEM_ID: 44927 ---
+Rivet City Security\0
+
+
+------------------- NPC_ ( RCSecurityPatrolUpper ) -------------------
+
+--- FULL , ITEM_ID: 44968 ---
+Rivet City Security\0
+
+
+------------------- NPC_ ( Red ) -------------------
+
+--- FULL , ITEM_ID: 45006 ---
+Red\0
+
+
+------------------- NPC_ ( RedRacerDoctor ) -------------------
+
+--- FULL , ITEM_ID: 45078 ---
+外科医生\0
+
+
+------------------- NPC_ ( Regulator1GunAAMTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 45111 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Regulator1GunAM ) -------------------
+
+--- FULL , ITEM_ID: 45149 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Regulator1GunCM ) -------------------
+
+--- FULL , ITEM_ID: 45187 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Regulator1GunHM ) -------------------
+
+--- FULL , ITEM_ID: 45221 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Regulator2GunAAMTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 45259 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Regulator2GunAM ) -------------------
+
+--- FULL , ITEM_ID: 45296 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Regulator2GunCM ) -------------------
+
+--- FULL , ITEM_ID: 45331 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Regulator2GunHM ) -------------------
+
+--- FULL , ITEM_ID: 45369 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Regulator3GunAAMTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 45407 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Regulator3GunAM ) -------------------
+
+--- FULL , ITEM_ID: 45444 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Regulator3GunCM ) -------------------
+
+--- FULL , ITEM_ID: 45482 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Regulator3GunHM ) -------------------
+
+--- FULL , ITEM_ID: 45516 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( RegulatorDeadPlunkett ) -------------------
+
+--- FULL , ITEM_ID: 45552 ---
+Dead Regulator\0
+
+
+------------------- NPC_ ( RHSSettler01 ) -------------------
+
+--- FULL , ITEM_ID: 45582 ---
+死掉的拓荒者\0
+
+
+------------------- NPC_ ( Richter ) -------------------
+
+--- FULL , ITEM_ID: 45613 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( RoachKing ) -------------------
+
+--- FULL , ITEM_ID: 45647 ---
+The Roach King\0
+蟑螂王\0
+
+
+------------------- NPC_ ( RogerRockwell ) -------------------
+
+--- FULL , ITEM_ID: 45679 ---
+Roger Rockwell\0
+罗杰.洛克威尔\0
+
+
+------------------- NPC_ ( RonaldLaren ) -------------------
+
+--- FULL , ITEM_ID: 45714 ---
+Ronald Laren\0
+罗纳德.拉伦\0
+
+
+------------------- NPC_ ( RonaldLarenDead ) -------------------
+
+--- FULL , ITEM_ID: 45751 ---
+Ronald Laren\0
+罗纳德.拉伦\0
+
+
+------------------- NPC_ ( RoryMaclaren ) -------------------
+
+--- FULL , ITEM_ID: 45783 ---
+Rory Maclaren\0
+罗里.麦克拉伦\0
+
+
+------------------- NPC_ ( Rosie ) -------------------
+
+--- FULL , ITEM_ID: 45825 ---
+Rosie\0
+罗茜
+
+
+------------------- NPC_ ( RoyPhillips ) -------------------
+
+--- FULL , ITEM_ID: 45858 ---
+Roy Phillips\0
+罗伊.菲利普斯\0
+
+
+------------------- NPC_ ( RRBrick ) -------------------
+
+--- FULL , ITEM_ID: 45911 ---
+Brick\0
+布里克\0
+
+
+------------------- NPC_ ( RRButcher ) -------------------
+
+--- FULL , ITEM_ID: 45947 ---
+Butcher\0
+屠夫\0
+
+
+------------------- NPC_ ( RRDonovan ) -------------------
+
+--- FULL , ITEM_ID: 45989 ---
+Donovan\0
+多诺凡\0
+
+
+------------------- NPC_ ( RRReilly ) -------------------
+
+--- FULL , ITEM_ID: 46032 ---
+Reilly\0
+莱莉\0
+
+
+------------------- NPC_ ( RRTheo ) -------------------
+
+--- FULL , ITEM_ID: 46067 ---
+Theo\0
+西奥\0
+
+
+------------------- NPC_ ( Sammy ) -------------------
+
+--- FULL , ITEM_ID: 46095 ---
+Sammy\0
+萨米\0
+
+
+------------------- NPC_ ( SatCom01MadScientist ) -------------------
+
+--- FULL , ITEM_ID: 46151 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( ScribeBowditch ) -------------------
+
+--- FULL , ITEM_ID: 46186 ---
+Scribe Bowditch\0
+书记员鲍迪奇\0 (美国数学家,1773-1838)
+
+
+------------------- NPC_ ( ScribeJameson ) -------------------
+
+--- FULL , ITEM_ID: 46223 ---
+Scribe Jameson\0
+书记员詹姆森\0
+
+
+------------------- NPC_ ( ScribePeabody ) -------------------
+
+--- FULL , ITEM_ID: 46256 ---
+Scribe Peabody\0
+书记员皮博迪\0 (美国慈善家,1795-1869)
+
+
+------------------- NPC_ ( ScribeRothchild ) -------------------
+
+--- FULL , ITEM_ID: 46292 ---
+Scribe Rothchild\0
+书记员罗斯柴尔德\0 (英国银行家,1777-1836)
+
+
+------------------- NPC_ ( ScribeYearling ) -------------------
+
+--- FULL , ITEM_ID: 46345 ---
+Scribe Yearling\0
+书记员伊玲\0
+
+
+------------------- NPC_ ( SDODubois ) -------------------
+
+--- FULL , ITEM_ID: 46381 ---
+Centre Dubois\0
+森特.迪布瓦\0
+
+
+------------------- NPC_ ( SDOGervais ) -------------------
+
+--- FULL , ITEM_ID: 46416 ---
+Winger Gervais\0
+温格.杰尔维\0
+
+
+------------------- NPC_ ( SDOLedoux ) -------------------
+
+--- FULL , ITEM_ID: 46453 ---
+Goalie Ledoux\0
+高里.雷多克斯\0
+
+
+------------------- NPC_ ( SDOMercier ) -------------------
+
+--- FULL , ITEM_ID: 46490 ---
+Winger Mercier\0
+温格.莫希尔\0
+
+
+------------------- NPC_ ( SeagraveHolmes ) -------------------
+
+--- FULL , ITEM_ID: 46526 ---
+Seagrave Holmes\0
+西格雷夫.福尔摩斯\0
+
+
+------------------- NPC_ ( ShalebridgeFFNoteGuy ) -------------------
+
+--- FULL , ITEM_ID: 46574 ---
+蚂蚁研究员\0
+
+
+------------------- NPC_ ( Shawna ) -------------------
+
+--- FULL , ITEM_ID: 46606 ---
+Shawna\0
+肖恩娜\0
+
+
+------------------- NPC_ ( SheltonAUDIO ) -------------------
+
+--- FULL , ITEM_ID: 46641 ---
+Shelton - Audio Only\0
+谢尔顿-只有声音
+
+
+------------------- NPC_ ( Shorty ) -------------------
+
+--- FULL , ITEM_ID: 46662 ---
+Shorty\0
+邵提\0
+矮子\0
+
+
+------------------- NPC_ ( Shrapnel ) -------------------
+
+--- FULL , ITEM_ID: 46723 ---
+Shrapnel\0
+史莱普纳\0
+榴弹\0
+
+
+------------------- NPC_ ( SierraPetrovita ) -------------------
+
+--- FULL , ITEM_ID: 46776 ---
+Sierra Petrovita\0
+席拉.派特罗维塔\0
+
+
+------------------- NPC_ ( SimoneCameron ) -------------------
+
+--- FULL , ITEM_ID: 46813 ---
+Simone Cameron\0
+西蒙.卡梅伦\0
+
+
+------------------- NPC_ ( Sister ) -------------------
+
+--- FULL , ITEM_ID: 46867 ---
+Sister\0
+塞斯特\0
+姐妹\0
+
+
+------------------- NPC_ ( SlaverAAFTemplate ) -------------------
+
+--- FULL , ITEM_ID: 46911 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( SlaverAAM ) -------------------
+
+--- FULL , ITEM_ID: 46944 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( SlaverAF ) -------------------
+
+--- FULL , ITEM_ID: 46978 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( SlaverAM ) -------------------
+
+--- FULL , ITEM_ID: 47006 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( SlaverCF ) -------------------
+
+--- FULL , ITEM_ID: 47036 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( SlaverCM ) -------------------
+
+--- FULL , ITEM_ID: 47064 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( SlaverHF ) -------------------
+
+--- FULL , ITEM_ID: 47094 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( SlaverHM ) -------------------
+
+--- FULL , ITEM_ID: 47123 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( SmilingJack ) -------------------
+
+--- FULL , ITEM_ID: 47154 ---
+Smiling Jack\0
+微笑杰克\0
+
+
+------------------- NPC_ ( Snowflake ) -------------------
+
+--- FULL , ITEM_ID: 47189 ---
+Snowflake\0
+斯诺弗雷克\0
+雪花\0
+
+
+------------------- NPC_ ( SonoraCruz ) ------------------- 
+
+--- FULL , ITEM_ID: 47224 ---
+Sonora Cruz\0
+索诺拉.克鲁兹\0
+风暴.克鲁兹\0
+
+
+------------------- NPC_ ( SquireMaxson ) -------------------
+
+--- FULL , ITEM_ID: 47256 ---
+Squire Maxson\0
+护卫者　麦克森\0
+
+
+------------------- NPC_ ( Squirrel ) -------------------
+
+--- FULL , ITEM_ID: 47286 ---
+Squirrel\0
+斯克维罗\0
+松鼠\0
+
+
+------------------- NPC_ ( Stacey ) -------------------
+
+--- FULL , ITEM_ID: 47334 ---
+Stacey\0
+斯特西\0
+
+
+------------------- NPC_ ( Stanley ) -------------------
+
+--- FULL , ITEM_ID: 47367 ---
+Stanley\0
+斯坦利\0
+
+
+------------------- NPC_ ( StarPaladinCross ) -------------------
+
+--- FULL , ITEM_ID: 47404 ---
+Star Paladin Cross\0
+星级圣骑士克罗丝\0
+
+
+------------------- NPC_ ( Sticky ) -------------------
+
+--- FULL , ITEM_ID: 47448 ---
+Sticky\0
+斯蒂奇
+
+
+------------------- NPC_ ( Stockholm ) -------------------
+
+--- FULL , ITEM_ID: 47510 ---
+斯德哥尔摩\0
+
+
+------------------- NPC_ ( Stranger ) -------------------
+
+--- FULL , ITEM_ID: 47552 ---
+神秘陌生人\0
+
+
+------------------- NPC_ ( SusanLancaster ) -------------------
+
+--- FULL , ITEM_ID: 47587 ---
+Susan Lancaster\0
+苏珊．兰卡斯特\0
+
+
+------------------- NPC_ ( SusieMack ) -------------------
+
+--- FULL , ITEM_ID: 47634 ---
+Susie Mack\0
+苏茜．麦克\0
+
+
+------------------- NPC_ ( Sydney ) -------------------
+
+--- FULL , ITEM_ID: 47669 ---
+Sydney\0
+希妮\0
+
+
+------------------- NPC_ ( SydneysFatherAUDIO ) -------------------
+
+--- FULL , ITEM_ID: 47712 ---
+Sydney's Father\0
+希妮的父亲
+
+
+------------------- NPC_ ( TakomaArtilleryCorpse ) -------------------
+
+--- FULL , ITEM_ID: 47736 ---
+Mercenary\0
+
+
+------------------- NPC_ ( Talon1GunAAMTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 47769 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon1GunAM ) -------------------
+
+--- FULL , ITEM_ID: 47804 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon1GunAMDEAD ) -------------------
+
+--- FULL , ITEM_ID: 47840 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon1GunCM ) -------------------
+
+--- FULL , ITEM_ID: 47876 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon1GunHM ) -------------------
+
+--- FULL , ITEM_ID: 47908 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon1GunHMDEAD ) -------------------
+
+--- FULL , ITEM_ID: 47944 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon1MeleeAAMTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 47976 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon1MeleeAM ) -------------------
+
+--- FULL , ITEM_ID: 48010 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon1MeleeCM ) -------------------
+
+--- FULL , ITEM_ID: 48045 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon1MeleeHM ) -------------------
+
+--- FULL , ITEM_ID: 48080 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon1SniperAAMTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 48115 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon1SniperAM ) -------------------
+
+--- FULL , ITEM_ID: 48150 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon1SniperCM ) -------------------
+
+--- FULL , ITEM_ID: 48185 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon1SniperHM ) -------------------
+
+--- FULL , ITEM_ID: 48222 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon2GunAAMTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 48259 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon2GunAM ) -------------------
+
+--- FULL , ITEM_ID: 48292 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon2GunCM ) -------------------
+
+--- FULL , ITEM_ID: 48324 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon2GunHM ) -------------------
+
+--- FULL , ITEM_ID: 48359 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon2MeleeAAMTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 48394 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon2MeleeAM ) -------------------
+
+--- FULL , ITEM_ID: 48425 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon2MeleeCM ) -------------------
+
+--- FULL , ITEM_ID: 48459 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon2MeleeHM ) -------------------
+
+--- FULL , ITEM_ID: 48493 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon2SniperAAMTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 48527 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon2SniperAM ) -------------------
+
+--- FULL , ITEM_ID: 48559 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon2SniperCM ) -------------------
+
+--- FULL , ITEM_ID: 48594 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon2SniperHM ) -------------------
+
+--- FULL , ITEM_ID: 48630 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon2SpecialAAMTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 48666 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon2SpecialAM ) -------------------
+
+--- FULL , ITEM_ID: 48699 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon2SpecialCM ) -------------------
+
+--- FULL , ITEM_ID: 48730 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon2SpecialHM ) -------------------
+
+--- FULL , ITEM_ID: 48762 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon3GunAAMTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 48795 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon3GunAM ) -------------------
+
+--- FULL , ITEM_ID: 48828 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon3GunCM ) -------------------
+
+--- FULL , ITEM_ID: 48862 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon3GunHM ) -------------------
+
+--- FULL , ITEM_ID: 48892 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon3MeleeAAMTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 48924 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon3MeleeAM ) -------------------
+
+--- FULL , ITEM_ID: 48958 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon3MeleeCM ) -------------------
+
+--- FULL , ITEM_ID: 48992 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon3MeleeHM ) -------------------
+
+--- FULL , ITEM_ID: 49025 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon3MissileAAMTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 49059 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon3MissileAM ) -------------------
+
+--- FULL , ITEM_ID: 49092 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon3MissileCM ) -------------------
+
+--- FULL , ITEM_ID: 49126 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon3MissileHM ) -------------------
+
+--- FULL , ITEM_ID: 49159 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon3SniperAAMTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 49193 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon3SniperAM ) -------------------
+
+--- FULL , ITEM_ID: 49228 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon3SniperCM ) -------------------
+
+--- FULL , ITEM_ID: 49263 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( Talon3SniperHM ) -------------------
+
+--- FULL , ITEM_ID: 49295 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( TammyHargrave ) -------------------
+
+--- FULL , ITEM_ID: 49330 ---
+Mercenary\0
+
+
+------------------- NPC_ ( TedStrayer ) -------------------
+
+--- FULL , ITEM_ID: 49374 ---
+Ted Strayer\0
+
+
+------------------- NPC_ ( TenpennyGuardPatrol2ndFloor ) -------------------
+
+--- FULL , ITEM_ID: 49419 ---
+保安\0
+
+
+------------------- NPC_ ( TenpennyGuardPatrolLobby ) -------------------
+
+--- FULL , ITEM_ID: 49456 ---
+保安\0
+
+
+------------------- NPC_ ( TenpennyGuardPatrolLobbyUpper ) -------------------
+
+--- FULL , ITEM_ID: 49492 ---
+保安\0
+
+
+------------------- NPC_ ( TenpennyGuardPatrolShops ) -------------------
+
+--- FULL , ITEM_ID: 49531 ---
+保安\0
+
+
+------------------- NPC_ ( TenpennyGuardPenthouseGuard ) -------------------
+
+--- FULL , ITEM_ID: 49570 ---
+保安\0
+
+
+------------------- NPC_ ( TenpennyGuardSleep1 ) -------------------
+
+--- FULL , ITEM_ID: 49612 ---
+保安\0
+
+
+------------------- NPC_ ( TenpennyGuardTargetPractice1 ) -------------------
+
+--- FULL , ITEM_ID: 49651 ---
+保安\0
+
+
+------------------- NPC_ ( TenpennyGuardTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 49688 ---
+保安\0
+
+
+------------------- NPC_ ( TenpennyResidentFemaleA1DEAD ) -------------------
+
+--- FULL , ITEM_ID: 49727 ---
+Tenpenny Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentFemaleA1TEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 49760 ---
+Tenpenny Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentFemaleA2 ) -------------------
+
+--- FULL , ITEM_ID: 49796 ---
+Tenpenny Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentFemaleA2DEAD ) -------------------
+
+--- FULL , ITEM_ID: 49832 ---
+Tenpenny Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentFemaleB1TEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 49860 ---
+Tenpenny Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentFemaleC1TEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 49891 ---
+Tenpenny Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentFemaleD1TEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 49923 ---
+Tenpenny Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentGhoul1 ) -------------------
+
+--- FULL , ITEM_ID: 49955 ---
+Tenpenny Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentGhoul10 ) -------------------
+
+--- FULL , ITEM_ID: 49992 ---
+Tenpenny Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentGhoul11 ) -------------------
+
+--- FULL , ITEM_ID: 50024 ---
+Tenpenny Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentGhoul2 ) -------------------
+
+--- FULL , ITEM_ID: 50055 ---
+Tenpenny Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentGhoul3 ) -------------------
+
+--- FULL , ITEM_ID: 50092 ---
+Tenpenny Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentGhoul4 ) -------------------
+
+--- FULL , ITEM_ID: 50124 ---
+Tenpenny Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentGhoul5 ) -------------------
+
+--- FULL , ITEM_ID: 50156 ---
+Tenpenny Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentGhoul7 ) -------------------
+
+--- FULL , ITEM_ID: 50188 ---
+Tenpenny Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentGhoul8 ) -------------------
+
+--- FULL , ITEM_ID: 50225 ---
+Tenpenny Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentGhoul9 ) -------------------
+
+--- FULL , ITEM_ID: 50262 ---
+Tenpenny Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentMaleA1 ) -------------------
+
+--- FULL , ITEM_ID: 50294 ---
+Tenpenny Tower Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentMaleA1DEAD ) -------------------
+
+--- FULL , ITEM_ID: 50331 ---
+Tenpenny Tower Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentMaleA2 ) -------------------
+
+--- FULL , ITEM_ID: 50360 ---
+Tenpenny Tower Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentMaleA2DEAD ) -------------------
+
+--- FULL , ITEM_ID: 50397 ---
+Tenpenny Tower Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentMaleB1 ) -------------------
+
+--- FULL , ITEM_ID: 50426 ---
+Tenpenny Tower Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentMaleC1 ) -------------------
+
+--- FULL , ITEM_ID: 50458 ---
+Tenpenny Tower Resident\0
+
+
+------------------- NPC_ ( TenpennyResidentMaleD1 ) -------------------
+
+--- FULL , ITEM_ID: 50490 ---
+Tenpenny Tower Resident\0
+
+
+------------------- NPC_ ( TepidRaiderMissle ) -------------------
+
+--- FULL , ITEM_ID: 50522 ---
+Rocksalt\0
+
+
+------------------- NPC_ ( TestQASleeper ) -------------------
+
+--- FULL , ITEM_ID: 50549 ---
+熟睡的人\0
+
+
+------------------- NPC_ ( TheFamilyAlan ) -------------------
+
+--- FULL , ITEM_ID: 50581 ---
+Alan\0
+艾伦\0
+
+
+------------------- NPC_ ( TheFamilyBrianna ) -------------------
+
+--- FULL , ITEM_ID: 50623 ---
+Brianna\0
+布瑞安娜\0
+
+
+------------------- NPC_ ( TheFamilyHolly ) -------------------
+
+--- FULL , ITEM_ID: 50661 ---
+Holly\0
+霍莉\0
+
+
+------------------- NPC_ ( TheFamilyJustin ) -------------------
+
+--- FULL , ITEM_ID: 50700 ---
+Justin\0
+贾斯汀\0
+
+
+------------------- NPC_ ( TheFamilyKarl ) -------------------
+
+--- FULL , ITEM_ID: 50738 ---
+Karl\0
+卡尔\0
+
+
+------------------- NPC_ ( TheFamilyRobert ) -------------------
+
+--- FULL , ITEM_ID: 50774 ---
+Robert\0
+罗伯特\0
+
+
+------------------- NPC_ ( TheFamilyVance ) -------------------
+
+--- FULL , ITEM_ID: 50813 ---
+Vance\0
+文斯\0
+
+
+------------------- NPC_ ( ThreeDog ) -------------------
+
+--- FULL , ITEM_ID: 50855 ---
+Three Dog\0
+详见Three dog 翻译说明文档　
+
+
+
+------------------- NPC_ ( TiffanyCheng ) -------------------
+
+--- FULL , ITEM_ID: 50896 ---
+Tiffany Cheng\0
+蒂芬妮．陈\0
+
+
+------------------- NPC_ ( TiffanyChengDEAD ) -------------------
+
+--- FULL , ITEM_ID: 50933 ---
+Tiffany Cheng\0
+蒂芬妮．陈\0
+
+
+------------------- NPC_ ( Timebomb ) -------------------
+
+--- FULL , ITEM_ID: 50960 ---
+Timebomb\0
+定时炸弹\0
+
+
+------------------- NPC_ ( TimmyNeusbaum ) -------------------
+
+--- FULL , ITEM_ID: 51012 ---
+Timmy Neusbaum\0
+提米．纽斯鲍姆
+
+
+------------------- NPC_ ( TownRuins02Scavenger ) -------------------
+
+--- FULL , ITEM_ID: 51046 ---
+Scavenger\0
+清道夫\0
+
+
+------------------- NPC_ ( Trigger ) -------------------
+
+--- FULL , ITEM_ID: 51078 ---
+Trigger\0
+崔格\0
+扳机\0
+
+
+------------------- NPC_ ( Trinnie ) -------------------
+
+--- FULL , ITEM_ID: 51107 ---
+Trinnie\0
+崔妮\0
+
+
+------------------- NPC_ ( TuckJohnson ) -------------------
+
+--- FULL , ITEM_ID: 51155 ---
+Tuck Johnson\0
+塔克．约翰逊\0
+
+
+------------------- NPC_ ( Tulip ) -------------------
+
+--- FULL , ITEM_ID: 51186 ---
+Tulip\0
+
+
+
+------------------- NPC_ ( UncleRoe ) -------------------
+
+--- FULL , ITEM_ID: 51220 ---
+Uncle Roe\0
+罗叔叔\0
+
+
+------------------- NPC_ ( UnderworldGhoul01 ) -------------------
+
+--- FULL , ITEM_ID: 51263 ---
+Underworld Resident\0
+
+
+------------------- NPC_ ( UnderworldGhoul02 ) -------------------
+
+--- FULL , ITEM_ID: 51295 ---
+Underworld Resident\0
+
+
+------------------- NPC_ ( UnderworldGhoul03 ) -------------------
+
+--- FULL , ITEM_ID: 51328 ---
+Underworld Resident\0
+
+
+------------------- NPC_ ( UnderworldGhoul04 ) -------------------
+
+--- FULL , ITEM_ID: 51360 ---
+Underworld Resident\0
+
+
+------------------- NPC_ ( UnderworldGhoul05 ) -------------------
+
+--- FULL , ITEM_ID: 51394 ---
+Underworld Resident\0
+
+
+------------------- NPC_ ( UnderworldGhoul06 ) -------------------
+
+--- FULL , ITEM_ID: 51427 ---
+Underworld Resident\0
+
+
+------------------- NPC_ ( UnderworldGhoul07 ) -------------------
+
+--- FULL , ITEM_ID: 51460 ---
+Underworld Resident\0
+
+
+------------------- NPC_ ( UnderworldGhoul08 ) -------------------
+
+--- FULL , ITEM_ID: 51496 ---
+Underworld Resident\0
+
+
+------------------- NPC_ ( UnderworldGhoul09 ) -------------------
+
+--- FULL , ITEM_ID: 51532 ---
+Underworld Resident\0
+
+
+------------------- NPC_ ( UnderworldGhoul10 ) -------------------
+
+--- FULL , ITEM_ID: 51568 ---
+Underworld Resident\0
+
+
+------------------- NPC_ ( UnderworldGhoul11 ) -------------------
+
+--- FULL , ITEM_ID: 51600 ---
+Underworld Resident\0
+
+
+------------------- NPC_ ( UnderworldGhoul12 ) -------------------
+
+--- FULL , ITEM_ID: 51633 ---
+Underworld Resident\0
+
+
+------------------- NPC_ ( UnderworldGhoul13 ) -------------------
+
+--- FULL , ITEM_ID: 51666 ---
+Underworld Resident\0
+
+
+------------------- NPC_ ( UniqueEnclave4OfficerJackTheRipper ) -------------------
+
+--- FULL , ITEM_ID: 51699 ---
+英克雷军官\0
+
+
+------------------- NPC_ ( UniqueRaiderMeleeStabHappy ) -------------------
+
+--- FULL , ITEM_ID: 51734 ---
+匪徒\0
+
+
+------------------- NPC_ ( V106Father ) -------------------
+
+--- FULL , ITEM_ID: 51770 ---
+爸爸\0
+
+
+------------------- NPC_ ( V106FatherSandbox ) -------------------
+
+--- FULL , ITEM_ID: 51801 ---
+爸爸\0
+
+
+------------------- NPC_ ( Vault101Security01 ) -------------------
+
+--- FULL , ITEM_ID: 51833 ---
+Security Chief Hannon\0
+
+
+------------------- NPC_ ( Vault101Security02 ) -------------------
+
+--- FULL , ITEM_ID: 51876 ---
+Officer Kendall\0
+肯道尔军官\0
+
+
+------------------- NPC_ ( Vault101Security03 ) -------------------
+
+--- FULL , ITEM_ID: 51917 ---
+Officer Mack\0
+麦克军官\0
+
+
+------------------- NPC_ ( Vault101Security04 ) -------------------
+
+--- FULL , ITEM_ID: 51959 ---
+Officer Gomez\0
+戈麦斯军官\0
+
+
+------------------- NPC_ ( Vault101Security05 ) -------------------
+
+--- FULL , ITEM_ID: 52003 ---
+Officer Richards\0
+理查兹军官\0
+
+
+------------------- NPC_ ( Vault101Security07 ) -------------------
+
+--- FULL , ITEM_ID: 52042 ---
+Officer Armstrong\0
+阿姆斯特朗军官\0
+
+
+------------------- NPC_ ( Vault101Security08 ) -------------------
+
+--- FULL , ITEM_ID: 52087 ---
+Officer Taylor\0
+泰勒军官\0
+
+
+------------------- NPC_ ( Vault101Security09 ) -------------------
+
+--- FULL , ITEM_ID: 52130 ---
+Officer Wilkins\0
+威尔金斯军官
+
+
+------------------- NPC_ ( Vault106Amata ) -------------------
+
+--- FULL , ITEM_ID: 52172 ---
+Amata\0
+阿玛塔
+
+
+------------------- NPC_ ( Vault106CBoss ) -------------------
+
+--- FULL , ITEM_ID: 52209 ---
+幸存者\0
+
+
+------------------- NPC_ ( Vault106CButch ) -------------------
+
+--- FULL , ITEM_ID: 52239 ---
+Butch\0
+
+
+------------------- NPC_ ( Vault106CPaulHannon ) -------------------
+
+--- FULL , ITEM_ID: 52272 ---
+Paul Hannon\0
+保罗．哈农
+
+
+------------------- NPC_ ( Vault106CWallyMack ) -------------------
+
+--- FULL , ITEM_ID: 52305 ---
+Wally Mack\0
+韦利．麦克
+
+
+------------------- NPC_ ( Vault106LunaticTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 52337 ---
+精神失常的幸存者\0
+
+
+------------------- NPC_ ( Vault106Overseer ) -------------------
+
+--- FULL , ITEM_ID: 52365 ---
+监督者\0
+
+
+------------------- NPC_ ( Vault112Braun ) -------------------
+
+--- FULL , ITEM_ID: 52397 ---
+Stanislaus Braun\0
+斯坦尼斯洛斯．布劳恩\0
+
+
+------------------- NPC_ ( VeraWeatherly ) -------------------
+
+--- FULL , ITEM_ID: 52422 ---
+Vera Weatherly\0
+维拉．韦则利\0
+
+
+------------------- NPC_ ( VictoriaWatts ) -------------------
+
+--- FULL , ITEM_ID: 52482 ---
+Victoria Watts\0
+维多利亚．瓦特\0
+
+
+------------------- NPC_ ( WallyMack ) -------------------
+
+--- FULL , ITEM_ID: 52516 ---
+Wally Mack\0
+韦利．麦克\0
+
+
+------------------- NPC_ ( Walter ) -------------------
+
+--- FULL , ITEM_ID: 52549 ---
+Walter\0
+瓦尔特\0
+
+
+------------------- NPC_ ( WastelanderAAF2 ) -------------------
+
+--- FULL , ITEM_ID: 52586 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderAAF3 ) -------------------
+
+--- FULL , ITEM_ID: 52619 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 52652 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderAAM ) -------------------
+
+--- FULL , ITEM_ID: 52686 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderAAM2 ) -------------------
+
+--- FULL , ITEM_ID: 52723 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderAAM3 ) -------------------
+
+--- FULL , ITEM_ID: 52759 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderAF ) -------------------
+
+--- FULL , ITEM_ID: 52796 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderAF2 ) -------------------
+
+--- FULL , ITEM_ID: 52830 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderAF3 ) -------------------
+
+--- FULL , ITEM_ID: 52864 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderAM ) -------------------
+
+--- FULL , ITEM_ID: 52898 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderAM2 ) -------------------
+
+--- FULL , ITEM_ID: 52936 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderAM3 ) -------------------
+
+--- FULL , ITEM_ID: 52973 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderCF ) -------------------
+
+--- FULL , ITEM_ID: 53010 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderCF2 ) -------------------
+
+--- FULL , ITEM_ID: 53043 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderCF3 ) -------------------
+
+--- FULL , ITEM_ID: 53077 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderCM ) -------------------
+
+--- FULL , ITEM_ID: 53110 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderCM2 ) -------------------
+
+--- FULL , ITEM_ID: 53145 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderCM3 ) -------------------
+
+--- FULL , ITEM_ID: 53181 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderCM4 ) -------------------
+
+--- FULL , ITEM_ID: 53218 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderCM5 ) -------------------
+
+--- FULL , ITEM_ID: 53255 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderGhoulF1TEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 53292 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderGhoulM1TEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 53327 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderGhoulM2 ) -------------------
+
+--- FULL , ITEM_ID: 53362 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderGhoulM3 ) -------------------
+
+--- FULL , ITEM_ID: 53396 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderHF ) -------------------
+
+--- FULL , ITEM_ID: 53430 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderHF2 ) -------------------
+
+--- FULL , ITEM_ID: 53463 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderHF3 ) -------------------
+
+--- FULL , ITEM_ID: 53496 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderHM ) -------------------
+
+--- FULL , ITEM_ID: 53529 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderHM2 ) -------------------
+
+--- FULL , ITEM_ID: 53565 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( WastelanderHM3 ) -------------------
+
+--- FULL , ITEM_ID: 53600 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( wastelandTorcher ) -------------------
+
+--- FULL , ITEM_ID: 53638 ---
+Torcher\0
+照明者\0
+指路人\0
+
+
+------------------- NPC_ ( wastelandWanderer ) -------------------
+
+--- FULL , ITEM_ID: 53666 ---
+流浪者\0
+
+
+------------------- NPC_ ( WaterBeggar01 ) -------------------
+
+--- FULL , ITEM_ID: 53694 ---
+Micky\0
+米奇\0
+
+
+------------------- NPC_ ( WaterBeggar02 ) -------------------
+
+--- FULL , ITEM_ID: 53724 ---
+Carlos\0
+卡洛斯\0
+
+
+------------------- NPC_ ( WaterBeggar03 ) -------------------
+
+--- FULL , ITEM_ID: 53755 ---
+Willy\0
+维利\0
+
+
+------------------- NPC_ ( WestFather ) -------------------
+
+--- FULL , ITEM_ID: 53786 ---
+Lucy West's Father\0
+露茜．韦斯特的父亲\0
+
+
+------------------- NPC_ ( WilliamBrandiceCorpse ) -------------------
+
+--- FULL , ITEM_ID: 53813 ---
+William Brandice\0
+威廉．布兰迪斯\0
+
+
+------------------- NPC_ ( Willow ) -------------------
+
+--- FULL , ITEM_ID: 53846 ---
+Willow\0
+韦洛\0
+
+
+------------------- NPC_ ( Winthrop ) -------------------
+
+--- FULL , ITEM_ID: 53878 ---
+Winthrop\0
+温斯罗普\0
+
+
+------------------- NPC_ ( WolfgangCaravanGuard1 ) -------------------
+
+--- FULL , ITEM_ID: 53913 ---
+商队护卫\0
+
+
+------------------- NPC_ ( YaoGuaiDenDeadSettler01 ) -------------------
+
+--- FULL , ITEM_ID: 53948 ---
+死掉的拓荒者\0
+
+
+------------------- NPC_ ( Ymir ) -------------------
+
+--- FULL , ITEM_ID: 53975 ---
+Ymir\0
+伊米尔\0
+
+
+------------------- NPC_ ( Zimmer ) -------------------
+
+--- FULL , ITEM_ID: 54011 ---
+Dr. Zimmer\0
+奇默博士\0
+
+
+------------------- NPC_ ( Zip ) -------------------
+
+--- FULL , ITEM_ID: 54074 ---
+Zip\0
+快嘴\0　　（小孩镇里的一个小孩，说话速度是游戏里最快的，因此得名）
+压缩机\0
+
+
+------------------- NPC_ ( AbrahamWashington ) -------------------
+
+--- FULL , ITEM_ID: 54112 ---
+Abraham Washington\0
+亚伯拉罕．华盛顿\0
+
+
+------------------- NPC_ ( Agatha ) -------------------
+
+--- FULL , ITEM_ID: 54147 ---
+Agatha\0
+阿加莎\0
+
+
+------------------- NPC_ ( Ahzrukhal ) -------------------
+
+--- FULL , ITEM_ID: 54180 ---
+Ahzrukhal\0
+阿兹鲁卡\0
+
+
+------------------- NPC_ ( AlejandraTorres ) -------------------
+
+--- FULL , ITEM_ID: 54215 ---
+Alejandra Torres\0
+阿里钱德拉．托瑞斯\0
+
+
+------------------- NPC_ ( AllenMack ) -------------------
+
+--- FULL , ITEM_ID: 54266 ---
+Overseer Mack\0
+监督者麦克\0
+
+
+------------------- NPC_ ( AllistairTenpenny ) -------------------
+
+--- FULL , ITEM_ID: 54308 ---
+Allistair Tenpenny\0
+
+
+------------------- NPC_ ( AllistairTenpennyDEAD ) -------------------
+
+--- FULL , ITEM_ID: 54351 ---
+Allistair Tenpenny\0
+
+
+------------------- NPC_ ( Amata ) -------------------
+
+--- FULL , ITEM_ID: 54380 ---
+Amata\0
+阿玛塔\0
+
+
+------------------- NPC_ ( AndaleVictim01 ) -------------------
+
+--- FULL , ITEM_ID: 54424 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( AndaleVictim02 ) -------------------
+
+--- FULL , ITEM_ID: 54461 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( AndaleVictim03 ) -------------------
+
+--- FULL , ITEM_ID: 54498 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( AndyStahl ) -------------------
+
+--- FULL , ITEM_ID: 54534 ---
+Andy Stahl\0
+安迪．斯塔尔\0
+
+
+------------------- NPC_ ( AngelaStaley ) -------------------
+
+--- FULL , ITEM_ID: 54574 ---
+Angela Staley\0
+安吉拉．斯戴利\0
+
+
+------------------- NPC_ ( AnnaHolt ) -------------------
+
+--- FULL , ITEM_ID: 54636 ---
+Anna Holt\0
+安娜．霍尔特\0
+
+
+------------------- NPC_ ( AntAgonizer ) -------------------
+
+--- FULL , ITEM_ID: 54680 ---
+抵抗者\0
+
+
+------------------- NPC_ ( AnthonyLing ) -------------------
+
+--- FULL , ITEM_ID: 54724 ---
+Anthony Ling\0
+安东尼．玲\0
+
+
+------------------- NPC_ ( Argyle ) -------------------
+
+--- FULL , ITEM_ID: 54769 ---
+Argyle\0
+阿盖尔\0
+阿盖拉\0
+
+
+------------------- NPC_ ( Arkansas ) -------------------
+
+--- FULL , ITEM_ID: 54798 ---
+Arkansas\0
+阿肯色\0
+
+
+------------------- NPC_ ( ArlingtonLibraryBoS01 ) -------------------
+
+--- FULL , ITEM_ID: 54832 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( ArlingtonLibraryBoS02 ) -------------------
+
+--- FULL , ITEM_ID: 54881 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( ArlingtonLibraryBoS03 ) -------------------
+
+--- FULL , ITEM_ID: 54930 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( ArlingtonLibraryBoS04 ) -------------------
+
+--- FULL , ITEM_ID: 54977 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( ArlingtonLibraryBoS05 ) -------------------
+
+--- FULL , ITEM_ID: 55024 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( ArlingtonLibraryBoS06 ) -------------------
+
+--- FULL , ITEM_ID: 55063 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( ArlingtonLibraryBoS07 ) -------------------
+
+--- FULL , ITEM_ID: 55102 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( Armitage ) -------------------
+
+--- FULL , ITEM_ID: 55137 ---
+Armitage\0
+阿米蒂奇\0
+
+
+------------------- NPC_ ( AWMLoot1ArmorMale ) -------------------
+
+--- FULL , ITEM_ID: 55180 ---
+Mercenary\0
+
+
+------------------- NPC_ ( AWMTed ) -------------------
+
+--- FULL , ITEM_ID: 55212 ---
+Ted\0
+泰德\0
+
+
+------------------- NPC_ ( Bannon ) -------------------
+
+--- FULL , ITEM_ID: 55244 ---
+Bannon\0
+班诺\0
+
+
+------------------- NPC_ ( BarnScavenger ) -------------------
+
+--- FULL , ITEM_ID: 55288 ---
+Scavenger\0
+清道夫\0
+
+
+------------------- NPC_ ( Barrett ) -------------------
+
+--- FULL , ITEM_ID: 55319 ---
+Barrett\0
+巴雷特\0
+
+
+------------------- NPC_ ( Beatrice ) -------------------
+
+--- FULL , ITEM_ID: 55352 ---
+Beatrice\0
+比阿特丽斯\0 (<神曲>中的人物)
+
+
+------------------- NPC_ ( BelleBonny ) -------------------
+
+--- FULL , ITEM_ID: 55396 ---
+Belle Bonny\0
+贝尔.博妮\0
+美女博妮\0
+
+
+------------------- NPC_ ( BessieLynn ) -------------------
+
+--- FULL , ITEM_ID: 55450 ---
+Bessie Lynn\0
+贝茜.林恩\0
+
+
+------------------- NPC_ ( Betty ) -------------------
+
+--- FULL , ITEM_ID: 55490 ---
+Betty\0
+贝蒂\0
+
+
+------------------- NPC_ ( BigtownSentry ) -------------------
+
+--- FULL , ITEM_ID: 55519 ---
+Dusty\0
+
+
+------------------- NPC_ ( BillFoster ) -------------------
+
+--- FULL , ITEM_ID: 55567 ---
+Bill Foster\0
+比尔.福斯特\0
+
+
+------------------- NPC_ ( BillSeward ) -------------------
+
+--- FULL , ITEM_ID: 55603 ---
+Bill Seward\0
+贝尔.苏华德\0
+
+
+------------------- NPC_ ( BillWilson ) -------------------
+
+--- FULL , ITEM_ID: 55659 ---
+Bill Wilson\0
+比尔.威尔森\0
+
+
+------------------- NPC_ ( BillyCreel ) -------------------
+
+--- FULL , ITEM_ID: 55696 ---
+Billy Creel\0
+比利.科瑞尔\0
+
+
+------------------- NPC_ ( Bittercup ) -------------------
+
+--- FULL , ITEM_ID: 55742 ---
+Bittercup\0
+不幸之人\0
+
+
+------------------- NPC_ ( Biwwy ) -------------------
+
+--- FULL , ITEM_ID: 55796 ---
+Biwwy\0
+毕威\0
+
+
+------------------- NPC_ ( Bleak ) -------------------
+
+--- FULL , ITEM_ID: 55827 ---
+Bleak\0
+布里克\0
+
+
+------------------- NPC_ ( Bob ) -------------------
+
+--- FULL , ITEM_ID: 55858 ---
+Bob\0
+鲍勃\0
+
+
+------------------- NPC_ ( BraileeEwers ) -------------------
+
+--- FULL , ITEM_ID: 55893 ---
+Brailee Ewers\0
+布雷利.尤尔斯\0
+
+
+------------------- NPC_ ( Breadbox ) -------------------
+
+--- FULL , ITEM_ID: 55930 ---
+Breadbox\0
+面包盒\0
+
+
+------------------- NPC_ ( Brock ) -------------------
+
+--- FULL , ITEM_ID: 55962 ---
+Brock\0
+坏蛋\0
+布洛克\0
+
+
+------------------- NPC_ ( Bronson ) -------------------
+
+--- FULL , ITEM_ID: 56021 ---
+Bronson\0
+布劳森\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1FlamerAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 56053 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1FlamerAAM ) -------------------
+
+--- FULL , ITEM_ID: 56086 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1FlamerAF ) -------------------
+
+--- FULL , ITEM_ID: 56120 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1FlamerAM ) -------------------
+
+--- FULL , ITEM_ID: 56155 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1FlamerCM ) -------------------
+
+--- FULL , ITEM_ID: 56189 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1FlamerHF ) -------------------
+
+--- FULL , ITEM_ID: 56220 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1FlamerHM ) -------------------
+
+--- FULL , ITEM_ID: 56251 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1GunAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 56282 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1GunAAM ) -------------------
+
+--- FULL , ITEM_ID: 56314 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1GunAF ) -------------------
+
+--- FULL , ITEM_ID: 56345 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1GunAFDEAD ) -------------------
+
+--- FULL , ITEM_ID: 56379 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1GunAM ) -------------------
+
+--- FULL , ITEM_ID: 56415 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1GunCF ) -------------------
+
+--- FULL , ITEM_ID: 56448 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1GunCM ) -------------------
+
+--- FULL , ITEM_ID: 56478 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1GunCMDEAD ) -------------------
+
+--- FULL , ITEM_ID: 56508 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1GunHF ) -------------------
+
+--- FULL , ITEM_ID: 56541 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1GunHM ) -------------------
+
+--- FULL , ITEM_ID: 56571 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1GunHMDEAD ) -------------------
+
+--- FULL , ITEM_ID: 56601 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1GunMorphineArmorDEAD ) -------------------
+
+--- FULL , ITEM_ID: 56634 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1MeleeAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 56666 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1MeleeAAM ) -------------------
+
+--- FULL , ITEM_ID: 56699 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1MeleeAF ) -------------------
+
+--- FULL , ITEM_ID: 56733 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1MeleeAM ) -------------------
+
+--- FULL , ITEM_ID: 56767 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1MeleeCF ) -------------------
+
+--- FULL , ITEM_ID: 56799 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1MeleeCM ) -------------------
+
+--- FULL , ITEM_ID: 56830 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1MeleeHF ) -------------------
+
+--- FULL , ITEM_ID: 56861 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel1MeleeHM ) -------------------
+
+--- FULL , ITEM_ID: 56892 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel2GunAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 56923 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel2GunAAM ) -------------------
+
+--- FULL , ITEM_ID: 56955 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel2GunAF ) -------------------
+
+--- FULL , ITEM_ID: 56988 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel2GunAM ) -------------------
+
+--- FULL , ITEM_ID: 57021 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel2GunCF ) -------------------
+
+--- FULL , ITEM_ID: 57054 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel2GunCM ) -------------------
+
+--- FULL , ITEM_ID: 57084 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel2GunHF ) -------------------
+
+--- FULL , ITEM_ID: 57114 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel2GunHM ) -------------------
+
+--- FULL , ITEM_ID: 57144 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel2MeleeAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 57174 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel2MeleeAAM ) -------------------
+
+--- FULL , ITEM_ID: 57207 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel2MeleeAF ) -------------------
+
+--- FULL , ITEM_ID: 57241 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel2MeleeAM ) -------------------
+
+--- FULL , ITEM_ID: 57275 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel2MeleeCF ) -------------------
+
+--- FULL , ITEM_ID: 57309 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel2MeleeCM ) -------------------
+
+--- FULL , ITEM_ID: 57340 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel2MeleeHF ) -------------------
+
+--- FULL , ITEM_ID: 57371 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel2MeleeHM ) -------------------
+
+--- FULL , ITEM_ID: 57402 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3BigGunsAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 57433 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3BigGunsAAM ) -------------------
+
+--- FULL , ITEM_ID: 57466 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3BigGunsAF ) -------------------
+
+--- FULL , ITEM_ID: 57500 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3BigGunsAM ) -------------------
+
+--- FULL , ITEM_ID: 57534 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3BigGunsCF ) -------------------
+
+--- FULL , ITEM_ID: 57568 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3BigGunsCM ) -------------------
+
+--- FULL , ITEM_ID: 57599 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3BigGunsHF ) -------------------
+
+--- FULL , ITEM_ID: 57630 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3BigGunsHM ) -------------------
+
+--- FULL , ITEM_ID: 57661 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3GunAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 57692 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3MeleeAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 57724 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3MeleeAAM ) -------------------
+
+--- FULL , ITEM_ID: 57757 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3MeleeAF ) -------------------
+
+--- FULL , ITEM_ID: 57788 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3MeleeAM ) -------------------
+
+--- FULL , ITEM_ID: 57823 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3MeleeCF ) -------------------
+
+--- FULL , ITEM_ID: 57857 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3MeleeCM ) -------------------
+
+--- FULL , ITEM_ID: 57888 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3MeleeHF ) -------------------
+
+--- FULL , ITEM_ID: 57919 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3MeleeHM ) -------------------
+
+--- FULL , ITEM_ID: 57950 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3MissileAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 57981 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3MissileAAM ) -------------------
+
+--- FULL , ITEM_ID: 58014 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3MissileAF ) -------------------
+
+--- FULL , ITEM_ID: 58048 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3MissileAM ) -------------------
+
+--- FULL , ITEM_ID: 58083 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3MissileCF ) -------------------
+
+--- FULL , ITEM_ID: 58118 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3MissileCM ) -------------------
+
+--- FULL , ITEM_ID: 58149 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3MissileHF ) -------------------
+
+--- FULL , ITEM_ID: 58180 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BrotherhoodOfSteel3MissileHM ) -------------------
+
+--- FULL , ITEM_ID: 58211 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( BryanWilks ) -------------------
+
+--- FULL , ITEM_ID: 58242 ---
+Bryan Wilks\0
+
+
+------------------- NPC_ ( Bumble ) -------------------
+
+--- FULL , ITEM_ID: 58285 ---
+Bumble\0
+
+
+------------------- NPC_ ( Butch ) -------------------
+
+--- FULL , ITEM_ID: 58323 ---
+Butch\0
+
+
+------------------- NPC_ ( CalebSmith ) -------------------
+
+--- FULL , ITEM_ID: 58369 ---
+Caleb Smith\0
+
+
+------------------- NPC_ ( CaravanGuard1TEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 58421 ---
+商队护卫\0
+
+
+------------------- NPC_ ( Carol ) -------------------
+
+--- FULL , ITEM_ID: 58452 ---
+Carol\0
+卡罗尔\0
+
+
+------------------- NPC_ ( CarolinaRed ) -------------------
+
+--- FULL , ITEM_ID: 58485 ---
+Carolina Red\0
+卡罗莱纳.瑞德\0
+
+
+------------------- NPC_ ( Carter ) -------------------
+
+--- FULL , ITEM_ID: 58519 ---
+Carter\0
+卡特\0
+
+
+------------------- NPC_ ( CCTrader1 ) -------------------
+
+--- FULL , ITEM_ID: 58550 ---
+商队商人\0
+
+
+------------------- NPC_ ( CCTrader2 ) -------------------
+
+--- FULL , ITEM_ID: 58583 ---
+商队商人\0
+
+
+------------------- NPC_ ( CG00Dad ) -------------------
+
+--- FULL , ITEM_ID: 58618 ---
+爸爸\0
+
+
+------------------- NPC_ ( CG00DoctorLi ) -------------------
+
+--- FULL , ITEM_ID: 58653 ---
+李博士\0
+
+
+------------------- NPC_ ( CG00Mom ) -------------------
+
+--- FULL , ITEM_ID: 58689 ---
+Catherine\0
+凯瑟琳\0
+
+
+------------------- NPC_ ( CG01Dad ) -------------------
+
+--- FULL , ITEM_ID: 58722 ---
+爸爸\0
+
+
+------------------- NPC_ ( CG02Amata ) -------------------
+
+--- FULL , ITEM_ID: 58757 ---
+Amata\0
+阿玛塔\0
+
+
+------------------- NPC_ ( CG02Beatrice ) -------------------
+
+--- FULL , ITEM_ID: 58795 ---
+Beatrice\0
+比阿特丽斯\0
+
+
+------------------- NPC_ ( CG02Butch ) -------------------
+
+--- FULL , ITEM_ID: 58825 ---
+Butch\0
+
+
+------------------- NPC_ ( CG02ChristineKendall ) -------------------
+
+--- FULL , ITEM_ID: 58858 ---
+Christine Kendall\0
+克里斯汀.肯道尔
+
+
+------------------- NPC_ ( CG02Dad ) -------------------
+
+--- FULL , ITEM_ID: 58887 ---
+爸爸\0
+
+
+------------------- NPC_ ( CG02Jonas ) -------------------
+
+--- FULL , ITEM_ID: 58931 ---
+Jonas\0
+乔纳斯\0
+
+
+------------------- NPC_ ( CG02OldLadyPalmer ) -------------------
+
+--- FULL , ITEM_ID: 58966 ---
+Old Lady Palmer\0
+老妇人帕默\0
+
+
+------------------- NPC_ ( CG02Overseer ) -------------------
+
+--- FULL , ITEM_ID: 58999 ---
+监督者\0
+
+
+------------------- NPC_ ( CG02PaulHannon ) -------------------
+
+--- FULL , ITEM_ID: 59037 ---
+Paul Hannon\0
+保罗.哈农\0
+
+
+------------------- NPC_ ( CG02Stanley ) -------------------
+
+--- FULL , ITEM_ID: 59068 ---
+Stanley\0
+斯坦利\0
+
+
+------------------- NPC_ ( CG02StevieMack ) -------------------
+
+--- FULL , ITEM_ID: 59102 ---
+Stevie Mack\0
+史蒂夫.麦克\0
+
+
+------------------- NPC_ ( CG02SusieMack ) -------------------
+
+--- FULL , ITEM_ID: 59133 ---
+Susie Mack\0
+苏茜.麦克\0
+
+
+------------------- NPC_ ( CG02Vault101Security02 ) -------------------
+
+--- FULL , ITEM_ID: 59165 ---
+Officer Kendall\0
+肯道尔军官\0
+
+
+------------------- NPC_ ( CG02Vault101Security04 ) -------------------
+
+--- FULL , ITEM_ID: 59206 ---
+Officer Gomez\0
+戈麦斯军官\0
+
+
+------------------- NPC_ ( CG02WallyMack ) -------------------
+
+--- FULL , ITEM_ID: 59243 ---
+Wally Mack\0
+韦利.麦克\0
+
+
+------------------- NPC_ ( CG03Amata ) -------------------
+
+--- FULL , ITEM_ID: 59271 ---
+Amata\0
+阿玛塔\0
+
+
+------------------- NPC_ ( CG03Butch ) -------------------
+
+--- FULL , ITEM_ID: 59313 ---
+Butch\0
+
+
+------------------- NPC_ ( CG03ChristineKendall ) -------------------
+
+--- FULL , ITEM_ID: 59352 ---
+Christine Kendall\0
+克里斯汀.肯道尔\0
+
+
+------------------- NPC_ ( CG03Dad ) -------------------
+
+--- FULL , ITEM_ID: 59389 ---
+爸爸\0
+
+
+------------------- NPC_ ( CG03FreddieGomez ) -------------------
+
+--- FULL , ITEM_ID: 59425 ---
+Freddie Gomez\0
+弗雷迪.戈麦斯\0
+
+
+------------------- NPC_ ( CG03Jonas ) -------------------
+
+--- FULL , ITEM_ID: 59460 ---
+Jonas\0
+乔纳斯\0
+
+
+------------------- NPC_ ( CG03MrBrotch ) -------------------
+
+--- FULL , ITEM_ID: 59497 ---
+Mr. Brotch\0
+布罗奇先生\0
+
+
+------------------- NPC_ ( CG03PaulHannon ) -------------------
+
+--- FULL , ITEM_ID: 59539 ---
+Paul Hannon\0
+保罗.哈农\0
+
+
+------------------- NPC_ ( CG03Stanley ) -------------------
+
+--- FULL , ITEM_ID: 59579 ---
+Stanley\0
+斯坦利\0
+
+
+------------------- NPC_ ( CG03SusieMack ) -------------------
+
+--- FULL , ITEM_ID: 59612 ---
+Susie Mack\0
+苏茜.麦克\0
+
+
+------------------- NPC_ ( CG03WallyMack ) -------------------
+
+--- FULL , ITEM_ID: 59649 ---
+Wally Mack\0
+韦利.麦克\0
+
+
+------------------- NPC_ ( CG04AllenMack ) -------------------
+
+--- FULL , ITEM_ID: 59687 ---
+Allen Mack\0
+艾伦.麦克\0
+
+
+------------------- NPC_ ( CG04Amata ) -------------------
+
+--- FULL , ITEM_ID: 59726 ---
+Amata\0
+阿玛塔\0
+
+
+------------------- NPC_ ( CG04Butch ) -------------------
+
+--- FULL , ITEM_ID: 59778 ---
+Butch\0
+
+
+------------------- NPC_ ( CG04DeadOldLady ) -------------------
+
+--- FULL , ITEM_ID: 59824 ---
+Grandma Taylor\0
+泰勒老奶奶\0
+
+
+------------------- NPC_ ( CG04DeadWorker ) -------------------
+
+--- FULL , ITEM_ID: 59868 ---
+Floyd Lewis\0
+弗洛伊德.刘易斯\0
+
+
+------------------- NPC_ ( CG04EllenDeLoria ) -------------------
+
+--- FULL , ITEM_ID: 59905 ---
+Ellen DeLoria\0
+埃伦.迪洛丽亚\0
+
+
+------------------- NPC_ ( CG04GloriaMack ) -------------------
+
+--- FULL , ITEM_ID: 59941 ---
+Gloria Mack\0
+格罗丽亚.麦克\0
+
+
+------------------- NPC_ ( CG04Jonas ) -------------------
+
+--- FULL , ITEM_ID: 59973 ---
+Jonas\0
+乔纳斯\0
+
+
+------------------- NPC_ ( CG04MaryHolden ) -------------------
+
+--- FULL , ITEM_ID: 60006 ---
+Mary Holden\0
+玛丽.霍顿\0
+
+
+------------------- NPC_ ( CG04Overseer ) -------------------
+
+--- FULL , ITEM_ID: 60044 ---
+监督者\0
+
+
+------------------- NPC_ ( CG04Stanley ) -------------------
+
+--- FULL , ITEM_ID: 60088 ---
+Stanley\0
+斯坦利\0
+
+
+------------------- NPC_ ( CG04TomHolden ) -------------------
+
+--- FULL , ITEM_ID: 60130 ---
+Tom Holden\0
+汤姆.霍顿\0
+
+
+------------------- NPC_ ( CG04Vault101Security01 ) -------------------
+
+--- FULL , ITEM_ID: 60167 ---
+Security Chief Hannon\0
+保安队长哈农\0
+
+
+------------------- NPC_ ( CG04Vault101Security02 ) -------------------
+
+--- FULL , ITEM_ID: 60204 ---
+Officer Kendall\0
+肯道尔军官\0
+
+
+------------------- NPC_ ( CG04Vault101Security03 ) -------------------
+
+--- FULL , ITEM_ID: 60245 ---
+Officer Mack\0
+麦克军官\0
+
+
+------------------- NPC_ ( CG04Vault101Security04 ) -------------------
+
+--- FULL , ITEM_ID: 60283 ---
+Officer Gomez\0
+戈麦斯军官\0
+
+
+------------------- NPC_ ( CG04Vault101Security05 ) -------------------
+
+--- FULL , ITEM_ID: 60314 ---
+Officer Richards\0
+理查兹军官\0
+
+
+------------------- NPC_ ( CG04Vault101Security06 ) -------------------
+
+--- FULL , ITEM_ID: 60354 ---
+Officer O'Brian\0
+奥布莱恩军官\0
+
+
+------------------- NPC_ ( CG04Vault101Security07 ) -------------------
+
+--- FULL , ITEM_ID: 60392 ---
+Officer Park\0
+帕克军官\0
+
+
+------------------- NPC_ ( CG04Vault101Security08 ) -------------------
+
+--- FULL , ITEM_ID: 60426 ---
+Officer Wolfe\0
+乌尔夫军官\0
+
+
+------------------- NPC_ ( Charon ) -------------------
+
+--- FULL , ITEM_ID: 60461 ---
+Charon\0
+船夫\0
+
+
+------------------- NPC_ ( Cherry ) -------------------
+
+--- FULL , ITEM_ID: 60506 ---
+Cherry\0
+切丽\0
+
+
+------------------- NPC_ ( ChevyChaseBoSGNNBattle ) -------------------
+
+--- FULL , ITEM_ID: 60553 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( ChiefGustavo ) -------------------
+
+--- FULL , ITEM_ID: 60585 ---
+Chief Gustavo\0
+古斯塔夫长官\0
+
+
+------------------- NPC_ ( ChiefGustavoDEAD ) -------------------
+
+--- FULL , ITEM_ID: 60622 ---
+Chief Gustavo\0
+古斯塔夫长官\0
+
+
+------------------- NPC_ ( ChineseGhoul01ATEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 60650 ---
+天朝残余士兵\0
+
+
+------------------- NPC_ ( ChineseGhoul01B ) -------------------
+
+--- FULL , ITEM_ID: 60682 ---
+天朝残余士兵\0
+
+
+------------------- NPC_ ( ChineseGhoul01C ) -------------------
+
+--- FULL , ITEM_ID: 60716 ---
+天朝残余士兵\0
+
+
+------------------- NPC_ ( ChineseGhoul01D ) -------------------
+
+--- FULL , ITEM_ID: 60750 ---
+天朝残余士兵\0
+
+
+------------------- NPC_ ( ChineseGhoul02ATEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 60784 ---
+天朝残余军士\0
+
+
+------------------- NPC_ ( ChineseGhoul02B ) -------------------
+
+--- FULL , ITEM_ID: 60816 ---
+天朝残余军士\0
+
+
+------------------- NPC_ ( ChineseGhoul02C ) -------------------
+
+--- FULL , ITEM_ID: 60849 ---
+天朝残余军士\0
+
+
+------------------- NPC_ ( ChineseGhoul02D ) -------------------
+
+--- FULL , ITEM_ID: 60883 ---
+天朝残余军士\0
+
+
+------------------- NPC_ ( ChineseGhoul03ATEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 60917 ---
+天朝残余军官\0
+
+
+------------------- NPC_ ( ChineseGhoul03B ) -------------------
+
+--- FULL , ITEM_ID: 60949 ---
+天朝残余军官\0
+
+
+------------------- NPC_ ( ChineseGhoul03C ) -------------------
+
+--- FULL , ITEM_ID: 60983 ---
+天朝残余军官\0
+
+
+------------------- NPC_ ( ChineseGhoul03D ) -------------------
+
+--- FULL , ITEM_ID: 61017 ---
+天朝残余军官\0
+
+
+------------------- NPC_ ( ChineseGhoulCaptain ) -------------------
+
+--- FULL , ITEM_ID: 61051 ---
+天朝残余指挥官\0
+
+
+------------------- NPC_ ( ChristieYoung ) -------------------
+
+--- FULL , ITEM_ID: 61088 ---
+Christie Young\0
+克里斯蒂.杨
+
+
+------------------- NPC_ ( ChristineKendall ) -------------------
+
+--- FULL , ITEM_ID: 61134 ---
+Christine Kendall\0
+克里斯蒂.肯道尔
+
+
+------------------- NPC_ ( CindyCantelli ) -------------------
+
+--- FULL , ITEM_ID: 61168 ---
+Cindy Cantelli\0
+辛迪.康泰利\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodInitiate01 ) -------------------
+
+--- FULL , ITEM_ID: 61214 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodInitiate02 ) -------------------
+
+--- FULL , ITEM_ID: 61251 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodInitiate03 ) -------------------
+
+--- FULL , ITEM_ID: 61289 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodInitiate04 ) -------------------
+
+--- FULL , ITEM_ID: 61327 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodInitiate05 ) -------------------
+
+--- FULL , ITEM_ID: 61362 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodInitiate06 ) -------------------
+
+--- FULL , ITEM_ID: 61398 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodInitiate07 ) -------------------
+
+--- FULL , ITEM_ID: 61433 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodInitiate08 ) -------------------
+
+--- FULL , ITEM_ID: 61465 ---
+钢铁兄弟会新兵\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodKnightAATEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 61497 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodKnightBarracksPost1 ) -------------------
+
+--- FULL , ITEM_ID: 61531 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodKnightBarracksPost2 ) -------------------
+
+--- FULL , ITEM_ID: 61568 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodKnightExterior1 ) -------------------
+
+--- FULL , ITEM_ID: 61605 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodKnightExterior2 ) -------------------
+
+--- FULL , ITEM_ID: 61641 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodKnightExterior3 ) -------------------
+
+--- FULL , ITEM_ID: 61677 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodKnightExterior4 ) -------------------
+
+--- FULL , ITEM_ID: 61714 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodKnightExteriorGuard1 ) -------------------
+
+--- FULL , ITEM_ID: 61751 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodKnightGateGuard ) -------------------
+
+--- FULL , ITEM_ID: 61786 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodKnightGeneric ) -------------------
+
+--- FULL , ITEM_ID: 61817 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodKnightLabPatrol ) -------------------
+
+--- FULL , ITEM_ID: 61853 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodKnightLabPost01 ) -------------------
+
+--- FULL , ITEM_ID: 61889 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodKnightLabPost02 ) -------------------
+
+--- FULL , ITEM_ID: 61926 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodKnightSleepFemale ) -------------------
+
+--- FULL , ITEM_ID: 61962 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( CitadelBrotherhoodKnightSleepMale ) -------------------
+
+--- FULL , ITEM_ID: 61996 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( CitadelJourneymanScribeArchives01 ) -------------------
+
+--- FULL , ITEM_ID: 62030 ---
+钢铁兄弟会书记员\0
+
+
+------------------- NPC_ ( CitadelJourneymanScribeLibertyPrime01 ) -------------------
+
+--- FULL , ITEM_ID: 62065 ---
+钢铁兄弟会书记员\0
+
+
+------------------- NPC_ ( CitadelJourneymanScribeLibertyPrime02 ) -------------------
+
+--- FULL , ITEM_ID: 62102 ---
+钢铁兄弟会书记员\0
+
+
+------------------- NPC_ ( CitadelJourneymanScribeLibertyPrime03 ) -------------------
+
+--- FULL , ITEM_ID: 62140 ---
+钢铁兄弟会书记员\0
+
+
+------------------- NPC_ ( CitadelJourneymanScribeLibertyPrime04 ) -------------------
+
+--- FULL , ITEM_ID: 62176 ---
+钢铁兄弟会书记员\0
+
+
+------------------- NPC_ ( CitadelJourneymanScribeLibertyPrime05 ) -------------------
+
+--- FULL , ITEM_ID: 62213 ---
+钢铁兄弟会书记员\0
+
+
+------------------- NPC_ ( CitadelJourneymanScribeLibertyPrime06 ) -------------------
+
+--- FULL , ITEM_ID: 62249 ---
+钢铁兄弟会书记员\0
+
+
+------------------- NPC_ ( CitadelJourneymanScribeLibertyPrime07 ) -------------------
+
+--- FULL , ITEM_ID: 62284 ---
+钢铁兄弟会书记员\0
+
+
+------------------- NPC_ ( CitadelJourneymanScribeLibertyPrime08 ) -------------------
+
+--- FULL , ITEM_ID: 62320 ---
+钢铁兄弟会书记员\0
+
+
+------------------- NPC_ ( CitadelJourneymanScribeLibrary01 ) -------------------
+
+--- FULL , ITEM_ID: 62356 ---
+钢铁兄弟会书记员\0
+
+
+------------------- NPC_ ( CitadelJourneymanScribeLibrary02 ) -------------------
+
+--- FULL , ITEM_ID: 62392 ---
+钢铁兄弟会书记员\0
+
+
+------------------- NPC_ ( CJYoung ) -------------------
+
+--- FULL , ITEM_ID: 62428 ---
+C.J. Young\0
+C.J.杨\0
+
+
+------------------- NPC_ ( Clover ) -------------------
+
+--- FULL , ITEM_ID: 62470 ---
+Clover\0
+三叶草\0
+
+
+------------------- NPC_ ( ColinMoriarty ) -------------------
+
+--- FULL , ITEM_ID: 62516 ---
+Colin Moriarty\0
+科林.莫里亚提\0
+
+
+------------------- NPC_ ( ColonelAutumn ) -------------------
+
+--- FULL , ITEM_ID: 62562 ---
+Colonel Autumn\0
+奥特姆上校\0
+秋上校\0
+
+
+------------------- NPC_ ( ConfessorCromwell ) -------------------
+
+--- FULL , ITEM_ID: 62616 ---
+Confessor Cromwell\0
+苦行者克伦威尔\0
+
+
+------------------- NPC_ ( CrazyWolfgang ) -------------------
+
+--- FULL , ITEM_ID: 62653 ---
+Crazy Wolfgang\0
+疯子沃尔夫冈\0
+
+
+------------------- NPC_ ( Crimson ) -------------------
+
+--- FULL , ITEM_ID: 62689 ---
+Crimson\0
+克里姆森\0
+深红\0
+
+
+------------------- NPC_ ( Crow ) -------------------
+
+--- FULL , ITEM_ID: 62728 ---
+Crow\0
+乌鸦\0
+
+
+------------------- NPC_ ( CrowCaravanGuard1 ) -------------------
+
+--- FULL , ITEM_ID: 62765 ---
+商队护卫\0
+
+
+------------------- NPC_ ( Cutter ) -------------------
+
+--- FULL , ITEM_ID: 62800 ---
+Cutter\0
+卡特\0
+
+
+------------------- NPC_ ( DanielLittlehorn ) -------------------
+
+--- FULL , ITEM_ID: 62839 ---
+Daniel Littlehorn\0
+丹尼尔.利特尔霍恩\0
+丹尼尔.小喇叭\0
+
+
+------------------- NPC_ ( Danvers ) -------------------
+
+--- FULL , ITEM_ID: 62867 ---
+Commander Danvers\0
+丹佛指挥官\0
+
+
+------------------- NPC_ ( Dave ) -------------------
+
+--- FULL , ITEM_ID: 62909 ---
+Dave\0
+戴夫\0
+
+
+------------------- NPC_ ( DEADChineseGhoulSpy ) -------------------
+
+--- FULL , ITEM_ID: 62950 ---
+天朝残余间谍\0
+
+
+------------------- NPC_ ( DeadEnclaveCamp13Gun01 ) -------------------
+
+--- FULL , ITEM_ID: 62978 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( DeadEnclaveCamp13Gun02 ) -------------------
+
+--- FULL , ITEM_ID: 63010 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( DeadEnclaveCamp13Ripper01 ) -------------------
+
+--- FULL , ITEM_ID: 63042 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( DeadEnclaveCamp33Gun01 ) -------------------
+
+--- FULL , ITEM_ID: 63074 ---
+英克雷军官\0
+
+
+------------------- NPC_ ( DeadEnclaveCamp33Gun02 ) -------------------
+
+--- FULL , ITEM_ID: 63105 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( DeadEnclaveCamp33Ripper01 ) -------------------
+
+--- FULL , ITEM_ID: 63134 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( DEADGhoulWastelanderCF ) -------------------
+
+--- FULL , ITEM_ID: 63160 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( DEADGhoulWastelanderHM ) -------------------
+
+--- FULL , ITEM_ID: 63195 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( DEADRaider1GunAAM ) -------------------
+
+--- FULL , ITEM_ID: 63230 ---
+匪徒\0
+
+
+------------------- NPC_ ( DEADRaider1GunHM ) -------------------
+
+--- FULL , ITEM_ID: 63265 ---
+匪徒\0
+
+
+------------------- NPC_ ( DEADRaider1MeleeCF ) -------------------
+
+--- FULL , ITEM_ID: 63303 ---
+匪徒\0
+
+
+------------------- NPC_ ( DEADRaider1RifleAF ) -------------------
+
+--- FULL , ITEM_ID: 63338 ---
+匪徒\0
+
+
+------------------- NPC_ ( DEADScientistLD01 ) -------------------
+
+--- FULL , ITEM_ID: 63374 ---
+科学家\0
+
+
+------------------- NPC_ ( DeadSettler ) -------------------
+
+--- FULL , ITEM_ID: 63406 ---
+死掉的拓荒者\0
+
+
+------------------- NPC_ ( DeadSettler02 ) -------------------
+
+--- FULL , ITEM_ID: 63434 ---
+死掉的拓荒者\0
+
+
+------------------- NPC_ ( DeadSlaveFemale ) -------------------
+
+--- FULL , ITEM_ID: 63460 ---
+死掉的奴隶\0
+
+
+------------------- NPC_ ( DeadSlaveMale ) -------------------
+
+--- FULL , ITEM_ID: 63486 ---
+死掉的奴隶\0
+
+
+------------------- NPC_ ( DEADTakomaParkScientist01 ) -------------------
+
+--- FULL , ITEM_ID: 63514 ---
+Jason\0
+杰森\0
+
+
+------------------- NPC_ ( DEADTakomaParkScientist02 ) -------------------
+
+--- FULL , ITEM_ID: 63546 ---
+Isabella Proud\0
+伊莎贝拉.普劳德\0
+
+
+------------------- NPC_ ( DEADVault87ExtScientist01 ) -------------------
+
+--- FULL , ITEM_ID: 63575 ---
+科学家\0
+
+
+------------------- NPC_ ( DEADWastelanderAAM ) -------------------
+
+--- FULL , ITEM_ID: 63604 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( DEADWastelanderAF ) -------------------
+
+--- FULL , ITEM_ID: 63639 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( DEADWastelanderAM ) -------------------
+
+--- FULL , ITEM_ID: 63674 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( DEADWastelanderCF ) -------------------
+
+--- FULL , ITEM_ID: 63707 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( DEADWastelanderCM ) -------------------
+
+--- FULL , ITEM_ID: 63739 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( DEADWastelanderHF ) -------------------
+
+--- FULL , ITEM_ID: 63772 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( DEADWastelanderHM ) -------------------
+
+--- FULL , ITEM_ID: 63804 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( DeathclawLoot1MinesMale ) -------------------
+
+--- FULL , ITEM_ID: 63837 ---
+Mercenary\0
+
+
+------------------- NPC_ ( DeathclawLoot1MissileMale ) -------------------
+
+--- FULL , ITEM_ID: 63864 ---
+匪徒\0
+
+
+------------------- NPC_ ( DeathclawLoot1SniperFemale ) -------------------
+
+--- FULL , ITEM_ID: 63892 ---
+匪徒\0
+
+
+------------------- NPC_ ( DeathclawLoot1VendorMale ) -------------------
+
+--- FULL , ITEM_ID: 63922 ---
+废土商人\0
+
+
+------------------- NPC_ ( DefenderMorgan ) -------------------
+
+--- FULL , ITEM_ID: 63956 ---
+Defender Morgan\0
+拥护者摩根\0
+
+
+------------------- NPC_ ( DefenderRockfowl ) -------------------
+
+--- FULL , ITEM_ID: 63992 ---
+Defender Rockfowl\0
+拥护者秃鸦\0
+
+
+------------------- NPC_ ( DerekPacion ) -------------------
+
+--- FULL , ITEM_ID: 64023 ---
+Derek Pacion\0
+
+
+
+------------------- NPC_ ( Diego ) -------------------
+
+--- FULL , ITEM_ID: 64063 ---
+Diego\0
+迪亚哥\0
+
+
+------------------- NPC_ ( DocChurch ) -------------------
+
+--- FULL , ITEM_ID: 64112 ---
+Doc Church\0
+丘奇博士\0
+
+
+------------------- NPC_ ( DocHoff ) -------------------
+
+--- FULL , ITEM_ID: 64158 ---
+Doc Hoff\0
+霍夫博士\0
+
+
+------------------- NPC_ ( DoctorBanfield ) -------------------
+
+--- FULL , ITEM_ID: 64198 ---
+Doctor Banfield\0
+班菲尔德博士\0
+
+
+------------------- NPC_ ( DoctorBanfieldDEAD ) -------------------
+
+--- FULL , ITEM_ID: 64241 ---
+Doctor Banfield\0
+班菲尔德博士\0
+
+
+------------------- NPC_ ( DoctorBarrows ) -------------------
+
+--- FULL , ITEM_ID: 64269 ---
+Doctor Barrows\0
+拜罗斯博士\0
+
+
+------------------- NPC_ ( DoctorLesko ) -------------------
+
+--- FULL , ITEM_ID: 64311 ---
+Doctor Lesko\0
+莱斯科博士\0
+
+
+------------------- NPC_ ( DoctorLi ) -------------------
+
+--- FULL , ITEM_ID: 64356 ---
+李博士\0
+
+
+------------------- NPC_ ( DoctorPreston ) -------------------
+
+--- FULL , ITEM_ID: 64429 ---
+Doctor Preston\0
+普雷斯顿博士\0
+
+
+------------------- NPC_ ( DominicDEllsadro ) -------------------
+
+--- FULL , ITEM_ID: 64484 ---
+Dominic D'Ellsadro\0
+多米尼克.D.艾尔萨德罗\0
+
+
+------------------- NPC_ ( Dukov ) -------------------
+
+--- FULL , ITEM_ID: 64520 ---
+Dukov\0
+杜卡夫\0
+
+
+------------------- NPC_ ( Eclair ) -------------------
+
+--- FULL , ITEM_ID: 64568 ---
+Eclair\0
+艾克莱尔\0
+小饼干\0
+
+
+------------------- NPC_ ( EdgarWellingtonII ) -------------------
+
+--- FULL , ITEM_ID: 64600 ---
+Edgar Wellington II\0
+埃德加.惠灵顿二世\0
+
+
+------------------- NPC_ ( ElderLyons ) -------------------
+
+--- FULL , ITEM_ID: 64642 ---
+Elder Lyons\0
+里昂老人\0
+
+
+------------------- NPC_ ( EllenDeLoria ) -------------------
+
+--- FULL , ITEM_ID: 64691 ---
+Ellen DeLoria\0
+埃伦.迪洛丽亚\0
+
+
+------------------- NPC_ ( EMillsBazMadameBrothel ) -------------------
+
+--- FULL , ITEM_ID: 64726 ---
+匪徒\0
+
+
+------------------- NPC_ ( EMillsBazRaiderBrothel ) -------------------
+
+--- FULL , ITEM_ID: 64761 ---
+匪徒\0
+
+
+------------------- NPC_ ( EMillsBazWhoreBrothel ) -------------------
+
+--- FULL , ITEM_ID: 64795 ---
+匪徒\0
+
+
+------------------- NPC_ ( Enclave0GunAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 64828 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave0GunAAM ) -------------------
+
+--- FULL , ITEM_ID: 64859 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave0GunAF ) -------------------
+
+--- FULL , ITEM_ID: 64892 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave0GunAM ) -------------------
+
+--- FULL , ITEM_ID: 64923 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave0GunCF ) -------------------
+
+--- FULL , ITEM_ID: 64957 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave0GunCM ) -------------------
+
+--- FULL , ITEM_ID: 64990 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave0GunHF ) -------------------
+
+--- FULL , ITEM_ID: 65023 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave0GunHM ) -------------------
+
+--- FULL , ITEM_ID: 65056 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave0RipperAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 65090 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave0RipperAAM ) -------------------
+
+--- FULL , ITEM_ID: 65120 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave0RipperAF ) -------------------
+
+--- FULL , ITEM_ID: 65154 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave0RipperAM ) -------------------
+
+--- FULL , ITEM_ID: 65185 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave0RipperCF ) -------------------
+
+--- FULL , ITEM_ID: 65219 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave0RipperCM ) -------------------
+
+--- FULL , ITEM_ID: 65252 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave0RipperHF ) -------------------
+
+--- FULL , ITEM_ID: 65286 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave0RipperHM ) -------------------
+
+--- FULL , ITEM_ID: 65319 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave1GunAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 65353 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave1GunAAM ) -------------------
+
+--- FULL , ITEM_ID: 65386 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave1GunAF ) -------------------
+
+--- FULL , ITEM_ID: 65422 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave1GunAM ) -------------------
+
+--- FULL , ITEM_ID: 65455 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave1GunCF ) -------------------
+
+--- FULL , ITEM_ID: 65490 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave1GunCM ) -------------------
+
+--- FULL , ITEM_ID: 65526 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave1GunHF ) -------------------
+
+--- FULL , ITEM_ID: 65561 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave1GunHM ) -------------------
+
+--- FULL , ITEM_ID: 65596 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave1RipperAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 65632 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave1RipperAAM ) -------------------
+
+--- FULL , ITEM_ID: 65663 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave1RipperAF ) -------------------
+
+--- FULL , ITEM_ID: 65697 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave1RipperAM ) -------------------
+
+--- FULL , ITEM_ID: 65731 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave1RipperCF ) -------------------
+
+--- FULL , ITEM_ID: 65766 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave1RipperCM ) -------------------
+
+--- FULL , ITEM_ID: 65801 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave1RipperHF ) -------------------
+
+--- FULL , ITEM_ID: 65836 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave1RipperHM ) -------------------
+
+--- FULL , ITEM_ID: 65870 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave2FlamerAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 65904 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave2FlamerAAM ) -------------------
+
+--- FULL , ITEM_ID: 65938 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave2FlamerAF ) -------------------
+
+--- FULL , ITEM_ID: 65974 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave2FlamerAM ) -------------------
+
+--- FULL , ITEM_ID: 66010 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave2FlamerCF ) -------------------
+
+--- FULL , ITEM_ID: 66046 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave2FlamerCM ) -------------------
+
+--- FULL , ITEM_ID: 66081 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave2FlamerHF ) -------------------
+
+--- FULL , ITEM_ID: 66117 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave2FlamerHM ) -------------------
+
+--- FULL , ITEM_ID: 66153 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave2GunAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 66188 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave2GunAAM ) -------------------
+
+--- FULL , ITEM_ID: 66222 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave2GunAF ) -------------------
+
+--- FULL , ITEM_ID: 66258 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave2GunAM ) -------------------
+
+--- FULL , ITEM_ID: 66292 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave2GunCF ) -------------------
+
+--- FULL , ITEM_ID: 66328 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave2GunCM ) -------------------
+
+--- FULL , ITEM_ID: 66364 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave2GunHF ) -------------------
+
+--- FULL , ITEM_ID: 66400 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave2GunHM ) -------------------
+
+--- FULL , ITEM_ID: 66435 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3BigGunAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 66471 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3BigGunAAM ) -------------------
+
+--- FULL , ITEM_ID: 66504 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3BigGunAF ) -------------------
+
+--- FULL , ITEM_ID: 66539 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3BigGunAM ) -------------------
+
+--- FULL , ITEM_ID: 66571 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3BigGunCF ) -------------------
+
+--- FULL , ITEM_ID: 66606 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3BigGunCM ) -------------------
+
+--- FULL , ITEM_ID: 66640 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3BigGunHF ) -------------------
+
+--- FULL , ITEM_ID: 66675 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3BigGunHM ) -------------------
+
+--- FULL , ITEM_ID: 66709 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3GunAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 66744 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3GunAAM ) -------------------
+
+--- FULL , ITEM_ID: 66778 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3GunAF ) -------------------
+
+--- FULL , ITEM_ID: 66814 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3GunAM ) -------------------
+
+--- FULL , ITEM_ID: 66847 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3GunCF ) -------------------
+
+--- FULL , ITEM_ID: 66883 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3GunCM ) -------------------
+
+--- FULL , ITEM_ID: 66919 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3GunHF ) -------------------
+
+--- FULL , ITEM_ID: 66955 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3GunHM ) -------------------
+
+--- FULL , ITEM_ID: 66990 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3MissileAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 67026 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3MissileAAM ) -------------------
+
+--- FULL , ITEM_ID: 67059 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3MissileAF ) -------------------
+
+--- FULL , ITEM_ID: 67093 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3MissileAM ) -------------------
+
+--- FULL , ITEM_ID: 67125 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3MissileCF ) -------------------
+
+--- FULL , ITEM_ID: 67160 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3MissileCM ) -------------------
+
+--- FULL , ITEM_ID: 67194 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3MissileHF ) -------------------
+
+--- FULL , ITEM_ID: 67228 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave3MissileHM ) -------------------
+
+--- FULL , ITEM_ID: 67262 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Enclave4OfficerAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 67297 ---
+英克雷军官\0
+
+
+------------------- NPC_ ( Enclave4OfficerAAM ) -------------------
+
+--- FULL , ITEM_ID: 67334 ---
+英克雷军官\0
+
+
+------------------- NPC_ ( Enclave4OfficerAF ) -------------------
+
+--- FULL , ITEM_ID: 67373 ---
+英克雷军官\0
+
+
+------------------- NPC_ ( Enclave4OfficerAM ) -------------------
+
+--- FULL , ITEM_ID: 67412 ---
+英克雷军官\0
+
+
+------------------- NPC_ ( Enclave4OfficerCF ) -------------------
+
+--- FULL , ITEM_ID: 67452 ---
+英克雷军官\0
+
+
+------------------- NPC_ ( Enclave4OfficerCM ) -------------------
+
+--- FULL , ITEM_ID: 67490 ---
+英克雷军官\0
+
+
+------------------- NPC_ ( Enclave4OfficerHF ) -------------------
+
+--- FULL , ITEM_ID: 67531 ---
+英克雷军官\0
+
+
+------------------- NPC_ ( Enclave4OfficerHM ) -------------------
+
+--- FULL , ITEM_ID: 67569 ---
+英克雷军官\0
+
+
+------------------- NPC_ ( EnclaveScientistAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 67608 ---
+英克雷科学家\0
+
+
+------------------- NPC_ ( EnclaveScientistAAM ) -------------------
+
+--- FULL , ITEM_ID: 67640 ---
+英克雷科学家\0
+
+
+------------------- NPC_ ( EnclaveScientistAF ) -------------------
+
+--- FULL , ITEM_ID: 67671 ---
+英克雷科学家\0
+
+
+------------------- NPC_ ( EnclaveScientistAM ) -------------------
+
+--- FULL , ITEM_ID: 67704 ---
+英克雷科学家\0
+
+
+------------------- NPC_ ( EnclaveScientistCF ) -------------------
+
+--- FULL , ITEM_ID: 67737 ---
+英克雷科学家\0
+
+
+------------------- NPC_ ( EnclaveScientistCM ) -------------------
+
+--- FULL , ITEM_ID: 67770 ---
+英克雷科学家\0
+
+
+------------------- NPC_ ( EnclaveScientistHF ) -------------------
+
+--- FULL , ITEM_ID: 67801 ---
+英克雷科学家\0
+
+
+------------------- NPC_ ( EnclaveScientistHM ) -------------------
+
+--- FULL , ITEM_ID: 67834 ---
+英克雷科学家\0
+
+
+------------------- NPC_ ( EnclaveWastelandPatrolA1 ) -------------------
+
+--- FULL , ITEM_ID: 67865 ---
+英克雷军官\0
+
+
+------------------- NPC_ ( EnclaveWastelandPatrolA2 ) -------------------
+
+--- FULL , ITEM_ID: 67901 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( EnclaveWastelandPatrolA3 ) -------------------
+
+--- FULL , ITEM_ID: 67925 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( EnclaveWastelandPatrolB1 ) -------------------
+
+--- FULL , ITEM_ID: 67949 ---
+英克雷军官\0
+
+
+------------------- NPC_ ( EnclaveWastelandPatrolB2 ) -------------------
+
+--- FULL , ITEM_ID: 67988 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( EnclaveWastelandPatrolB3 ) -------------------
+
+--- FULL , ITEM_ID: 68012 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( EnclaveWastelandPatrolC2 ) -------------------
+
+--- FULL , ITEM_ID: 68036 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( EnclaveWastelandPatrolC3 ) -------------------
+
+--- FULL , ITEM_ID: 68060 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( EnclaveWastelandPatrolD2 ) -------------------
+
+--- FULL , ITEM_ID: 68084 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( EnclaveWastelandPatrolD3 ) -------------------
+
+--- FULL , ITEM_ID: 68108 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Ethyl ) -------------------
+
+--- FULL , ITEM_ID: 68132 ---
+Ethyl\0
+伊塞尔\0
+
+
+------------------- NPC_ ( EulogyJones ) -------------------
+
+--- FULL , ITEM_ID: 68161 ---
+Eulogy Jones\0
+尤尔吉.琼斯\0
+
+
+------------------- NPC_ ( EvanKing ) -------------------
+
+--- FULL , ITEM_ID: 68212 ---
+Evan King\0
+埃文.金\0
+
+
+------------------- NPC_ ( EvergreenMillsSlave01 ) -------------------
+
+--- FULL , ITEM_ID: 68253 ---
+奴隶\0
+
+
+------------------- NPC_ ( EvergreenMillsSlave02 ) -------------------
+
+--- FULL , ITEM_ID: 68288 ---
+奴隶\0
+
+
+------------------- NPC_ ( ExtraNote01Corpse ) -------------------
+
+--- FULL , ITEM_ID: 68322 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( ExtraNote02Corpse ) -------------------
+
+--- FULL , ITEM_ID: 68354 ---
+匪徒\0
+
+
+------------------- NPC_ ( ExtraNote03Corpse ) -------------------
+
+--- FULL , ITEM_ID: 68385 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( ExtraNote04Corpse ) -------------------
+
+--- FULL , ITEM_ID: 68417 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( ExtraNote05Corpse ) -------------------
+
+--- FULL , ITEM_ID: 68449 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( ExtraNote06Corpse ) -------------------
+
+--- FULL , ITEM_ID: 68480 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( ExtraNote08Corpse ) -------------------
+
+--- FULL , ITEM_ID: 68512 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( ExtraNote09Corpse ) -------------------
+
+--- FULL , ITEM_ID: 68543 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( ExtraNote10Corpse ) -------------------
+
+--- FULL , ITEM_ID: 68575 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( Fantasia ) -------------------
+
+--- FULL , ITEM_ID: 68607 ---
+Fantasia\0
+幻想曲\0
+
+
+------------------- NPC_ ( FatherClifford ) -------------------
+
+--- FULL , ITEM_ID: 68652 ---
+Father Clifford\0
+克里福德老爹\0
+
+
+------------------- NPC_ ( FFChurchSniper ) -------------------
+
+--- FULL , ITEM_ID: 68701 ---
+Drifter\0
+德里夫特\0
+
+
+------------------- NPC_ ( FFDCAdamsMorganCrazedWastelander ) -------------------
+
+--- FULL , ITEM_ID: 68742 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( FFDCAdamsMorganPreacher ) -------------------
+
+--- FULL , ITEM_ID: 68774 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( FFDCArlingtonBoS01 ) -------------------
+
+--- FULL , ITEM_ID: 68805 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( FFDCArlingtonBoS02 ) -------------------
+
+--- FULL , ITEM_ID: 68833 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( FFDCChesterbrookBoS02 ) -------------------
+
+--- FULL , ITEM_ID: 68861 ---
+Paladin Northup\0
+
+
+------------------- NPC_ ( FFDCFallsChurchBoS01 ) -------------------
+
+--- FULL , ITEM_ID: 68888 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( FFDCFallsChurchBoS02 ) -------------------
+
+--- FULL , ITEM_ID: 68916 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( FFDCFallsChurchBoSLeader01 ) -------------------
+
+--- FULL , ITEM_ID: 68944 ---
+Paladin Hoss\0
+圣骑士豪斯\0
+
+
+------------------- NPC_ ( FFDCFallsChurchBoSLeader02 ) -------------------
+
+--- FULL , ITEM_ID: 68974 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( FFDCFallsChurchBoSLostInititate ) -------------------
+
+--- FULL , ITEM_ID: 69004 ---
+Initiate Pek\0
+新兵派克\0
+
+
+------------------- NPC_ ( FFDCRockCreekHunter01 ) -------------------
+
+--- FULL , ITEM_ID: 69040 ---
+Rock Crick Hunter\0
+
+
+------------------- NPC_ ( FFDCRockCreekHunter02 ) -------------------
+
+--- FULL , ITEM_ID: 69076 ---
+Rock Crick Hunter\0
+
+
+------------------- NPC_ ( FFDCRockCreekHunter04 ) -------------------
+
+--- FULL , ITEM_ID: 69112 ---
+Rock Crick Hunter\0
+
+
+------------------- NPC_ ( FFDCRockCreekHunter05 ) -------------------
+
+--- FULL , ITEM_ID: 69146 ---
+Rock Crick Hunter\0
+
+
+------------------- NPC_ ( FFDCRockCreekHunter06 ) -------------------
+
+--- FULL , ITEM_ID: 69185 ---
+Rock Crick Hunter\0
+
+
+------------------- NPC_ ( FFDCRockCreekHunter07 ) -------------------
+
+--- FULL , ITEM_ID: 69223 ---
+Rock Crick Hunter\0
+
+
+------------------- NPC_ ( FFEC20DeadEnclaveBigGunHM ) -------------------
+
+--- FULL , ITEM_ID: 69260 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( FFEC20DeadEnclaveOfficerAM ) -------------------
+
+--- FULL , ITEM_ID: 69294 ---
+英克雷军官\0
+
+
+------------------- NPC_ ( FFEC20DeadEnclaveRipperHF ) -------------------
+
+--- FULL , ITEM_ID: 69332 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( FFEChemVendor ) -------------------
+
+--- FULL , ITEM_ID: 69365 ---
+废土瘾君子\0
+
+
+------------------- NPC_ ( FFEnclaveCamp24TraineeAM ) -------------------
+
+--- FULL , ITEM_ID: 69395 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( FFEnclaveCamp24TraineeCM ) -------------------
+
+--- FULL , ITEM_ID: 69427 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( FFEnclaveCamp24TraineeHF ) -------------------
+
+--- FULL , ITEM_ID: 69459 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( FFEnclaveCamp29TraineeCM ) -------------------
+
+--- FULL , ITEM_ID: 69488 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( FFEnclaveCamp29TraineeHF ) -------------------
+
+--- FULL , ITEM_ID: 69519 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( FFEnclaveEncampment03EnclaveCorpse ) -------------------
+
+--- FULL , ITEM_ID: 69548 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( FFEnclaveEncampment03OfficerCorpse ) -------------------
+
+--- FULL , ITEM_ID: 69575 ---
+英克雷军官\0
+
+
+------------------- NPC_ ( FFEnclaveEncampment33Raider1MeleeHM ) -------------------
+
+--- FULL , ITEM_ID: 69607 ---
+匪徒\0
+
+
+------------------- NPC_ ( FFEnclaveEncampment33Raider2GunAAF ) -------------------
+
+--- FULL , ITEM_ID: 69644 ---
+匪徒\0
+
+
+------------------- NPC_ ( FFEnclaveEncampment33Raider2GunAF ) -------------------
+
+--- FULL , ITEM_ID: 69684 ---
+匪徒\0
+
+
+------------------- NPC_ ( FFEnclaveEncampment33Raider2SpecialCF ) -------------------
+
+--- FULL , ITEM_ID: 69721 ---
+匪徒\0
+
+
+------------------- NPC_ ( FFER05NPC1 ) -------------------
+
+--- FULL , ITEM_ID: 69758 ---
+Scavenger\0
+
+
+------------------- NPC_ ( FFER06NPC1 ) -------------------
+
+--- FULL , ITEM_ID: 69790 ---
+废土医生\0
+
+
+------------------- NPC_ ( FFER08Hunter ) -------------------
+
+--- FULL , ITEM_ID: 69826 ---
+猎人\0
+
+
+------------------- NPC_ ( FFER10NPC1 ) -------------------
+
+--- FULL , ITEM_ID: 69868 ---
+Scavenger\0
+
+
+------------------- NPC_ ( FFER12NPCFatman ) -------------------
+
+--- FULL , ITEM_ID: 69908 ---
+Scavenger\0
+
+
+------------------- NPC_ ( FFER12NPCNormal ) -------------------
+
+--- FULL , ITEM_ID: 69939 ---
+Scavenger\0
+
+
+------------------- NPC_ ( FFER15NPC1 ) -------------------
+
+--- FULL , ITEM_ID: 69970 ---
+Scavenger\0
+
+
+------------------- NPC_ ( FFER17Hitman ) -------------------
+
+--- FULL , ITEM_ID: 70002 ---
+杀手\0
+
+
+------------------- NPC_ ( FFER21NPC1 ) -------------------
+
+--- FULL , ITEM_ID: 70035 ---
+废土瘾君子\0
+
+
+------------------- NPC_ ( FFER27Regulator01 ) -------------------
+
+--- FULL , ITEM_ID: 70065 ---
+Regulator\0
+
+
+------------------- NPC_ ( FFER27Regulator02 ) -------------------
+
+--- FULL , ITEM_ID: 70094 ---
+Regulator\0
+
+
+------------------- NPC_ ( FFER27RegulatorLeader ) -------------------
+
+--- FULL , ITEM_ID: 70118 ---
+Regulator\0
+
+
+------------------- NPC_ ( FFER51NPC01 ) -------------------
+
+--- FULL , ITEM_ID: 70147 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( FFER51NPC02 ) -------------------
+
+--- FULL , ITEM_ID: 70177 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( FFER51NPC03 ) -------------------
+
+--- FULL , ITEM_ID: 70207 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( FFER54NPC1 ) -------------------
+
+--- FULL , ITEM_ID: 70237 ---
+Tinker Joe\0
+修补匠.乔\0
+
+
+------------------- NPC_ ( FFER55Slave ) -------------------
+
+--- FULL , ITEM_ID: 70274 ---
+奴隶\0
+
+
+------------------- NPC_ ( FFER56Slave ) -------------------
+
+--- FULL , ITEM_ID: 70303 ---
+奴隶\0
+
+
+------------------- NPC_ ( FFER57Slave ) -------------------
+
+--- FULL , ITEM_ID: 70333 ---
+逃跑的奴隶\0
+
+
+------------------- NPC_ ( FFER58NPC1 ) -------------------
+
+--- FULL , ITEM_ID: 70363 ---
+Scavenger\0
+
+
+------------------- NPC_ ( FFER59Scavenger ) -------------------
+
+--- FULL , ITEM_ID: 70396 ---
+Scavenger\0
+
+
+------------------- NPC_ ( FFER63Hunter ) -------------------
+
+--- FULL , ITEM_ID: 70430 ---
+猎人\0
+
+
+------------------- NPC_ ( FFER69Slave ) -------------------
+
+--- FULL , ITEM_ID: 70458 ---
+逃跑的奴隶\0
+
+
+------------------- NPC_ ( FFER73NPC1 ) -------------------
+
+--- FULL , ITEM_ID: 70493 ---
+Scavenger\0
+
+
+------------------- NPC_ ( FFER79Regulator01 ) -------------------
+
+--- FULL , ITEM_ID: 70525 ---
+Regulator\0
+
+
+------------------- NPC_ ( FFER79Regulator02 ) -------------------
+
+--- FULL , ITEM_ID: 70554 ---
+Regulator\0
+
+
+------------------- NPC_ ( FFER79RegulatorLeader ) -------------------
+
+--- FULL , ITEM_ID: 70583 ---
+Regulator\0
+
+
+------------------- NPC_ ( FFEU01NPC1 ) -------------------
+
+--- FULL , ITEM_ID: 70611 ---
+Ben Canning\0
+本.堪宁\0
+罐头.本\0
+
+
+------------------- NPC_ ( FFEU03NPC1 ) -------------------
+
+--- FULL , ITEM_ID: 70649 ---
+逃跑的奴隶\0
+
+
+------------------- NPC_ ( FFEU03NPC2 ) -------------------
+
+--- FULL , ITEM_ID: 70684 ---
+逃跑的奴隶\0
+
+
+------------------- NPC_ ( FFEU03NPC3 ) -------------------
+
+--- FULL , ITEM_ID: 70722 ---
+废土拓荒者\0
+
+
+------------------- NPC_ ( FFEU03NPC4 ) -------------------
+
+--- FULL , ITEM_ID: 70759 ---
+废土拓荒者\0
+
+
+------------------- NPC_ ( FFEU04NPC1 ) -------------------
+
+--- FULL , ITEM_ID: 70797 ---
+废土拓荒者\0
+
+
+------------------- NPC_ ( FFEU06NPC1 ) -------------------
+
+--- FULL , ITEM_ID: 70832 ---
+Laszlo Radford\0
+拉佐.拉德福德\0
+
+
+------------------- NPC_ ( FFEU07Corpse ) -------------------
+
+--- FULL , ITEM_ID: 70869 ---
+死掉的天朝突击队员\0
+
+
+------------------- NPC_ ( FFEU09NPC ) -------------------
+
+--- FULL , ITEM_ID: 70908 ---
+Mel\0
+蜂蜜\0
+梅尔\0
+
+
+------------------- NPC_ ( FFEU10NPC1 ) -------------------
+
+--- FULL , ITEM_ID: 70944 ---
+Scavenger\0
+
+
+------------------- NPC_ ( FFEU11Scavenger ) -------------------
+
+--- FULL , ITEM_ID: 70983 ---
+Scavenger\0
+
+
+------------------- NPC_ ( FFEU12Scavenger ) -------------------
+
+--- FULL , ITEM_ID: 71023 ---
+Scavenger\0
+
+
+------------------- NPC_ ( FFEU13Child ) -------------------
+
+--- FULL , ITEM_ID: 71068 ---
+小孩\0
+
+
+------------------- NPC_ ( FFEU14Hitman ) -------------------
+
+--- FULL , ITEM_ID: 71100 ---
+杀手\0
+
+
+------------------- NPC_ ( FFEU15Hitman ) -------------------
+
+--- FULL , ITEM_ID: 71127 ---
+Megaton Refugee\0
+
+
+------------------- NPC_ ( FFEU16NPC1 ) -------------------
+
+--- FULL , ITEM_ID: 71158 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( FFEU17Hitman ) -------------------
+
+--- FULL , ITEM_ID: 71198 ---
+Emaline\0
+艾米琳\0
+
+
+------------------- NPC_ ( FFEU18Raider1 ) -------------------
+
+--- FULL , ITEM_ID: 71232 ---
+匪徒\0
+
+
+------------------- NPC_ ( FFEU18Raider2 ) -------------------
+
+--- FULL , ITEM_ID: 71263 ---
+匪徒\0
+
+
+------------------- NPC_ ( FFEU18Raider3 ) -------------------
+
+--- FULL , ITEM_ID: 71300 ---
+匪徒\0
+
+
+------------------- NPC_ ( FFEU18Raider4 ) -------------------
+
+--- FULL , ITEM_ID: 71334 ---
+匪徒\0
+
+
+------------------- NPC_ ( FFEU18Raider5 ) -------------------
+
+--- FULL , ITEM_ID: 71369 ---
+匪徒\0
+
+
+------------------- NPC_ ( FFEU20Scavenger ) -------------------
+
+--- FULL , ITEM_ID: 71403 ---
+废土商人\0
+
+
+------------------- NPC_ ( FFEU21EnclaveOfficer ) -------------------
+
+--- FULL , ITEM_ID: 71441 ---
+英克雷军官\0
+
+
+------------------- NPC_ ( FFEU255NPC1 ) -------------------
+
+--- FULL , ITEM_ID: 71481 ---
+Scavenger\0
+
+
+------------------- NPC_ ( FFEU51Hunter1 ) -------------------
+
+--- FULL , ITEM_ID: 71514 ---
+猎人\0
+
+
+------------------- NPC_ ( FFEU51Hunter2 ) -------------------
+
+--- FULL , ITEM_ID: 71550 ---
+猎人\0
+
+
+------------------- NPC_ ( FFEU51Hunter3 ) -------------------
+
+--- FULL , ITEM_ID: 71585 ---
+猎人\0
+
+
+------------------- NPC_ ( FFEU53Sniper ) -------------------
+
+--- FULL , ITEM_ID: 71622 ---
+Sam Warrick\0
+山姆.瓦力克\0
+
+
+------------------- NPC_ ( FFEU55NPC ) -------------------
+
+--- FULL , ITEM_ID: 71664 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( FFHitSquadDCReg01 ) -------------------
+
+--- FULL , ITEM_ID: 71695 ---
+Regulator\0
+
+
+------------------- NPC_ ( FFHitSquadDCReg02 ) -------------------
+
+--- FULL , ITEM_ID: 71725 ---
+Regulator\0
+
+
+------------------- NPC_ ( FFHitSquadDCRegLeader ) -------------------
+
+--- FULL , ITEM_ID: 71754 ---
+Regulator\0
+
+
+------------------- NPC_ ( FFMutantCampCorpse01 ) -------------------
+
+--- FULL , ITEM_ID: 71782 ---
+Manny Koch\0
+曼尼.科赫\0
+
+
+------------------- NPC_ ( FFOutcastsSurpriseRaider ) -------------------
+
+--- FULL , ITEM_ID: 71814 ---
+匪徒\0
+
+
+------------------- NPC_ ( FFOutcastsSurpriseRaider2 ) -------------------
+
+--- FULL , ITEM_ID: 71850 ---
+匪徒\0
+
+
+------------------- NPC_ ( FFSupermutantCaptiveAAATEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 71888 ---
+废土囚犯\0
+
+
+------------------- NPC_ ( FFSupermutantCaptiveVarAAF ) -------------------
+
+--- FULL , ITEM_ID: 71923 ---
+废土囚犯\0
+
+
+------------------- NPC_ ( FFSupermutantCaptiveVarAAM ) -------------------
+
+--- FULL , ITEM_ID: 71957 ---
+废土囚犯\0
+
+
+------------------- NPC_ ( FFSupermutantCaptiveVarAF ) -------------------
+
+--- FULL , ITEM_ID: 71993 ---
+废土囚犯\0
+
+
+------------------- NPC_ ( FFSupermutantCaptiveVarAM ) -------------------
+
+--- FULL , ITEM_ID: 72027 ---
+废土囚犯\0
+
+
+------------------- NPC_ ( FFSupermutantCaptiveVarCF ) -------------------
+
+--- FULL , ITEM_ID: 72062 ---
+废土囚犯\0
+
+
+------------------- NPC_ ( FFSupermutantCaptiveVarCM ) -------------------
+
+--- FULL , ITEM_ID: 72095 ---
+废土囚犯\0
+
+
+------------------- NPC_ ( FFSupermutantCaptiveVarHF ) -------------------
+
+--- FULL , ITEM_ID: 72130 ---
+废土囚犯\0
+
+
+------------------- NPC_ ( Flak ) -------------------
+
+--- FULL , ITEM_ID: 72164 ---
+Flak\0
+弗莱克\0
+高射炮\0
+
+
+------------------- NPC_ ( Flash ) -------------------
+
+--- FULL , ITEM_ID: 72221 ---
+Flash\0
+闪光\0
+弗莱士\0
+
+
+------------------- NPC_ ( Flower ) -------------------
+
+--- FULL , ITEM_ID: 72276 ---
+Flower\0
+弗劳尔\0
+花儿\0
+
+
+------------------- NPC_ ( fortBannTalonCompanyHead ) -------------------
+
+--- FULL , ITEM_ID: 72313 ---
+Commander Jabsco\0
+捷斯克指挥官\0
+
+
+------------------- NPC_ ( Forty ) -------------------
+
+--- FULL , ITEM_ID: 72353 ---
+Forty\0
+代号40\0
+
+
+------------------- NPC_ ( FreddieGomez ) -------------------
+
+--- FULL , ITEM_ID: 72395 ---
+Freddie Gomez\0
+弗雷迪.戈麦斯\0
+
+
+------------------- NPC_ ( FredWilks ) -------------------
+
+--- FULL , ITEM_ID: 72434 ---
+Fred Wilks\0
+弗瑞德.威尔克斯\0
+
+
+------------------- NPC_ ( Friendship01GhoulNPC ) -------------------
+
+--- FULL , ITEM_ID: 72462 ---
+Gallo\0
+高罗\0
+
+
+------------------- NPC_ ( GaryStaley ) -------------------
+
+--- FULL , ITEM_ID: 72498 ---
+Gary Staley\0
+加里.斯戴利\0
+
+
+------------------- NPC_ ( Garza ) -------------------
+
+--- FULL , ITEM_ID: 72566 ---
+Garza\0
+嘉泽\0
+
+
+------------------- NPC_ ( GeorgeNeusbaum ) -------------------
+
+--- FULL , ITEM_ID: 72615 ---
+George Neusbaum\0
+乔治.纽斯班\0
+
+
+------------------- NPC_ ( GNRKnightDillon ) -------------------
+
+--- FULL , ITEM_ID: 72652 ---
+Knight Dillon\0
+骑士狄龙\0
+
+
+------------------- NPC_ ( GNRKnightFinley ) -------------------
+
+--- FULL , ITEM_ID: 72684 ---
+Knight Finley\0
+骑士芬利\0
+
+
+------------------- NPC_ ( GNRKnightSergeantWilks ) -------------------
+
+--- FULL , ITEM_ID: 72709 ---
+Knight Sergeant Wilks\0
+骑士中士威尔克斯\0
+
+
+------------------- NPC_ ( Gob ) -------------------
+
+--- FULL , ITEM_ID: 72734 ---
+Gob\0
+高博\0
+口水\0
+
+
+------------------- NPC_ ( GradyAudioOnly ) -------------------
+
+--- FULL , ITEM_ID: 72773 ---
+Grady\0
+格雷迪\0
+毕业生\0
+
+
+------------------- NPC_ ( GrandmaSparkle ) -------------------
+
+--- FULL , ITEM_ID: 72797 ---
+Grandma Sparkle\0
+斯帕克奶奶\0
+
+
+------------------- NPC_ ( Greta ) -------------------
+
+--- FULL , ITEM_ID: 72833 ---
+Greta\0
+格里塔\0
+
+
+------------------- NPC_ ( Grouse ) -------------------
+
+--- FULL , ITEM_ID: 72869 ---
+Grouse\0
+格劳斯\0
+
+
+------------------- NPC_ ( HannibalHamlin ) -------------------
+
+--- FULL , ITEM_ID: 72907 ---
+Hannibal Hamlin\0
+汉尼拔.哈姆林\0
+
+
+------------------- NPC_ ( HardenSimms ) -------------------
+
+--- FULL , ITEM_ID: 72968 ---
+Harden Simms\0
+哈登.西姆斯\0
+
+
+------------------- NPC_ ( HarithCaravanGuard1 ) -------------------
+
+--- FULL , ITEM_ID: 73007 ---
+商队护卫\0
+
+
+------------------- NPC_ ( Harkness ) -------------------
+
+--- FULL , ITEM_ID: 73043 ---
+Harkness\0
+哈克尼斯\0
+耳背\0
+
+
+------------------- NPC_ ( HenryYoung ) -------------------
+
+--- FULL , ITEM_ID: 73092 ---
+Henry Young\0
+亨利.杨\0
+
+
+------------------- NPC_ ( HerbertDashwood ) -------------------
+
+--- FULL , ITEM_ID: 73138 ---
+Herbert "Daring" Dashwood\0
+赫伯特.大胆.戴史伍德\0
+
+
+------------------- NPC_ ( HerbertDashwoodDEAD ) -------------------
+
+--- FULL , ITEM_ID: 73182 ---
+Herbert "Daring" Dashwood\0
+赫伯特.大胆.戴史伍德\0
+
+
+------------------- NPC_ ( HoffCaravanGuard1 ) -------------------
+
+--- FULL , ITEM_ID: 73213 ---
+商队护卫\0
+
+
+------------------- NPC_ ( HubrisComicsJohnnyWes ) -------------------
+
+--- FULL , ITEM_ID: 73250 ---
+Mad Johnny Wes\0
+疯子乔尼.韦斯\0
+
+
+------------------- NPC_ ( IanWest ) -------------------
+
+--- FULL , ITEM_ID: 73289 ---
+Ian West\0
+伊恩.韦斯特\0
+
+
+------------------- NPC_ ( IntroMovieBrotherhood ) -------------------
+
+--- FULL , ITEM_ID: 73326 ---
+钢铁兄弟会\0
+
+
+------------------- NPC_ ( IrvingCheng ) -------------------
+
+--- FULL , ITEM_ID: 73360 ---
+Irving Cheng\0
+欧文.陈\0
+
+
+------------------- NPC_ ( IrvingChengDEAD ) -------------------
+
+--- FULL , ITEM_ID: 73404 ---
+Irving Cheng\0
+欧文.陈\0
+
+
+------------------- NPC_ ( JackSmith ) -------------------
+
+--- FULL , ITEM_ID: 73432 ---
+Jack Smith\0
+杰克.史密斯\0
+
+
+------------------- NPC_ ( Jaime ) -------------------
+
+--- FULL , ITEM_ID: 73470 ---
+Jaime\0
+亚米\0 (西班牙设计师 亚米.海因)
+
+
+
+------------------- NPC_ ( JamesHargrave ) -------------------
+
+--- FULL , ITEM_ID: 73500 ---
+James Hargrave\0
+詹姆斯.哈格瑞夫\0
+
+
+------------------- NPC_ ( JanetRockwell ) -------------------
+
+--- FULL , ITEM_ID: 73545 ---
+Janet Rockwell\0
+珍妮特.罗克威尔\0
+
+
+------------------- NPC_ ( JaniceKaplinski ) -------------------
+
+--- FULL , ITEM_ID: 73585 ---
+Janice Kaplinski\0
+贾妮斯.卡普林斯基\0
+
+
+------------------- NPC_ ( JennyStahl ) -------------------
+
+--- FULL , ITEM_ID: 73633 ---
+Jenny Stahl\0
+珍妮.斯塔尔\0
+
+
+------------------- NPC_ ( JennyWilson ) -------------------
+
+--- FULL , ITEM_ID: 73669 ---
+Jenny Wilson\0
+珍妮.威尔逊\0
+
+
+------------------- NPC_ ( Jericho ) -------------------
+
+--- FULL , ITEM_ID: 73704 ---
+Jericho\0
+杰里科\0
+
+
+------------------- NPC_ ( Jessica ) -------------------
+
+--- FULL , ITEM_ID: 73764 ---
+Jessica\0
+杰西卡\0
+
+
+------------------- NPC_ ( JoePorter ) -------------------
+
+--- FULL , ITEM_ID: 73797 ---
+Joe Porter\0
+乔.波特\0
+
+
+------------------- NPC_ ( Joseph ) -------------------
+
+--- FULL , ITEM_ID: 73834 ---
+Joseph\0
+约瑟夫\0
+
+
+------------------- NPC_ ( Jotun ) -------------------
+
+--- FULL , ITEM_ID: 73868 ---
+Jotun\0
+佐敦\0
+
+
+------------------- NPC_ ( JundersPlunkett ) -------------------
+
+--- FULL , ITEM_ID: 73902 ---
+Junders Plunkett\0
+
+
+------------------- NPC_ ( JuniorSmith ) -------------------
+
+--- FULL , ITEM_ID: 73941 ---
+Junior Smith\0
+朱尼尔．史密斯\0
+
+
+------------------- NPC_ ( KarenJohnson ) -------------------
+
+--- FULL , ITEM_ID: 73975 ---
+Karen Johnson\0
+克伦.约翰逊\0
+
+
+------------------- NPC_ ( KarenSchenzy ) -------------------
+
+--- FULL , ITEM_ID: 74006 ---
+Karen Schenzy\0
+克伦.斯切兹\0
+
+
+------------------- NPC_ ( KenEwers ) -------------------
+
+--- FULL , ITEM_ID: 74042 ---
+Ken Ewers\0
+肯.尤尔斯\0
+
+
+------------------- NPC_ ( Kimba ) -------------------
+
+--- FULL , ITEM_ID: 74080 ---
+Kimba\0
+金巴\0
+
+
+------------------- NPC_ ( KnickKnack ) -------------------
+
+--- FULL , ITEM_ID: 74135 ---
+Knick Knack\0
+尼克.奈克\0
+
+
+------------------- NPC_ ( KnightArtemis ) -------------------
+
+--- FULL , ITEM_ID: 74174 ---
+Knight Artemis\0
+骑士阿尔特弥斯\0  (月与狩猎女神)
+
+
+------------------- NPC_ ( KnightCaptainDusk ) -------------------
+
+--- FULL , ITEM_ID: 74208 ---
+Knight Captain Dusk\0
+骑士队长达斯克\0
+骑士队长"黄昏"\0
+
+
+------------------- NPC_ ( KnightCaptainGallows ) -------------------
+
+--- FULL , ITEM_ID: 74251 ---
+Knight Captain Gallows\0
+骑士队长盖罗兹\0
+骑士队长"绞架"\0
+
+
+------------------- NPC_ ( KnightSergeantDurga ) -------------------
+
+--- FULL , ITEM_ID: 74295 ---
+Knight Captain Durga\0
+骑士队长库伦\0
+
+
+------------------- NPC_ ( KnockKnock ) -------------------
+
+--- FULL , ITEM_ID: 74327 ---
+Knock Knock\0
+敲敲\0
+诺克诺克\0
+
+
+------------------- NPC_ ( LDCapitolBuildingDead1 ) -------------------
+
+--- FULL , ITEM_ID: 74365 ---
+Talon Company Merc\0
+
+
+------------------- NPC_ ( LDCorvegaFactoryDead1 ) -------------------
+
+--- FULL , ITEM_ID: 74399 ---
+匪徒\0
+
+
+------------------- NPC_ ( LDFallsChurchDead1 ) -------------------
+
+--- FULL , ITEM_ID: 74433 ---
+匪徒\0
+
+
+------------------- NPC_ ( LDFortCTara ) -------------------
+
+--- FULL , ITEM_ID: 74467 ---
+Tara\0
+特拉\0
+
+
+------------------- NPC_ ( LDGary1 ) -------------------
+
+--- FULL , ITEM_ID: 74494 ---
+Gary 1\0
+加里 1\0
+
+
+------------------- NPC_ ( LDGary12 ) -------------------
+
+--- FULL , ITEM_ID: 74526 ---
+Gary 12\0
+加里 12\0
+
+
+------------------- NPC_ ( LDGary17 ) -------------------
+
+--- FULL , ITEM_ID: 74559 ---
+Gary 17\0
+加里 17\0
+
+
+------------------- NPC_ ( LDGary25 ) -------------------
+
+--- FULL , ITEM_ID: 74590 ---
+Gary 25\0
+加里 25\0
+
+
+------------------- NPC_ ( LDGary27 ) -------------------
+
+--- FULL , ITEM_ID: 74621 ---
+Gary 27\0
+加里 27\0
+
+
+------------------- NPC_ ( LDGary29 ) -------------------
+
+--- FULL , ITEM_ID: 74652 ---
+Gary 29\0
+加里 29\0
+
+
+------------------- NPC_ ( LDGary32 ) -------------------
+
+--- FULL , ITEM_ID: 74685 ---
+Gary 32\0
+加里 32\0
+
+
+------------------- NPC_ ( LDGary33 ) -------------------
+
+--- FULL , ITEM_ID: 74716 ---
+Gary 33\0
+加里 33\0
+
+
+------------------- NPC_ ( LDGary36 ) -------------------
+
+--- FULL , ITEM_ID: 74747 ---
+Gary 36\0
+加里 36\0
+
+
+------------------- NPC_ ( LDGary41 ) -------------------
+
+--- FULL , ITEM_ID: 74782 ---
+Gary 41\0
+加里 41\0
+
+
+------------------- NPC_ ( LDGary42 ) -------------------
+
+--- FULL , ITEM_ID: 74817 ---
+Gary 42\0
+加里 42\0
+
+
+------------------- NPC_ ( LDGary43 ) -------------------
+
+--- FULL , ITEM_ID: 74848 ---
+Gary 43\0
+加里 43\0
+
+
+------------------- NPC_ ( LDGary47 ) -------------------
+
+--- FULL , ITEM_ID: 74883 ---
+Gary 47\0
+加里 47\0
+
+
+------------------- NPC_ ( LDGaryTemplate ) -------------------
+
+--- FULL , ITEM_ID: 74914 ---
+Gary Template\0
+加里 模板\0
+
+
+------------------- NPC_ ( LDJuryRaiderBoss ) -------------------
+
+--- FULL , ITEM_ID: 74946 ---
+Ryan Brigg\0
+赖恩.布里格\0
+
+
+------------------- NPC_ ( LDJuryStDead01 ) -------------------
+
+--- FULL , ITEM_ID: 74982 ---
+匪徒\0
+
+
+------------------- NPC_ ( LeoStahl ) -------------------
+
+--- FULL , ITEM_ID: 75016 ---
+Leo Stahl\0
+里奥.斯塔尔\0
+
+
+------------------- NPC_ ( LeroyWalker ) -------------------
+
+--- FULL , ITEM_ID: 75054 ---
+Leroy Walker\0
+勒罗依.沃克\0
+
+
+------------------- NPC_ ( LindaSmith ) -------------------
+
+--- FULL , ITEM_ID: 75097 ---
+Linda Smith\0
+琳达.史密斯\0
+
+
+------------------- NPC_ ( LittleToe ) -------------------
+
+--- FULL , ITEM_ID: 75131 ---
+Little Toe\0
+小趾\0
+
+
+------------------- NPC_ ( LLKid1 ) -------------------
+
+--- FULL , ITEM_ID: 75158 ---
+Little Lamplighter\0
+小孩镇居民\0
+
+
+------------------- NPC_ ( LLKid2 ) -------------------
+
+--- FULL , ITEM_ID: 75188 ---
+Little Lamplighter\0
+小孩镇居民\0
+
+
+------------------- NPC_ ( LLKidGrand1 ) -------------------
+
+--- FULL , ITEM_ID: 75217 ---
+Little Lamplighter\0
+小孩镇居民\0
+
+
+------------------- NPC_ ( LLKidGrand2 ) -------------------
+
+--- FULL , ITEM_ID: 75246 ---
+Little Lamplighter\0
+小孩镇居民\0
+
+
+------------------- NPC_ ( LLSlaver ) -------------------
+
+--- FULL , ITEM_ID: 75276 ---
+儿童贩子\0
+
+
+------------------- NPC_ ( Loot1AmmoFemale ) -------------------
+
+--- FULL , ITEM_ID: 75309 ---
+匪徒\0
+
+
+------------------- NPC_ ( Loot1AmmoMale ) -------------------
+
+--- FULL , ITEM_ID: 75335 ---
+匪徒\0
+
+
+------------------- NPC_ ( Loot1ArmorFemale ) -------------------
+
+--- FULL , ITEM_ID: 75365 ---
+Mercenary\0
+
+
+------------------- NPC_ ( Loot1ArmorFemaleGhoul ) -------------------
+
+--- FULL , ITEM_ID: 75393 ---
+Mercenary\0
+
+
+------------------- NPC_ ( Loot1ArmorMale ) -------------------
+
+--- FULL , ITEM_ID: 75421 ---
+Mercenary\0
+
+
+------------------- NPC_ ( Loot1CapsFemale ) -------------------
+
+--- FULL , ITEM_ID: 75449 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( Loot1CapsMale ) -------------------
+
+--- FULL , ITEM_ID: 75480 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( Loot1ChemsFemale ) -------------------
+
+--- FULL , ITEM_ID: 75510 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( Loot1ChemsMale ) -------------------
+
+--- FULL , ITEM_ID: 75542 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( Loot1Enclave3GunAAM ) -------------------
+
+--- FULL , ITEM_ID: 75573 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( Loot1Enclave4OfficerAF ) -------------------
+
+--- FULL , ITEM_ID: 75607 ---
+英克雷军官\0
+
+
+------------------- NPC_ ( Loot1EnergyWeaponsFemale ) -------------------
+
+--- FULL , ITEM_ID: 75641 ---
+Mercenary\0
+
+
+------------------- NPC_ ( Loot1EnergyWeaponsMale ) -------------------
+
+--- FULL , ITEM_ID: 75668 ---
+Mercenary\0
+
+
+------------------- NPC_ ( Loot1FightingMaleWastelander ) -------------------
+
+--- FULL , ITEM_ID: 75700 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( Loot1MeleeFemale ) -------------------
+
+--- FULL , ITEM_ID: 75730 ---
+匪徒\0
+
+
+------------------- NPC_ ( Loot1MeleeMale ) -------------------
+
+--- FULL , ITEM_ID: 75758 ---
+匪徒\0
+
+
+------------------- NPC_ ( Loot1SmallGunsFemale ) -------------------
+
+--- FULL , ITEM_ID: 75787 ---
+匪徒\0
+
+
+------------------- NPC_ ( Loot1SmallGunsMale ) -------------------
+
+--- FULL , ITEM_ID: 75815 ---
+匪徒\0
+
+
+------------------- NPC_ ( LootGibsonUnique ) -------------------
+
+--- FULL , ITEM_ID: 75846 ---
+Gibson\0
+
+
+------------------- NPC_ ( LootToxicDump01NPC ) -------------------
+
+--- FULL , ITEM_ID: 75879 ---
+废土隐居者\0
+
+
+------------------- NPC_ ( LucasSimms ) -------------------
+
+--- FULL , ITEM_ID: 75909 ---
+Lucas Simms\0
+卢卡斯.西姆斯\0
+
+
+------------------- NPC_ ( LuckyHarith ) -------------------
+
+--- FULL , ITEM_ID: 75963 ---
+Lucky Harith\0
+幸运哈里斯\0
+
+
+------------------- NPC_ ( Lucy ) -------------------
+
+--- FULL , ITEM_ID: 76002 ---
+Lucy\0
+露茜\0
+
+
+------------------- NPC_ ( LucyWest ) -------------------
+
+--- FULL , ITEM_ID: 76043 ---
+Lucy West\0
+露茜.韦斯特\0
+
+
+------------------- NPC_ ( LugNut ) -------------------
+
+--- FULL , ITEM_ID: 76080 ---
+Lug-Nut\0
+螺丝帽\0
+
+
+------------------- NPC_ ( LvlEnclaveWastelandPatrol ) -------------------
+
+--- FULL , ITEM_ID: 76113 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( LvlHunter ) -------------------
+
+--- FULL , ITEM_ID: 76136 ---
+猎人\0
+
+
+------------------- NPC_ ( LvlHunterMale ) -------------------
+
+--- FULL , ITEM_ID: 76169 ---
+猎人\0
+
+
+------------------- NPC_ ( LvlOutcastWastelandPatrolGun ) -------------------
+
+--- FULL , ITEM_ID: 76199 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( LvlOutcastWastelandPatrolMelee ) -------------------
+
+--- FULL , ITEM_ID: 76222 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( LvlOutcastWastelandPatrolSpecial ) -------------------
+
+--- FULL , ITEM_ID: 76245 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( LvlRegulatorGun ) -------------------
+
+--- FULL , ITEM_ID: 76268 ---
+Regulator\0
+
+
+------------------- NPC_ ( LvlScavenger ) -------------------
+
+--- FULL , ITEM_ID: 76292 ---
+Scavenger\0
+
+
+------------------- NPC_ ( LvlScavengerGuardEditorLoc ) -------------------
+
+--- FULL , ITEM_ID: 76325 ---
+Scavenger\0
+
+
+------------------- NPC_ ( LvlScavengerMale ) -------------------
+
+--- FULL , ITEM_ID: 76357 ---
+Scavenger\0
+
+
+------------------- NPC_ ( LvlSlave ) -------------------
+
+--- FULL , ITEM_ID: 76387 ---
+奴隶\0
+
+
+------------------- NPC_ ( LvlSlaveMale ) -------------------
+
+--- FULL , ITEM_ID: 76413 ---
+奴隶\0
+
+
+------------------- NPC_ ( LvlWastelanderDISMEMBER ) -------------------
+
+--- FULL , ITEM_ID: 76439 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( LydiaMontenegro ) -------------------
+
+--- FULL , ITEM_ID: 76462 ---
+Lydia Montenegro\0
+莉迪亚.蒙特内哥罗\0
+莉迪亚.黑山\0
+
+
+------------------- NPC_ ( MabelHenderson ) -------------------
+
+--- FULL , ITEM_ID: 76505 ---
+Mabel Henderson\0
+梅布尔.亨德森\0
+
+
+------------------- NPC_ ( Machete ) -------------------
+
+--- FULL , ITEM_ID: 76542 ---
+Machete\0
+马歇特\0
+马靴底\0   (电影<墨西哥王马靴底>)
+
+
+------------------- NPC_ ( Maggie ) -------------------
+
+--- FULL , ITEM_ID: 76576 ---
+Maggie\0
+梅姬\0
+
+
+------------------- NPC_ ( Manya ) -------------------
+
+--- FULL , ITEM_ID: 76611 ---
+Manya\0
+玛妮雅\0
+
+
+------------------- NPC_ ( MargaretPrimrose ) -------------------
+
+--- FULL , ITEM_ID: 76648 ---
+Margaret Primrose\0
+玛格莉特.普里摩罗兹\0
+
+
+------------------- NPC_ ( MargaretPrimroseDEAD ) -------------------
+
+--- FULL , ITEM_ID: 76686 ---
+Margaret Primrose\0
+玛格莉特.普里摩罗兹\0
+
+
+------------------- NPC_ ( MarthaSimpson ) -------------------
+
+--- FULL , ITEM_ID: 76711 ---
+Martha Simpson\0
+玛萨.辛普森\0
+
+
+------------------- NPC_ ( MarthaWilson ) -------------------
+
+--- FULL , ITEM_ID: 76744 ---
+Martha Wilson\0
+玛萨.威尔逊\0
+
+
+
+------------------- NPC_ ( Mary ) -------------------
+
+--- FULL , ITEM_ID: 76780 ---
+Mary\0
+玛丽\0
+
+
+------------------- NPC_ ( MayorMacCready ) -------------------
+
+--- FULL , ITEM_ID: 76817 ---
+Mayor MacCready\0
+麦克格雷迪市长\0
+
+
+------------------- NPC_ ( Meat ) -------------------
+
+--- FULL , ITEM_ID: 76856 ---
+Meat\0
+肉\0
+
+
+------------------- NPC_ ( Mechanist ) -------------------
+
+--- FULL , ITEM_ID: 76884 ---
+机械技师\0
+
+
+------------------- NPC_ ( MegatonBrassLanternCustomer01 ) -------------------
+
+--- FULL , ITEM_ID: 76926 ---
+Megaton Settler\0
+
+
+------------------- NPC_ ( MegatonBrassLanternCustomer02 ) -------------------
+
+--- FULL , ITEM_ID: 76963 ---
+Megaton Settler\0
+
+
+------------------- NPC_ ( MegatonBrassLanternCustomer03 ) -------------------
+
+--- FULL , ITEM_ID: 76999 ---
+Megaton Settler\0
+
+
+------------------- NPC_ ( MegatonChildOfAtom01 ) -------------------
+
+--- FULL , ITEM_ID: 77033 ---
+Child of Atom\0
+
+
+------------------- NPC_ ( MegatonChildOfAtom02 ) -------------------
+
+--- FULL , ITEM_ID: 77070 ---
+Child of Atom\0
+
+
+------------------- NPC_ ( MegatonChildOfAtom03 ) -------------------
+
+--- FULL , ITEM_ID: 77106 ---
+Child of Atom\0
+
+
+------------------- NPC_ ( MegatonChildOfAtom04 ) -------------------
+
+--- FULL , ITEM_ID: 77140 ---
+Child of Atom\0
+
+
+------------------- NPC_ ( MegatonClinicPatient01 ) -------------------
+
+--- FULL , ITEM_ID: 77174 ---
+病人\0
+
+
+------------------- NPC_ ( MegatonClinicPatient02 ) -------------------
+
+--- FULL , ITEM_ID: 77206 ---
+病人\0
+
+
+------------------- NPC_ ( MegatonClinicPatient03 ) -------------------
+
+--- FULL , ITEM_ID: 77240 ---
+病人\0
+
+
+------------------- NPC_ ( MegatonMoriartysCustomer01 ) -------------------
+
+--- FULL , ITEM_ID: 77269 ---
+Megaton Settler\0
+
+
+------------------- NPC_ ( MegatonMoriartysCustomer02 ) -------------------
+
+--- FULL , ITEM_ID: 77303 ---
+Megaton Settler\0
+
+
+------------------- NPC_ ( MegatonMoriartysCustomer03 ) -------------------
+
+--- FULL , ITEM_ID: 77339 ---
+Megaton Settler\0
+
+
+------------------- NPC_ ( MegatonSettler01 ) -------------------
+
+--- FULL , ITEM_ID: 77372 ---
+Megaton Settler\0
+
+
+------------------- NPC_ ( MegatonSettler02 ) -------------------
+
+--- FULL , ITEM_ID: 77413 ---
+Megaton Settler\0
+
+
+------------------- NPC_ ( MegatonSettler03 ) -------------------
+
+--- FULL , ITEM_ID: 77455 ---
+Megaton Settler\0
+
+
+------------------- NPC_ ( MegatonSettler04 ) -------------------
+
+--- FULL , ITEM_ID: 77496 ---
+Megaton Settler\0
+
+
+------------------- NPC_ ( MegatonSettler05 ) -------------------
+
+--- FULL , ITEM_ID: 77541 ---
+Megaton Settler\0
+
+
+------------------- NPC_ ( MegatonSettler06 ) -------------------
+
+--- FULL , ITEM_ID: 77584 ---
+Megaton Settler\0
+
+
+------------------- NPC_ ( MegatonSettler07 ) -------------------
+
+--- FULL , ITEM_ID: 77622 ---
+Megaton Settler\0
+
+
+------------------- NPC_ ( MegatonSettler08 ) -------------------
+
+--- FULL , ITEM_ID: 77661 ---
+Megaton Settler\0
+
+
+------------------- NPC_ ( MegatonSettler09 ) -------------------
+
+--- FULL , ITEM_ID: 77701 ---
+Megaton Settler\0
+
+
+------------------- NPC_ ( MegatonSettler10 ) -------------------
+
+--- FULL , ITEM_ID: 77736 ---
+Megaton Settler\0
+
+
+------------------- NPC_ ( MegatonSettlerMercCraterside ) -------------------
+
+--- FULL , ITEM_ID: 77774 ---
+Mercenary\0
+
+
+------------------- NPC_ ( MeiWong ) -------------------
+
+--- FULL , ITEM_ID: 77811 ---
+Mei Wong\0
+王梅\0
+
+
+------------------- NPC_ ( MichaelHawthorne ) -------------------
+
+--- FULL , ITEM_ID: 77857 ---
+Michael Hawthorne\0
+迈克尔.霍索恩\0
+
+
+------------------- NPC_ ( MichaelHawthorneDEAD ) -------------------
+
+--- FULL , ITEM_ID: 77899 ---
+Michael Hawthorne\0
+迈克尔.霍索恩\0
+
+
+------------------- NPC_ ( MichaelMasters ) -------------------
+
+--- FULL , ITEM_ID: 77927 ---
+Michael Masters\0
+迈克尔.玛斯特\0
+
+
+------------------- NPC_ ( MillicentWellington ) -------------------
+
+--- FULL , ITEM_ID: 77972 ---
+Millicent Wellington\0
+米莉森特.惠灵顿\0
+
+
+------------------- NPC_ ( MissJeanette ) -------------------
+
+--- FULL , ITEM_ID: 78021 ---
+Miss Jeanette\0
+珍妮特小姐
+
+
+------------------- NPC_ ( MisterBurke ) -------------------
+
+--- FULL , ITEM_ID: 78053 ---
+Mister Burke\0
+巴尔克先生\0
+
+
+------------------- NPC_ ( MisterCrowley ) -------------------
+
+--- FULL , ITEM_ID: 78108 ---
+Mister Crowley\0
+克劳利先生\0
+
+
+------------------- NPC_ ( MisterLopez ) -------------------
+
+--- FULL , ITEM_ID: 78153 ---
+Mister Lopez\0
+洛佩兹先生\0
+
+
+------------------- NPC_ ( MoiraBrown ) -------------------
+
+--- FULL , ITEM_ID: 78197 ---
+Moira Brown\0
+莫伊拉.布朗\0
+
+
+------------------- NPC_ ( MotherMaya ) -------------------
+
+--- FULL , ITEM_ID: 78241 ---
+Mother Maya\0
+玛雅老妈妈\0
+
+
+------------------- NPC_ ( MQ01BoSGNNBattle ) -------------------
+
+--- FULL , ITEM_ID: 78278 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( MQ01BoSGNNBattleCommander ) -------------------
+
+--- FULL , ITEM_ID: 78311 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( MQ01BoSGNNBattleDialogue1 ) -------------------
+
+--- FULL , ITEM_ID: 78350 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( MQ01BoSGNNBattlePatrol1 ) -------------------
+
+--- FULL , ITEM_ID: 78388 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( MQ01BoSGNNBattleWander1 ) -------------------
+
+--- FULL , ITEM_ID: 78424 ---
+钢铁兄弟会圣骑士\0
+
+
+------------------- NPC_ ( MQ01Colvin ) -------------------
+
+--- FULL , ITEM_ID: 78461 ---
+Knight Captain Colvin\0
+
+
+------------------- NPC_ ( MQ01CorpseWithFatman ) -------------------
+
+--- FULL , ITEM_ID: 78508 ---
+钢铁兄弟会骑士\0
+
+
+------------------- NPC_ ( MQ01JenningsDead ) -------------------
+
+--- FULL , ITEM_ID: 78539 ---
+Initiate Jennings\0
+新兵詹宁斯\0
+
+
+------------------- NPC_ ( MQ01Reddin ) -------------------
+
+--- FULL , ITEM_ID: 78574 ---
+Initiate Reddin\0
+新兵瑞汀\0
+
+
+------------------- NPC_ ( MQ01SarahLyons ) -------------------
+
+--- FULL , ITEM_ID: 78623 ---
+Sentinel Lyons\0
+哨兵里昂斯\0
+
+
+------------------- NPC_ ( MQ01Silver ) -------------------
+
+--- FULL , ITEM_ID: 78692 ---
+Silver\0
+西尔瓦\0
+
+
+------------------- NPC_ ( MQ01Vargas ) -------------------
+
+--- FULL , ITEM_ID: 78724 ---
+Paladin Vargas\0
+圣骑士瓦格斯\0
+
+
+------------------- NPC_ ( MQ02PlanetariumVoice ) -------------------
+
+--- FULL , ITEM_ID: 78781 ---
+Planetarium Guy\0
+天文馆工作者\0
+
+
+------------------- NPC_ ( MQ02Prime ) -------------------
+
+--- FULL , ITEM_ID: 78807 ---
+Prime\0
+普莱姆\0
+
+
+------------------- NPC_ ( MQ04ChineseSoldier ) -------------------
+
+--- FULL , ITEM_ID: 78845 ---
+天朝突击队员\0
+
+
+------------------- NPC_ ( MQ05EnclaveGoon ) -------------------
+
+--- FULL , ITEM_ID: 78879 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( MQ05EnclaveGoonB ) -------------------
+
+--- FULL , ITEM_ID: 78912 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( MQ05EnclaveOfficer ) -------------------
+
+--- FULL , ITEM_ID: 78945 ---
+英克雷军官\0
+
+
+------------------- NPC_ ( MQ08DerangedCaptive ) -------------------
+
+--- FULL , ITEM_ID: 78977 ---
+Sid\0
+席德\0
+
+
+------------------- NPC_ ( MQ08EnclaveGuard01 ) -------------------
+
+--- FULL , ITEM_ID: 79011 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( MQ08EnclaveGuard02 ) -------------------
+
+--- FULL , ITEM_ID: 79042 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( MQ09EnclaveControlRoomGuard ) -------------------
+
+--- FULL , ITEM_ID: 79072 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( MQ09EnclaveOfficer ) -------------------
+
+--- FULL , ITEM_ID: 79107 ---
+英克雷军官\0
+
+
+------------------- NPC_ ( MQ09EnclaveScriptedGuard ) -------------------
+
+--- FULL , ITEM_ID: 79140 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( MQ11EnclaveScientistDEAD ) -------------------
+
+--- FULL , ITEM_ID: 79169 ---
+英克雷科学家\0
+
+
+------------------- NPC_ ( MQ11EnclaveTeslaArmor ) -------------------
+
+--- FULL , ITEM_ID: 79201 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( MQ11EnclaveTeslaGoon ) -------------------
+
+--- FULL , ITEM_ID: 79234 ---
+英克雷士兵\0
+
+
+------------------- NPC_ ( MQDad ) -------------------
+
+--- FULL , ITEM_ID: 79261 ---
+爸爸\0
+
+
+------------------- NPC_ ( MrBrotch ) -------------------
+
+--- FULL , ITEM_ID: 79310 ---
+Mr. Brotch\0
+
+
+------------------- NPC_ ( MS06Slaver01TEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 79349 ---
+Silas\0
+赛拉斯\0
+
+
+------------------- NPC_ ( MS06Slaver02 ) -------------------
+
+--- FULL , ITEM_ID: 79391 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( MS06Slaver03 ) -------------------
+
+--- FULL , ITEM_ID: 79430 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( MS06Slaver04 ) -------------------
+
+--- FULL , ITEM_ID: 79471 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( MS06Slaver05 ) -------------------
+
+--- FULL , ITEM_ID: 79510 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( MS06Slaver06 ) -------------------
+
+--- FULL , ITEM_ID: 79547 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( MS06Slaver07 ) -------------------
+
+--- FULL , ITEM_ID: 79584 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( MS08FemaleVoice1 ) -------------------
+
+--- FULL , ITEM_ID: 79622 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( MS08FemaleVoice2 ) -------------------
+
+--- FULL , ITEM_ID: 79647 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( MS08FemaleVoice3 ) -------------------
+
+--- FULL , ITEM_ID: 79672 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( MS08MaleVoice1 ) -------------------
+
+--- FULL , ITEM_ID: 79697 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( MS08MaleVoice2 ) -------------------
+
+--- FULL , ITEM_ID: 79725 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( MS08MaleVoice3 ) -------------------
+
+--- FULL , ITEM_ID: 79752 ---
+废土流浪者\0
+
+
+------------------- NPC_ ( MS16Beatrice ) -------------------
+
+--- FULL , ITEM_ID: 79777 ---
+Beatrice\0
+比阿特丽斯\0
+
+
+------------------- NPC_ ( MS16Corpse1 ) -------------------
+
+--- FULL , ITEM_ID: 79821 ---
+Janice Wilkins\0
+贾尼斯.威尔金斯\0
+
+
+------------------- NPC_ ( MS16Corpse2 ) -------------------
+
+--- FULL , ITEM_ID: 79852 ---
+Steve Armstrong\0
+史蒂夫.阿姆斯特朗\0
+
+
+------------------- NPC_ ( MS16Corpse3 ) -------------------
+
+--- FULL , ITEM_ID: 79882 ---
+Chip Taylor\0
+奇普.泰勒
+
+
+
+------------------- NPC_ ( MS16Corpse4 ) -------------------
+
+--- FULL , ITEM_ID: 79911 ---
+Jim Wilkins\0
+吉姆.威尔金斯\0
+
+
+------------------- NPC_ ( Murphy ) -------------------
+
+--- FULL , ITEM_ID: 79940 ---
+Murphy\0
+墨菲\0
+
+
+------------------- NPC_ ( Nathan ) -------------------
+
+--- FULL , ITEM_ID: 79976 ---
+Nathan\0
+内森\0
+
+
+------------------- NPC_ ( Nova ) -------------------
+
+--- FULL , ITEM_ID: 80024 ---
+Nova\0
+诺娃\0
+
+
+------------------- NPC_ ( NurseGraves ) -------------------
+
+--- FULL , ITEM_ID: 80064 ---
+Nurse Graves\0
+护士格拉夫\0
+
+
+------------------- NPC_ ( OasisBloomseerPoplar ) -------------------
+
+--- FULL , ITEM_ID: 80095 ---
+Bloomseer Poplar\0
+
+
+------------------- NPC_ ( OasisBranchtenderCypress ) -------------------
+
+--- FULL , ITEM_ID: 80134 ---
+Branchtender Cypress\0
+
+
+------------------- NPC_ ( OasisBranchtenderLinden ) -------------------
+
+--- FULL , ITEM_ID: 80174 ---
+Branchtender Linden\0
+
+
+------------------- NPC_ ( OasisBranchtenderMaple ) -------------------
+
+--- FULL , ITEM_ID: 80215 ---
+Branchtender Maple\0
+
+
+------------------- NPC_ ( OasisCorpse ) -------------------
+
+--- FULL , ITEM_ID: 80252 ---
+Dead Branchtender\0
+
+
+------------------- NPC_ ( OasisLeafMotherLaurel ) -------------------
+
+--- FULL , ITEM_ID: 80284 ---
+Leaf Mother Laurel\0
+
+
+------------------- NPC_ ( OasisSaplingYew ) -------------------
+
+--- FULL , ITEM_ID: 80326 ---
+Sapling Yew\0
+
+
+------------------- NPC_ ( OasisTreeFatherBirch ) -------------------
+
+--- FULL , ITEM_ID: 80360 ---
+Tree Father Birch\0
+
+
+------------------- NPC_ ( OldLadyDithers ) -------------------
+
+--- FULL , ITEM_ID: 80411 ---
+Old Lady Dithers\0
+
+
+------------------- NPC_ ( OldLadyPalmer ) -------------------
+
+--- FULL , ITEM_ID: 80442 ---
+Old Lady Palmer\0
+
+
+------------------- NPC_ ( OldManHarris ) -------------------
+
+--- FULL , ITEM_ID: 80469 ---
+Old Man Harris\0
+
+
+------------------- NPC_ ( Outcast1GunAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 80501 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1GunAAM ) -------------------
+
+--- FULL , ITEM_ID: 80533 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1GunAF ) -------------------
+
+--- FULL , ITEM_ID: 80567 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1GunAM ) -------------------
+
+--- FULL , ITEM_ID: 80601 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1GunCF ) -------------------
+
+--- FULL , ITEM_ID: 80635 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1GunCM ) -------------------
+
+--- FULL , ITEM_ID: 80665 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1GunHF ) -------------------
+
+--- FULL , ITEM_ID: 80699 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1GunHM ) -------------------
+
+--- FULL , ITEM_ID: 80732 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1MeleeAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 80766 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1MeleeAAM ) -------------------
+
+--- FULL , ITEM_ID: 80799 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1MeleeAF ) -------------------
+
+--- FULL , ITEM_ID: 80832 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1MeleeAM ) -------------------
+
+--- FULL , ITEM_ID: 80866 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1MeleeCF ) -------------------
+
+--- FULL , ITEM_ID: 80900 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1MeleeCM ) -------------------
+
+--- FULL , ITEM_ID: 80934 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1MeleeHF ) -------------------
+
+--- FULL , ITEM_ID: 80968 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1MeleeHM ) -------------------
+
+--- FULL , ITEM_ID: 81002 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1SpecialAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 81036 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1SpecialAAM ) -------------------
+
+--- FULL , ITEM_ID: 81068 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1SpecialAF ) -------------------
+
+--- FULL , ITEM_ID: 81101 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1SpecialAM ) -------------------
+
+--- FULL , ITEM_ID: 81135 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1SpecialCF ) -------------------
+
+--- FULL , ITEM_ID: 81168 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1SpecialCM ) -------------------
+
+--- FULL , ITEM_ID: 81201 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1SpecialHF ) -------------------
+
+--- FULL , ITEM_ID: 81235 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast1SpecialHM ) -------------------
+
+--- FULL , ITEM_ID: 81268 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast2GunAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 81299 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast2GunAAM ) -------------------
+
+--- FULL , ITEM_ID: 81331 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast2GunAF ) -------------------
+
+--- FULL , ITEM_ID: 81364 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast2GunAM ) -------------------
+
+--- FULL , ITEM_ID: 81397 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast2GunCF ) -------------------
+
+--- FULL , ITEM_ID: 81430 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast2GunCM ) -------------------
+
+--- FULL , ITEM_ID: 81462 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast2GunHF ) -------------------
+
+--- FULL , ITEM_ID: 81493 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast2GunHM ) -------------------
+
+--- FULL , ITEM_ID: 81526 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast2MeleeAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 81560 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast2MeleeAAM ) -------------------
+
+--- FULL , ITEM_ID: 81593 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast2MeleeAF ) -------------------
+
+--- FULL , ITEM_ID: 81628 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast2MeleeAM ) -------------------
+
+--- FULL , ITEM_ID: 81662 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast2MeleeCF ) -------------------
+
+--- FULL , ITEM_ID: 81696 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast2MeleeCM ) -------------------
+
+--- FULL , ITEM_ID: 81727 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast2MeleeHF ) -------------------
+
+--- FULL , ITEM_ID: 81758 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast2MeleeHM ) -------------------
+
+--- FULL , ITEM_ID: 81790 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3BigGunsAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 81824 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3BigGunsAAM ) -------------------
+
+--- FULL , ITEM_ID: 81856 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3BigGunsAF ) -------------------
+
+--- FULL , ITEM_ID: 81890 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3BigGunsAM ) -------------------
+
+--- FULL , ITEM_ID: 81924 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3BigGunsCF ) -------------------
+
+--- FULL , ITEM_ID: 81955 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3BigGunsCM ) -------------------
+
+--- FULL , ITEM_ID: 81988 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3BigGunsHF ) -------------------
+
+--- FULL , ITEM_ID: 82019 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3BigGunsHM ) -------------------
+
+--- FULL , ITEM_ID: 82052 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3GunAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 82084 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3GunAAM ) -------------------
+
+--- FULL , ITEM_ID: 82116 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3GunAF ) -------------------
+
+--- FULL , ITEM_ID: 82149 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3GunAM ) -------------------
+
+--- FULL , ITEM_ID: 82182 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3GunCF ) -------------------
+
+--- FULL , ITEM_ID: 82215 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3GunCM ) -------------------
+
+--- FULL , ITEM_ID: 82248 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3GunHF ) -------------------
+
+--- FULL , ITEM_ID: 82282 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3GunHM ) -------------------
+
+--- FULL , ITEM_ID: 82315 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3MeleeAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 82348 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3MeleeAAM ) -------------------
+
+--- FULL , ITEM_ID: 82381 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3MeleeAF ) -------------------
+
+--- FULL , ITEM_ID: 82416 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3MeleeAM ) -------------------
+
+--- FULL , ITEM_ID: 82450 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3MeleeCF ) -------------------
+
+--- FULL , ITEM_ID: 82485 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3MeleeCM ) -------------------
+
+--- FULL , ITEM_ID: 82519 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3MeleeHF ) -------------------
+
+--- FULL , ITEM_ID: 82554 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3MeleeHM ) -------------------
+
+--- FULL , ITEM_ID: 82588 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3SpecialAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 82623 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3SpecialAAM ) -------------------
+
+--- FULL , ITEM_ID: 82655 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3SpecialAF ) -------------------
+
+--- FULL , ITEM_ID: 82689 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3SpecialAM ) -------------------
+
+--- FULL , ITEM_ID: 82723 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3SpecialCF ) -------------------
+
+--- FULL , ITEM_ID: 82757 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3SpecialCM ) -------------------
+
+--- FULL , ITEM_ID: 82787 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3SpecialHF ) -------------------
+
+--- FULL , ITEM_ID: 82821 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Outcast3SpecialHM ) -------------------
+
+--- FULL , ITEM_ID: 82854 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( OutcastWastelandPatrolA2 ) -------------------
+
+--- FULL , ITEM_ID: 82888 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( OutcastWastelandPatrolA3 ) -------------------
+
+--- FULL , ITEM_ID: 82912 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( OutcastWastelandPatrolB2 ) -------------------
+
+--- FULL , ITEM_ID: 82937 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( OutcastWastelandPatrolB3 ) -------------------
+
+--- FULL , ITEM_ID: 82962 ---
+兄弟会放逐者\0
+
+
+------------------- NPC_ ( Overseer ) -------------------
+
+--- FULL , ITEM_ID: 82987 ---
+监督者\0
+
+
+------------------- NPC_ ( PAAveExplosivesCorpse ) -------------------
+
+--- FULL , ITEM_ID: 83032 ---
+Mercenary\0
+雇佣兵\0
+
+
+------------------- NPC_ ( PaladinBael ) -------------------
+
+--- FULL , ITEM_ID: 83065 ---
+Paladin Bael\0
+圣骑士蓓尔\0
+
+
+------------------- NPC_ ( PaladinGlade ) -------------------
+
+--- FULL , ITEM_ID: 83096 ---
+Paladin Glade\0
+圣骑士格雷德\0
+
+
+------------------- NPC_ ( PaladinGunny ) -------------------
+
+--- FULL , ITEM_ID: 83141 ---
+Paladin Gunny\0
+圣骑士甘尼\0
+
+
+------------------- NPC_ ( PaladinKodiak ) -------------------
+
+--- FULL , ITEM_ID: 83183 ---
+Paladin Kodiak\0
+圣骑士科迪亚克\0
+
+
+------------------- NPC_ ( Pappy ) -------------------
+
+--- FULL , ITEM_ID: 83223 ---
+Pappy\0
+帕比\0
+
+
+------------------- NPC_ ( ParadiseFallsBarTender ) -------------------
+
+--- FULL , ITEM_ID: 83277 ---
+Frank\0
+弗兰克\0
+
+
+------------------- NPC_ ( ParadiseFallsSlaver1 ) -------------------
+
+--- FULL , ITEM_ID: 83310 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( ParadiseFallsSlaver2 ) -------------------
+
+--- FULL , ITEM_ID: 83343 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( ParadiseFallsSlaver3 ) -------------------
+
+--- FULL , ITEM_ID: 83379 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( ParadiseFallsSlaver4 ) -------------------
+
+--- FULL , ITEM_ID: 83414 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( ParadiseFallsSlaver5 ) -------------------
+
+--- FULL , ITEM_ID: 83447 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( ParadiseFallsSlaverGuard01 ) -------------------
+
+--- FULL , ITEM_ID: 83481 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( ParadiseFallsSlaverGuard02 ) -------------------
+
+--- FULL , ITEM_ID: 83515 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( ParadiseFallsSlaverGuard03 ) -------------------
+
+--- FULL , ITEM_ID: 83550 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( ParadiseFallsSlaverGuard04 ) -------------------
+
+--- FULL , ITEM_ID: 83585 ---
+奴隶贩子\0
+
+
+------------------- NPC_ ( Patchwork ) -------------------
+
+--- FULL , ITEM_ID: 83620 ---
+Patchwork\0
+修补匠\0
+
+
+------------------- NPC_ ( PatNeusbaum ) -------------------
+
+--- FULL , ITEM_ID: 83651 ---
+Pat Neusbaum\0
+派特.纽斯班\0
+
+
+------------------- NPC_ ( PaulieCantelli ) -------------------
+
+--- FULL , ITEM_ID: 83686 ---
+Paulie Cantelli\0
+鲍利.康泰利
+
+
+------------------- NPC_ ( Penny ) -------------------
+
+--- FULL , ITEM_ID: 83736 ---
+Penny\0
+潘妮\0
+便士\0
+
+
+------------------- NPC_ ( PepperGomez ) -------------------
+
+--- FULL , ITEM_ID: 83784 ---
+Pepper Gomez\0
+急性子.戈麦斯\0
+派帕.戈麦斯\0
+
+
+------------------- NPC_ ( PerkContractKillerSecretary01 ) -------------------
+
+--- FULL , ITEM_ID: 83819 ---
+Secretary\0
+秘书\0
+
+
+------------------- NPC_ ( PerkContractKillerSecretary02 ) -------------------
+
+--- FULL , ITEM_ID: 83848 ---
+Secretary\0
+秘书\0
+
+
+------------------- NPC_ ( PerkContractKillerSecretary03 ) -------------------
+
+--- FULL , ITEM_ID: 83876 ---
+Secretary\0
+秘书\0
+
+
+------------------- NPC_ ( PerkContractKillerSecretary04 ) -------------------
+
+--- FULL , ITEM_ID: 83904 ---
+Secretary\0
+秘书\0
+
+
+------------------- NPC_ ( PerkLawbringerRegulator01 ) -------------------
+
+--- FULL , ITEM_ID: 83934 ---
+Regulator\0
+
+
+------------------- NPC_ ( PerkLawbringerRegulator02 ) -------------------
+
+--- FULL , ITEM_ID: 83961 ---
+Regulator\0
+
+
+------------------- NPC_ ( PerkLawbringerRegulator03 ) -------------------
+
+--- FULL , ITEM_ID: 83988 ---
+Regulator\0
+
+
+------------------- NPC_ ( Pinkerton ) -------------------
+
+--- FULL , ITEM_ID: 84014 ---
+Pinkerton\0
+私家侦探\0
+
+
+------------------- NPC_ ( PotomacFisherman ) -------------------
+
+--- FULL , ITEM_ID: 84046 ---
+Scavenger\0
+拾荒人\0
+
+
+------------------- NPC_ ( PresidentEden ) -------------------
+
+--- FULL , ITEM_ID: 84078 ---
+President Eden\0
+伊登总统\0
+
+
+------------------- NPC_ ( Princess ) -------------------
+
+--- FULL , ITEM_ID: 84100 ---
+Princess\0
+公主\0
+
+
+------------------- NPC_ ( ProfessorMalleusAUDIO ) -------------------
+
+--- FULL , ITEM_ID: 84133 ---
+Professor Malleus\0
+麦丽尔斯教授\0
+
+
+------------------- NPC_ ( ProjectPurityAlexDargon ) -------------------
+
+--- FULL , ITEM_ID: 84162 ---
+Alex Dargon\0
+阿历克斯.达贡\0
+
+
+------------------- NPC_ ( ProjectPurityDanielAgincourt ) -------------------
+
+--- FULL , ITEM_ID: 84196 ---
+Daniel Agincourt\0
+丹尼尔.阿金库特
+
+
+------------------- NPC_ ( Pronto ) -------------------
+
+--- FULL , ITEM_ID: 84229 ---
+Pronto\0
+普朗多\0
+
+
+------------------- NPC_ ( ProtectorCasdin ) -------------------
+
+--- FULL , ITEM_ID: 84265 ---
+Protector Casdin\0
+防御者卡斯汀\0
+
+
+------------------- NPC_ ( Quinn ) -------------------
+
+--- FULL , ITEM_ID: 84307 ---
+Quinn\0
+奎因\0
+
+
+------------------- NPC_ ( Rachael ) -------------------
+
+--- FULL , ITEM_ID: 84342 ---
+Rachael\0
+蕾切尔\0
+
+
+------------------- NPC_ ( RadioPlayNPC ) -------------------
+
+--- FULL , ITEM_ID: 84378 ---
+Radio Play NPC\0
+广播剧演员
+
+
+------------------- NPC_ ( Raider1GunAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 84399 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1GunAAM ) -------------------
+
+--- FULL , ITEM_ID: 84435 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1GunAF ) -------------------
+
+--- FULL , ITEM_ID: 84472 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1GunAM ) -------------------
+
+--- FULL , ITEM_ID: 84509 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1GunCF ) -------------------
+
+--- FULL , ITEM_ID: 84547 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1GunCM ) -------------------
+
+--- FULL , ITEM_ID: 84584 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1GunHF ) -------------------
+
+--- FULL , ITEM_ID: 84621 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1GunHM ) -------------------
+
+--- FULL , ITEM_ID: 84658 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1MeleeAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 84698 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1MeleeAAM ) -------------------
+
+--- FULL , ITEM_ID: 84734 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1MeleeAF ) -------------------
+
+--- FULL , ITEM_ID: 84771 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1MeleeAM ) -------------------
+
+--- FULL , ITEM_ID: 84806 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1MeleeCF ) -------------------
+
+--- FULL , ITEM_ID: 84841 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1MeleeCM ) -------------------
+
+--- FULL , ITEM_ID: 84876 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1MeleeHF ) -------------------
+
+--- FULL , ITEM_ID: 84912 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1MeleeHM ) -------------------
+
+--- FULL , ITEM_ID: 84947 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1RifleAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 84983 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1RifleAAM ) -------------------
+
+--- FULL , ITEM_ID: 85019 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1RifleAF ) -------------------
+
+--- FULL , ITEM_ID: 85058 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1RifleAM ) -------------------
+
+--- FULL , ITEM_ID: 85096 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1RifleCF ) -------------------
+
+--- FULL , ITEM_ID: 85135 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1RifleCM ) -------------------
+
+--- FULL , ITEM_ID: 85173 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1RifleHF ) -------------------
+
+--- FULL , ITEM_ID: 85212 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider1RifleHM ) -------------------
+
+--- FULL , ITEM_ID: 85249 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2GunAAFTEMPLATE ) -------------------
+
+--- FULL , ITEM_ID: 85287 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2GunAAM ) -------------------
+
+--- FULL , ITEM_ID: 85323 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2GunAF ) -------------------
+
+--- FULL , ITEM_ID: 85358 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2GunAM ) -------------------
+
+--- FULL , ITEM_ID: 85395 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2GunCF ) -------------------
+
+--- FULL , ITEM_ID: 85433 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2GunCM ) -------------------
+
+--- FULL , ITEM_ID: 85470 ---
+匪徒\0
+
+
+------------------- NPC_ ( Raider2GunHF ) -------------------
+
+--- FULL , ITEM_ID: 85509 ---
+匪徒\0
+
+

@@ -1,0 +1,330 @@
+------------------- HDPT ( BeardMustacheFull ) -------------------
+
+--- FULL , ITEM_ID: 3355 ---
+男人的男人\0
+
+
+------------------- HDPT ( BeardMustacheFullOld ) -------------------
+
+--- FULL , ITEM_ID: 3362 ---
+男人的男人\0
+
+
+------------------- HDPT ( BeardMustacheOld ) -------------------
+
+--- FULL , ITEM_ID: 3368 ---
+绅士\0
+
+
+------------------- HDPT ( BeardMustacheThin ) -------------------
+
+--- FULL , ITEM_ID: 3373 ---
+流氓\0
+
+
+------------------- HDPT ( BeardMustacheThinOld ) -------------------
+
+--- FULL , ITEM_ID: 3380 ---
+流氓\0
+
+
+------------------- HDPT ( BeardMuttonChops ) -------------------
+
+--- FULL , ITEM_ID: 3386 ---
+羊肉斑点？\0
+
+
+------------------- HDPT ( BeardSide ) -------------------
+
+--- FULL , ITEM_ID: 3392 ---
+鬃毛\0
+
+
+------------------- HDPT ( BeardSoulPatch ) -------------------
+
+--- FULL , ITEM_ID: 3398 ---
+灵魂碎片？\0
+
+
+------------------- HDPT ( BeardSoulPatchCircle ) -------------------
+
+--- FULL , ITEM_ID: 3404 ---
+Touch O' Soul？\0
+
+
+------------------- HDPT ( BeardSoulPatchFull ) -------------------
+
+--- FULL , ITEM_ID: 3411 ---
+轮胎印\0
+
+
+------------------- HDPT ( BeardSoulPatchThin ) -------------------
+
+--- FULL , ITEM_ID: 3418 ---
+打脸\0
+
+
+------------------- HDPT ( BeardThin ) -------------------
+
+--- FULL , ITEM_ID: 3425 ---
+乱蓬蓬的胡子\0
+
+
+------------------- HDPT ( Eyepatch ) -------------------
+
+--- FULL , ITEM_ID: 3431 ---
+眼罩\0
+
+
+------------------- HDPT ( BeardGoatee ) -------------------
+
+--- FULL , ITEM_ID: 3437 ---
+葛底斯堡\0
+
+
+------------------- HDPT ( BeardChinCurtain ) -------------------
+
+--- FULL , ITEM_ID: 3443 ---
+诚实的Abe\0
+
+
+------------------- HDPT ( BeardChinStrip ) -------------------
+
+--- FULL , ITEM_ID: 3449 ---
+脸带子？\0
+
+
+------------------- HDPT ( BeardChinStripCircle ) -------------------
+
+--- FULL , ITEM_ID: 3455 ---
+窄带子\0
+
+
+------------------- HDPT ( BeardChinStripFull ) -------------------
+
+--- FULL , ITEM_ID: 3462 ---
+束发带？\0
+
+
+------------------- HDPT ( BeardChinStripThin ) -------------------
+
+--- FULL , ITEM_ID: 3469 ---
+爹地 O\0
+
+
+------------------- HDPT ( BeardChinWide ) -------------------
+
+--- FULL , ITEM_ID: 3476 ---
+垮了的一代的一员？\0
+
+
+------------------- HDPT ( BeardChopper ) -------------------
+
+--- FULL , ITEM_ID: 3482 ---
+切碎机\0
+
+
+------------------- HDPT ( BeardChopperFull ) -------------------
+
+--- FULL , ITEM_ID: 3488 ---
+衰鬼丽影\0
+
+
+------------------- HDPT ( BeardChopperThin ) -------------------
+
+--- FULL , ITEM_ID: 3495 ---
+小混混\0
+
+
+------------------- HDPT ( BeardCircle ) -------------------
+
+--- FULL , ITEM_ID: 3502 ---
+山羊胡子\0
+
+
+------------------- HDPT ( BeardFull ) -------------------
+
+--- FULL , ITEM_ID: 3508 ---
+活命主义者\0
+
+
+------------------- HDPT ( BeardFullOld ) -------------------
+
+--- FULL , ITEM_ID: 3514 ---
+老胡子\0
+
+
+------------------- HDPT ( BeardGoateeCircle ) -------------------
+
+--- FULL , ITEM_ID: 3520 ---
+脖子下面？\0
+
+
+------------------- HDPT ( BeardGoateeFull ) -------------------
+
+--- FULL , ITEM_ID: 3527 ---
+满族人\0
+
+
+------------------- HDPT ( BeardGoateeThin ) -------------------
+
+--- FULL , ITEM_ID: 3534 ---
+权谋政治家\0
+
+
+------------------- HDPT ( BeardGoateeWide ) -------------------
+
+--- FULL , ITEM_ID: 3541 ---
+老笨蛋\0
+
+
+------------------- HDPT ( BeardGoateeWideFull ) -------------------
+
+--- FULL , ITEM_ID: 3548 ---
+死水\0
+
+
+------------------- HDPT ( BeardGoateeWideFullOld ) -------------------
+
+--- FULL , ITEM_ID: 3555 ---
+死水\0
+
+
+------------------- HDPT ( BeardGoateeWideOld ) -------------------
+
+--- FULL , ITEM_ID: 3561 ---
+老笨蛋\0
+
+
+------------------- HDPT ( BeardMix01a ) -------------------
+
+--- FULL , ITEM_ID: 3566 ---
+诱惑者\0
+
+
+------------------- HDPT ( BeardMix01b ) -------------------
+
+--- FULL , ITEM_ID: 3572 ---
+冷面短须？\0
+
+
+------------------- HDPT ( BeardMix01c ) -------------------
+
+--- FULL , ITEM_ID: 3578 ---
+El Carcinero？\0
+
+
+------------------- HDPT ( BeardMix01d ) -------------------
+
+--- FULL , ITEM_ID: 3584 ---
+西班牙系人\0
+
+
+------------------- HDPT ( BeardMix02a ) -------------------
+
+--- FULL , ITEM_ID: 3590 ---
+叛徒\0
+
+
+------------------- HDPT ( BeardMix02b ) -------------------
+
+--- FULL , ITEM_ID: 3596 ---
+粗原料\0
+
+
+------------------- HDPT ( BeardMix02c ) -------------------
+
+--- FULL , ITEM_ID: 3602 ---
+死人手\0
+
+
+------------------- HDPT ( BeardMix03a ) -------------------
+
+--- FULL , ITEM_ID: 3608 ---
+酒吧滋事者\0
+
+
+------------------- HDPT ( BeardMix03b ) -------------------
+
+--- FULL , ITEM_ID: 3614 ---
+进退两难\0
+
+
+------------------- HDPT ( BeardMix4a ) -------------------
+
+--- FULL , ITEM_ID: 3620 ---
+楞子\0
+
+
+------------------- HDPT ( BeardMix4b ) -------------------
+
+--- FULL , ITEM_ID: 3626 ---
+骗子\0
+
+
+------------------- HDPT ( BeardMix5a ) -------------------
+
+--- FULL , ITEM_ID: 3632 ---
+Chairman Cheng\0
+
+
+------------------- HDPT ( BeardMix6a ) -------------------
+
+--- FULL , ITEM_ID: 3638 ---
+Ronin\0
+
+
+------------------- HDPT ( BeardMix6b ) -------------------
+
+--- FULL , ITEM_ID: 3645 ---
+皓首武士\0
+
+
+------------------- HDPT ( BeardMix6c ) -------------------
+
+--- FULL , ITEM_ID: 3652 ---
+严肃高雅\0
+
+
+------------------- HDPT ( BeardMustache ) -------------------
+
+--- FULL , ITEM_ID: 3659 ---
+绅士\0
+
+
+------------------- HDPT ( BeardMustacheCircle ) -------------------
+
+--- FULL , ITEM_ID: 3665 ---
+女士的男人\0
+
+
+------------------- HDPT ( BeardMustacheCircleOld ) -------------------
+
+--- FULL , ITEM_ID: 3672 ---
+女士的男人\0
+
+
+------------------- HDPT ( BeardMustacheCurly ) -------------------
+
+--- FULL , ITEM_ID: 3677 ---
+持枪歹徒\0
+
+
+------------------- HDPT ( BeardMustacheCurlyCircle ) -------------------
+
+--- FULL , ITEM_ID: 3683 ---
+无赖\0
+
+
+------------------- HDPT ( BeardMustacheCurlyFull ) -------------------
+
+--- FULL , ITEM_ID: 3690 ---
+同志\0
+
+
+------------------- HDPT ( BeardMustacheCurlyThin ) -------------------
+
+--- FULL , ITEM_ID: 3697 ---
+骑兵\0
+
+

@@ -1,0 +1,296 @@
+------------------- AMMO ( AmmoRailwaySpikes ) -------------------
+
+--- FULL , ITEM_ID: 42010 ---
+铁轨用长钉\0
+
+
+--- ONAM , ITEM_ID: 42018 ---
+长钉\0
+
+
+------------------- AMMO ( AmmoShotgunShell ) -------------------
+
+--- FULL , ITEM_ID: 42022 ---
+霰弹枪弹药\0
+
+
+--- ONAM , ITEM_ID: 42030 ---
+霰弹\0
+
+
+------------------- AMMO ( AmmoShotgunShellRobot ) -------------------
+
+--- FULL , ITEM_ID: 42034 ---
+霰弹枪弹药(机器人用)\0
+
+
+--- ONAM , ITEM_ID: 42042 ---
+霰弹R\0
+
+
+------------------- AMMO ( AmmoSmallEnergyCell ) -------------------
+
+--- FULL , ITEM_ID: 42046 ---
+核能电池\0
+
+
+--- ONAM , ITEM_ID: 42053 ---
+核能电池\0
+
+
+------------------- AMMO ( AmmoSmallEnergyCellRobot ) -------------------
+
+--- FULL , ITEM_ID: 42057 ---
+核能电池(机器人可装)\0
+
+
+--- ONAM , ITEM_ID: 42064 ---
+核能电池R\0
+
+
+------------------- AMMO ( Ammo10mm ) -------------------
+
+--- FULL , ITEM_ID: 42068 ---
+10mm 弹药\0
+
+
+--- ONAM , ITEM_ID: 42076 ---
+10mm\0
+
+
+------------------- AMMO ( Ammo308Caliber ) -------------------
+
+--- FULL , ITEM_ID: 42080 ---
+.308 口径弹药\0
+
+
+--- ONAM , ITEM_ID: 42088 ---
+.308\0
+
+
+------------------- AMMO ( Ammo32Caliber ) -------------------
+
+--- FULL , ITEM_ID: 42092 ---
+.32 口径弹药\0
+
+
+--- ONAM , ITEM_ID: 42100 ---
+.32\0
+
+
+------------------- AMMO ( Ammo44magnum ) -------------------
+
+--- FULL , ITEM_ID: 42104 ---
+.44 口径, Magnum\0
+
+
+--- ONAM , ITEM_ID: 42112 ---
+.44\0
+
+
+------------------- AMMO ( Ammo556mm ) -------------------
+
+--- FULL , ITEM_ID: 42116 ---
+5.56mm 口径弹药\0
+
+
+--- ONAM , ITEM_ID: 42124 ---
+556mm\0
+
+
+------------------- AMMO ( Ammo556mmRobot ) -------------------
+
+--- FULL , ITEM_ID: 42128 ---
+5.56mm 弹药(机器人可用)\0
+
+
+--- ONAM , ITEM_ID: 42136 ---
+556mm R\0
+
+
+------------------- AMMO ( Ammo5mm ) -------------------
+
+--- FULL , ITEM_ID: 42140 ---
+5mm 弹药\0
+
+
+--- ONAM , ITEM_ID: 42148 ---
+5mm\0
+
+
+------------------- AMMO ( Ammo5mmRobot ) -------------------
+
+--- FULL , ITEM_ID: 42152 ---
+5mm 弹药(机器人可用)\0
+
+
+--- ONAM , ITEM_ID: 42159 ---
+5mm\0
+
+
+------------------- AMMO ( AmmoAlienPowerCell ) -------------------
+
+--- FULL , ITEM_ID: 42163 ---
+外星能量电池\0
+
+
+--- ONAM , ITEM_ID: 42171 ---
+外星能量电池\0
+
+
+------------------- AMMO ( AmmoAntSpit ) -------------------
+
+--- FULL , ITEM_ID: 42175 ---
+火箭弹\0
+
+
+--- ONAM , ITEM_ID: 42183 ---
+火箭弹\0
+
+
+------------------- AMMO ( AmmoBB ) -------------------
+
+--- FULL , ITEM_ID: 42187 ---
+BB\0
+
+
+--- ONAM , ITEM_ID: 42195 ---
+BB\0
+
+
+------------------- AMMO ( AmmoBloasflyDart ) -------------------
+
+--- FULL , ITEM_ID: 42199 ---
+飞镖\0
+
+
+------------------- AMMO ( AmmoCentaurSpit ) -------------------
+
+--- FULL , ITEM_ID: 42209 ---
+火箭弹\0
+
+
+--- ONAM , ITEM_ID: 42217 ---
+火箭弹\0
+
+
+------------------- AMMO ( AmmoDart ) -------------------
+
+--- FULL , ITEM_ID: 42221 ---
+飞镖\0
+
+
+--- ONAM , ITEM_ID: 42229 ---
+飞镖\0
+
+
+------------------- AMMO ( AmmoElectronChargePack ) -------------------
+
+--- FULL , ITEM_ID: 42233 ---
+电子充能弹药\0
+
+
+--- ONAM , ITEM_ID: 42241 ---
+电充 弹药\0
+
+
+------------------- AMMO ( AmmoElectronChargePackRobot ) -------------------
+
+--- FULL , ITEM_ID: 42245 ---
+电子充能弹药(机器人兼容)\0
+
+
+--- ONAM , ITEM_ID: 42252 ---
+电充 弹药R\0
+
+
+------------------- AMMO ( ammoFatMan ) -------------------
+
+--- FULL , ITEM_ID: 42256 ---
+小型核弹\0
+
+
+--- ONAM , ITEM_ID: 42264 ---
+小型核弹\0
+
+
+------------------- AMMO ( AmmoFlamerFuel ) -------------------
+
+--- FULL , ITEM_ID: 42268 ---
+火焰发射器燃料\0
+
+
+--- ONAM , ITEM_ID: 42276 ---
+燃料\0
+
+
+------------------- AMMO ( AmmoFlamerFuelRobot ) -------------------
+
+--- FULL , ITEM_ID: 42280 ---
+火焰发射器燃料(机器人可用)\0
+
+
+--- ONAM , ITEM_ID: 42288 ---
+燃料R\0
+
+
+------------------- AMMO ( AmmoMesmetronPowerCell ) -------------------
+
+--- FULL , ITEM_ID: 42292 ---
+Mesmetron 能量电池\0
+
+
+--- ONAM , ITEM_ID: 42299 ---
+Mez. 能量电池\0
+
+
+------------------- AMMO ( AmmoMicroFusionCell ) -------------------
+
+--- FULL , ITEM_ID: 42303 ---
+核融电池\0
+
+
+--- ONAM , ITEM_ID: 42311 ---
+核融电池\0
+
+
+------------------- AMMO ( AmmoMicroFusionCellRobot ) -------------------
+
+--- FULL , ITEM_ID: 42315 ---
+核融电池(机器人可装)\0
+
+
+--- ONAM , ITEM_ID: 42323 ---
+核融电池R\0
+
+
+------------------- AMMO ( AmmoMirelurkKing ) -------------------
+
+--- FULL , ITEM_ID: 42327 ---
+音速声波 能量\0
+
+
+--- ONAM , ITEM_ID: 42334 ---
+音波\0
+
+
+------------------- AMMO ( AmmoMissile ) -------------------
+
+--- FULL , ITEM_ID: 42338 ---
+火箭弹\0
+
+
+--- ONAM , ITEM_ID: 42346 ---
+火箭弹\0
+
+
+------------------- AMMO ( AmmoMissileRobot ) -------------------
+
+--- FULL , ITEM_ID: 42350 ---
+火箭弹(机器人可用)\0
+
+
+--- ONAM , ITEM_ID: 42358 ---
+火箭弹R\0
+
+

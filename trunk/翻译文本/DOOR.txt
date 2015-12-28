@@ -1,0 +1,1812 @@
+------------------- DOOR ( TempleUnionFenceGate01 ) -------------------
+
+--- FULL , ITEM_ID: 32863 ---
+大门\0
+
+
+------------------- DOOR ( TenpennyDoorHotelBlankSmL01 ) -------------------
+
+--- FULL , ITEM_ID: 32873 ---
+门\0
+
+
+------------------- DOOR ( TenpennyDoorSmL01 ) -------------------
+
+--- FULL , ITEM_ID: 32883 ---
+门\0
+
+
+------------------- DOOR ( TenpennyPlayerSuiteExteriorDoor ) -------------------
+
+--- FULL , ITEM_ID: 32893 ---
+铁门\0
+
+
+------------------- DOOR ( TenpennyTowerHotelDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 32903 ---
+铁门\0
+
+
+------------------- DOOR ( TenpennyTowerOffDoorSmL01 ) -------------------
+
+--- FULL , ITEM_ID: 32913 ---
+门\0
+
+
+------------------- DOOR ( TenpennyTowerOffDoorSmL02 ) -------------------
+
+--- FULL , ITEM_ID: 32923 ---
+门\0
+
+
+------------------- DOOR ( TLAbandonedHouseDoor ) -------------------
+
+--- FULL , ITEM_ID: 32933 ---
+门\0
+
+
+------------------- DOOR ( TLLastResortDoor ) -------------------
+
+--- FULL , ITEM_ID: 32942 ---
+门\0
+
+
+------------------- DOOR ( TranquilityLaneDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 32952 ---
+门\0
+
+
+------------------- DOOR ( TranquilityLaneDoor02 ) -------------------
+
+--- FULL , ITEM_ID: 32961 ---
+门\0
+
+
+------------------- DOOR ( TranquilityLaneExitDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 32970 ---
+门\0
+
+
+------------------- DOOR ( UnderworldCarolsPlaceDoor ) -------------------
+
+--- FULL , ITEM_ID: 32980 ---
+门\0
+
+
+------------------- DOOR ( UnderworldEntranceDoor ) -------------------
+
+--- FULL , ITEM_ID: 32990 ---
+门\0
+
+
+------------------- DOOR ( UnderworldEntranceDoorInterior ) -------------------
+
+--- FULL , ITEM_ID: 32999 ---
+门\0
+
+
+------------------- DOOR ( UtlDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 33008 ---
+门\0
+
+
+------------------- DOOR ( UtlDoor01FriendshipEnableGhoulA ) -------------------
+
+--- FULL , ITEM_ID: 33017 ---
+门\0
+
+
+------------------- DOOR ( UtlDoor01RemoteOpen ) -------------------
+
+--- FULL , ITEM_ID: 33026 ---
+门\0
+
+
+------------------- DOOR ( UtlDoor01StartLinkedCombat ) -------------------
+
+--- FULL , ITEM_ID: 33036 ---
+门\0
+
+
+------------------- DOOR ( UtlDoorBg01 ) -------------------
+
+--- FULL , ITEM_ID: 33046 ---
+门\0
+
+
+------------------- DOOR ( UtlHallBgEndSewerExLad01 ) -------------------
+
+--- FULL , ITEM_ID: 33055 ---
+梯子\0
+
+
+------------------- DOOR ( UtlMirelurkReleaseDoor ) -------------------
+
+--- FULL , ITEM_ID: 33064 ---
+门\0
+
+
+------------------- DOOR ( UtlRmStairsHatch01 ) -------------------
+
+--- FULL , ITEM_ID: 33074 ---
+舱门\0
+
+
+------------------- DOOR ( UtlRmStairsHatch01RemoteOpen ) -------------------
+
+--- FULL , ITEM_ID: 33083 ---
+舱门\0
+
+
+------------------- DOOR ( Vault101CaveDoor ) -------------------
+
+--- FULL , ITEM_ID: 33093 ---
+门\0
+
+
+------------------- DOOR ( Vault101CellDoor ) -------------------
+
+--- FULL , ITEM_ID: 33102 ---
+牢门\0
+
+
+------------------- DOOR ( VaultTechHQDoor ) -------------------
+
+--- FULL , ITEM_ID: 33112 ---
+门\0
+
+
+------------------- DOOR ( VDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 33121 ---
+门\0
+
+
+------------------- DOOR ( VDoor01MinUse ) -------------------
+
+--- FULL , ITEM_ID: 33130 ---
+门\0
+
+
+------------------- DOOR ( VDoorR01Hinged ) -------------------
+
+--- FULL , ITEM_ID: 33139 ---
+门\0
+
+
+------------------- DOOR ( VDoorSliding01 ) -------------------
+
+--- FULL , ITEM_ID: 33148 ---
+门\0
+
+
+------------------- DOOR ( VDoorSliding01MinUse ) -------------------
+
+--- FULL , ITEM_ID: 33157 ---
+门\0
+
+
+------------------- DOOR ( VDoorSliding02 ) -------------------
+
+--- FULL , ITEM_ID: 33166 ---
+门\0
+
+
+------------------- DOOR ( VDoorSliding02RemoteOpen ) -------------------
+
+--- FULL , ITEM_ID: 33175 ---
+门\0
+
+
+------------------- DOOR ( VDoorSliding11201 ) -------------------
+
+--- FULL , ITEM_ID: 33185 ---
+门\0
+
+
+------------------- DOOR ( VDoorSlidingOFF01 ) -------------------
+
+--- FULL , ITEM_ID: 33194 ---
+门\0
+
+
+------------------- DOOR ( VDoorSlidingRR001 ) -------------------
+
+--- FULL , ITEM_ID: 33203 ---
+门\0
+
+
+------------------- DOOR ( VDoorSlidingRR002 ) -------------------
+
+--- FULL , ITEM_ID: 33212 ---
+门\0
+
+
+------------------- DOOR ( VDoorSlidingVault01 ) -------------------
+
+--- FULL , ITEM_ID: 33221 ---
+门\0
+
+
+------------------- DOOR ( VDoorSlidingVault02 ) -------------------
+
+--- FULL , ITEM_ID: 33230 ---
+门\0
+
+
+------------------- DOOR ( VDoorSlidingVault02Locking ) -------------------
+
+--- FULL , ITEM_ID: 33239 ---
+门\0
+
+
+------------------- DOOR ( VDoorSlidingVault03 ) -------------------
+
+--- FULL , ITEM_ID: 33249 ---
+门\0
+
+
+------------------- DOOR ( VDoorSlidingVault04 ) -------------------
+
+--- FULL , ITEM_ID: 33258 ---
+门\0
+
+
+------------------- DOOR ( VDoorSlidingVault05 ) -------------------
+
+--- FULL , ITEM_ID: 33267 ---
+门\0
+
+
+------------------- DOOR ( VDoorSlidingVault106 ) -------------------
+
+--- FULL , ITEM_ID: 33276 ---
+门\0
+
+
+------------------- DOOR ( VDoorSlidingVault108 ) -------------------
+
+--- FULL , ITEM_ID: 33285 ---
+门\0
+
+
+------------------- DOOR ( VDoorSlidingVault87 ) -------------------
+
+--- FULL , ITEM_ID: 33294 ---
+门\0
+
+
+------------------- DOOR ( VDoorSlidingVault92 ) -------------------
+
+--- FULL , ITEM_ID: 33303 ---
+门\0
+
+
+------------------- DOOR ( VGearDoorR106 ) -------------------
+
+--- FULL , ITEM_ID: 33312 ---
+避难所大门\0
+
+
+------------------- DOOR ( VGearDoorR108 ) -------------------
+
+--- FULL , ITEM_ID: 33322 ---
+避难所大门\0
+
+
+------------------- DOOR ( VGearDoorR112 ) -------------------
+
+--- FULL , ITEM_ID: 33331 ---
+避难所大门\0
+
+
+------------------- DOOR ( VGearDoorR87 ) -------------------
+
+--- FULL , ITEM_ID: 33341 ---
+避难所大门\0
+
+
+------------------- DOOR ( VGearDoorR92 ) -------------------
+
+--- FULL , ITEM_ID: 33350 ---
+避难所大门\0
+
+
+------------------- DOOR ( VPlaypenDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 33360 ---
+大门\0
+
+
+------------------- DOOR ( VStallDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 33367 ---
+门\0
+
+
+------------------- DOOR ( VStallDoorR01 ) -------------------
+
+--- FULL , ITEM_ID: 33376 ---
+Stall Door\0
+
+
+------------------- DOOR ( WastelandhomeextDoor ) -------------------
+
+--- FULL , ITEM_ID: 33385 ---
+门\0
+
+
+------------------- DOOR ( WastelandhomeextDoorInt ) -------------------
+
+--- FULL , ITEM_ID: 33394 ---
+门\0
+
+
+------------------- DOOR ( WastelandMarqueeDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 33403 ---
+铁门\0
+
+
+------------------- DOOR ( WheatonArmoryUtlDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 33412 ---
+门\0
+
+
+------------------- DOOR ( WoodShackDoor ) -------------------
+
+--- FULL , ITEM_ID: 33422 ---
+门\0
+
+
+------------------- DOOR ( AntMoundDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 33431 ---
+蚁穴坑道\0
+
+
+------------------- DOOR ( ArchivesRotundaPlatform01 ) -------------------
+
+--- FULL , ITEM_ID: 33440 ---
+秘密电梯\0
+
+
+------------------- DOOR ( AWMBrokenDoor ) -------------------
+
+--- FULL , ITEM_ID: 33448 ---
+Utility Door\0
+
+
+------------------- DOOR ( BathroomStallDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 33458 ---
+Stall Door\0
+
+
+------------------- DOOR ( BLD08ValksDoor ) -------------------
+
+--- FULL , ITEM_ID: 33467 ---
+门\0
+
+
+------------------- DOOR ( BLD08ValksDoor02 ) -------------------
+
+--- FULL , ITEM_ID: 33476 ---
+门\0
+
+
+------------------- DOOR ( BLD08ValksDoorINT ) -------------------
+
+--- FULL , ITEM_ID: 33485 ---
+门\0
+
+
+------------------- DOOR ( BLD12Door01 ) -------------------
+
+--- FULL , ITEM_ID: 33494 ---
+门\0
+
+
+------------------- DOOR ( BunkerEntranceDoorBroke ) -------------------
+
+--- FULL , ITEM_ID: 33503 ---
+木板\0
+
+
+------------------- DOOR ( CaveDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 33512 ---
+门\0
+
+
+------------------- DOOR ( CaveDoor02 ) -------------------
+
+--- FULL , ITEM_ID: 33521 ---
+门\0
+
+
+------------------- DOOR ( CaveDoorToCave ) -------------------
+
+--- FULL , ITEM_ID: 33530 ---
+门\0
+
+
+------------------- DOOR ( CG01PlayPenGateNew ) -------------------
+
+--- FULL , ITEM_ID: 33539 ---
+大门\0
+
+
+------------------- DOOR ( CG02DinerDoor ) -------------------
+
+--- FULL , ITEM_ID: 33549 ---
+门\0
+
+
+------------------- DOOR ( CG04ButchDoorTEMP ) -------------------
+
+--- FULL , ITEM_ID: 33559 ---
+门\0
+
+
+------------------- DOOR ( CG04LockedDoor ) -------------------
+
+--- FULL , ITEM_ID: 33569 ---
+门\0
+
+
+------------------- DOOR ( CG04OverseerOfficeDoor ) -------------------
+
+--- FULL , ITEM_ID: 33577 ---
+门\0
+
+
+------------------- DOOR ( CG04Vault101CaveDoor ) -------------------
+
+--- FULL , ITEM_ID: 33587 ---
+门\0
+
+
+------------------- DOOR ( CitadelBaileyToLabDoor ) -------------------
+
+--- FULL , ITEM_ID: 33597 ---
+门\0
+
+
+------------------- DOOR ( CitadelDoorARingToLab ) -------------------
+
+--- FULL , ITEM_ID: 33606 ---
+门\0
+
+
+------------------- DOOR ( CitadelDoorLabtoARing ) -------------------
+
+--- FULL , ITEM_ID: 33616 ---
+门\0
+
+
+------------------- DOOR ( CitadelDoorLabToBailey ) -------------------
+
+--- FULL , ITEM_ID: 33626 ---
+门\0
+
+
+------------------- DOOR ( CLFacadeExGate01 ) -------------------
+
+--- FULL , ITEM_ID: 33636 ---
+大门\0
+
+
+------------------- DOOR ( CLFenceGate01 ) -------------------
+
+--- FULL , ITEM_ID: 33644 ---
+大门\0
+
+
+------------------- DOOR ( CLFenceGateRoad01 ) -------------------
+
+--- FULL , ITEM_ID: 33653 ---
+大门\0
+
+
+------------------- DOOR ( CLPFallsGate01 ) -------------------
+
+--- FULL , ITEM_ID: 33662 ---
+大门\0
+
+
+------------------- DOOR ( DeathClawCageDoor ) -------------------
+
+--- FULL , ITEM_ID: 33670 ---
+死亡爪笼门\0
+
+
+------------------- DOOR ( DeathClawCageDoorGENERIC ) -------------------
+
+--- FULL , ITEM_ID: 33679 ---
+死亡爪笼门\0
+
+
+------------------- DOOR ( DEMOMoriartysDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 33689 ---
+门\0
+
+
+------------------- DOOR ( DoorCollision01 ) -------------------
+
+--- FULL , ITEM_ID: 33698 ---
+门\0
+
+
+------------------- DOOR ( DoorLLGrandChambertoVault87 ) -------------------
+
+--- FULL , ITEM_ID: 33705 ---
+门\0
+
+
+------------------- DOOR ( DoorLLtoMurderPass ) -------------------
+
+--- FULL , ITEM_ID: 33714 ---
+门\0
+
+
+------------------- DOOR ( DoorStorefront01 ) -------------------
+
+--- FULL , ITEM_ID: 33724 ---
+门\0
+
+
+------------------- DOOR ( DoorStorefrontDbl01 ) -------------------
+
+--- FULL , ITEM_ID: 33733 ---
+门\0
+
+
+------------------- DOOR ( DunDoorBig01 ) -------------------
+
+--- FULL , ITEM_ID: 33742 ---
+门\0
+
+
+------------------- DOOR ( DunDoorSmL01 ) -------------------
+
+--- FULL , ITEM_ID: 33751 ---
+门\0
+
+
+------------------- DOOR ( DunDoorSmR01 ) -------------------
+
+--- FULL , ITEM_ID: 33758 ---
+门\0
+
+
+------------------- DOOR ( EcvDoorBg01 ) -------------------
+
+--- FULL , ITEM_ID: 33765 ---
+门\0
+
+
+------------------- DOOR ( EcvDoorSm01 ) -------------------
+
+--- FULL , ITEM_ID: 33774 ---
+门\0
+
+
+------------------- DOOR ( EcvDoorSmCell01 ) -------------------
+
+--- FULL , ITEM_ID: 33783 ---
+门\0
+
+
+------------------- DOOR ( EcvDoorSmCell02 ) -------------------
+
+--- FULL , ITEM_ID: 33792 ---
+门\0
+
+
+------------------- DOOR ( EcvDoorSmCell03 ) -------------------
+
+--- FULL , ITEM_ID: 33801 ---
+门\0
+
+
+------------------- DOOR ( EcvDoorSmCell04 ) -------------------
+
+--- FULL , ITEM_ID: 33810 ---
+门\0
+
+
+------------------- DOOR ( EcvDoorSmCell05 ) -------------------
+
+--- FULL , ITEM_ID: 33819 ---
+门\0
+
+
+------------------- DOOR ( EcvDoorSmCell06 ) -------------------
+
+--- FULL , ITEM_ID: 33828 ---
+门\0
+
+
+------------------- DOOR ( ElevatorControl01 ) -------------------
+
+--- FULL , ITEM_ID: 33837 ---
+电梯\0
+
+
+------------------- DOOR ( EnclaveCageDoor ) -------------------
+
+--- FULL , ITEM_ID: 33846 ---
+笼门\0
+
+
+------------------- DOOR ( EnclaveMainEntranceDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 33855 ---
+Raven Rock 入口\0
+
+
+------------------- DOOR ( EvergreenMillsFenceGate01 ) -------------------
+
+--- FULL , ITEM_ID: 33864 ---
+大门\0
+
+
+------------------- DOOR ( EvergreenMillsSlavePenDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 33874 ---
+大门\0
+
+
+------------------- DOOR ( EvergreenMillsSlavePenDoor02 ) -------------------
+
+--- FULL , ITEM_ID: 33883 ---
+大门\0
+
+
+------------------- DOOR ( FencePickBurntGate ) -------------------
+
+--- FULL , ITEM_ID: 33892 ---
+大门\0
+
+
+------------------- DOOR ( FencePickCleanGate ) -------------------
+
+--- FULL , ITEM_ID: 33901 ---
+大门\0
+
+
+------------------- DOOR ( ForgeDoorExterior ) -------------------
+
+--- FULL , ITEM_ID: 33910 ---
+门\0
+
+
+------------------- DOOR ( ForgeRapairDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 33919 ---
+Utility Door\0
+
+
+------------------- DOOR ( FortCCODoor01 ) -------------------
+
+--- FULL , ITEM_ID: 33928 ---
+康斯坦丁要塞燃料库大门\0
+
+
+------------------- DOOR ( FortIndependence02Door01 ) -------------------
+
+--- FULL , ITEM_ID: 33937 ---
+门\0
+
+
+------------------- DOOR ( GenDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 33947 ---
+门\0
+
+
+------------------- DOOR ( GNREntranceDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 33954 ---
+玻璃门\0
+
+
+------------------- DOOR ( GNREntranceDoor01DEMO ) -------------------
+
+--- FULL , ITEM_ID: 33963 ---
+玻璃门\0
+
+
+------------------- DOOR ( HotelDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 33973 ---
+铁门\0
+
+
+------------------- DOOR ( HotelElevatorDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 33982 ---
+电梯\0
+
+
+------------------- DOOR ( HotelElevatorDoor02 ) -------------------
+
+--- FULL , ITEM_ID: 33991 ---
+电梯\0
+
+
+------------------- DOOR ( IndDoorBg01 ) -------------------
+
+--- FULL , ITEM_ID: 34000 ---
+车库门\0
+
+
+------------------- DOOR ( IndDoorSmAnim01 ) -------------------
+
+--- FULL , ITEM_ID: 34009 ---
+门\0
+
+
+------------------- DOOR ( JailDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 34018 ---
+牢门\0
+
+
+------------------- DOOR ( LairAntagonizerEntranceDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 34027 ---
+下水道铁栅栏\0
+
+
+------------------- DOOR ( LamplightCavernsExitDoor ) -------------------
+
+--- FULL , ITEM_ID: 34036 ---
+门\0
+
+
+------------------- DOOR ( LamplightFrontgateDoor ) -------------------
+
+--- FULL , ITEM_ID: 34046 ---
+Lamplight Gate\0
+
+
+------------------- DOOR ( LamplightSouvDoor ) -------------------
+
+--- FULL , ITEM_ID: 34056 ---
+门\0
+
+
+------------------- DOOR ( LincolnMemorialDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 34065 ---
+门\0
+
+
+------------------- DOOR ( LincolnMemorialDoor02 ) -------------------
+
+--- FULL , ITEM_ID: 34074 ---
+门\0
+
+
+------------------- DOOR ( LLEntryDoor ) -------------------
+
+--- FULL , ITEM_ID: 34083 ---
+门\0
+
+
+------------------- DOOR ( LLExitDoor ) -------------------
+
+--- FULL , ITEM_ID: 34093 ---
+门\0
+
+
+------------------- DOOR ( LPipeDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 34103 ---
+铁栅栏\0
+
+
+------------------- DOOR ( LPipeDoor02 ) -------------------
+
+--- FULL , ITEM_ID: 34112 ---
+铁栅栏\0
+
+
+------------------- DOOR ( LPipeExtDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 34121 ---
+铁栅栏\0
+
+
+------------------- DOOR ( LPipeExtDoor02 ) -------------------
+
+--- FULL , ITEM_ID: 34130 ---
+铁栅栏\0
+
+
+------------------- DOOR ( MamaDolceUtlDoorBg01 ) -------------------
+
+--- FULL , ITEM_ID: 34139 ---
+Utility Door\0
+
+
+------------------- DOOR ( MegatonDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 34148 ---
+门\0
+
+
+------------------- DOOR ( MegatonMainGate01 ) -------------------
+
+--- FULL , ITEM_ID: 34157 ---
+大门\0
+
+
+------------------- DOOR ( MegatonSewerExit01 ) -------------------
+
+--- FULL , ITEM_ID: 34166 ---
+排水系统铁栅栏\0
+
+
+------------------- DOOR ( MegBrassLanternFrontDoor ) -------------------
+
+--- FULL , ITEM_ID: 34175 ---
+门\0
+
+
+------------------- DOOR ( MegChurchFrontDoor ) -------------------
+
+--- FULL , ITEM_ID: 34185 ---
+门\0
+
+
+------------------- DOOR ( MegMoriartysFrontDoor ) -------------------
+
+--- FULL , ITEM_ID: 34195 ---
+门\0
+
+
+------------------- DOOR ( MetalScrapDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 34205 ---
+门\0
+
+
+------------------- DOOR ( MetLadderLoad01 ) -------------------
+
+--- FULL , ITEM_ID: 34214 ---
+梯子\0
+
+
+------------------- DOOR ( MetLadderLoadLinked01 ) -------------------
+
+--- FULL , ITEM_ID: 34222 ---
+梯子\0
+
+
+------------------- DOOR ( MetroEntranceDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 34231 ---
+铁链锁着的门\0
+
+
+------------------- DOOR ( MetroEntranceDoorLocked ) -------------------
+
+--- FULL , ITEM_ID: 34240 ---
+铁链锁着的门\0
+
+
+------------------- DOOR ( MetroGateLoad ) -------------------
+
+--- FULL , ITEM_ID: 34248 ---
+金属大门\0
+
+
+------------------- DOOR ( MetroTunnelGateLeft ) -------------------
+
+--- FULL , ITEM_ID: 34257 ---
+金属大门\0
+
+
+------------------- DOOR ( MetroTunnelGateRight01 ) -------------------
+
+--- FULL , ITEM_ID: 34266 ---
+金属大门\0
+
+
+------------------- DOOR ( MetTicketBoothDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 34275 ---
+售票亭的门\0
+
+
+------------------- DOOR ( MetTunTransLOAD ) -------------------
+
+--- FULL , ITEM_ID: 34284 ---
+铁门\0
+
+
+------------------- DOOR ( MQ02GNRBackdoor ) -------------------
+
+--- FULL , ITEM_ID: 34293 ---
+门\0
+
+
+------------------- DOOR ( MQ02GNRBackdoorOuter ) -------------------
+
+--- FULL , ITEM_ID: 34302 ---
+门\0
+
+
+------------------- DOOR ( MQ02MuseumPlanetariumExitDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 34312 ---
+门\0
+
+
+------------------- DOOR ( MQ02WashingtonMonumentOuterDoor ) -------------------
+
+--- FULL , ITEM_ID: 34322 ---
+门\0
+
+
+------------------- DOOR ( MQ04TLExitDoor ) -------------------
+
+--- FULL , ITEM_ID: 34332 ---
+门\0
+
+
+------------------- DOOR ( MQ05MainframeDoor ) -------------------
+
+--- FULL , ITEM_ID: 34340 ---
+门\0
+
+
+------------------- DOOR ( MQ05PPExitDoor ) -------------------
+
+--- FULL , ITEM_ID: 34350 ---
+门\0
+
+
+------------------- DOOR ( MQ05TaftExitLadder ) -------------------
+
+--- FULL , ITEM_ID: 34361 ---
+梯子\0
+
+
+------------------- DOOR ( MQ05TaftSewerLidExit01 ) -------------------
+
+--- FULL , ITEM_ID: 34371 ---
+人孔\0
+
+
+------------------- DOOR ( MQ05TafttoPPurityLadder ) -------------------
+
+--- FULL , ITEM_ID: 34380 ---
+下水道出口\0
+
+
+------------------- DOOR ( MQ05TrickWaveDoor ) -------------------
+
+--- FULL , ITEM_ID: 34390 ---
+门\0
+
+
+------------------- DOOR ( MQ06BackDoor ) -------------------
+
+--- FULL , ITEM_ID: 34400 ---
+门\0
+
+
+------------------- DOOR ( MQ08GECKPlatform ) -------------------
+
+--- FULL , ITEM_ID: 34410 ---
+GECK容器\0
+
+
+------------------- DOOR ( MQ09RRDoor4to1 ) -------------------
+
+--- FULL , ITEM_ID: 34418 ---
+门\0
+
+
+------------------- DOOR ( MS01RedJailCellDoorDUPLICATE000 ) -------------------
+
+--- FULL , ITEM_ID: 34428 ---
+牢门\0
+
+
+------------------- DOOR ( MS02LairDoorAntAgonizer ) -------------------
+
+--- FULL , ITEM_ID: 34437 ---
+门\0
+
+
+------------------- DOOR ( MS02LairDoorMechanist ) -------------------
+
+--- FULL , ITEM_ID: 34446 ---
+门\0
+
+
+------------------- DOOR ( MS09EwersDoor ) -------------------
+
+--- FULL , ITEM_ID: 34455 ---
+门\0
+
+
+------------------- DOOR ( MS09FamilyGate ) -------------------
+
+--- FULL , ITEM_ID: 34465 ---
+大门\0
+
+
+------------------- DOOR ( MS09SchenzyDoor ) -------------------
+
+--- FULL , ITEM_ID: 34474 ---
+门\0
+
+
+------------------- DOOR ( MS11BalconyHotelDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 34484 ---
+铁门\0
+
+
+------------------- DOOR ( MS11FollowerEscapeHatch ) -------------------
+
+--- FULL , ITEM_ID: 34494 ---
+排水系统铁栅栏\0
+
+
+------------------- DOOR ( MS12AccessDoor ) -------------------
+
+--- FULL , ITEM_ID: 34503 ---
+防泄漏门\0
+
+
+------------------- DOOR ( MS12AttackElevatorDoor ) -------------------
+
+--- FULL , ITEM_ID: 34513 ---
+电梯\0
+
+
+------------------- DOOR ( MS12AttackLoadDoor ) -------------------
+
+--- FULL , ITEM_ID: 34523 ---
+门\0
+
+
+------------------- DOOR ( MS12AttackLoadDoor2 ) -------------------
+
+--- FULL , ITEM_ID: 34533 ---
+门\0
+
+
+------------------- DOOR ( MS12FollowerEscapeHatch ) -------------------
+
+--- FULL , ITEM_ID: 34543 ---
+排水系统铁栅栏\0
+
+
+------------------- DOOR ( MS12MetroToTenpennyDoorMinUse ) -------------------
+
+--- FULL , ITEM_ID: 34551 ---
+门\0
+
+
+------------------- DOOR ( MS12OffDoorMetalSmL02a ) -------------------
+
+--- FULL , ITEM_ID: 34560 ---
+门\0
+
+
+------------------- DOOR ( MS12PlayerSuiteAttack ) -------------------
+
+--- FULL , ITEM_ID: 34571 ---
+门\0
+
+
+------------------- DOOR ( MS15RoboticsAreaDoor ) -------------------
+
+--- FULL , ITEM_ID: 34581 ---
+Utility Door\0
+
+
+------------------- DOOR ( MS18RoofElevatorDoors ) -------------------
+
+--- FULL , ITEM_ID: 34590 ---
+门\0
+
+
+------------------- DOOR ( MS18Statesman03Door01 ) -------------------
+
+--- FULL , ITEM_ID: 34600 ---
+门\0
+
+
+------------------- DOOR ( MS18StatesmanHotel02Elevator ) -------------------
+
+--- FULL , ITEM_ID: 34611 ---
+电梯\0
+
+
+------------------- DOOR ( MS18StatesmanHotel03Elevator ) -------------------
+
+--- FULL , ITEM_ID: 34621 ---
+电梯\0
+
+
+------------------- DOOR ( MS18StatesmanRoofHotelElevatorDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 34631 ---
+门\0
+
+
+------------------- DOOR ( MS18StatesmanRoofHotelElevatorDoor02 ) -------------------
+
+--- FULL , ITEM_ID: 34641 ---
+快速电梯\0
+
+
+------------------- DOOR ( MS18WaypointDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 34651 ---
+门\0
+
+
+------------------- DOOR ( MS18WaypointDoor01b ) -------------------
+
+--- FULL , ITEM_ID: 34662 ---
+门\0
+
+
+------------------- DOOR ( MS18WaypointDoor02 ) -------------------
+
+--- FULL , ITEM_ID: 34673 ---
+门\0
+
+
+------------------- DOOR ( MS18WaypointDoor02b ) -------------------
+
+--- FULL , ITEM_ID: 34683 ---
+门\0
+
+
+------------------- DOOR ( MuseumTechVDoorSliding01 ) -------------------
+
+--- FULL , ITEM_ID: 34693 ---
+门\0
+
+
+------------------- DOOR ( NtlGuardDepot06BunkerDoor ) -------------------
+
+--- FULL , ITEM_ID: 34702 ---
+门\0
+
+
+------------------- DOOR ( NtlGuardDepotStairsHatch01 ) -------------------
+
+--- FULL , ITEM_ID: 34712 ---
+舱门\0
+
+
+------------------- DOOR ( NtlGuardDepotWorldUtlDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 34722 ---
+Utility Door\0
+
+
+------------------- DOOR ( NtlGuardDepotWorldUtlDoor02 ) -------------------
+
+--- FULL , ITEM_ID: 34732 ---
+Utility Door\0
+
+
+------------------- DOOR ( OasisDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 34742 ---
+木质大门\0
+
+
+------------------- DOOR ( OasisGateDoors01 ) -------------------
+
+--- FULL , ITEM_ID: 34751 ---
+木质大门\0
+
+
+------------------- DOOR ( OasisMainDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 34760 ---
+木质大门\0
+
+
+------------------- DOOR ( OffDoorBarsSmL01 ) -------------------
+
+--- FULL , ITEM_ID: 34769 ---
+牢门\0
+
+
+------------------- DOOR ( OffDoorBarsSmR01 ) -------------------
+
+--- FULL , ITEM_ID: 34778 ---
+牢门\0
+
+
+------------------- DOOR ( OffDoorBig01 ) -------------------
+
+--- FULL , ITEM_ID: 34787 ---
+门\0
+
+
+------------------- DOOR ( OffDoorBigBroke01 ) -------------------
+
+--- FULL , ITEM_ID: 34796 ---
+门\0
+
+
+------------------- DOOR ( OffDoorBigBroke02 ) -------------------
+
+--- FULL , ITEM_ID: 34805 ---
+门\0
+
+
+------------------- DOOR ( OffDoorBigBroke03 ) -------------------
+
+--- FULL , ITEM_ID: 34814 ---
+门\0
+
+
+------------------- DOOR ( OffDoorBigBrokeSingle01 ) -------------------
+
+--- FULL , ITEM_ID: 34823 ---
+门\0
+
+
+------------------- DOOR ( OffDoorBigMetal01 ) -------------------
+
+--- FULL , ITEM_ID: 34832 ---
+门\0
+
+
+------------------- DOOR ( OffDoorBigMetal01Exterior ) -------------------
+
+--- FULL , ITEM_ID: 34841 ---
+门\0
+
+
+------------------- DOOR ( OffDoorBigMetal01ExteriorPEN ) -------------------
+
+--- FULL , ITEM_ID: 34850 ---
+门\0
+
+
+------------------- DOOR ( OffDoorHotelBlankSmL01 ) -------------------
+
+--- FULL , ITEM_ID: 34859 ---
+门\0
+
+
+------------------- DOOR ( OffDoorHotelBlankSmR01 ) -------------------
+
+--- FULL , ITEM_ID: 34868 ---
+门\0
+
+
+------------------- DOOR ( OffDoorHotelSmL01 ) -------------------
+
+--- FULL , ITEM_ID: 34877 ---
+门\0
+
+
+------------------- DOOR ( OffDoorHotelSmL02 ) -------------------
+
+--- FULL , ITEM_ID: 34886 ---
+门\0
+
+
+------------------- DOOR ( OffDoorHotelSmL03a ) -------------------
+
+--- FULL , ITEM_ID: 34896 ---
+门\0
+
+
+------------------- DOOR ( OffDoorHotelSmL03b ) -------------------
+
+--- FULL , ITEM_ID: 34906 ---
+门\0
+
+
+------------------- DOOR ( OffDoorHotelSmR01 ) -------------------
+
+--- FULL , ITEM_ID: 34916 ---
+门\0
+
+
+------------------- DOOR ( OffDoorHotelSmR02 ) -------------------
+
+--- FULL , ITEM_ID: 34925 ---
+门\0
+
+
+------------------- DOOR ( OffDoorHotelSmR03a ) -------------------
+
+--- FULL , ITEM_ID: 34935 ---
+门\0
+
+
+------------------- DOOR ( OffDoorHotelSmR03b ) -------------------
+
+--- FULL , ITEM_ID: 34945 ---
+门\0
+
+
+------------------- DOOR ( OffDoorMetalDoor01EXTERIOR ) -------------------
+
+--- FULL , ITEM_ID: 34955 ---
+门\0
+
+
+------------------- DOOR ( OffDoorMetalDoor01EXTERIORminUse ) -------------------
+
+--- FULL , ITEM_ID: 34964 ---
+门\0
+
+
+------------------- DOOR ( OffDoorMetalSmL01 ) -------------------
+
+--- FULL , ITEM_ID: 34973 ---
+门\0
+
+
+------------------- DOOR ( OffDoorMetalSmL02a ) -------------------
+
+--- FULL , ITEM_ID: 34983 ---
+门\0
+
+
+------------------- DOOR ( OffDoorMetalSmL02b ) -------------------
+
+--- FULL , ITEM_ID: 34993 ---
+门\0
+
+
+------------------- DOOR ( OffDoorMetalSmR01 ) -------------------
+
+--- FULL , ITEM_ID: 35003 ---
+门\0
+
+
+------------------- DOOR ( OffDoorMetalSmR02a ) -------------------
+
+--- FULL , ITEM_ID: 35013 ---
+门\0
+
+
+------------------- DOOR ( OffDoorMetalSmR02b ) -------------------
+
+--- FULL , ITEM_ID: 35023 ---
+门\0
+
+
+------------------- DOOR ( OffDoorSmL01 ) -------------------
+
+--- FULL , ITEM_ID: 35033 ---
+门\0
+
+
+------------------- DOOR ( OffDoorSmL02 ) -------------------
+
+--- FULL , ITEM_ID: 35042 ---
+门\0
+
+
+------------------- DOOR ( OffDoorSmR01 ) -------------------
+
+--- FULL , ITEM_ID: 35051 ---
+门\0
+
+
+------------------- DOOR ( OffDoorSmR02a ) -------------------
+
+--- FULL , ITEM_ID: 35060 ---
+门\0
+
+
+------------------- DOOR ( ParadiseDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 35069 ---
+门\0
+
+
+------------------- DOOR ( ParadiseDoubleDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 35078 ---
+门\0
+
+
+------------------- DOOR ( ParadiseDoubleDoor01NoHostiles ) -------------------
+
+--- FULL , ITEM_ID: 35087 ---
+门\0
+
+
+------------------- DOOR ( ParadiseFallsBurgerBoyArmGate ) -------------------
+
+--- FULL , ITEM_ID: 35097 ---
+Paradise Falls Gate\0
+
+
+------------------- DOOR ( ParadiseFallsBusDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 35106 ---
+门\0
+
+
+------------------- DOOR ( ParadiseFallsEulogysDoor ) -------------------
+
+--- FULL , ITEM_ID: 35116 ---
+门\0
+
+
+------------------- DOOR ( ParadiseFallsExitDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 35126 ---
+门\0
+
+
+------------------- DOOR ( ParadiseFallsSewerGrate ) -------------------
+
+--- FULL , ITEM_ID: 35135 ---
+排水系统铁栅栏\0
+
+
+------------------- DOOR ( PFallsNoHostileOffDoorSmL01 ) -------------------
+
+--- FULL , ITEM_ID: 35145 ---
+门\0
+
+
+------------------- DOOR ( PFallsOffDoorBig01NOHostile ) -------------------
+
+--- FULL , ITEM_ID: 35155 ---
+门\0
+
+
+------------------- DOOR ( PlayPenDoor ) -------------------
+
+--- FULL , ITEM_ID: 35165 ---
+大门\0
+
+
+------------------- DOOR ( PPBulkhead01 ) -------------------
+
+--- FULL , ITEM_ID: 35174 ---
+应急灯\0
+
+
+------------------- DOOR ( PPBulkhead02 ) -------------------
+
+--- FULL , ITEM_ID: 35184 ---
+应急灯\0
+
+
+------------------- DOOR ( PPDoorToRotunda01 ) -------------------
+
+--- FULL , ITEM_ID: 35194 ---
+门\0
+
+
+------------------- DOOR ( PPRotundaDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 35203 ---
+门\0
+
+
+------------------- DOOR ( PPSideDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 35213 ---
+门\0
+
+
+------------------- DOOR ( PurityGratetoPumpControl ) -------------------
+
+--- FULL , ITEM_ID: 35222 ---
+铁栅栏\0
+
+
+------------------- DOOR ( RamshackleBusDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 35231 ---
+门\0
+
+
+------------------- DOOR ( RamshackleScrapDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 35240 ---
+门\0
+
+
+------------------- DOOR ( RavenRockEcvDoorBg01 ) -------------------
+
+--- FULL , ITEM_ID: 35249 ---
+门\0
+
+
+------------------- DOOR ( RavenRockExteriorDoor ) -------------------
+
+--- FULL , ITEM_ID: 35258 ---
+门\0
+
+
+------------------- DOOR ( RCRmLgDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 35268 ---
+机库门\0
+
+
+------------------- DOOR ( RCRmLgDoor02 ) -------------------
+
+--- FULL , ITEM_ID: 35277 ---
+门\0
+
+
+------------------- DOOR ( RCSmDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 35285 ---
+门\0
+
+
+------------------- DOOR ( RCSmDoor01AbrahamWashington ) -------------------
+
+--- FULL , ITEM_ID: 35294 ---
+Abraham Washington's Door\0
+
+
+------------------- DOOR ( RCSmDoor01ActOther ) -------------------
+
+--- FULL , ITEM_ID: 35303 ---
+门\0
+
+
+------------------- DOOR ( RCSmDoor01Bannon ) -------------------
+
+--- FULL , ITEM_ID: 35312 ---
+Bannon's Door\0
+
+
+------------------- DOOR ( RCSmDoor01BelleBonny ) -------------------
+
+--- FULL , ITEM_ID: 35321 ---
+Belle Bonny's Door\0
+
+
+------------------- DOOR ( RCSmDoor01Cantelli ) -------------------
+
+--- FULL , ITEM_ID: 35330 ---
+Cantelli's Door\0
+
+
+------------------- DOOR ( RCSmDoor01DocPreston ) -------------------
+
+--- FULL , ITEM_ID: 35339 ---
+Doctor Preston's Door\0
+
+
+------------------- DOOR ( RCSmDoor01DoctorLi ) -------------------
+
+--- FULL , ITEM_ID: 35348 ---
+Doctor Li's Door\0
+
+
+------------------- DOOR ( RCSmDoor01FlakShrapnel ) -------------------
+
+--- FULL , ITEM_ID: 35357 ---
+Flak & Shrapnel's Door\0
+
+
+------------------- DOOR ( RCSmDoor01Hotel ) -------------------
+
+--- FULL , ITEM_ID: 35366 ---
+旅馆房间门\0
+
+
+------------------- DOOR ( RCSmDoor01Locking ) -------------------
+
+--- FULL , ITEM_ID: 35374 ---
+门\0
+
+
+------------------- DOOR ( RCSmDoor01Rectory ) -------------------
+
+--- FULL , ITEM_ID: 35383 ---
+Rectory Door\0
+
+
+------------------- DOOR ( RCSmDoor01SeagraveHolmes ) -------------------
+
+--- FULL , ITEM_ID: 35392 ---
+Seagrave Holmes' Door\0
+
+
+------------------- DOOR ( RCSmDoor01Sister ) -------------------
+
+--- FULL , ITEM_ID: 35401 ---
+Sister's Hotel Door\0
+
+
+------------------- DOOR ( RCSmDoor01Staley ) -------------------
+
+--- FULL , ITEM_ID: 35410 ---
+Staley's Door\0
+
+
+------------------- DOOR ( RCSmDoor01VeraWeatherly ) -------------------
+
+--- FULL , ITEM_ID: 35419 ---
+Vera Weatherly's Door\0
+
+
+------------------- DOOR ( RCSmDoor01Young ) -------------------
+
+--- FULL , ITEM_ID: 35428 ---
+Young's Door\0
+
+
+------------------- DOOR ( RCSmDoor01Zimmer ) -------------------
+
+--- FULL , ITEM_ID: 35437 ---
+Zimmer's Hotel Door\0
+
+
+------------------- DOOR ( RCSmDoorLoadL ) -------------------
+
+--- FULL , ITEM_ID: 35446 ---
+门\0
+
+
+------------------- DOOR ( RHSOffDoorBig01 ) -------------------
+
+--- FULL , ITEM_ID: 35455 ---
+门\0
+
+
+------------------- DOOR ( RHSSchLibraryClosetDoorSmR01 ) -------------------
+
+--- FULL , ITEM_ID: 35464 ---
+门\0
+
+
+------------------- DOOR ( RockopolisDoor ) -------------------
+
+--- FULL , ITEM_ID: 35473 ---
+门\0
+
+
+------------------- DOOR ( RR01EcvDoorBg01 ) -------------------
+
+--- FULL , ITEM_ID: 35482 ---
+门\0
+
+
+------------------- DOOR ( RR01EcvDoorSm01 ) -------------------
+
+--- FULL , ITEM_ID: 35492 ---
+门\0
+
+
+------------------- DOOR ( RRExtMainEntranceDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 35502 ---
+Raven Rock Entrance\0
+
+
+------------------- DOOR ( SatCom01HatchBlockTalon ) -------------------
+
+--- FULL , ITEM_ID: 35520 ---
+舱门\0
+
+
+------------------- DOOR ( SatelliteFacilityDeckHatch01load ) -------------------
+
+--- FULL , ITEM_ID: 35530 ---
+舱门\0
+
+
+------------------- DOOR ( SatelliteFacilityDishHatch01load ) -------------------
+
+--- FULL , ITEM_ID: 35539 ---
+舱门\0
+
+
+------------------- DOOR ( SchDoorBigBroke01 ) -------------------
+
+--- FULL , ITEM_ID: 35548 ---
+门\0
+
+
+------------------- DOOR ( SchDoorSmL02 ) -------------------
+
+--- FULL , ITEM_ID: 35557 ---
+门\0
+
+
+------------------- DOOR ( SchDoorSmR01 ) -------------------
+
+--- FULL , ITEM_ID: 35566 ---
+门\0
+
+
+------------------- DOOR ( SewerEntranceDoor01 ) -------------------
+
+--- FULL , ITEM_ID: 35575 ---
+下水道铁栅栏\0
+
+
+------------------- DOOR ( SewerLidExit01 ) -------------------
+
+--- FULL , ITEM_ID: 35584 ---
+下水道出入口\0
+
+
+------------------- DOOR ( SewerSiloExit01 ) -------------------
+
+--- FULL , ITEM_ID: 35593 ---
+下水道入口\0
+
+
+------------------- DOOR ( ShackExitDoorReg01 ) -------------------
+
+--- FULL , ITEM_ID: 35602 ---
+简易棚的门\0
+
+
+------------------- DOOR ( ShackLucasSimmsHatch ) -------------------
+
+--- FULL , ITEM_ID: 35611 ---
+舱门\0
+
+
+------------------- DOOR ( ShoppingCartCageDoor ) -------------------
+
+--- FULL , ITEM_ID: 35620 ---
+Cart Cage\0
+
+
+------------------- DOOR ( SiloDoor ) -------------------
+
+--- FULL , ITEM_ID: 35629 ---
+井盖\0
+
+
+------------------- DOOR ( SiloDoorTop ) -------------------
+
+--- FULL , ITEM_ID: 35638 ---
+舱门\0
+
+
+------------------- DOOR ( SubarbanRanchDoorDestroyed ) -------------------
+
+--- FULL , ITEM_ID: 35647 ---
+门\0
+
+
+------------------- DOOR ( SuburbanRanchDoor ) -------------------
+
+--- FULL , ITEM_ID: 35656 ---
+门\0
+
+
+------------------- DOOR ( SuburbanRanchDoorInterior ) -------------------
+
+--- FULL , ITEM_ID: 35665 ---
+门\0
+
+

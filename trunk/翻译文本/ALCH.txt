@@ -1,0 +1,497 @@
+------------------- ALCH ( FancyLadsSnackCakes ) -------------------
+
+--- FULL , ITEM_ID: 98331 ---
+Fancy Lads Snack Cakes\0
+极限小子蛋糕\0
+
+
+------------------- ALCH ( HumanFlesh ) -------------------
+
+--- FULL , ITEM_ID: 98348 ---
+Human Flesh\0
+人肉\0
+
+------------------- ALCH ( IguanaBits ) -------------------
+
+--- FULL , ITEM_ID: 98365 ---
+Iguana Bits\0
+烤蜥蜴\0
+
+
+------------------- ALCH ( IguanaOnAStick ) -------------------
+
+--- FULL , ITEM_ID: 98383 ---
+Iguana on a Stick\0
+蜥蜴串烧\0
+
+
+------------------- ALCH ( InstaMash ) -------------------
+
+--- FULL , ITEM_ID: 98400 ---
+InstaMash\0
+土豆泥？\0
+
+
+------------------- ALCH ( Jet ) -------------------
+
+--- FULL , ITEM_ID: 98417 ---
+Jet\0
+杰特\0
+
+
+------------------- ALCH ( JunkFood ) -------------------
+
+--- FULL , ITEM_ID: 98432 ---
+Junk Food\0
+垃圾食品\0
+
+
+
+------------------- ALCH ( Mentats ) -------------------
+
+--- FULL , ITEM_ID: 98449 ---
+Mentats\0
+曼他特\0
+
+
+
+------------------- ALCH ( MirelurkCakes ) -------------------
+
+--- FULL , ITEM_ID: 98466 ---
+Mirelurk Cakes\0
+蟹人蛋糕\0
+
+
+------------------- ALCH ( MirelurkMeat ) -------------------
+
+--- FULL , ITEM_ID: 98483 ---
+Mirelurk Meat\0
+蟹人肉\0
+
+
+------------------- ALCH ( MirelurkMeatHatchling ) -------------------
+
+--- FULL , ITEM_ID: 98500 ---
+Hatchling Mirelurk Meat\0
+幼生蟹人肉\0
+
+
+------------------- ALCH ( MirelurkMeatSoftshell ) -------------------
+
+--- FULL , ITEM_ID: 98517 ---
+Softshell Mirelurk Meat\0
+软壳蟹人肉\0
+
+
+------------------- ALCH ( MoleRatMeat ) -------------------
+
+--- FULL , ITEM_ID: 98534 ---
+Mole Rat Meat\0
+鼹鼠肉\0
+
+
+------------------- ALCH ( MoleRatWonderMeat ) -------------------
+
+--- FULL , ITEM_ID: 98551 ---
+Mole Rat Wonder Meat\0
+奇怪的鼹鼠肉\0
+
+
+------------------- ALCH ( Morphine ) -------------------
+
+--- FULL , ITEM_ID: 98568 ---
+Med-X\0
+抗辐灵\0
+
+
+------------------- ALCH ( MS04FireAntNectar ) -------------------
+
+--- FULL , ITEM_ID: 98583 ---
+Fire Ant Nectar\0
+火蚁露\0
+
+
+------------------- ALCH ( MS05FinNukaPie ) -------------------
+
+--- FULL , ITEM_ID: 98600 ---
+Miss. Quantum Pie\0
+密西西比量子派\0
+
+
+------------------- ALCH ( MS05IceNukaCola ) -------------------
+
+--- FULL , ITEM_ID: 98618 ---
+Ice Cold Nuka-Cola\0
+冰镇核子可乐\0
+
+
+------------------- ALCH ( MS05NukaColaQtm ) -------------------
+
+--- FULL , ITEM_ID: 98641 ---
+Nuka-Cola Quantum\0
+量子可乐\0
+
+
+------------------- ALCH ( MS05NukalurkMeat ) -------------------
+
+--- FULL , ITEM_ID: 98662 ---
+NukaLurk Meat\0
+核子潜行者肉\0
+
+
+------------------- ALCH ( MS09Ultrajet ) -------------------
+
+--- FULL , ITEM_ID: 98681 ---
+Ultrajet\0
+超级杰特\0
+
+
+------------------- ALCH ( MS15Mentat01 ) -------------------
+
+--- FULL , ITEM_ID: 98696 ---
+Grape Mentats\0
+葡萄口味曼他特\0
+
+
+------------------- ALCH ( MS15Mentat02 ) -------------------
+
+--- FULL , ITEM_ID: 98709 ---
+Berry Mentats\0
+草莓口味曼他特\0
+
+
+------------------- ALCH ( MS15Mentat03 ) -------------------
+
+--- FULL , ITEM_ID: 98722 ---
+Orange Mentats\0
+桔子口味曼他特\0
+
+
+------------------- ALCH ( Mutfruit1 ) -------------------
+
+--- FULL , ITEM_ID: 98735 ---
+Crunchy Mutfruit\0
+变异水果酥\0
+
+
+------------------- ALCH ( Mutfruit2 ) -------------------
+
+--- FULL , ITEM_ID: 98752 ---
+Mutfruit\0
+变异水果\0
+
+
+------------------- ALCH ( Noodles ) -------------------
+
+--- FULL , ITEM_ID: 98769 ---
+Noodles\0
+面条\0
+
+
+------------------- ALCH ( NukaCola ) -------------------
+
+--- FULL , ITEM_ID: 98787 ---
+Nuka-Cola\0
+核子可乐\0
+
+
+------------------- ALCH ( Pear ) -------------------
+
+--- FULL , ITEM_ID: 98810 ---
+Fresh Pear\0
+新鲜梨子\0
+
+
+------------------- ALCH ( PorkNBeans ) -------------------
+
+--- FULL , ITEM_ID: 98822 ---
+Pork N' Beans\0
+猪肉炖豆子\0
+
+
+------------------- ALCH ( Potato ) -------------------
+
+--- FULL , ITEM_ID: 98839 ---
+Fresh Potato\0
+新鲜土豆\0
+
+
+------------------- ALCH ( PotatoCrisps ) -------------------
+
+--- FULL , ITEM_ID: 98851 ---
+Potato Crisps\0
+薯片\0
+
+
+------------------- ALCH ( Psycho ) -------------------
+
+--- FULL , ITEM_ID: 98868 ---
+Psycho\0
+疯狂药\0
+
+
+------------------- ALCH ( RadAway ) -------------------
+
+--- FULL , ITEM_ID: 98883 ---
+RadAway\0
+辐射药\0
+
+
+------------------- ALCH ( RadioactiveGumDrops ) -------------------
+
+--- FULL , ITEM_ID: 98895 ---
+Gum Drops\0
+口胶\0
+
+
+------------------- ALCH ( RadroachMeat ) -------------------
+
+--- FULL , ITEM_ID: 98912 ---
+Radroach Meat\0
+辐射蟑螂肉\0
+
+
+------------------- ALCH ( RadX ) -------------------
+
+--- FULL , ITEM_ID: 98929 ---
+Rad-X\0
+辐抗灵\0  放射线X\0
+
+
+------------------- ALCH ( SalisburySteak ) -------------------
+
+--- FULL , ITEM_ID: 98941 ---
+Salisbury Steak\0
+索尔兹伯里牛排\0
+
+
+------------------- ALCH ( Scotch ) -------------------
+
+--- FULL , ITEM_ID: 98959 ---
+Scotch\0
+苏格兰\0？
+
+
+------------------- ALCH ( SquirrelBits ) -------------------
+
+--- FULL , ITEM_ID: 98977 ---
+Crispy Squirrel Bits\0
+苏格兰烤松鼠\0
+
+
+------------------- ALCH ( SquirrelOnAStick ) -------------------
+
+--- FULL , ITEM_ID: 98994 ---
+Squirrel on a Stick\0
+松鼠串烧\0   松鼠棒\0
+
+
+------------------- ALCH ( SquirrelStew ) -------------------
+
+--- FULL , ITEM_ID: 99011 ---
+Squirrel Stew\0
+炖松鼠\0
+
+
+------------------- ALCH ( StealthBoy ) -------------------
+
+--- FULL , ITEM_ID: 99028 ---
+Stealth Boy\0
+隐身小子\0
+
+
+------------------- ALCH ( Stimpak ) -------------------
+
+--- FULL , ITEM_ID: 99044 ---
+Stimpak\0
+治疗针\0
+
+
+
+------------------- ALCH ( StrangeMeat ) -------------------
+
+--- FULL , ITEM_ID: 99061 ---
+Strange Meat\0
+奇怪的肉\0
+
+
+------------------- ALCH ( StrangeMeatPie ) -------------------
+
+--- FULL , ITEM_ID: 99078 ---
+Strange Meat Pie\0
+奇怪的夹心肉派\0
+
+
+------------------- ALCH ( SugarBombs01 ) -------------------
+
+--- FULL , ITEM_ID: 99095 ---
+Sugar Bombs\0
+跳跳糖\0
+
+
+------------------- ALCH ( Vodka ) -------------------
+
+--- FULL , ITEM_ID: 99112 ---
+Vodka\0
+伏特加\0
+
+
+------------------- ALCH ( WaterPurified ) -------------------
+
+--- FULL , ITEM_ID: 99130 ---
+Purified Water\0
+纯净水\0
+
+
+------------------- ALCH ( WaterUnpurified ) -------------------
+
+--- FULL , ITEM_ID: 99142 ---
+Dirty Water\0
+污水\0
+
+
+------------------- ALCH ( Whiskey ) -------------------
+
+--- FULL , ITEM_ID: 99159 ---
+Whiskey\0
+威士忌\0
+
+
+------------------- ALCH ( Wine ) -------------------
+
+--- FULL , ITEM_ID: 99177 ---
+Wine\0
+酒\0
+
+
+------------------- ALCH ( YaoGuaiMeat ) -------------------
+
+--- FULL , ITEM_ID: 99195 ---
+Yao Guai Meat\0
+妖怪肉\0
+
+
+------------------- ALCH ( YumYumDeviledEggs ) -------------------
+
+--- FULL , ITEM_ID: 99214 ---
+YumYum Deviled Eggs\0
+？？？
+
+------------------- ALCH ( AntMeat ) -------------------
+
+--- FULL , ITEM_ID: 99231 ---
+Ant Meat\0
+火蚁肉\0
+
+
+------------------- ALCH ( AntNectar ) -------------------
+
+--- FULL , ITEM_ID: 99248 ---
+Ant Nectar\0
+火蚁露\0
+
+
+------------------- ALCH ( AntQueenPheromones ) -------------------
+
+--- FULL , ITEM_ID: 99267 ---
+Ant Queen Pheromones\0
+蚁王素\0  火蚁王之诱惑\0
+
+
+------------------- ALCH ( Apple ) -------------------
+
+--- FULL , ITEM_ID: 99284 ---
+Fresh Apple\0
+新鲜苹果\0
+
+
+------------------- ALCH ( Beer ) -------------------
+
+--- FULL , ITEM_ID: 99296 ---
+Beer\0
+啤酒\0
+
+
+------------------- ALCH ( BlamcoMacandCheese ) -------------------
+
+--- FULL , ITEM_ID: 99312 ---
+Blamco Mac and Cheese\0
+？？？
+
+
+------------------- ALCH ( BloatflyMeat ) -------------------
+
+--- FULL , ITEM_ID: 99329 ---
+Bloatfly Meat\0
+小飞球肉\0
+
+
+------------------- ALCH ( BloodPack ) -------------------
+
+--- FULL , ITEM_ID: 99345 ---
+Blood Pack\0
+血浆包\0
+
+
+------------------- ALCH ( BrahminSteak ) -------------------
+
+--- FULL , ITEM_ID: 99360 ---
+Brahmin Steak\0
+婆罗门牛排\0
+
+
+------------------- ALCH ( Bubblegum ) -------------------
+
+--- FULL , ITEM_ID: 99377 ---
+Bubblegum\0
+泡泡糖\0
+
+
+------------------- ALCH ( Buffout ) -------------------
+
+--- FULL , ITEM_ID: 99394 ---
+Buffout\0
+壮大灵\0 
+
+
+------------------- ALCH ( Carrot ) -------------------
+
+--- FULL , ITEM_ID: 99413 ---
+Fresh Carrot\0
+新鲜胡萝卜\0
+
+
+------------------- ALCH ( CaveFungus ) -------------------
+
+--- FULL , ITEM_ID: 99425 ---
+Cave Fungus\0
+洞穴蘑菇\0
+
+
+------------------- ALCH ( CG02Sweetroll ) -------------------
+
+--- FULL , ITEM_ID: 99440 ---
+Sweetroll\0
+甜甜卷\0
+
+
+------------------- ALCH ( Cram ) -------------------
+
+--- FULL , ITEM_ID: 99456 ---
+Cram\0
+克拉姆\0
+
+
+------------------- ALCH ( DandyBoyApples ) -------------------
+
+--- FULL , ITEM_ID: 99473 ---
+Dandy Boy Apples\0
+丹迪小字苹果\0 花花公子苹果\0
+
+------------------- ALCH ( DogMeat ) -------------------
+
+--- FULL , ITEM_ID: 99490 ---
+Dog Meat\0
+狗肉\0
+
+

@@ -1,0 +1,886 @@
+------------------- MGEF ( GlowingOneGlowEffect ) -------------------
+
+--- FULL , ITEM_ID: 6765 ---
+热情\0
+
+
+--- DESC , ITEM_ID: 6766 ---
+这将使他变得光亮\0
+
+
+------------------- MGEF ( AddictionEFFECT ) -------------------
+
+--- FULL , ITEM_ID: 6770 ---
+上瘾\0
+
+
+------------------- MGEF ( AddictRedAGAlcohol ) -------------------
+
+--- FULL , ITEM_ID: 6775 ---
+降低灵活度\0
+
+
+------------------- MGEF ( AddictRedAGJet ) -------------------
+
+--- FULL , ITEM_ID: 6780 ---
+降低灵活度\0
+
+
+------------------- MGEF ( AddictRedAGMorphine ) -------------------
+
+--- FULL , ITEM_ID: 6785 ---
+降低灵活度\0
+
+
+------------------- MGEF ( AddictRedAGPsycho ) -------------------
+
+--- FULL , ITEM_ID: 6790 ---
+降低灵活度\0
+
+
+------------------- MGEF ( AddictRedCHAlcohol ) -------------------
+
+--- FULL , ITEM_ID: 6795 ---
+降低魅力\0
+
+
+------------------- MGEF ( AddictRedCHBuffout ) -------------------
+
+--- FULL , ITEM_ID: 6800 ---
+降低魅力\0
+
+
+------------------- MGEF ( AddictRedCHJet ) -------------------
+
+--- FULL , ITEM_ID: 6805 ---
+降低魅力\0
+
+
+------------------- MGEF ( AddictRedCHMentats ) -------------------
+
+--- FULL , ITEM_ID: 6810 ---
+降低魅力\0
+
+
+------------------- MGEF ( AddictRedCHPsycho ) -------------------
+
+--- FULL , ITEM_ID: 6815 ---
+降低魅力\0
+
+
+------------------- MGEF ( AddictRedCHQuantum ) -------------------
+
+--- FULL , ITEM_ID: 6820 ---
+降低魅力\0
+
+
+------------------- MGEF ( AddictRedENBuffout ) -------------------
+
+--- FULL , ITEM_ID: 6825 ---
+降低体力\0
+
+
+------------------- MGEF ( AddictRedINMentats ) -------------------
+
+--- FULL , ITEM_ID: 6830 ---
+降低智力\0
+
+
+------------------- MGEF ( AddictRedINMorphine ) -------------------
+
+--- FULL , ITEM_ID: 6835 ---
+降低智力\0
+
+
+------------------- MGEF ( AddictRedINPsycho ) -------------------
+
+--- FULL , ITEM_ID: 6840 ---
+降低智力\0
+
+
+------------------- MGEF ( AddictRedPEJet ) -------------------
+
+--- FULL , ITEM_ID: 6845 ---
+降低感知\0
+
+
+------------------- MGEF ( AddictRedPEMentats ) -------------------
+
+--- FULL , ITEM_ID: 6850 ---
+降低感知\0
+
+
+------------------- MGEF ( AddictRedRadResistQuantum ) -------------------
+
+--- FULL , ITEM_ID: 6855 ---
+降低辐射免疫力\0
+
+
+------------------- MGEF ( AddictRedSTAntNectar ) -------------------
+
+--- FULL , ITEM_ID: 6860 ---
+降低力量\0
+
+
+------------------- MGEF ( AddictRedSTBuffout ) -------------------
+
+--- FULL , ITEM_ID: 6865 ---
+降低力量\0
+
+
+------------------- MGEF ( AddictRedSTJet ) -------------------
+
+--- FULL , ITEM_ID: 6870 ---
+降低降低\0
+
+
+------------------- MGEF ( AlienDisintegrationEffect ) -------------------
+
+--- FULL , ITEM_ID: 6875 ---
+AlienDisintegration\0
+
+
+------------------- MGEF ( AntNectarEFFECT ) -------------------
+
+--- FULL , ITEM_ID: 6880 ---
+蚂蚁视角\0
+
+
+------------------- MGEF ( ArtilleryStrikeMagicEffect ) -------------------
+
+--- FULL , ITEM_ID: 6885 ---
+炮击\0
+
+
+------------------- MGEF ( AttackHealth ) -------------------
+
+--- FULL , ITEM_ID: 6890 ---
+Attack Health\0
+
+
+------------------- MGEF ( BloodyMessEffect ) -------------------
+
+--- FULL , ITEM_ID: 6895 ---
+瘟神\0
+
+
+------------------- MGEF ( ChemIncAGJet ) -------------------
+
+--- FULL , ITEM_ID: 6900 ---
+提高灵活度 - 杰特\0
+
+
+------------------- MGEF ( ChemIncAGPsycho ) -------------------
+
+--- FULL , ITEM_ID: 6905 ---
+提高灵活度 - 疯狂药\0
+
+
+------------------- MGEF ( ChemIncAPJet ) -------------------
+
+--- FULL , ITEM_ID: 6910 ---
+增加行动点数 - 杰特\0
+
+
+------------------- MGEF ( ChemIncCHAlcohol ) -------------------
+
+--- FULL , ITEM_ID: 6915 ---
+提高魅力 - 酒\0
+
+
+------------------- MGEF ( ChemIncCHMentats ) -------------------
+
+--- FULL , ITEM_ID: 6920 ---
+提高魅力 - 曼他特\0
+
+
+------------------- MGEF ( ChemIncDmgResistPsycho ) -------------------
+
+--- FULL , ITEM_ID: 6925 ---
+提高伤害免疫力 - 疯狂药\0
+
+
+------------------- MGEF ( ChemIncDRMorphine ) -------------------
+
+--- FULL , ITEM_ID: 6930 ---
+提高伤害免疫力 - Med-X\0
+
+
+------------------- MGEF ( ChemIncENBuffout ) -------------------
+
+--- FULL , ITEM_ID: 6935 ---
+提高体力 - 放射药\0
+
+
+------------------- MGEF ( ChemIncENMorphine ) -------------------
+
+--- FULL , ITEM_ID: 6940 ---
+提高体力 - Med-X\0
+
+
+------------------- MGEF ( ChemIncHealthBuffout ) -------------------
+
+--- FULL , ITEM_ID: 6945 ---
+提高生命力 - 放射药\0
+
+
+------------------- MGEF ( ChemIncINMentats ) -------------------
+
+--- FULL , ITEM_ID: 6950 ---
+提高智力 - 曼他特\0
+
+
+------------------- MGEF ( ChemIncPEJet ) -------------------
+
+--- FULL , ITEM_ID: 6955 ---
+提高感知 - 杰特\0
+
+
+------------------- MGEF ( ChemIncPEMentats ) -------------------
+
+--- FULL , ITEM_ID: 6960 ---
+提高感知 - 曼他特\0
+
+
+------------------- MGEF ( ChemIncSTAlcohol ) -------------------
+
+--- FULL , ITEM_ID: 6965 ---
+提高力量 - 酒\0
+
+
+------------------- MGEF ( ChemIncSTBuffout ) -------------------
+
+--- FULL , ITEM_ID: 6970 ---
+提高力量 - 放射药\0
+
+
+------------------- MGEF ( ChemIncSTJet ) -------------------
+
+--- FULL , ITEM_ID: 6975 ---
+提高力量 - 杰特\0
+
+
+------------------- MGEF ( ChemIncSTMorphine ) -------------------
+
+--- FULL , ITEM_ID: 6980 ---
+提高力量 - Med-X\0
+
+
+------------------- MGEF ( ChemRedINAlcohol ) -------------------
+
+--- FULL , ITEM_ID: 6985 ---
+降低智力 - 酒\0
+
+
+------------------- MGEF ( ChemRedINPsycho ) -------------------
+
+--- FULL , ITEM_ID: 6990 ---
+降低智力 - 疯狂药+\0
+
+
+------------------- MGEF ( Concussion ) -------------------
+
+--- FULL , ITEM_ID: 6995 ---
+冲击\0
+
+
+------------------- MGEF ( CureAddiction ) -------------------
+
+--- FULL , ITEM_ID: 7000 ---
+治愈上瘾\0
+
+
+------------------- MGEF ( DamageChest ) -------------------
+
+--- FULL , ITEM_ID: 7005 ---
+损伤胸部\0
+
+
+------------------- MGEF ( DamageHead ) -------------------
+
+--- FULL , ITEM_ID: 7010 ---
+损伤头部\0
+
+
+------------------- MGEF ( DamageHealth ) -------------------
+
+--- FULL , ITEM_ID: 7015 ---
+损伤生命力\0
+
+
+------------------- MGEF ( DamageLeftArm ) -------------------
+
+--- FULL , ITEM_ID: 7020 ---
+损伤左臂\0
+
+
+------------------- MGEF ( DamageLeftLeg ) -------------------
+
+--- FULL , ITEM_ID: 7025 ---
+损伤左腿\0
+
+
+------------------- MGEF ( DamageRadiationLevel ) -------------------
+
+--- FULL , ITEM_ID: 7030 ---
+损伤辐射\0
+
+
+------------------- MGEF ( DamageRadiationResistance ) -------------------
+
+--- FULL , ITEM_ID: 7035 ---
+损伤辐射免疫力\0
+
+
+------------------- MGEF ( DamageRightArm ) -------------------
+
+--- FULL , ITEM_ID: 7040 ---
+损伤右臂\0
+
+
+------------------- MGEF ( DamageRightLeg ) -------------------
+
+--- FULL , ITEM_ID: 7045 ---
+损伤右腿\0
+
+
+------------------- MGEF ( DEMOCrippleBeGoneEffect ) -------------------
+
+--- FULL , ITEM_ID: 7050 ---
+跛足后遗症\0
+
+
+------------------- MGEF ( EnclaveBroadcastEffect ) -------------------
+
+--- FULL , ITEM_ID: 7055 ---
+英克雷广播效应\0
+
+
+------------------- MGEF ( FireDamage ) -------------------
+
+--- FULL , ITEM_ID: 7060 ---
+火焰伤害\0
+
+
+------------------- MGEF ( FlamerBurnMagicEffect ) -------------------
+
+--- FULL , ITEM_ID: 7065 ---
+火焰喷射器烧伤\0
+
+
+------------------- MGEF ( FlamerExplodeMagicEffect ) -------------------
+
+--- FULL , ITEM_ID: 7070 ---
+火焰喷射器烧伤\0
+
+
+------------------- MGEF ( FlamerFireDamage ) -------------------
+
+--- FULL , ITEM_ID: 7075 ---
+火焰喷射器造成的火焰伤害\0
+
+
+------------------- MGEF ( FlamerMagicEffect ) -------------------
+
+--- FULL , ITEM_ID: 7080 ---
+火焰喷射器烧伤\0
+
+
+------------------- MGEF ( FlamerNormalMagicEffect ) -------------------
+
+--- FULL , ITEM_ID: 7085 ---
+火焰喷射器烧伤\0
+
+
+------------------- MGEF ( FlamerSmokeMagicEffect ) -------------------
+
+--- FULL , ITEM_ID: 7090 ---
+火焰喷射器烟雾效应\0
+
+
+------------------- MGEF ( FollowersCharonShotgunEFFECT ) -------------------
+
+--- FULL , ITEM_ID: 7095 ---
+Charon's 散弹抢效应\0
+
+
+------------------- MGEF ( FrostDamage ) -------------------
+
+--- FULL , ITEM_ID: 7100 ---
+霜冻伤害\0
+
+
+------------------- MGEF ( GlowOneDamageRadiationLevel ) -------------------
+
+--- FULL , ITEM_ID: 7105 ---
+闪光人的辐射爆发？\0
+
+
+------------------- MGEF ( GNRBroadcastEffect ) -------------------
+
+--- FULL , ITEM_ID: 7110 ---
+GNR 广播效应\0
+
+
+------------------- MGEF ( GooificationEffect ) -------------------
+
+--- FULL , ITEM_ID: 7115 ---
+粘稠\0
+
+
+------------------- MGEF ( IncreaseActionPoints ) -------------------
+
+--- FULL , ITEM_ID: 7120 ---
+行动点数增加\0
+
+
+------------------- MGEF ( IncreaseAgility ) -------------------
+
+--- FULL , ITEM_ID: 7125 ---
+灵活度提高\0
+
+
+------------------- MGEF ( IncreaseCarryWeight ) -------------------
+
+--- FULL , ITEM_ID: 7130 ---
+负重增加\0
+
+
+------------------- MGEF ( IncreaseCharisma ) -------------------
+
+--- FULL , ITEM_ID: 7135 ---
+魅力提高\0
+
+
+------------------- MGEF ( IncreaseConfidence ) -------------------
+
+--- FULL , ITEM_ID: 7140 ---
+自信心提高\0
+
+
+------------------- MGEF ( IncreaseCritChance ) -------------------
+
+--- FULL , ITEM_ID: 7145 ---
+致命一击几率提高\0
+
+
+------------------- MGEF ( IncreaseDamageResistance ) -------------------
+
+--- FULL , ITEM_ID: 7150 ---
+伤害免疫力提高\0
+
+
+------------------- MGEF ( IncreaseEndurance ) -------------------
+
+--- FULL , ITEM_ID: 7155 ---
+体力提高\0
+
+
+------------------- MGEF ( IncreaseFireResistance ) -------------------
+
+--- FULL , ITEM_ID: 7160 ---
+火焰免疫力提高\0
+
+
+------------------- MGEF ( IncreaseHealth ) -------------------
+
+--- FULL , ITEM_ID: 7165 ---
+生命力提高\0
+
+
+------------------- MGEF ( IncreaseIntelligence ) -------------------
+
+--- FULL , ITEM_ID: 7170 ---
+智力提高\0
+
+
+------------------- MGEF ( IncreaseLuck ) -------------------
+
+--- FULL , ITEM_ID: 7175 ---
+运气提高\0
+
+
+------------------- MGEF ( IncreaseMeleeDamage ) -------------------
+
+--- FULL , ITEM_ID: 7180 ---
+空手伤害提高\0
+
+
+------------------- MGEF ( IncreasePerception ) -------------------
+
+--- FULL , ITEM_ID: 7185 ---
+感知提高\0
+
+
+------------------- MGEF ( IncreasePoisonResistance ) -------------------
+
+--- FULL , ITEM_ID: 7190 ---
+毒免疫力提高\0
+
+
+------------------- MGEF ( IncreaseRadiationResistance ) -------------------
+
+--- FULL , ITEM_ID: 7195 ---
+放射线免疫力提高\0
+
+
+------------------- MGEF ( IncreaseSkillBarter ) -------------------
+
+--- FULL , ITEM_ID: 7200 ---
+杀价能力提高\0
+
+
+------------------- MGEF ( IncreaseSkillBigGuns ) -------------------
+
+--- FULL , ITEM_ID: 7205 ---
+大型枪械能力提高\0
+
+
+------------------- MGEF ( IncreaseSkillEnergyWeapons ) -------------------
+
+--- FULL , ITEM_ID: 7210 ---
+能量型武器能力提高\0
+
+
+------------------- MGEF ( IncreaseSkillExplosives ) -------------------
+
+--- FULL , ITEM_ID: 7215 ---
+爆炸品能力提高\0
+
+
+------------------- MGEF ( IncreaseSkillLockpick ) -------------------
+
+--- FULL , ITEM_ID: 7220 ---
+开锁能力提高\0
+
+
+------------------- MGEF ( IncreaseSkillMedicine ) -------------------
+
+--- FULL , ITEM_ID: 7225 ---
+医疗能力提高\0
+
+
+------------------- MGEF ( IncreaseSkillMeleeWeapons ) -------------------
+
+--- FULL , ITEM_ID: 7230 ---
+近战武器能力提高\0
+
+
+------------------- MGEF ( IncreaseSkillRepair ) -------------------
+
+--- FULL , ITEM_ID: 7235 ---
+修理能力提高\0
+
+
+------------------- MGEF ( IncreaseSkillScience ) -------------------
+
+--- FULL , ITEM_ID: 7240 ---
+科技能力提高\0
+
+
+------------------- MGEF ( IncreaseSkillSmallGuns ) -------------------
+
+--- FULL , ITEM_ID: 7245 ---
+小型枪械能力提高\0
+
+
+------------------- MGEF ( IncreaseSkillSneak ) -------------------
+
+--- FULL , ITEM_ID: 7250 ---
+潜行能力提高\0
+
+
+------------------- MGEF ( IncreaseSkillSpeech ) -------------------
+
+--- FULL , ITEM_ID: 7255 ---
+口才提高\0
+
+
+------------------- MGEF ( IncreaseSkillUnarmed ) -------------------
+
+--- FULL , ITEM_ID: 7260 ---
+肉搏能力提高\0
+
+
+------------------- MGEF ( IncreaseSpeedMult ) -------------------
+
+--- FULL , ITEM_ID: 7265 ---
+高速乘法器提高\0
+
+
+------------------- MGEF ( IncreaseStrength ) -------------------
+
+--- FULL , ITEM_ID: 7270 ---
+力量提高\0
+
+
+------------------- MGEF ( IncreaseUnarmedDamage ) -------------------
+
+--- FULL , ITEM_ID: 7275 ---
+肉搏伤害提高\0
+
+
+------------------- MGEF ( LaserDisintegrationEffect ) -------------------
+
+--- FULL , ITEM_ID: 7280 ---
+突变\0
+
+
+------------------- MGEF ( LibertyPrimeBloodyMess ) -------------------
+
+--- FULL , ITEM_ID: 7285 ---
+自由总理瘟神\0
+
+
+------------------- MGEF ( MorphineEffect ) -------------------
+
+--- FULL , ITEM_ID: 7290 ---
+Med-X 效应\0
+
+
+------------------- MGEF ( MQ01BehemothWeaponEffect ) -------------------
+
+--- FULL , ITEM_ID: 7295 ---
+巨兽武器效应\0
+
+
+------------------- MGEF ( MS14SuitEffect ) -------------------
+
+--- FULL , ITEM_ID: 7300 ---
+能量盔甲电脑\0
+
+
+------------------- MGEF ( Paralysis ) -------------------
+
+--- FULL , ITEM_ID: 7305 ---
+瘫痪\0
+
+
+------------------- MGEF ( PipLight ) -------------------
+
+--- FULL , ITEM_ID: 7310 ---
+哔哔小子亮光\0
+
+
+------------------- MGEF ( Poison ) -------------------
+
+--- FULL , ITEM_ID: 7315 ---
+毒药\0
+
+
+------------------- MGEF ( PsychoMagicEffect ) -------------------
+
+--- FULL , ITEM_ID: 7320 ---
+伤害+25%\0
+
+
+------------------- MGEF ( ReduceActionPoints ) -------------------
+
+--- FULL , ITEM_ID: 7325 ---
+行动点数减少\0
+
+
+------------------- MGEF ( ReduceAgility ) -------------------
+
+--- FULL , ITEM_ID: 7330 ---
+灵活度降低\0
+
+
+------------------- MGEF ( ReduceCarryWeight ) -------------------
+
+--- FULL , ITEM_ID: 7335 ---
+负重降低\0
+
+
+------------------- MGEF ( ReduceCharisma ) -------------------
+
+--- FULL , ITEM_ID: 7340 ---
+魅力降低\0
+
+
+------------------- MGEF ( ReduceDamageResistance ) -------------------
+
+--- FULL , ITEM_ID: 7345 ---
+伤害免疫力降低\0
+
+
+------------------- MGEF ( ReduceEndurance ) -------------------
+
+--- FULL , ITEM_ID: 7350 ---
+体力降低\0
+
+
+------------------- MGEF ( ReduceHealth ) -------------------
+
+--- FULL , ITEM_ID: 7355 ---
+生命力降低\0
+
+
+------------------- MGEF ( ReduceIntelligence ) -------------------
+
+--- FULL , ITEM_ID: 7360 ---
+智力降低\0
+
+
+------------------- MGEF ( ReduceLuck ) -------------------
+
+--- FULL , ITEM_ID: 7365 ---
+运气降低\0
+
+
+------------------- MGEF ( ReducePerception ) -------------------
+
+--- FULL , ITEM_ID: 7370 ---
+感知降低\0
+
+
+------------------- MGEF ( ReducePoisonResistance ) -------------------
+
+--- FULL , ITEM_ID: 7375 ---
+毒免疫力降低\0
+
+
+------------------- MGEF ( ReduceRadiationResistance ) -------------------
+
+--- FULL , ITEM_ID: 7380 ---
+放射性免疫力降低\0
+
+
+------------------- MGEF ( ReduceSkillBigGuns ) -------------------
+
+--- FULL , ITEM_ID: 7385 ---
+大型枪械能力降低\0
+
+
+------------------- MGEF ( ReduceSkillEnergyWeapons ) -------------------
+
+--- FULL , ITEM_ID: 7390 ---
+能量型武器能力降低\0
+
+
+------------------- MGEF ( ReduceSkillMeleeWeapons ) -------------------
+
+--- FULL , ITEM_ID: 7395 ---
+近战武器能力降低\0
+
+
+------------------- MGEF ( ReduceSkillSmallGuns ) -------------------
+
+--- FULL , ITEM_ID: 7400 ---
+小型枪械能力降低\0
+
+
+------------------- MGEF ( ReduceSkillUnarmed ) -------------------
+
+--- FULL , ITEM_ID: 7405 ---
+肉搏能力降低\0
+
+
+------------------- MGEF ( ReduceStrength ) -------------------
+
+--- FULL , ITEM_ID: 7410 ---
+力量降低\0
+
+
+------------------- MGEF ( RestoreHealth ) -------------------
+
+--- FULL , ITEM_ID: 7415 ---
+回复生命力\0
+
+
+------------------- MGEF ( RestoreHealthStimpak ) -------------------
+
+--- FULL , ITEM_ID: 7420 ---
+回复生命力&状态\0
+
+
+------------------- MGEF ( RestoreLimbChest ) -------------------
+
+--- FULL , ITEM_ID: 7425 ---
+胸口伤愈\0
+
+
+------------------- MGEF ( RestoreLimbHead ) -------------------
+
+--- FULL , ITEM_ID: 7430 ---
+头部伤愈\0
+
+
+------------------- MGEF ( RestoreLimbLeftArm ) -------------------
+
+--- FULL , ITEM_ID: 7435 ---
+左臂伤愈\0
+
+
+------------------- MGEF ( RestoreLimbLeftLeg ) -------------------
+
+--- FULL , ITEM_ID: 7440 ---
+左腿伤愈\0
+
+
+------------------- MGEF ( RestoreLimbRightArm ) -------------------
+
+--- FULL , ITEM_ID: 7445 ---
+右臂伤愈\0
+
+
+------------------- MGEF ( RestoreLimbRightLeg ) -------------------
+
+--- FULL , ITEM_ID: 7450 ---
+右腿伤愈\0
+
+
+------------------- MGEF ( RestoreRadiationLevel ) -------------------
+
+--- FULL , ITEM_ID: 7455 ---
+恢复 Rads\0
+
+
+------------------- MGEF ( ShockDamage ) -------------------
+
+--- FULL , ITEM_ID: 7460 ---
+震荡伤害\0
+
+
+------------------- MGEF ( ShockerEffect ) -------------------
+
+--- FULL , ITEM_ID: 7465 ---
+震惊效应\0
+
+
+------------------- MGEF ( SolarPoweredRegen ) -------------------
+
+--- FULL , ITEM_ID: 7470 ---
+治愈力\0
+
+
+------------------- MGEF ( StealthBoyInvis ) -------------------
+
+--- FULL , ITEM_ID: 7475 ---
+隐身场\0
+
+
+------------------- MGEF ( WaterBreathing ) -------------------
+
+--- FULL , ITEM_ID: 7480 ---
+水中呼吸\0
+
+
+------------------- MGEF ( WellRestedAbilityEffect ) -------------------
+
+--- FULL , ITEM_ID: 7485 ---
++10% XP\0
+
+
+------------------- MGEF ( WellRestedMessageEffect ) -------------------
+
+--- FULL , ITEM_ID: 7490 ---
++10% 经验值\0
+
+
+------------------- MGEF ( YaoGuaiEffect ) -------------------
+
+--- FULL , ITEM_ID: 7495 ---
+伤害 +10%\0
+
+
